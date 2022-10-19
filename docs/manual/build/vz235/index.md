@@ -4,7 +4,7 @@ title: VzBoT Vz235
 parent: Manual
 has_toc: false
 nav_order: 2
-has_children: false
+has_children: true
 permalink: /manual/vz235
 ---
 
