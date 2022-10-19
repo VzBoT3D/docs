@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Print Settings
-nav_order: 4
+parent: Manual
+has_toc: false
+nav_order: 0
 has_children: false
 has_toc: false
 permalink: /manual/print-settings
