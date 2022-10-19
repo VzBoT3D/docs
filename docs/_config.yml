@@ -5,12 +5,16 @@ logo: "/assets/images/logo-vzbot.svg"
 baseurl: ""
 markdown: kramdown
 # theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 color_scheme: "vzbot"
 search_enabled: true
 aux_links:
   "GitHub":
     - "//github.com/VzBoT3D"
+  "Ko-Fi":
+    - https://ko-fi.com/vez3d
+  "Discord":
+    - https://discord.gg/KWZWvCMxCq
 aux_links_new_tab: true
 
 defaults:
