@@ -20,4 +20,3 @@ is built around the popular Creality Ender 3 bed, but is not limited to this siz
 frame can be scaled up or down to fit the individual builder's requirements.
 
 On how to print the files for this printer please refer to [print settings](/manual/general/print-settings)
-
