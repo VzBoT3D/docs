@@ -3,7 +3,7 @@ layout: default
 title: VzBoT Vz330
 parent: Manual
 has_toc: false
-nav_order: 1
+nav_order: 2
 has_children: true
 permalink: /manual/vz330
 ---

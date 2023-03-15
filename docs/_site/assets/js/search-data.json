@@ -1,0 +1,219 @@
+{"0": {
+    "doc": "Blind Joints",
+    "title": "Blind joints",
+    "content": " ",
+    "url": "/manual/general/blind-joints#blind-joints",
+    
+    "relUrl": "/manual/general/blind-joints#blind-joints"
+  },"1": {
+    "doc": "Blind Joints",
+    "title": "How to assemble blind corner joints",
+    "content": ". ",
+    "url": "/manual/general/blind-joints#how-to-assemble-blind-corner-joints",
+    
+    "relUrl": "/manual/general/blind-joints#how-to-assemble-blind-corner-joints"
+  },"2": {
+    "doc": "Blind Joints",
+    "title": "Useful links about the assembly of blind joints",
+    "content": "Nero3D blind joint’s basics . BLV blind joint’s . ",
+    "url": "/manual/general/blind-joints#useful-links-about-the-assembly-of-blind-joints",
+    
+    "relUrl": "/manual/general/blind-joints#useful-links-about-the-assembly-of-blind-joints"
+  },"3": {
+    "doc": "Blind Joints",
+    "title": "Blind Joints",
+    "content": " ",
+    "url": "/manual/general/blind-joints",
+    
+    "relUrl": "/manual/general/blind-joints"
+  },"4": {
+    "doc": "Frequently Asked Questions",
+    "title": "Frequently Asked Questions",
+    "content": " ",
+    "url": "/faq",
+    
+    "relUrl": "/faq"
+  },"5": {
+    "doc": "Frequently Asked Questions",
+    "title": "What is the VzBoT?",
+    "content": "The VzBoT is a high speed, moderately sized 3d Printer. Originally based on the TronXY X5SA / X5S Frame, this printer was aimed at those who want more performance out of their 330x330mm sized 3d printer. Since this era, the VzBoT project has come very far. From Aluminum CNC parts to a full kit (soon) and custom high performance hotend, the project has developed at a lightning pace to be one of the fastest printers out there. The printers . Originally, the VZ project started with a VZ330 by Simon Vez. Recently, Guillaume has developed his iteration of the VzBoT. This printer aims to address a few compromises with the larger sized printer, by using a 235x235 bed size (ender 3 sized). This makes sourcing the parts for this printer relatively easy. Combined with the AWD functionality (all wheel drive, 2 motors on X and 2 on Y) and shorter belt loops, this printer is for those who thrive to be the fastest. ",
+    "url": "/faq#what-is-the-vzbot",
+    
+    "relUrl": "/faq#what-is-the-vzbot"
+  },"6": {
+    "doc": "Frequently Asked Questions",
+    "title": "What will a VzBoT cost me?",
+    "content": "Originally, as of start of 2022, a VZ330 would set you back as follows: . | 800 USD if you source really well and efficiently (budget) | 1000 USD for the average VzBoT | 1500 USD for the whole shablam with alu parts, 48v, all extras etc. | . Add 100-150 USD for panels, and you’ve got yourself a very nice 3D-printer. Unfortunately, due to inflation, and other costs, this price may be a higher (think 100-200 USD). Additionally, a VZ235 will be less expensive, due to the smaller size and easily source able parts. ",
+    "url": "/faq#what-will-a-vzbot-cost-me",
+    
+    "relUrl": "/faq#what-will-a-vzbot-cost-me"
+  },"7": {
+    "doc": "Frequently Asked Questions",
+    "title": "Are the aluminium parts open source?",
+    "content": "Unfortunately, the aluminium parts are not open source. The printhead was developed in collaboration with F3D, who have put extensive efforts and work into developing and testing this hardware, and bringing it to the point that it is at now. Buying products from them directly supports our efforts to develop the VzBoT further, and bring you full kits and new cool Long Schlong Dongs ;). F3D . https://f3d-racing-fdm.myshopify.com/ . Apart from the printhead, most other aluminum parts can also be bought from Mellow store on aliexpress. If you want an all blacked out look, or you are ordering there anyways, consider checking out their sets. Mellow . VZ235 AWD: https://s.click.aliexpress.com/e/_DEkSu5h VZ330 2WD: https://s.click.aliexpress.com/e/_9u11AP . If you are from China / Asia, we understand that buying and shipping a printhead from Germany can be very expensive. For this reason, the printhead is also available on Taobao in Black and Alu finish, sold by mellow. You are free to design and produce your own iteration of the VzBoT aluminum parts. Please note that commercial redistribution and production will violate the CC BY-NC 4.0 license of the project! . ",
+    "url": "/faq#are-the-aluminium-parts-open-source",
+    
+    "relUrl": "/faq#are-the-aluminium-parts-open-source"
+  },"8": {
+    "doc": "Frequently Asked Questions",
+    "title": "What is AWD (All wheel drive)?",
+    "content": "In conventional CoreXY machines, a 2WD setup is used. This setup utilizes 2 stepper motors at the back or front of the machine. Recently, the VzBoT project has adapted the AWD setup! This setup utilizes 2 motors on X, and 2 on Y, doubling the amount of motors for the XY plane. What are the advantages of this setup? Let’s go over them: . | Having two motors on one belt allows for a shorter effective belt length. This leads to less belt stretch, which usually gives better input shaper results. | The maximum useable acceleration is about 1.5x higher compared to 2WD due to the added torque. | . We recommend using the LDO-42STH48-2504AC or 2504AH 1.8° motors, as they give the best performance for the VzBoT’s usecase. ",
+    "url": "/faq#what-is-awd-all-wheel-drive",
+    
+    "relUrl": "/faq#what-is-awd-all-wheel-drive"
+  },"9": {
+    "doc": "Vz330 frame",
+    "title": "Vz330 frame",
+    "content": "TODO . ",
+    "url": "/manual/vz330/frame",
+    
+    "relUrl": "/manual/vz330/frame"
+  },"10": {
+    "doc": "1. Frame",
+    "title": "Frame",
+    "content": " ",
+    "url": "/manual/vz235/frame#frame",
+    
+    "relUrl": "/manual/vz235/frame#frame"
+  },"11": {
+    "doc": "1. Frame",
+    "title": "Overview",
+    "content": ". The frame is assembled through a combination of blind joints, corner brackets and blind corner brackets. The corner brackets are to help stiffen up the frame and are optional, though we highly recommend using them on every possible corner for best results. For detailed informations on how to assemble blind joints visit this page . ",
+    "url": "/manual/vz235/frame#overview",
+    
+    "relUrl": "/manual/vz235/frame#overview"
+  },"12": {
+    "doc": "1. Frame",
+    "title": "BOM",
+    "content": "| Material | Quantity | Notes | . | M5/M6 10mm buttonhead | 20 | Depending on the type of 2020 you use, you need M5 or M6 screws | . | 385mm 2020 extrusion | 4 | Yellow | . | 375mm 2020 extrusion | 6 | Red | . | 470mm 2020 extrusion | 4 | Blue | . | 385mm 2020 extrusion | 1 | Only for 2WD, mount the same as Y gantry extrusions | . | 2020 corner joints | 18 | - | . | 2020 blind corner joints | 4 | - | . | STL files … | 2 | - | . Step 1 . To start you are going to build the 2 sides of your frame. Make sure you do your building on a nice flat surface. You will lay your frame half down with the included printed alignment tools for the y gantry extrusions and hand tighten all blind joints. After hand tightening you can start tightening everything down properly. Make sure every corner is exactly 90 degrees. Moreover, make sure the Y gantry extrusion is parallel to the upper and lower extrusion of the frame half. The Y gantry extrusion is the only extrusion that can’t use a 2020 corner joint bracket, it is stabilized by the motormount so there is no need for extra reinforcement. Once you are done with one half repeat for the other half. Check the two halves by laying them on top of each other with all corners exactly in the same spot and check the y gantry extrusions for the two halves whether they are parallel to each other. They need to be parallel for the printer to operate smoothly. It’s important to make sure the y-gantry is the same height. Step 2 . The bottom, top and upright extrusions in the front of the frame all have printed nut inserts inserted. 2 in the top for the door latches, 2 in the bottom for the lower latches and 1 in upright for the motor mounts to attach to. Insert the M4 nuts into the M4 inserts and push them in the uprights on the frame half. Next insert the 2x5mm magnets and the m3 nut into the frame part of the magnetic door latches and put 2 in the front lower and 2 in the front upper extrusion as shown in the picture before assembling the final part of the frame. Step 3 . Attach the extrusions to connect the two halves of the frame. Make sure to put the part you are assembling on the flat surface and afterwards check the frame on squareness. Step 4 . Attach all corner joints and check if your frame is square and strong. After this checks out attach the handles and the frame is built. ",
+    "url": "/manual/vz235/frame#bom",
+    
+    "relUrl": "/manual/vz235/frame#bom"
+  },"13": {
+    "doc": "1. Frame",
+    "title": "1. Frame",
+    "content": " ",
+    "url": "/manual/vz235/frame",
+    
+    "relUrl": "/manual/vz235/frame"
+  },"14": {
+    "doc": "Welcome",
+    "title": "Welcome to the VzBoT documentation",
+    "content": "tbd . ",
+    "url": "/#welcome-to-the-vzbot-documentation",
+    
+    "relUrl": "/#welcome-to-the-vzbot-documentation"
+  },"15": {
+    "doc": "Welcome",
+    "title": "Welcome",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"16": {
+    "doc": "VzBoT Vz330",
+    "title": "VzBoT Vz330",
+    "content": "Vz330 is the original VzBoT printer and has been in development since 2020. It is a high speed, moderately sized 3D-printer, based on the TronXY XS5(A) CoreXY frame, but can be easily adapted for other 2020 aluminium extrusion frames. The design is built around the popular TronXY XS5(A) but is not restricted to this size, the frame can be scaled according to the individual needs of the builder. ",
+    "url": "/manual/vz330",
+    
+    "relUrl": "/manual/vz330"
+  },"17": {
+    "doc": "Manual",
+    "title": "VzBoT build &amp; assembly manual",
+    "content": " ",
+    "url": "/manual#vzbot-build--assembly-manual",
+    
+    "relUrl": "/manual#vzbot-build--assembly-manual"
+  },"18": {
+    "doc": "Manual",
+    "title": "Manual",
+    "content": " ",
+    "url": "/manual",
+    
+    "relUrl": "/manual"
+  },"19": {
+    "doc": "General Informations",
+    "title": "General Informations",
+    "content": "Here you can find basic informations around . x y z . ",
+    "url": "/manual/general",
+    
+    "relUrl": "/manual/general"
+  },"20": {
+    "doc": "VzBoT Vz235 - Printed",
+    "title": "VzBoT Vz235",
+    "content": ". Vz235 is the smaller brother of the original Vz330 3D-printer. With its relatively small build volume, it has reduced weight and a smaller form factor. The design is built around the popular Creality Ender 3 bed, but is not limited to this size: the frame can be scaled up or down to fit the individual builder’s requirements. On how to print the files for this printer please refer to print settings . ",
+    "url": "/manual/vz235#vzbot-vz235",
+    
+    "relUrl": "/manual/vz235#vzbot-vz235"
+  },"21": {
+    "doc": "VzBoT Vz235 - Printed",
+    "title": "VzBoT Vz235 - Printed",
+    "content": " ",
+    "url": "/manual/vz235",
+    
+    "relUrl": "/manual/vz235"
+  },"22": {
+    "doc": "Print Settings",
+    "title": "Print settings",
+    "content": "It is recommended to print all parts in ABS (not ABS+), ASA or similar material to be able to withstand the high temperature environment of an enclosed printer. Print settings should always be tuned for the material of choice and tested for sufficient strength, proper layer adhesion and mechenical load. ",
+    "url": "/manual/general/print-settings#print-settings",
+    
+    "relUrl": "/manual/general/print-settings#print-settings"
+  },"23": {
+    "doc": "Print Settings",
+    "title": "For stationary parts",
+    "content": "Parts such as motor mounts, bed frame braces, etc. | Setting | Recommended value | . | Layer height | 0.2mm | . | Layer width | 0.4-0.6mm | . | Outside perimiters (walls) | 4 | . | Top/bottom layers: | 5 | . | Infill | 40-50% cubic, gyroid or honeycomb | . ",
+    "url": "/manual/general/print-settings#for-stationary-parts",
+    
+    "relUrl": "/manual/general/print-settings#for-stationary-parts"
+  },"24": {
+    "doc": "Print Settings",
+    "title": "For motion parts",
+    "content": "Parts such as the carriage and X gantry joint, etc. | Setting | Recommended value | . | Layer height | 0.2mm | . | Layer width | 0.4-0.6mm | . | Outside perimiters (walls) | 4 | . | Top/bottom layers: | 5 | . | Infill | 30-40% cubic, gyroid or honeycomb | . ",
+    "url": "/manual/general/print-settings#for-motion-parts",
+    
+    "relUrl": "/manual/general/print-settings#for-motion-parts"
+  },"25": {
+    "doc": "Print Settings",
+    "title": "Print Settings",
+    "content": " ",
+    "url": "/manual/general/print-settings",
+    
+    "relUrl": "/manual/general/print-settings"
+  },"26": {
+    "doc": "Video tutorial",
+    "title": "Video tutorial",
+    "content": " ",
+    "url": "/manual/general/video-tutorial",
+    
+    "relUrl": "/manual/general/video-tutorial"
+  },"27": {
+    "doc": "Video tutorial",
+    "title": "Vz235 Build Part 1: The Frame",
+    "content": ". ",
+    "url": "/manual/general/video-tutorial#vz235-build-part-1-the-frame",
+    
+    "relUrl": "/manual/general/video-tutorial#vz235-build-part-1-the-frame"
+  },"28": {
+    "doc": "Video tutorial",
+    "title": "Vz235 Build Part 2: The Z Axis",
+    "content": ". ",
+    "url": "/manual/general/video-tutorial#vz235-build-part-2-the-z-axis",
+    
+    "relUrl": "/manual/general/video-tutorial#vz235-build-part-2-the-z-axis"
+  },"29": {
+    "doc": "Video tutorial",
+    "title": "Vz235 Build Part 3: The Gantry",
+    "content": ". ",
+    "url": "/manual/general/video-tutorial#vz235-build-part-3-the-gantry",
+    
+    "relUrl": "/manual/general/video-tutorial#vz235-build-part-3-the-gantry"
+  },"30": {
+    "doc": "Video tutorial",
+    "title": "Vz235 Build Part 4: The electronics",
+    "content": ". ",
+    "url": "/manual/general/video-tutorial#vz235-build-part-4-the-electronics",
+    
+    "relUrl": "/manual/general/video-tutorial#vz235-build-part-4-the-electronics"
+  }
+}
