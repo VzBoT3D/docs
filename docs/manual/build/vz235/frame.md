@@ -38,6 +38,19 @@ For detailed informations on how to assemble blind joints visit this [page](/man
 ![Frame colored](/assets/images/manual/vz235/frame/frame_colored.png)
 <br>
 
+## STL's
+
+| File name | Amount to print |
+|-----------|-----------------|
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Bracer</a> | 2 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/handle.stl" target="_blank">Handle</a> | 2 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Tools/vzbot%20y%20gantry%202020%20allignment%20tool%20v1.stl" target="_blank">Y Alignment Tool</a> | 2 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Gantry/Motormounts/left%20motormounts/nut%20insert%20for%20motormount.stl" target="_blank">Nut insers</a> | 2 |
+| [Door latch]() | 4 |
+
+{: .highlight }
+  To see the recommended print settings please refere [here](/manual/general/print-settings).
+
 ### Step 1
 
 To start you are going to build the 2 sides of your frame. Make sure you do your building on a nice flat surface. You will lay your frame half down with the included printed alignment tools for the y gantry extrusions and hand tighten all blind joints.

@@ -25,20 +25,56 @@ The proper alignment procedure of the VZ235 is the same as on the VZ330 only dif
 
 | Material        | Quantity          | Notes |
 |:-------------|:------------------|:------|
-| M5/M6 10mm buttonhead           | 20 | Depending on the type of 2020 you use, you need M5 or M6 screws  |
-| 385mm 2020 extrusion | 4   | Yellow  |
-| 375mm 2020 extrusion           | 6      | Red   |
-| 470mm 2020 extrusion           | 4 | Blue  |
-| 385mm 2020 extrusion           | 1 | Only for 2WD, mount the same as Y gantry extrusions  |
-| 2020 corner joints           | 18 | -  |
-| 2020 blind corner joints           | 4 | -  |
-| STL files ... | 2 | - |
+| M3 6mm           | 4 | -  |
+| M3 15mm | 24   | -  |
+| M3 20mm           | 4      | - |
+| M3 30mm | - | 2 |
+| M3 30mm countersunk | 5 | - |
+| M3 nut | 28 | - |
+| M3 t-nut           | 2 | -  |
+| M3 wing nuts           | 5 | -  |
+| M4 10mm           | 47 | - |
+| M4 8mm | 1 | - |
+| M4 t-nut | 47 | - |
+| M5/M6 20mm           | 2 | Depending on extrusion type  |
+| M5 10/8mm | 8 | Depending on the 2020 corner bracket |
+| 2020 corner bracket | 4 | - |
+| 245mm 2020 extrusion | 2 | - |
+| 232mm 2020 extrusion | 2 | - |
+| 300mm leadscrew T8 | 2 | - |
+| Leadscrew nut | 2 | - |
+| 300mm 10mm smooth rod | 4 | Optional size, also supports 8 and 12mm as found on VZ330 |
+| LMU10LUU bearing | 4 | - |
+| 608-2RS bearing | 4 | - |
+| GT2 40T 8mm pulley | 2 | - |
+| NEMA17 Motor | 1 | - |
+| GT2 20T Pulley | 1 | - |
+| 850-890mm looped belt | 1 | - |
+| Ender 3 bed / machined aluminum bed | 1 | - |
+| Bed Springs | 4 | - |
+| Microswitch | 1 | - |
+
 
 ## STL
 
 | File name | Amount to print |
 |-----------|-----------------|
-| File 1 | 4 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Z lower rod mount main</a> | 4 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Z lower rod mount clamp</a> | 4 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Z upper rod mount main</a> | 4 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Z upper rod mount clamp</a> | 4 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Single z motor bracket upper</a> | 1 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Single z motor bracket lower</a> | 1 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Lead screw upper bracket</a> | 2 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Lead screw lower bracket</a> | 2 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Limit switch mount</a> | 1 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Z stopper</a> | 1 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Z chain mount</a> | 1 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Bearing mount</a> | 4 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Leadscrew support</a> | 2 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Oldham coupler (all parts)</a> | 2 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Bed M3 support</a> | 4 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Z alignment tool</a> | 2 |
 
 ### Step 1
 

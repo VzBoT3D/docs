@@ -78,172 +78,179 @@
   },"11": {
     "doc": "1. Frame",
     "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M5/M6 10mm buttonhead | 20 | Depending on the type of 2020 you use, you need M5 or M6 screws | . | 385mm 2020 extrusion | 4 | Yellow | . | 375mm 2020 extrusion | 6 | Red | . | 470mm 2020 extrusion | 4 | Blue | . | 385mm 2020 extrusion | 1 | Only for 2WD, mount the same as Y gantry extrusions | . | 2020 corner joints | 18 | - | . | 2020 blind corner joints | 4 | - | . | STL files … | 2 | - | . Step 1 . To start you are going to build the 2 sides of your frame. Make sure you do your building on a nice flat surface. You will lay your frame half down with the included printed alignment tools for the y gantry extrusions and hand tighten all blind joints. After hand tightening you can start tightening everything down properly. Make sure every corner is exactly 90 degrees. Moreover, make sure the Y gantry extrusion is parallel to the upper and lower extrusion of the frame half. The Y gantry extrusion is the only extrusion that can’t use a 2020 corner joint bracket, it is stabilized by the motormount so there is no need for extra reinforcement. Once you are done with one half repeat for the other half. Check the two halves by laying them on top of each other with all corners exactly in the same spot and check the y gantry extrusions for the two halves whether they are parallel to each other. They need to be parallel for the printer to operate smoothly. It’s important to make sure the y-gantry is the same height. Step 2 . The bottom, top and upright extrusions in the front of the frame all have printed nut inserts inserted. 2 in the top for the door latches, 2 in the bottom for the lower latches and 1 in upright for the motor mounts to attach to. Insert the M4 nuts into the M4 inserts and push them in the uprights on the frame half. Next insert the 2x5mm magnets and the m3 nut into the frame part of the magnetic door latches and put 2 in the front lower and 2 in the front upper extrusion as shown in the picture before assembling the final part of the frame. Step 3 . Attach the extrusions to connect the two halves of the frame. Make sure to put the part you are assembling on the flat surface and afterwards check the frame on squareness. Step 4 . Attach all corner joints and check if your frame is square and strong. After this checks out attach the handles and the frame is built. ",
+    "content": "| Material | Quantity | Notes | . | M5/M6 10mm buttonhead | 20 | Depending on the type of 2020 you use, you need M5 or M6 screws | . | 385mm 2020 extrusion | 4 | Yellow | . | 375mm 2020 extrusion | 6 | Red | . | 470mm 2020 extrusion | 4 | Blue | . | 385mm 2020 extrusion | 1 | Only for 2WD, mount the same as Y gantry extrusions | . | 2020 corner joints | 18 | - | . | 2020 blind corner joints | 4 | - | . | STL files … | 2 | - | . ",
     "url": "/manual/vz235/frame#bom",
     
     "relUrl": "/manual/vz235/frame#bom"
   },"12": {
+    "doc": "1. Frame",
+    "title": "STL’s",
+    "content": "| File name | Amount to print | . | Bracer | 2 | . | Handle | 2 | . | Y Alignment Tool | 2 | . | Nut insers | 2 | . | Door latch | 4 | . To see the recommended print settings please refere here. Step 1 . To start you are going to build the 2 sides of your frame. Make sure you do your building on a nice flat surface. You will lay your frame half down with the included printed alignment tools for the y gantry extrusions and hand tighten all blind joints. After hand tightening you can start tightening everything down properly. Make sure every corner is exactly 90 degrees. Moreover, make sure the Y gantry extrusion is parallel to the upper and lower extrusion of the frame half. The Y gantry extrusion is the only extrusion that can’t use a 2020 corner joint bracket, it is stabilized by the motormount so there is no need for extra reinforcement. Once you are done with one half repeat for the other half. Check the two halves by laying them on top of each other with all corners exactly in the same spot and check the y gantry extrusions for the two halves whether they are parallel to each other. They need to be parallel for the printer to operate smoothly. It’s important to make sure the y-gantry is the same height. Step 2 . The bottom, top and upright extrusions in the front of the frame all have printed nut inserts inserted. 2 in the top for the door latches, 2 in the bottom for the lower latches and 1 in upright for the motor mounts to attach to. Insert the M4 nuts into the M4 inserts and push them in the uprights on the frame half. Next insert the 2x5mm magnets and the m3 nut into the frame part of the magnetic door latches and put 2 in the front lower and 2 in the front upper extrusion as shown in the picture before assembling the final part of the frame. Step 3 . Attach the extrusions to connect the two halves of the frame. Make sure to put the part you are assembling on the flat surface and afterwards check the frame on squareness. Step 4 . Attach all corner joints and check if your frame is square and strong. After this checks out attach the handles and the frame is built. ",
+    "url": "/manual/vz235/frame#stls",
+    
+    "relUrl": "/manual/vz235/frame#stls"
+  },"13": {
     "doc": "1. Frame",
     "title": "1. Frame",
     "content": " ",
     "url": "/manual/vz235/frame",
     
     "relUrl": "/manual/vz235/frame"
-  },"13": {
+  },"14": {
     "doc": "Vz330 frame",
     "title": "Vz330 frame",
     "content": "TODO . ",
     "url": "/manual/vz330/frame",
     
     "relUrl": "/manual/vz330/frame"
-  },"14": {
+  },"15": {
     "doc": "Welcome",
     "title": "Welcome to the VzBoT documentation",
     "content": "tbd . ",
     "url": "/#welcome-to-the-vzbot-documentation",
     
     "relUrl": "/#welcome-to-the-vzbot-documentation"
-  },"15": {
+  },"16": {
     "doc": "Welcome",
     "title": "Welcome",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"16": {
+  },"17": {
     "doc": "VzBoT Vz235 - Printed",
     "title": "VzBoT Vz235",
     "content": ". Vz235 is the smaller brother of the original Vz330 3D-printer. With its relatively small build volume, it has reduced weight and a smaller form factor. The design is built around the popular Creality Ender 3 bed, but is not limited to this size: the frame can be scaled up or down to fit the individual builder’s requirements. On how to print the files for this printer please refer to print settings . ",
     "url": "/manual/vz235#vzbot-vz235",
     
     "relUrl": "/manual/vz235#vzbot-vz235"
-  },"17": {
+  },"18": {
     "doc": "VzBoT Vz235 - Printed",
     "title": "VzBoT Vz235 - Printed",
     "content": " ",
     "url": "/manual/vz235",
     
     "relUrl": "/manual/vz235"
-  },"18": {
+  },"19": {
     "doc": "General Informations",
     "title": "General Informations",
     "content": "Here you can find basic informations around . x y z . ",
     "url": "/manual/general",
     
     "relUrl": "/manual/general"
-  },"19": {
+  },"20": {
     "doc": "VzBoT Vz330",
     "title": "VzBoT Vz330",
     "content": "Vz330 is the original VzBoT printer and has been in development since 2020. It is a high speed, moderately sized 3D-printer, based on the TronXY XS5(A) CoreXY frame, but can be easily adapted for other 2020 aluminium extrusion frames. The design is built around the popular TronXY XS5(A) but is not restricted to this size, the frame can be scaled according to the individual needs of the builder. ",
     "url": "/manual/vz330",
     
     "relUrl": "/manual/vz330"
-  },"20": {
+  },"21": {
     "doc": "Manual",
     "title": "VzBoT build &amp; assembly manual",
     "content": " ",
     "url": "/manual#vzbot-build--assembly-manual",
     
     "relUrl": "/manual#vzbot-build--assembly-manual"
-  },"21": {
+  },"22": {
     "doc": "Manual",
     "title": "Manual",
     "content": " ",
     "url": "/manual",
     
     "relUrl": "/manual"
-  },"22": {
+  },"23": {
     "doc": "Print Settings",
     "title": "Print settings",
     "content": "It is recommended to print all parts in ABS (not ABS+), ASA or similar material to be able to withstand the high temperature environment of an enclosed printer. Print settings should always be tuned for the material of choice and tested for sufficient strength, proper layer adhesion and mechenical load. ",
     "url": "/manual/general/print-settings#print-settings",
     
     "relUrl": "/manual/general/print-settings#print-settings"
-  },"23": {
+  },"24": {
     "doc": "Print Settings",
     "title": "For stationary parts",
     "content": "Parts such as motor mounts, bed frame braces, etc. | Setting | Recommended value | . | Layer height | 0.2mm | . | Layer width | 0.4-0.6mm | . | Outside perimiters (walls) | 4 | . | Top/bottom layers: | 5 | . | Infill | 40-50% cubic, gyroid or honeycomb | . ",
     "url": "/manual/general/print-settings#for-stationary-parts",
     
     "relUrl": "/manual/general/print-settings#for-stationary-parts"
-  },"24": {
+  },"25": {
     "doc": "Print Settings",
     "title": "For motion parts",
     "content": "Parts such as the carriage and X gantry joint, etc. | Setting | Recommended value | . | Layer height | 0.2mm | . | Layer width | 0.4-0.6mm | . | Outside perimiters (walls) | 4 | . | Top/bottom layers: | 5 | . | Infill | 30-40% cubic, gyroid or honeycomb | . ",
     "url": "/manual/general/print-settings#for-motion-parts",
     
     "relUrl": "/manual/general/print-settings#for-motion-parts"
-  },"25": {
+  },"26": {
     "doc": "Print Settings",
     "title": "Print Settings",
     "content": " ",
     "url": "/manual/general/print-settings",
     
     "relUrl": "/manual/general/print-settings"
-  },"26": {
+  },"27": {
     "doc": "Video tutorial",
     "title": "Video tutorial",
     "content": " ",
     "url": "/manual/general/video-tutorial",
     
     "relUrl": "/manual/general/video-tutorial"
-  },"27": {
+  },"28": {
     "doc": "Video tutorial",
     "title": "Vz235 Build Part 1: The Frame",
     "content": ". ",
     "url": "/manual/general/video-tutorial#vz235-build-part-1-the-frame",
     
     "relUrl": "/manual/general/video-tutorial#vz235-build-part-1-the-frame"
-  },"28": {
+  },"29": {
     "doc": "Video tutorial",
     "title": "Vz235 Build Part 2: The Z Axis",
     "content": ". ",
     "url": "/manual/general/video-tutorial#vz235-build-part-2-the-z-axis",
     
     "relUrl": "/manual/general/video-tutorial#vz235-build-part-2-the-z-axis"
-  },"29": {
+  },"30": {
     "doc": "Video tutorial",
     "title": "Vz235 Build Part 3: The Gantry",
     "content": ". ",
     "url": "/manual/general/video-tutorial#vz235-build-part-3-the-gantry",
     
     "relUrl": "/manual/general/video-tutorial#vz235-build-part-3-the-gantry"
-  },"30": {
+  },"31": {
     "doc": "Video tutorial",
     "title": "Vz235 Build Part 4: The electronics",
     "content": ". ",
     "url": "/manual/general/video-tutorial#vz235-build-part-4-the-electronics",
     
     "relUrl": "/manual/general/video-tutorial#vz235-build-part-4-the-electronics"
-  },"31": {
+  },"32": {
     "doc": "2. Z - Assembly & Bed",
     "title": "2. Z - Assembly &amp; Bed",
     "content": " ",
     "url": "/manual/vz235/z_assembly#2-z---assembly--bed",
     
     "relUrl": "/manual/vz235/z_assembly#2-z---assembly--bed"
-  },"32": {
+  },"33": {
     "doc": "2. Z - Assembly & Bed",
     "title": "Overview",
     "content": ". The proper alignment procedure of the VZ235 is the same as on the VZ330 only difference is the length of the alignment tools. Make sure to check out the YouTube video explaining how to align your Z-assembly, so it is both smooth and lines up with the possible travel of the printhead. Video tutorial . ",
     "url": "/manual/vz235/z_assembly#overview",
     
     "relUrl": "/manual/vz235/z_assembly#overview"
-  },"33": {
+  },"34": {
     "doc": "2. Z - Assembly & Bed",
     "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M5/M6 10mm buttonhead | 20 | Depending on the type of 2020 you use, you need M5 or M6 screws | . | 385mm 2020 extrusion | 4 | Yellow | . | 375mm 2020 extrusion | 6 | Red | . | 470mm 2020 extrusion | 4 | Blue | . | 385mm 2020 extrusion | 1 | Only for 2WD, mount the same as Y gantry extrusions | . | 2020 corner joints | 18 | - | . | 2020 blind corner joints | 4 | - | . | STL files … | 2 | - | . ",
+    "content": "| Material | Quantity | Notes | . | M3 6mm | 4 | - | . | M3 15mm | 24 | - | . | M3 20mm | 4 | - | . | M3 30mm | - | 2 | . | M3 30mm countersunk | 5 | - | . | M3 nut | 28 | - | . | M3 t-nut | 2 | - | . | M3 wing nuts | 5 | - | . | M4 10mm | 47 | - | . | M4 8mm | 1 | - | . | M4 t-nut | 47 | - | . | M5/M6 20mm | 2 | Depending on extrusion type | . | M5 10/8mm | 8 | Depending on the 2020 corner bracket | . | 2020 corner bracket | 4 | - | . | 245mm 2020 extrusion | 2 | - | . | 232mm 2020 extrusion | 2 | - | . | 300mm leadscrew T8 | 2 | - | . | Leadscrew nut | 2 | - | . | 300mm 10mm smooth rod | 4 | Optional size, also supports 8 and 12mm as found on VZ330 | . | LMU10LUU bearing | 4 | - | . | 608-2RS bearing | 4 | - | . | GT2 40T 8mm pulley | 2 | - | . | NEMA17 Motor | 1 | - | . | GT2 20T Pulley | 1 | - | . | 850-890mm looped belt | 1 | - | . | Ender 3 bed / machined aluminum bed | 1 | - | . | Bed Springs | 4 | - | . | Microswitch | 1 | - | . ",
     "url": "/manual/vz235/z_assembly#bom",
     
     "relUrl": "/manual/vz235/z_assembly#bom"
-  },"34": {
+  },"35": {
     "doc": "2. Z - Assembly & Bed",
     "title": "STL",
-    "content": "| File name | Amount to print | . | File 1 | 4 | . Step 1 . First assemble your bed assembly, make sure the bed frame is on a flat surface when assembling. Insert the linear bearings in their brackets and attach them to the bed frame. Do make sure the brackets are on the most outer position of the frame like shown below and that they are flat with the frame. Do not attach the printer bed to the frame yet. Step 2 . Attach all rod holders finger tight (upper &amp; lower) to the frame, don’t worry about the position just yet. You want to be able to shift them around. Then insert the rods into the bearings and attach the bed frame with the rods to the respective rod holders. Step 3 . With the assembly in place attach the two alignment tools like shown below and tighten . Step 4 . Once you aligned the front corners you are going to put the bed in the lowest position and wiggle the bed around. Try to get the rod pretty nice and vertical to the frame and tighten the rear bottom rod holders and tighten them to the frame. Step 5 . Now put the bed in the highest position and tighten the clamps for the upper rods and tighten the brackets to the frame. To keep the bed up you can use zip ties or ask someone to help. Step 6 . Insert the bearings in the leadscrew brackets (press fit) and attach the brackets like shown below. Don’t forget to put the belt around the pulley before assembling the top part of the bracket. Then attach the leadscrew support with the oldham couplers and leadscrew nut to the bed frame and assemble the parts loosely. Step 7 . To align the parts, measure the bracket is nicely in between the rod holders measure the distance and get it approximately centered. Turn the leadscrew a bit to help it self-align the upper leadscrew support on the bed and tighten the parts. The leadscrew should be nice and vertical. To check you can put the bed in the highest position and measure the distances between the leadscrew and z rod. The leadscrew should now be centered between both z rods. Step 8 . Attach the single motor mount like shown below . The top M3 screws are 30mm and lock the sliding mechanism in place. They also serve as reinforcement of the mount. Also attach the motor pulley and belt on the motor. Step 9 . To synchronize the leadscrews, turn out the grub screws on the 40t pulleys and get the bed in the top position. Then retighten the grubscrews . Step 10 . Assemble the z switch and make sure when the bed rises the switch is triggered by the screw to avoid a bed crash at the first homing sequence. Step 11 . Finally install the bed M3 supports, attach the bed with the countersunk M3’s and bed springs. If you are using a milled aluminum bed refer to the electronics/wiring section on how to properly assemble the silicone heater pad. ",
+    "content": "| File name | Amount to print | . | Z lower rod mount main | 4 | . | Z lower rod mount clamp | 4 | . | Z upper rod mount main | 4 | . | Z upper rod mount clamp | 4 | . | Single z motor bracket upper | 1 | . | Single z motor bracket lower | 1 | . | Lead screw upper bracket | 2 | . | Lead screw lower bracket | 2 | . | Limit switch mount | 1 | . | Z stopper | 1 | . | Z chain mount | 1 | . | Bearing mount | 4 | . | Leadscrew support | 2 | . | Oldham coupler (all parts) | 2 | . | Bed M3 support | 4 | . | Z alignment tool | 2 | . Step 1 . First assemble your bed assembly, make sure the bed frame is on a flat surface when assembling. Insert the linear bearings in their brackets and attach them to the bed frame. Do make sure the brackets are on the most outer position of the frame like shown below and that they are flat with the frame. Do not attach the printer bed to the frame yet. Step 2 . Attach all rod holders finger tight (upper &amp; lower) to the frame, don’t worry about the position just yet. You want to be able to shift them around. Then insert the rods into the bearings and attach the bed frame with the rods to the respective rod holders. Step 3 . With the assembly in place attach the two alignment tools like shown below and tighten . Step 4 . Once you aligned the front corners you are going to put the bed in the lowest position and wiggle the bed around. Try to get the rod pretty nice and vertical to the frame and tighten the rear bottom rod holders and tighten them to the frame. Step 5 . Now put the bed in the highest position and tighten the clamps for the upper rods and tighten the brackets to the frame. To keep the bed up you can use zip ties or ask someone to help. Step 6 . Insert the bearings in the leadscrew brackets (press fit) and attach the brackets like shown below. Don’t forget to put the belt around the pulley before assembling the top part of the bracket. Then attach the leadscrew support with the oldham couplers and leadscrew nut to the bed frame and assemble the parts loosely. Step 7 . To align the parts, measure the bracket is nicely in between the rod holders measure the distance and get it approximately centered. Turn the leadscrew a bit to help it self-align the upper leadscrew support on the bed and tighten the parts. The leadscrew should be nice and vertical. To check you can put the bed in the highest position and measure the distances between the leadscrew and z rod. The leadscrew should now be centered between both z rods. Step 8 . Attach the single motor mount like shown below . The top M3 screws are 30mm and lock the sliding mechanism in place. They also serve as reinforcement of the mount. Also attach the motor pulley and belt on the motor. Step 9 . To synchronize the leadscrews, turn out the grub screws on the 40t pulleys and get the bed in the top position. Then retighten the grubscrews . Step 10 . Assemble the z switch and make sure when the bed rises the switch is triggered by the screw to avoid a bed crash at the first homing sequence. Step 11 . Finally install the bed M3 supports, attach the bed with the countersunk M3’s and bed springs. If you are using a milled aluminum bed refer to the electronics/wiring section on how to properly assemble the silicone heater pad. ",
     "url": "/manual/vz235/z_assembly#stl",
     
     "relUrl": "/manual/vz235/z_assembly#stl"
-  },"35": {
+  },"36": {
     "doc": "2. Z - Assembly & Bed",
     "title": "2. Z - Assembly & Bed",
     "content": " ",
