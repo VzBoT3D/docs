@@ -12,13 +12,13 @@ permalink: /vz235_printed/frame
 
 ## Overview
 
-![Frame](/assets/images/manual/vz235_printed/frame/overview.png)
+![Frame](../assets/images/manual/vz235_printed/frame/overview.png)
 <br>
 <br>
 
 The frame is assembled through a combination of blind joints, corner brackets and blind corner brackets. The corner brackets are to help stiffen up the frame and are optional, though we highly recommend using them on every possible corner for best results.
 
-For detailed informations on how to assemble blind joints visit this [page](/general/blind-joints)
+For detailed informations on how to assemble blind joints visit this [page](../general/blind-joints)
 
 ## BOM
 
@@ -34,8 +34,8 @@ For detailed informations on how to assemble blind joints visit this [page](/gen
 | STL files ... | 2 | - |
   
 <br>
-![Frame colored](/assets/images/manual/vz235/frame/frame_colored.png)
-<br>
+![Frame colored](/assets/images/manual/vz235_printed/frame/frame_colored.png)
+ <br>
 
 ## STL's
 
@@ -48,7 +48,7 @@ For detailed informations on how to assemble blind joints visit this [page](/gen
 | [Door latch]() | 4 |
 
 {: .highlight }
-  To see the recommended print settings please refere [here](/general/print-settings).
+  To see the recommended print settings please refere [here](../general/print-settings).
 
 ### Step 1
 
@@ -56,7 +56,7 @@ To start you are going to build the 2 sides of your frame. Make sure you do your
 <br>
 <br>
 
-![Frame side](/assets/images/manual/vz235_printed/frame/frame_side.png)
+![Frame side](../assets/images/manual/vz235_printed/frame/frame_side.png)
 <br>
 <br>
 
@@ -64,7 +64,7 @@ After hand tightening you can start tightening everything down properly. Make su
 <br>
 <br>
 
-![Frame brackets](/assets/images/manual/vz235_printed/frame/frame_sides.png)
+![Frame brackets](../assets/images/manual/vz235_printed/frame/frame_sides.png)
 <br>
 <br>
 
@@ -79,7 +79,7 @@ The bottom, top and upright extrusions in the front of the frame all have printe
 <br>
 <br>
 
-![Frame inserts](/assets/images/manual/vz235_printed/frame/frame_inserts.png)
+![Frame inserts](../assets/images/manual/vz235_printed/frame/frame_inserts.png)
 <br>
 <br>
 
@@ -89,7 +89,7 @@ Attach the extrusions to connect the two halves of the frame. Make sure to put t
 <br>
 <br>
 
-![Frame inserts](/assets/images/manual/vz235_printed/frame/frame_complete.png)
+![Frame inserts](../assets/images/manual/vz235_printed/frame/frame_complete.png)
 <br>
 <br>
 

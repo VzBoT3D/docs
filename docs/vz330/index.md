@@ -2,7 +2,7 @@
 layout: default
 title: VzBoT Vz330
 has_toc: false
-nav_order: 2
+nav_order: 6
 has_children: true
 permalink: /vz330
 ---

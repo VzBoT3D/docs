@@ -14,14 +14,14 @@ permalink: /vz235_printed/gantry/belt_routing
 ## 2WD:
 <br>
 
-![Belt routing 2WD](/assets/images/manual/vz235_printed/gantry/belt_2wd.png)
+![Belt routing 2WD](../../assets/images/manual/vz235_printed/gantry/belt_2wd.png)
 
 <br>
 
 ## AWD:
 <br>
 
-![Belt routing AWD](/assets/images/manual/vz235_printed/gantry/belt_awd.png)
+![Belt routing AWD](../../assets/images/manual/vz235_printed/gantry/belt_awd.png)
 
 <br>
 

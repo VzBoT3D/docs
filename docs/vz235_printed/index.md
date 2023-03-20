@@ -9,7 +9,7 @@ permalink: /vz235_printed
 
 # VzBoT Vz235
 
-![Overview](/assets/images/manual/vz235_printed/printed_preview.png)
+![Overview](../assets/images/manual/vz235_printed/printed_preview.png)
 <br>
 <br>
 
@@ -18,4 +18,4 @@ relatively small build volume, it has reduced weight and a smaller form factor. 
 is built around the popular Creality Ender 3 bed, but is not limited to this size: the
 frame can be scaled up or down to fit the individual builder's requirements.
 
-On how to print the files for this printer please refer to [print settings](/general/print-settings)
+On how to print the files for this printer please refer to [print settings](../general/print-settings)

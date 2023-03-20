@@ -1,15 +1,16 @@
 title: "VzBoT Documentation"
 tagline: Documentation for VzBoT 3D-printers
 description: VzBoT Official Documentation
-logo: "/assets/images/logo.png"
-baseurl: ""
+logo: "./assets/images/logo.png"
 markdown: kramdown
-remote_theme: just-the-docs/just-the-docs
+repository: vethyn/docs
+remote_theme: just-the-docs/just-the-docs@v0.4.2
 color_scheme: "vzbot"
+
 search_enabled: true
 aux_links:
   "GitHub":
-    - "//github.com/VzBoT3D"
+    - "https://github.com/VzBoT3D"
   "Ko-Fi":
     - https://ko-fi.com/vez3d
   "Discord":
@@ -21,4 +22,4 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      image: assets/images/rtfm.pngy
+      image: ./assets/images/rtfm.pngy
