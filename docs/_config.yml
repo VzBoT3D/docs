@@ -1,7 +1,7 @@
 title: "VzBoT Documentation"
 tagline: Documentation for VzBoT 3D-printers
 description: VzBoT Official Documentation
-logo: "/assets/images/logo-vzbot.svg"
+logo: "/assets/images/logo.png"
 baseurl: ""
 markdown: kramdown
 # theme: just-the-docs
@@ -24,4 +24,4 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      image: assets/images/rtfm.pngy
+      image: /assets/images/rtfm.pngy
