@@ -8,6 +8,8 @@ markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
 color_scheme: "vzbot"
 search_enabled: true
+repository: vethyn/docs
+
 aux_links:
   "GitHub":
     - "https://github.com/VzBoT3D"
