@@ -2,7 +2,7 @@
 layout: default
 title: 3.6 Y end stop-switch mount
 parent: 3. Gantry
-grand_parent: VzBoT Vz235 - Printed 
+grand_parent: VzBoT235 - Printed Version
 has_toc: false
 nav_order: 8
 has_children: false

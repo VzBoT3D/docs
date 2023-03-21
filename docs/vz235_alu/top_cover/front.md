@@ -2,7 +2,7 @@
 layout: default
 title: 8.3 Front door latches
 parent: 8. Top cover and doors panels
-grand_parent: VzBoT Vz235 - Aluminium
+grand_parent: VzBoT235 - Aluminium Version
 has_toc: false
 nav_order: 3
 has_children: false

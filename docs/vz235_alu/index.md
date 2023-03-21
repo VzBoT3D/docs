@@ -1,23 +1,23 @@
 ---
 layout: default
-title: VzBoT Vz235 - Aluminium
+title: VzBoT235 - Aluminium Version
 has_toc: false
-nav_order: 4
+nav_order: 6
 has_children: true
 permalink: /vz235_alu
 ---
 
-# VzBoT Vz235
+# VzBoT235 - Aluminium Version
 
 ![Overview](../assets/images/manual/vz235_alu/alu_preview.png)
 <br>
 <br>
 
-Vz235 is the smaller brother of the original [Vz330](../vz330) 3D-printer. With its
+Vz235 is the smaller brother of the original [VzBot 330 - Printed Version](../vz330_printed) / [VzBot 330 - Mellow Kit](../vz330_mellow) 3D-printer. With its
 relatively small build volume, it has reduced weight and a smaller form factor. The design
 is built around the popular Creality Ender 3 bed, but is not limited to this size: the
 frame can be scaled up or down to fit the individual builder's requirements.<br>
-This build differs from the [Vz235 - printed](../vz235-printed) just in the part that gantry and z-assembly is replaced by manufactured aluminium pieces.
+This build differs from the [Vz235 - Printed Version](../vz235-printed) just in the part that gantry and z-assembly is replaced by manufactured aluminium pieces.
 
 On how to print the files for this printer please refer to [print settings](../general/print-settings)
 <br>

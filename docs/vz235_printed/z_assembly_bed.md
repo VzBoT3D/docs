@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2. Z - Assembly & Bed
-parent: VzBoT Vz235 - Printed
+parent: VzBoT235 - Printed Version
 has_toc: false
 nav_order: 2
 has_children: false

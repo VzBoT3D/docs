@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Vz330 frame
-parent: VzBoT Vz330
+title: 1. Frame
+parent: VzBoT330 - Mellow Kit
 has_toc: false
 nav_order: 1
 has_children: false
-permalink: /vz330/frame
+permalink: /vz330_mellow/frame
 ---
 
 TODO

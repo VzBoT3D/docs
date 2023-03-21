@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1. Frame
-parent: VzBoT Vz235 - Printed
+parent: VzBoT235 - Printed Version
 has_toc: false
 nav_order: 1
 has_children: false
@@ -31,7 +31,6 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 | 385mm 2020 extrusion           | 1 | Only for 2WD, mount the same as Y gantry extrusions  |
 | 2020 corner joints           | 18 | -  |
 | 2020 blind corner joints           | 4 | -  |
-| STL files ... | 2 | - |
   
 <br>
 ![Frame colored](../assets/images/manual/vz235_printed/frame/frame_colored.png)

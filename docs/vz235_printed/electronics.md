@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 6. Electronics
-parent: VzBoT Vz235 - Printed
+parent: VzBoT235 - Printed Version
 has_toc: false
 nav_order: 6
 has_children: true

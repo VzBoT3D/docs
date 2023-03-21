@@ -2,7 +2,7 @@
 layout: default
 title: 8.1 Top cover & latches
 parent: 8. Top cover and doors panels
-grand_parent: VzBoT Vz235 - Printed 
+grand_parent: VzBoT235 - Printed Version 
 has_toc: false
 nav_order: 1
 has_children: false

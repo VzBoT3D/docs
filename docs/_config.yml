@@ -4,7 +4,6 @@ description: VzBoT Official Documentation
 logo: "/assets/images/logo.png"
 baseurl: ""
 markdown: kramdown
-# theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 color_scheme: "vzbot"
 search_enabled: true

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 8. Top cover and doors panels
-parent: VzBoT Vz235 - Printed
+parent: VzBoT235 - Printed Version
 has_toc: false
 nav_order: 8
 has_children: true

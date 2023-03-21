@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4. Bottom and rear panels
-parent: VzBoT Vz235 - Printed
+parent: VzBoT235 - Printed Version
 has_toc: false
 nav_order: 4
 has_children: false

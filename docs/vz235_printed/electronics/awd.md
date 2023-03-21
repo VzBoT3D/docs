@@ -2,7 +2,7 @@
 layout: default
 title: 6.1 AWD specific
 parent: 6. Electronics
-grand_parent: VzBoT Vz235 - Printed 
+grand_parent: VzBoT235 - Printed Version
 has_toc: false
 nav_order: 7
 has_children: false
