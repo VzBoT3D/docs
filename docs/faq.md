@@ -33,25 +33,25 @@ Unfortunately, due to inflation, and other costs, this price may be a higher (th
 
 Additionally, a VZ235 will be less expensive, due to the smaller size and easily source able parts.
 
-![](assets/images/faq/cost_vzbot.jpg)
+![](./assets/images/faq/cost_vzbot.jpg)
 
 ## Are the aluminium parts open source?
 Unfortunately, the aluminium parts are not open source. The printhead was developed in collaboration with F3D, who have put extensive efforts and work into developing and testing this hardware, and bringing it to the point that it is at now. Buying products from them directly supports our efforts to develop the VzBoT further, and bring you full kits and new cool Long Schlong Dongs ;).
 
 ### F3D
-https://f3d-racing-fdm.myshopify.com/
+[https://f3d-racing-fdm.myshopify.com/](https://f3d-racing-fdm.myshopify.com/)
 
 Apart from the printhead, most other aluminum parts can also be bought from Mellow store on aliexpress. If you want an all blacked out look, or you are ordering there anyways, consider checking out their sets.
 
 ### Mellow
-VZ235 AWD: https://s.click.aliexpress.com/e/_DEkSu5h
-VZ330 2WD: https://s.click.aliexpress.com/e/_9u11AP
+VZ235 AWD: [https://s.click.aliexpress.com/e/_DEkSu5h](https://s.click.aliexpress.com/e/_DEkSu5h)
+VZ330 2WD: [https://s.click.aliexpress.com/e/_9u11AP](https://s.click.aliexpress.com/e/_9u11AP)
 
 If you are from China / Asia, we understand that buying and shipping a printhead from Germany can be very expensive. For this reason, the printhead is also available on Taobao in Black and Alu finish, sold by mellow.
 
 You are free to design and produce your own iteration of the VzBoT aluminum parts. Please note that commercial redistribution and production will violate the CC BY-NC 4.0 license of the project!
 
-![](assets/images/faq/vzprinthead.jpg)
+![](./assets/images/faq/vzprinthead.jpg)
 
 ## What is AWD (All wheel drive)?
 In conventional CoreXY machines, a 2WD setup is used. This setup utilizes 2 stepper motors at the back or front of the machine. Recently, the VzBoT project has adapted the AWD setup! This setup utilizes 2 motors on X, and 2 on Y, doubling the amount of motors for the XY plane. What are the advantages of this setup? Let's go over them:
