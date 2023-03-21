@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 6. Electronics
-parent: VzBoT Vz235 - Printed
+parent: VzBoT Vz235 - Aluminium
 has_toc: false
 nav_order: 6
 has_children: true
-permalink: /vz235_printed/electronics
+permalink: /vz235_alu/electronics
 ---
 
 # 6. Electronics

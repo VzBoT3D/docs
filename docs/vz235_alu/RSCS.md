@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 7. Side panels + RSCS
-parent: VzBoT Vz235 - Printed
+parent: VzBoT Vz235 - Aluminium
 has_toc: false
 nav_order: 7
 has_children: false
-permalink: /vz235_printed/rscs
+permalink: /vz235_alu/rscs
 ---
 
 # 7. Side panels + RSCS
