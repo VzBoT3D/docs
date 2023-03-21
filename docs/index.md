@@ -22,7 +22,7 @@ table, th, td {
 | | |
 |-|-|
 | VzBot 235 - printed | VzBot 235 - alu |
-| [![VzBot 235 - printed](./assets/images/manual/vz235_printed/printed_preview.png)](./vz235_printed) | [![VzBot 235 - printed](./assets/images/manual/vz235_printed/printed_preview.png)](./vz235_printed) |
+| [![VzBot 235 - printed](./assets/images/manual/vz235_printed/printed_preview.png)](./vz235_printed) | [![VzBot 235 - printed](./assets/images/manual/vz235_alu/alu_preview.png)](./vz235_printed) |
 
 | | |
 |-|-|
