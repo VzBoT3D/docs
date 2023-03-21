@@ -11,6 +11,6 @@ permalink: /general
 
 Here you can find basic informations around
 
-x
-y
-z
+* [Print Settings](./general/print-settings)
+* [Video tutorial](./general/video-tutorial)
+* [Blind joints](./general/blind-joints)

@@ -44,7 +44,7 @@ Unfortunately, the aluminium parts are not open source. The printhead was develo
 Apart from the printhead, most other aluminum parts can also be bought from Mellow store on aliexpress. If you want an all blacked out look, or you are ordering there anyways, consider checking out their sets.
 
 ### Mellow
-VZ235 AWD: [https://s.click.aliexpress.com/e/_DEkSu5h](https://s.click.aliexpress.com/e/_DEkSu5h)
+VZ235 AWD: [https://s.click.aliexpress.com/e/_DEkSu5h](https://s.click.aliexpress.com/e/_DEkSu5h)<br>
 VZ330 2WD: [https://s.click.aliexpress.com/e/_9u11AP](https://s.click.aliexpress.com/e/_9u11AP)
 
 If you are from China / Asia, we understand that buying and shipping a printhead from Germany can be very expensive. For this reason, the printhead is also available on Taobao in Black and Alu finish, sold by mellow.
