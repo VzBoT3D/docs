@@ -3,6 +3,12 @@ title: Welcome
 nav_order: 1
 ---
 
+<style>
+    h1, .text-alpha {
+    text-align: center !important;
+}
+</style>
+
 # Welcome to the VzBoT documentation
 
 <style>
