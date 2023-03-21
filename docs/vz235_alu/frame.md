@@ -34,7 +34,7 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 | STL files ... | 2 | - |
   
 <br>
-![Frame colored](/assets/images/manual/vz235_printed/frame/frame_colored.png)
+![Frame colored](../assets/images/manual/vz235_printed/frame/frame_colored.png)
  <br>
 
 ## STL's
