@@ -24,11 +24,11 @@ On how to print the files for this printer please refer to [print settings](../g
 
 We advice to build the printer in the following order:
 
-1. [Frame](../vz235_printed/frame)
-2. [Z - Assembly & Bed](../vz235_printed/z_assembly)
-3. [Gantry](../vz235_printed/gantry)
-4. [Bottom and rear panel](../vz235_printed/panels_part1)
-5. [Fume extractor](../vz235_printed/fume_extractor)
-6. [Electronics](../vz235_printed/electronics)
-7. [Side panels + RSCS](../vz235_printed/rscs)
-8. [Top cover and doors panel](../vz235_printed/top_cover)
+1. [Frame](./vz235_printed/frame)
+2. [Z - Assembly & Bed](./vz235_printed/z_assembly)
+3. [Gantry](./vz235_printed/gantry)
+4. [Bottom and rear panel](./vz235_printed/panels_part1)
+5. [Fume extractor](./vz235_printed/fume_extractor)
+6. [Electronics](./vz235_printed/electronics)
+7. [Side panels + RSCS](./vz235_printed/rscs)
+8. [Top cover and doors panel](./vz235_printed/top_cover)
