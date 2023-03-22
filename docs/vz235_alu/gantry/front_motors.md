@@ -4,7 +4,7 @@ title: 3.1 Motor mounts + integrated hinges
 parent: 3. Gantry
 grand_parent: VzBoT235 - Aluminium Version
 has_toc: false
-nav_order: 5
+nav_order: 1
 has_children: false
 permalink: /vz235_alu/gantry/front_motors
 ---
