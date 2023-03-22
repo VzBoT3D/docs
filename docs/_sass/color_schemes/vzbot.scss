@@ -22,3 +22,7 @@ $code-background-color: $light-grey-color;
 $search-background-color: $light-grey-color;
 $table-background-color: $light-grey-color;
 $feedback-color: darken($sidebar-color, 3%);
+
+.site-footer {
+    visibility: hidden;
+}
