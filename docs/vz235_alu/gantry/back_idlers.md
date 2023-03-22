@@ -8,3 +8,6 @@ nav_order: 3
 has_children: false
 permalink: /vz235_alu/gantry/rear_idlers
 ---
+# 3.2(B) Rear idler mounts
+
+TODO
