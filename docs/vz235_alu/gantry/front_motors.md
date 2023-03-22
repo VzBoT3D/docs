@@ -6,7 +6,7 @@ grand_parent: VzBoT235 - Aluminium Version
 has_toc: false
 nav_order: 5
 has_children: false
-permalink: /vz235_alu/z_assembly/bed_additions
+permalink: /vz235_alu/gantry/front_motors
 ---
 
 # 3.1 Motor mounts + integrated hinges
@@ -19,14 +19,21 @@ permalink: /vz235_alu/z_assembly/bed_additions
 
 | Material        | Quantity          | Notes |
 |:-------------|:------------------|:------|
-| LED strip 310mm           | 3 | - |
-| Mainboard | 1 | - |
-| BTT Pi TFT50 | 1 | - |
-| PSU 24V | 1 | - |
-| PSU 48V | 1 | - |
-| Wires | - | - |
-| C14 power switch | 1 | - |
-| Power chord | 1 | - |
+| M3 6mm           | 4 | - |
+| M3 10mm ( countersunk ) | 4 | - |
+| M3 12mm | 4 | - |
+| M3 35mm | 4 | - |
+| M4 8mm ( countersunk ) | 2 | - |
+| M4 10mm | 4 | - |
+| M4 12mm | 8 | - |
+| M4 30mm ( set screw ) | 2 | - |
+| M4 40mm ( socket head) | 4 | - |
+| M4 t-nut | 8 | - |
+| M3 nut | 8 | - |
+| M4 nut | 10 | also for hinges |
+| 4mm ID washer | 2 | - |
+| NEMA 17 stepper | 2 | - |
+| GT2 20 teeth | 2 | - |
 
 ![Details](../../assets/images/manual/vz235_alu/gantry/front_motors/details.png)
 
@@ -34,12 +41,7 @@ permalink: /vz235_alu/z_assembly/bed_additions
 
 | File name | Amount to print |
 |-----------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">LED strip bracket [print in vase mode]</a> | 3 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Power switch bracket</a> | 1 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Front screen cover</a> | 1 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Rear screen cover</a> | 1 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Screen mount</a> | 1 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Door stopper</a> | 1 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">TODO</a> | 3 |
 
 ### Step 1
 

@@ -534,30 +534,30 @@
     "doc": "3.1 Motor mounts + integrated hinges",
     "title": "3.1 Motor mounts + integrated hinges",
     "content": " ",
-    "url": "/vz235_alu/z_assembly/bed_additions",
+    "url": "/vz235_alu/gantry/front_motors",
     
-    "relUrl": "/vz235_alu/z_assembly/bed_additions"
+    "relUrl": "/vz235_alu/gantry/front_motors"
   },"77": {
     "doc": "3.1 Motor mounts + integrated hinges",
     "title": "Overview",
     "content": ". ",
-    "url": "/vz235_alu/z_assembly/bed_additions#overview",
+    "url": "/vz235_alu/gantry/front_motors#overview",
     
-    "relUrl": "/vz235_alu/z_assembly/bed_additions#overview"
+    "relUrl": "/vz235_alu/gantry/front_motors#overview"
   },"78": {
     "doc": "3.1 Motor mounts + integrated hinges",
     "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | LED strip 310mm | 3 | - | . | Mainboard | 1 | - | . | BTT Pi TFT50 | 1 | - | . | PSU 24V | 1 | - | . | PSU 48V | 1 | - | . | Wires | - | - | . | C14 power switch | 1 | - | . | Power chord | 1 | - | . ",
-    "url": "/vz235_alu/z_assembly/bed_additions#bom",
+    "content": "| Material | Quantity | Notes | . | M3 6mm | 4 | - | . | M3 10mm ( countersunk ) | 4 | - | . | M3 12mm | 4 | - | . | M3 35mm | 4 | - | . | M4 8mm ( countersunk ) | 2 | - | . | M4 10mm | 4 | - | . | M4 12mm | 8 | - | . | M4 30mm ( set screw ) | 2 | - | . | M4 40mm ( socket head) | 4 | - | . | M4 t-nut | 8 | - | . | M3 nut | 8 | - | . | M4 nut | 10 | also for hinges | . | 4mm ID washer | 2 | - | . | NEMA 17 stepper | 2 | - | . | GT2 20 teeth | 2 | - | . ",
+    "url": "/vz235_alu/gantry/front_motors#bom",
     
-    "relUrl": "/vz235_alu/z_assembly/bed_additions#bom"
+    "relUrl": "/vz235_alu/gantry/front_motors#bom"
   },"79": {
     "doc": "3.1 Motor mounts + integrated hinges",
     "title": "STL’s",
-    "content": "| File name | Amount to print | . | LED strip bracket [print in vase mode] | 3 | . | Power switch bracket | 1 | . | Front screen cover | 1 | . | Rear screen cover | 1 | . | Screen mount | 1 | . | Door stopper | 1 | . Step 1 . Insert the 4 M3 nuts and single M4 nut in the printed standoff motor anchor as shown above. Step 2 . Attach the stepper motor to the bottom motor plate with 2 6mm M3 screws. Step 3 . Screw the standoff in the middle plate using the 10mm countersunk M3 and attach it to the frame using one 12mm M4 and the 8mm countersunk M4. Lock the standoff in place using the 40mm M4 and the printed hammer nut that is installed during frame assembly. Step 4 . Attach the top plate using the 12mm M4 and T-nuts to the frame and screw in the 12mm M3 into the printed standoff. Step 5 . Insert the final standoffs and insert the 35mm M3, slide in the motor with its plate and tighten the M3 screws finger tight. Step 6 . Screw in the M4 set screw into the bottom tensioner, the M4 nut should be pressed into the tensioning knob. The tensioner plate can be installed when the enclosure panels are on the printer. Step 7 . Repeat Step 1 - 6 for the other side of the printer. ",
-    "url": "/vz235_alu/z_assembly/bed_additions#stls",
+    "content": "| File name | Amount to print | . | TODO | 3 | . Step 1 . Insert the 4 M3 nuts and single M4 nut in the printed standoff motor anchor as shown above. Step 2 . Attach the stepper motor to the bottom motor plate with 2 6mm M3 screws. Step 3 . Screw the standoff in the middle plate using the 10mm countersunk M3 and attach it to the frame using one 12mm M4 and the 8mm countersunk M4. Lock the standoff in place using the 40mm M4 and the printed hammer nut that is installed during frame assembly. Step 4 . Attach the top plate using the 12mm M4 and T-nuts to the frame and screw in the 12mm M3 into the printed standoff. Step 5 . Insert the final standoffs and insert the 35mm M3, slide in the motor with its plate and tighten the M3 screws finger tight. Step 6 . Screw in the M4 set screw into the bottom tensioner, the M4 nut should be pressed into the tensioning knob. The tensioner plate can be installed when the enclosure panels are on the printer. Step 7 . Repeat Step 1 - 6 for the other side of the printer. ",
+    "url": "/vz235_alu/gantry/front_motors#stls",
     
-    "relUrl": "/vz235_alu/z_assembly/bed_additions#stls"
+    "relUrl": "/vz235_alu/gantry/front_motors#stls"
   },"80": {
     "doc": "5. Fume extractor",
     "title": "5. Fume extractor",
