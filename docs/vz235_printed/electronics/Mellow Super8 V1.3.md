@@ -10,3 +10,6 @@ permalink: /vz235_printed/electronics/super_mellow
 ---
 
 ![Openbox](../../assets/images/manual/vz235_printed/electronics/DSC06302.JPG)
+
+
+![test](https://github.com/VzBoT3D/docs/blob/gh-pages/docs/assets/images/manual/vz235_printed/electronics/DSC06320.JPG)
