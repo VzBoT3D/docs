@@ -67,7 +67,7 @@ For UART you need to put the bridge on the second pin from the left and then bri
 
 Next step is to populate all the driver slots that you're gonna use. Here's a example for a AWD setup on 5160's and Z and E on 2209's.
 
-![Filled Board](../../assets/images/manual/vz235_printed/electronics/DSC06351.JPG)
+![Filled Board](../../assets/images/manual/vz235_printed/electronics/DSC06351.jpg)
 
 # installing the 5160's.
 
