@@ -33,12 +33,6 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 | M4 15/16mm | 8 | - |
 | TODO pick right bags and list | 1 | - |
 
-### Frame colors 
-<br>
-![Frame colored](../assets/images/manual/vz330_mellow/frame/frame_colored.png)
-<br>
-
-### Frame detail
 <br>
 ![Frame parts](../assets/images/manual/vz330_mellow/frame/bom.png)
 <br>
@@ -53,28 +47,24 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 
 ### Step 1
 
-To start you are going to build the 2 sides of your frame. Make sure you do your building on a nice flat surface (a stone surface is ideal if you have one available or maybe a kitchen counter). Make sure everything is as square as possible before tightening the corners. For more detail on blind joints look at the videos above. Add the optional corner braces on the bottom now.
-
-![Step 1](../assets/images/manual/vz330_mellow/frame/step1.png)
-
-After hand tightening you can start tightening everything down properly. Make sure every corner is exactly 90 degrees. Now you need to repeat this step a second time for the other side of the frame. <br><br>
-Check the two halves by laying them on top of eachother with all corners exactly in the same spot and check that every thing is parallel to between them. They need to be parallel for the printer to operate smoothly.
+To start you are going to build the bottom and the z profiles of the frame first, this is necessary because the gantry comes pre assembled form
+mellow. Take two **Aluminium 1** profiles and two **Aluminium 2** profiles, also take the four 2040 **Aluminium 3** profiles. <br>
 
 ### Step 2
-
-Attach the red extrusions to one side of the frame and loosely attach them you should have a upside down table now like this.
+Combine the **Aluminium 3** profiles with **Aluminium 1** and **Aluminium 2** profiles with M5 25mm screws. Line shown on the picture below. 
 
 ![Step 2](../assets/images/manual/vz330_mellow/frame/step2.png)
 
 ### Step 3
 
-And the final side to the frame and check that everything is square one final time before properly tightening the frame. It should look something like this.
+Next flip your now assembled frame up side down so the "closed" part is on top and put in the M4 boat nut. Use the following assembly technique:
+First, align the M4 nut with the aluminium profile groove and put it into the aluminium profile groove. Unscrew with the screwdriver and release the M4 boat nut. A pictured description is below
 
 ![Step 3](../assets/images/manual/vz330_mellow/frame/step3.png)
 
 ### Step 4
 
-Attach all corner joints and check if your frame is square and strong. Now you can add the handles, brackets and cable holder.
+The last step for the actual frame assembly is adding two more **Aluminium 1** profiles to the top of the frame. Use the outer part of the 2040 profiles and loosly screw the profiles down with M5 25mm screws. Loosly is enough due to the reason that we can bolt them down when the preassembled gantry slot's in place.
 
 ![Step 4](../assets/images/manual/vz330_mellow/frame/step4.png)
 
