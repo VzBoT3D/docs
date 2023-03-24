@@ -15,9 +15,9 @@ permalink: /vz330_mellow/electronics/super_mellow
 
 | File name | Amount to print |
 |-----------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Super8 + 5160 mount</a> | 1 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Super8 din mount</a> | 2 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">5160 fan mount</a> | 1 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay/Fly%20Super8/FlySuper8%2B4x5160pro%20mount.stl" target="_blank">Super8 + 5160 mount</a> | 1 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay/Fly%20Super8/FlySuper8%20din%20mountX2.stl" target="_blank">Super8 din mount</a> | 2 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/electronics/Back%20Electronic%20bay/Fly%20Super8/FlySuper8%20fan%20cover.stl" target="_blank">5160 fan mount</a> | 1 |
 
 
 ### Setup guide
