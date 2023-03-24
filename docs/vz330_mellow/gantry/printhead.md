@@ -13,7 +13,7 @@ permalink: /vz330_mellow/gantry/printhead
 
 ## Overview
 
-![Overview](../assets/images/manual/vz330_mellow/gantry/printhead/overview.png)
+![Overview](../../assets/images/manual/vz330_mellow/gantry/printhead/overview.png)
 
 ## BOM
 
@@ -41,7 +41,7 @@ permalink: /vz330_mellow/gantry/printhead
 
 4xM3 4mm should have been included in the kit to mount the printhead to the MGN9. Some people reported those 4 were missing. If that is your case, please use the M3x4 button head. It should work. If you prefer you could grind down the included M3x6mm bolt about 1mm so it's 5mm. Insert a nut on the bolt before doing so, that way when you are done grinding (or cutting), the threads will be repaired when the nut is removed.
 
-![Step 1](../assets/images/manual/vz330_mellow/gantry/printhead/step1.png)
+![Step 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step1.png)
 
 ### Mounting
 
