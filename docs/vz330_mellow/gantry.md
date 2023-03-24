@@ -46,3 +46,7 @@ On how to print the files for this printer please refer to [print settings](../g
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Front%20Idler-motor%20mounts%20AWD/Alu%20version/20mmSpacer.stl" target="_blank">Spacers</a> | 2 | - |
 
 On how to print the files for this printer please refer to [print settings](../general/print-settings)
+
+### Replace Parts
+
+Next step is replacing all the pla printed parts with the parts from above, if this is done place the assembly on the frame and bolt down the upper part of the frame.s
