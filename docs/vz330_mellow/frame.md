@@ -31,6 +31,7 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 | M4 T-nuts | 10 | - |
 | M4 10mm | 2 | - |
 | M4 15/16mm | 8 | - |
+| TODO pick right bags and list | 1 | - |
 
 ### Frame colors 
 <br>
@@ -44,10 +45,10 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 
 ## STL's
 
- | File name | Amount to print |
+| File name | Amount to print |
 |-----------|-----------------|
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/Frame_Brace.stl" target="_blank">Bracer</a> | 2 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/handle.stl" target="_blank">Handle</a> | 2 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/handle.stl" target="_blank">Handle</a> | 4 |
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/cable%20holder%20frame%20side.stl" target="_blank">Cable holder</a> | 1 |
 
 ### Step 1

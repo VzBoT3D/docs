@@ -29,7 +29,7 @@ We advice to build the printer in the following order:
 1. [Frame](./vz235_alu/frame)
 2. [Z - Assembly & Bed](./vz235_alu/z_assembly)
 3. [Gantry](./vz235_alu/gantry)
-4. [Bottom and rear panel](./vz235_alu/panels_part1)
+4. [Bottom and rear panel](./vz235_alu/bottom_panels)
 5. [Fume extractor](./vz235_alu/fume_extractor)
 6. [Electronics](./vz235_alu/electronics)
 7. [Side panels + RSCS](./vz235_alu/rscs)
