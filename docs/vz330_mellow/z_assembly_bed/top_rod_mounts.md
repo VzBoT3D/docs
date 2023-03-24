@@ -35,7 +35,7 @@ Mount the 10mm M4 screws and t-nuts to all top rod mounts and loosely turn in th
 
 ### Step 2
 
-Mount all top rod mounts to the rod first, finally tighten the rod holders to the frame with the pre-inserted M4 hardware.
+Mount all top rod mounts to the rod first. Make sure the rod mount with the extra hole (for the Z limit switch) is in the back right of the printer like shown below. Finally tighten the rod holders to the frame with the pre-inserted M4 hardware.
 
 ![Step 2](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/step2.png)
 

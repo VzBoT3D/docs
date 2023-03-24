@@ -21,7 +21,7 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 |:-------------|:------------------|:------|
 | M3 8mm           | 16 | -  |
 | M4 8mm | 16   | -  |
-| M3 nut | 4 | - |
+| M3 nut | 12 | - |
 | M3 50mm (countersunk) | 4 | Countersunk for the bed |
 | LMK10LUU | 4 | If you want to use the bought version |
 | LM10LUU | 4 | Use this from the old bed and print holders |
@@ -33,9 +33,10 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 | File name | Amount to print |
 |-----------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Oldham couplers ( optional )</a> | 2 | - |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">LM10LUU adapter</a> | 4 | Only if you don't use the bought version |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Bed level knobs</a> | 4 | - |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Bed%20Assembly/STLs/Oldham_middle.stl" target="_blank">Oldham couplers middle ( optional )</a> | 2 | - |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Bed%20Assembly/STLs/Oldham_topbot.stl" target="_blank">Oldham couplers top / bottom ( optional )</a> | 4 | - |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/LM10LUU%20to%20LMK10LUU.stl" target="_blank">LM10LUU adapter</a> | 4 | Only if you don't use the bought version |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/Bed%20level%20adjustment%20knobs%20.stl" target="_blank">Bed level knobs</a> | 4 | - |
 
 ### Step 1
 

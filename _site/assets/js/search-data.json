@@ -176,14 +176,14 @@
   },"25": {
     "doc": "2.5 Z-Switch & bed chain",
     "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M2 10mm | 2 | for microswitch | . | M3 8mm | 1 | for microswitch | . | M3 10mm | 4 | - | . | M3 40mm | 1 | - | . | M3 nut | 3 | - | . | Microswitch | 1 | - | . ",
+    "content": "| Material | Quantity | Notes | . | M2 10mm | 2 | for microswitch | . | M3 6mm | 4 | - | . | M3 8mm | 1 | for microswitch | . | M3 10mm | 2 | - | . | M3 40mm | 1 | - | . | M3 nut | 3 | - | . | Microswitch | 1 | - | . ",
     "url": "/vz330_mellow/z_assembly/bed_additions#bom",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_additions#bom"
   },"26": {
     "doc": "2.5 Z-Switch & bed chain",
     "title": "STL’s",
-    "content": "| File name | Amount to print | . | Chain mount | 1 | . | Endstop mount | 1 | . Step 1 . Mount the printed chain mount to the bed frame using 2x10mm M3 screws. Then mount the cable chain using 10mm M3 screws and nuts like shown below. Step 2 . Mount the microswitch to the printed adapter using M2 screws. Then mount the assembly to the top rod holder using the 8mm M3. Finally screw in the 50mm M3 screw and nut like shown below. After setting the correct Z-height using the adjustment screw use the M3 nut to lock the screw in place in order to make sure the screw doesn’t drift off position. ",
+    "content": "| File name | Amount to print | . | Chain mount | 1 | . | Endstop mount | 1 | . Step 1 . Mount the printed chain mount to the bed frame using 4x6mm M3 screws. Then mount the cable chain using 10mm M3 screws and nuts like shown below. Step 2 . Mount the microswitch to the printed adapter using M2 screws. Then mount the assembly to the top rod holder using the 8mm M3. Finally screw in the 50mm M3 screw and nut like shown below. After setting the correct Z-height using the adjustment screw use the M3 nut to lock the screw in place in order to make sure the screw doesn’t drift off position. ",
     "url": "/vz330_mellow/z_assembly/bed_additions#stls",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_additions#stls"
@@ -246,14 +246,14 @@
   },"35": {
     "doc": "2.2 Bed Assembly",
     "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M3 8mm | 16 | - | . | M4 8mm | 16 | - | . | M3 nut | 4 | - | . | M3 50mm (countersunk) | 4 | Countersunk for the bed | . | LMK10LUU | 4 | If you want to use the bought version | . | LM10LUU | 4 | Use this from the old bed and print holders | . | Oldham coupler | 2 | Optional but highly advised | . | Leadscrew nut | 2 | - | . | Springs / Silicon dumper | 4 | - | . ",
+    "content": "| Material | Quantity | Notes | . | M3 8mm | 16 | - | . | M4 8mm | 16 | - | . | M3 nut | 12 | - | . | M3 50mm (countersunk) | 4 | Countersunk for the bed | . | LMK10LUU | 4 | If you want to use the bought version | . | LM10LUU | 4 | Use this from the old bed and print holders | . | Oldham coupler | 2 | Optional but highly advised | . | Leadscrew nut | 2 | - | . | Springs / Silicon dumper | 4 | - | . ",
     "url": "/vz330_mellow/z_assembly/bed_assembly#bom",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_assembly#bom"
   },"36": {
     "doc": "2.2 Bed Assembly",
     "title": "STL’s",
-    "content": "| File name | Amount to print |   | . | Oldham couplers ( optional ) | 2 | - | . | LM10LUU adapter | 4 | Only if you don’t use the bought version | . | Bed level knobs | 4 | - | . Step 1 . Mount the LMK10LUU using the M4 10mm hardware to the bed frame. Then mount the Oldham couplers with the leadscrew nuts together with M3 10mm and the M3 nut and mount that assembly to the bed frame using M3 hardware. Afterwards place the bed assembly in the rods and the leadscrew. Step 2 . Place the bed assembly in the rods and leadscre . Step 3 . Mount the bed plate to the bed frame using the 50mm countersunk M3 screws, put a Spring or a silicon dumper on each corner of the bed before attaching the screw and the bed level knob to it. Then give every knob a small “torque” so you can later level your bed propperly. When using a cast aluminum bed make sure it is well prepped before mounting. It is recommended to always be safe and inform yourself properly on how to apply a AC silicon heating pad. ",
+    "content": "| File name | Amount to print |   | . | Oldham couplers middle ( optional ) | 2 | - | . | Oldham couplers top / bottom ( optional ) | 4 | - | . | LM10LUU adapter | 4 | Only if you don’t use the bought version | . | Bed level knobs | 4 | - | . Step 1 . Mount the LMK10LUU using the M4 10mm hardware to the bed frame. Then mount the Oldham couplers with the leadscrew nuts together with M3 10mm and the M3 nut and mount that assembly to the bed frame using M3 hardware. Afterwards place the bed assembly in the rods and the leadscrew. Step 2 . Place the bed assembly in the rods and leadscre . Step 3 . Mount the bed plate to the bed frame using the 50mm countersunk M3 screws, put a Spring or a silicon dumper on each corner of the bed before attaching the screw and the bed level knob to it. Then give every knob a small “torque” so you can later level your bed propperly. When using a cast aluminum bed make sure it is well prepped before mounting. It is recommended to always be safe and inform yourself properly on how to apply a AC silicon heating pad. ",
     "url": "/vz330_mellow/z_assembly/bed_assembly#stls",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_assembly#stls"
@@ -1149,7 +1149,7 @@
   },"164": {
     "doc": "2.1 Lower rod & leadscrew bracket",
     "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M4 10mm | 10 | - | . | M4 12mm | 16 | - | . | M4 t-nut | 20 | - | . | 608-2RS bearings | 4 | - | . | 10mm rods ( 300mm ) | 4 | - | . | Belt GT2 closed ( 860mm ) | 1 | - | . | Leadscrew TR8 ( 300 mm ) | 2 | - | . | GT2 40 teeth | 2 | - | . | GT2 20 teeth | 1 | - | . ",
+    "content": "| Material | Quantity | Notes | . | M4 10mm | 4 | - | . | M4 12mm | 16 | - | . | M4 t-nut | 20 | - | . | 608-2RS bearings | 4 | - | . | 10mm rods ( 500mm ) | 4 | - | . | Belt GT2 closed ( 1100mm ) | 1 | - | . | Leadscrew TR8 ( 500 mm ) | 2 | - | . | GT2 40 teeth | 2 | - | . | GT2 20 teeth | 1 | - | . ",
     "url": "/vz235_alu/z_assembly/lower_part#bom",
     
     "relUrl": "/vz235_alu/z_assembly/lower_part#bom"
@@ -1317,7 +1317,7 @@
   },"188": {
     "doc": "2.3 Top rod mounts",
     "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M4 10mm | 4 | - | . | M4 20mm | 4 | - | . | M4 t-nut | 4 | - | . Step 1 . Important: When mounting the top rod’s make sure the top rod with the extra hole for the z switch is in the back . Mount the 10mm M4 screws and t-nuts to all top rod mounts and loosely turn in the 20mm M4 screws in the clamping mechanism. Step 2 . Mount all top rod mounts to the rod first, finally tighten the rod holders to the frame with the pre-inserted M4 hardware. Step 3 . After installing check the movement of the bed assembly by turning the leadscrews. This should operate smoothly. If not, place the bed assembly in the top most position, untighten all top rod holders and retighten to align the rods. ",
+    "content": "| Material | Quantity | Notes | . | M4 10mm | 4 | - | . | M4 20mm | 4 | - | . | M4 t-nut | 4 | - | . Step 1 . Important: When mounting the top rod’s make sure the top rod with the extra hole for the z switch is in the back . Mount the 10mm M4 screws and t-nuts to all top rod mounts and loosely turn in the 20mm M4 screws in the clamping mechanism. Step 2 . Mount all top rod mounts to the rod first. Make sure the rod mount with the extra hole (for the Z limit switch) is in the back right of the printer like shown below. Finally tighten the rod holders to the frame with the pre-inserted M4 hardware. Step 3 . After installing check the movement of the bed assembly by turning the leadscrews. This should operate smoothly. If not, place the bed assembly in the top most position, untighten all top rod holders and retighten to align the rods. ",
     "url": "/vz330_mellow/z_assembly/top_rod_mounts#bom",
     
     "relUrl": "/vz330_mellow/z_assembly/top_rod_mounts#bom"
@@ -1520,7 +1520,7 @@
   },"217": {
     "doc": "2.4 Z-Motor bracket",
     "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M3 10mm | 6 | - | . | M4 10mm | 2 | - | . | M4 t-nut | 2 | - | . | M3 washer | 2 | - | . | GT2 20 teeth | 1 | - | . | NEMA 17 stepper | 1 | - | . Step 1 . Mount the bracket shown below to the frame using the 10mm M4 screws and T-nuts. Make sure it is nicely centered in the middle of the frame. Step 2 . Mount the stepper motor to the top bracket using the 10mm M3 screws. Attach the motor pulley like shown below. Step 3 . Mount the previous assembly to the bracket on the frame using 10mm M3 screws. Step 4 . With the motor in the furthest position, loop the belt around the motor pulley and tighten the belt. Be sure to check if the belt is horizontally parallel to the frame for smoothest operation. ",
+    "content": "| Material | Quantity | Notes | . | M3 10mm | 4 | - | . | M4 10mm | 4 | - | . | M4 t-nut | 2 | - | . | GT2 20 teeth | 1 | - | . | NEMA 17 stepper | 1 | - | . Step 1 . Mount the bracket shown below to the frame using the 10mm M4 screws and T-nuts. Make sure it is nicely centered in the middle of the frame. Step 2 . Mount the stepper motor to the top bracket using the 10mm M3 screws. Attach the motor pulley like shown below. Step 3 . Mount the previous assembly to the bracket on the frame using 10mm M4 screws. Step 4 . With the motor in the furthest position, loop the belt around the motor pulley and tighten the belt. Be sure to check if the belt is horizontally parallel to the frame for smoothest operation. ",
     "url": "/vz330_mellow/z_assembly/z_motor#bom",
     
     "relUrl": "/vz330_mellow/z_assembly/z_motor#bom"
