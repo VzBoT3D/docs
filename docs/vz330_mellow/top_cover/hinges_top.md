@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 8.1 Top Cover hinges
-parent: 8. Top cover and doors panels
+title: 9.1 Top Cover hinges
+parent: 9. Top cover and doors panels
 grand_parent: VzBoT330 - Mellow Kit
 has_toc: false
 nav_order: 1
@@ -9,7 +9,7 @@ has_children: false
 permalink: /vz330_mellow/top_cover/top
 ---
 
-# 8.1 Top Cover hinges
+# 9.1 Top Cover hinges
 
 ## Overview
 ![Overview](../../assets/images/manual/vz330_mellow/top_cover/top/overview.png)

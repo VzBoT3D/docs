@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 4. Bottom and rear panels
+title: 5. Bottom and rear panels
 parent: VzBoT330 - Mellow Kit
 has_toc: false
-nav_order: 4
+nav_order: 5
 has_children: false
 permalink: /vz330_mellow/panels_part1
 ---
 
-# 4. Bottom and rear panels
+# 5. Bottom and rear panels
 
 ## Overview
 ![Overview](../assets/images/manual/vz330_mellow/panels_1/overview.png)

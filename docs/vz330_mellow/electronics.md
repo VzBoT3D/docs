@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 6. Electronics
+title: 7. Electronics
 parent: VzBoT330 - Mellow Kit
 has_toc: false
-nav_order: 6
+nav_order: 7
 has_children: true
 permalink: /vz330_mellow/electronics
 ---
 
-# 6. Electronics
+# 7. Electronics
 
 ## Overview
 ![Overview](../assets/images/manual/vz330_mellow/electronics/overview.png)

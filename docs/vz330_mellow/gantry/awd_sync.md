@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3.2 AWD Motor sync
-parent: 3. Gantry
+title: 4.2 AWD Motor sync
+parent: 4. Gantry
 grand_parent: VzBoT330 - Mellow Kit
 has_toc: false
 nav_order: 2
@@ -9,7 +9,7 @@ has_children: false
 permalink: /vz330_mellow/gantry/awd_motor
 ---
 
-# 3.2 AWD Motor sync
+# 4.2 AWD Motor sync
 ## Overview
 
 ![Overview](../../assets/images/manual/vz330_mellow/gantry/awd/overview.png)
@@ -57,6 +57,8 @@ Set belt tension like on a normal 2WD VZ330.
 ### Step 2
 Loosen the grubscrews on one of each set of motors, make sure the grub screws will not be
 on the flat side of the stepper shaft.
+<br>
+**This is important the grub screw should NOT be screwed to flat side of the shaft, otherwise a synchronisation is impossible to achive*
 
 ### Step 3
 Boot up the printer and order “enable stepper”.

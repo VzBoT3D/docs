@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 2. Z - Assembly & Bed
+title: 3. Z - Assembly & Bed
 parent: VzBoT330 - Mellow Kit
 has_toc: false
-nav_order: 2
+nav_order: 3
 has_children: true
 permalink: /vz330_mellow/z_assembly
 ---
 
-# 2. Z - Assembly & Bed
+# 3. Z - Assembly & Bed
 
 ## Overview
 ![Z Overview](../assets/images/manual/vz330_mellow/z_assembly/overview.png)

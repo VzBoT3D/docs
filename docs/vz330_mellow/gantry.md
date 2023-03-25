@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 3. Gantry
+title: 4. Gantry
 parent: VzBoT330 - Mellow Kit
 has_toc: false
-nav_order: 3
+nav_order: 4
 has_children: true
 permalink: /vz330_mellow/gantry
 ---
 
-# 3. Gantry
+# 4. Gantry
 
 ## Overview
 

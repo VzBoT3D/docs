@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 8.3 Front door latches
-parent: 8. Top cover and doors panels
+title: 9.3 Front door latches
+parent: 9. Top cover and doors panels
 grand_parent: VzBoT330 - Mellow Kit
 has_toc: false
 nav_order: 3
@@ -9,7 +9,7 @@ has_children: false
 permalink: /vz330_mellow/top_cover/door
 ---
 
-# 8.3 Front door latches
+# 9.3 Front door latches
 
 ## Overview
 ![Overview](../../assets/images/manual/vz330_mellow/top_cover/latches/overview.png)

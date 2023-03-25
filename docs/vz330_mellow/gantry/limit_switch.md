@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3.1 Y limit switch
-parent: 3. Gantry
+title: 4.1 Y limit switch
+parent: 4. Gantry
 grand_parent: VzBoT330 - Mellow Kit
 has_toc: false
 nav_order: 1
@@ -9,7 +9,7 @@ has_children: false
 permalink: /vz330_mellow/gantry/limit_switch
 ---
 
-# 3.1 Y limit switch
+# 4.1 Y limit switch
 ## Overview
 
 ![Overview](../../assets/images/manual/vz330_mellow/gantry/limit_switch/overview.png)

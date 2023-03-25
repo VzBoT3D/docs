@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3.3 Printhead
-parent: 3. Gantry
+title: 4.3 Printhead
+parent: 4. Gantry
 grand_parent: VzBoT330 - Mellow Kit
 has_toc: false
 nav_order: 4
@@ -9,7 +9,7 @@ has_children: false
 permalink: /vz330_mellow/gantry/printhead
 ---
 
-# Printhead
+# 4.3 Printhead
 
 ## Overview
 
