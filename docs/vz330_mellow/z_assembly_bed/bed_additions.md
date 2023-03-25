@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.5 Z-Switch & bed chain
+title: 3.5 Z-Switch & bed chain
 parent: 2. Z - Assembly & Bed
 grand_parent: VzBoT330 - Mellow Kit
 has_toc: false
@@ -9,7 +9,7 @@ has_children: false
 permalink: /vz330_mellow/z_assembly/bed_additions
 ---
 
-# 2.5 Z-Switch & bed chain
+# 3.5 Z-Switch & bed chain
 
 ## Overview
 

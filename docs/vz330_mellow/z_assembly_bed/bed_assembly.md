@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2.2 Bed Assembly
-parent: 2. Z - Assembly & Bed
+title: 3.2 Bed Assembly
+parent: 3. Z - Assembly & Bed
 grand_parent: VzBoT330 - Mellow Kit
 has_toc: false
 nav_order: 2
@@ -9,7 +9,7 @@ has_children: false
 permalink: /vz330_mellow/z_assembly/bed_assembly
 ---
 
-# 2.2 Bed Assembly
+# 3.2 Bed Assembly
 
 ## Overview
 

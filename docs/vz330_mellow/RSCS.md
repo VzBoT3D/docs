@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 7. Side panels + RSCS
+title: 8. Side panels + RSCS
 parent: VzBoT330 - Mellow Kit
 has_toc: false
-nav_order: 7
+nav_order: 8
 has_children: false
 permalink: /vz330_mellow/rscs
 ---
 
-# 7. Side panels + RSCS
+# 8. Side panels + RSCS
 
 ## Overview
 ![Overview](../assets/images/manual/vz330_mellow/rscs/overview.png)

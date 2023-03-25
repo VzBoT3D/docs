@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2.3 Top rod mounts
-parent: 2. Z - Assembly & Bed
+title: 3.3 Top rod mounts
+parent: 3. Z - Assembly & Bed
 grand_parent: VzBoT330 - Mellow Kit
 has_toc: false
 nav_order: 3
@@ -9,7 +9,7 @@ has_children: false
 permalink: /vz330_mellow/z_assembly/top_rod_mounts
 ---
 
-# 2.3 Top rod mounts
+# 3.3 Top rod mounts
 
 ## Overview
 

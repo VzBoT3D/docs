@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 5. Fume extractor
+title: 6. Fume extractor
 parent: VzBoT330 - Mellow Kit
 has_toc: false
-nav_order: 5
+nav_order: 6
 has_children: false
 permalink: /vz330_mellow/fume_extractor
 ---
 
-# 5. Fume extractor
+# 6. Fume extractor
 
 ## Overview
 ![Overview](../assets/images/manual/vz330_mellow/fume/overview.png)
