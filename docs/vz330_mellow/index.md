@@ -9,7 +9,7 @@ permalink: /vz330_mellow
 
 # VzBoT 330 - Mellow Kit
 
-![Overview](../assets/images/manual/vz235_alu/alu_preview.png)
+![Overview](../assets/images/manual/vz330_mellow/overview.png)
 <br>
 <br>
 
