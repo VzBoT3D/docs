@@ -9,7 +9,7 @@ has_children: false
 permalink: /vz330_mellow/gantry/awd_motor
 ---
 
-# 3.1 Y limit switch
+# 3.2 AWD Motor sync
 ## Overview
 
 ![Overview](../../assets/images/manual/vz330_mellow/gantry/awd/overview.png)
