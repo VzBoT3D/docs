@@ -14,6 +14,16 @@ permalink: /vz330_mellow/gantry/awd_motor
 
 ![Overview](../../assets/images/manual/vz330_mellow/gantry/awd/overview.png)
 
+## Belt routing
+
+The belt routing for an AWD setup should look like the following
+
+![Overview](../../assets/images/manual/vz330_mellow/gantry/awd/belt.png)
+
+### Videos for belt routing
+
+[![Build routing](../../assets/images/manual/vz235_printed/gantry/belt_routing_video.png)](https://www.youtube.com/watch?v=Ibi27Toh-pg&t=2s "Build routing")
+
 ## Setup and tuning
 
 After finishing the build one must take care to properly set up the AWD system. It is
@@ -34,6 +44,12 @@ gcode:
 gcode:
  m84
 ```
+
+## Video for tensioning
+
+[![Build tensioning](../../assets/images/manual/vz235_printed/gantry/belt_tentioning_video.png)](https://www.youtube.com/watch?v=qNMXW6MUV5E&t=401s "Build tensioning")
+<br>
+<br>
 
 ### Step 1
 Set belt tension like on a normal 2WD VZ330.
