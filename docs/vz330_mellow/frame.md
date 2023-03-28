@@ -112,7 +112,7 @@ Repeat the steps from **Step 1** and **Step 2** for the other u-shaped side.
 | | |
 | | |
 | | |
-| ![Screw](../assets/images/manual/vz330_mellow/frame/step4_screw_extrusion.png) | We take the **E screw** and the second u-shape assemble and screw the **E screw** in the second hole of the **A extrusion** on the other side of the one we did before, there should be a gap between the **E screw** and the extrusion big enough to slide on the other assembly.
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step4_screw_extrusion.png) | We take another **E screw** and screw it in the second hole of the **A extrusion** on the other side of the one we did before, there should be a gap between the **E screw** and the extrusion big enough to slide on the other assembly.
 | | |
 | | |
 | | |
