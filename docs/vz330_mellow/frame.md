@@ -90,4 +90,48 @@ Repeat the steps from **Step 1** and **Step 2** for the other u-shaped side.
 | | |
 | | |
 | | |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step4_mount.png) | We now take the assembled u-shape part and slide the **C extrusion** on it and tighten down the **E screw** just enough so that the **C extrusion** can't slide off. We will tighten up this screws later when we made sure the frame is square.
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step4_mount.png) | We now take the the **C extrusion** and slite it on the **A extrusion** and tighten down the **E screw** just enough so that the **C extrusion** can't slide off. We will tighten up this screws later when we made sure the frame is square.
+
+### Step 5
+
+![Step 5](../assets/images/manual/vz330_mellow/frame/step5.png)
+
+| | |
+|-|-|
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step5_screw_extrusion.png) | We take the **E screw** and fasten it to the other side of the u-shape in the second hole of the **A extrusion**, there should be a gap between the **E screw** and the extrusion big enough to slide the **C extrusion** on.
+| | |
+| | |
+| | |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_mount.png) | We now take the the **C extrusion** and slite it on the **A extrusion** and tighten down the **E screw** just enough so that the **C extrusion** can't slide off. We will tighten up this screws later when we made sure the frame is square.
+
+### Step 6
+
+| | |
+|-|-|
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step5_screw_extrusion.png) | We take the **E screw** and the second u-shape assemble and screw the **E screw** in the second hole of the **A extrusion**, there should be a gap between the **E screw** and the extrusion big enough to slide on the other assembly.
+| | |
+| | |
+| | |
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step4_screw_extrusion.png) | We take the **E screw** and the second u-shape assemble and screw the **E screw** in the second hole of the **A extrusion** on the other side of the one we did before, there should be a gap between the **E screw** and the extrusion big enough to slide on the other assembly.
+| | |
+| | |
+| | |
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step6_combine.png) | We now take the u-shape assembly and slide it in the existing part of the frame and screw down the **E screw** just enough so that the **C extrusion** can't slide off. We will tighten up this screws later when we made sure the frame is square.
+
+### Step 7
+
+![Step 5](../assets/images/manual/vz330_mellow/frame/step7.png)
+
+We can take the assembly from **Step 1** to **Step 6** and flipp it upside down.
+
+| | |
+|-|-|
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step7_screw_extrusion.png) | We take the four **E screw** and screw them in the outer holes of the **A extrusions**, there should be a gap between the **E screw** and the extrusion big enough to slide on the missing **B extrusions**
+| | |
+| | |
+| | |
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step7_mount.png) | We now take the two remaining **B extrusions** and slide them over the inserted **E screws**. Tighten down the **E screw** just enough so that the **B extrusion** can't slide off, we let them like this because we need to adjust them later when we install the Gantry.
+
+### Step 8
+
+The last step for the frame is making sure that the extrusion's are mounted straight and square, when you unsured that tighten up all **E screws** beside the ones inserted in **Step 7**.
