@@ -34,7 +34,7 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 | ![2040](../assets/images/manual/vz330_mellow/frame/parts/2040_extrusion.png) | 4 | 2040 extrusion (530mm) | A |
 | ![2020 530mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_530mm.png) | 4 | 2020 extrusion (530mm) | B |
 | ![2020 460mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_460mm.png) | 4 | 2020 extrusion (460mm) | C |
-| ![2020 Corners](../assets/images/manual/vz330_mellow/frame/parts/corner.png) | 8 | - | D |
+| ![2020 Corners](../assets/images/manual/vz330_mellow/frame/parts/corner.png) | 8 | optional | D |
 | ![M5 screw](../assets/images/manual/vz330_mellow/frame/parts/m5_screw.png) | 16 | - | E |
 
 **During the assembly the part's get referenced by it's corresponding identifier specified in the part's section**
