@@ -18,25 +18,6 @@ The frame is assembled through a combination of blind joints and corner brackets
 
 For detailed informations on how to assemble blind joints visit this [page](../general/blind-joints)
 
-## BOM
-
-| Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
-| M5/M6 10mm buttonhead           | 16 | Depending on the type of 2020 you use, you need M5 or M6 screws  |
-| 530mm 2020 extrusion | 4   | Yellow  |
-| 460mm 2020 extrusion           | 6      | Red   |
-| 530mm 2040 extrusion           | 4 | Blue ( all ends need to be tapped ) |
-| 2020 corner joints           | 8 | -  |
-| 2020 blind corner joints           | 4 | -  |
-| M4 T-nuts | 10 | - |
-| M4 10mm | 2 | - |
-| M4 15/16mm | 8 | - |
-| TODO pick right bags and list | 1 | - |
-
-<br>
-![Frame parts](../assets/images/manual/vz330_mellow/frame/bom.png)
-<br>
-
 ## STL's
 
 | File name | Amount to print |
@@ -44,28 +25,113 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/Frame_Brace.stl" target="_blank">Bracer</a> | 2 |
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/handle.stl" target="_blank">Handle</a> | 4 |
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/cable%20holder%20frame%20side.stl" target="_blank">Cable holder</a> | 1 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/2020%20Endcap.stl" target="_blank">2020 endcap</a> | 4 |
+
+## Part's
+
+| Material        | Quantity          | Notes | Identifier |
+|:-------------|:------------------|:------| :------ |
+| ![2040](../assets/images/manual/vz330_mellow/frame/parts/2040_extrusion.png) | 4 | 2040 extrusion (530mm) | A |
+| ![2020 530mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_530mm.png) | 4 | 2020 extrusion (530mm) | B |
+| ![2020 460mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_460mm.png) | 4 | 2020 extrusion (460mm) | C |
+| ![2020 Corners](../assets/images/manual/vz330_mellow/frame/parts/corner.png) | 8 | optional | D |
+| ![M5 screw](../assets/images/manual/vz330_mellow/frame/parts/m5_screw.png) | 16 | - | E |
+
+**During the assembly the part's get referenced by it's corresponding identifier specified in the part's section**
+
+## Assembly
+
+<style>
+ table {
+    border-collapse: collapse;
+    border: none !important;
+    background: none !important;
+ }
+ table, th, td {
+   border: none !important;
+   background: none !important;
+ }
+</style>
 
 ### Step 1
+![Step 1](../assets/images/manual/vz330_mellow/frame/step1.png)
 
-To start you are going to build the bottom and the z profiles of the frame first, this is necessary because the gantry comes pre assembled form
-mellow. Take two **Aluminium 1** profiles and two **Aluminium 2** profiles, also take the four 2040 **Aluminium 3** profiles. <br>
+| | |
+|-|-|
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step1_screw_extrusion.png) | We take the **E screw** and fasten it in the outer hole of the **A extrusion**, there should be a gap between the **E screw** and the extrusion big enough to slide the **B extrusion** on.
+| | |
+| | |
+| | |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_mount.png) | We now take the **B extrusion** and slide it on the **A extrusion** and tighten down the **E screw** just enough so that the **B extrusion** can't slide off. We will tighten up this screws later when we made sure the frame is square.|
 
 ### Step 2
-Combine the **Aluminium 3** profiles with **Aluminium 1** and **Aluminium 2** profiles with M5 25mm screws. Line shown on the picture below. 
-
 ![Step 2](../assets/images/manual/vz330_mellow/frame/step2.png)
 
-### Step 3
+| | |
+|-|-|
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step2_screw_extrusion.png) | We take the **E screw** and fasten it in the outer hole of the **A extrusion**, there should be a gap between the **E screw** and the extrusion big enough to slide the **B extrusion** on.
+| | |
+| | |
+| | |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_mount.png) | We now take the assembled part from **Step 1** and slide it on the **A extrusion** and tighten down the **E screw** just enough so that the **B extrusion** can't slide off. We will tighten up this screws later when we made sure the frame is square.
 
-Next flip your now assembled frame up side down so the "closed" part is on top and put in the M4 boat nut. Use the following assembly technique:
-First, align the M4 nut with the aluminium profile groove and put it into the aluminium profile groove. Unscrew with the screwdriver and release the M4 boat nut. A pictured description is below
+### Step 3
+Repeat the steps from **Step 1** and **Step 2** for the other u-shaped side.
 
 ![Step 3](../assets/images/manual/vz330_mellow/frame/step3.png)
 
 ### Step 4
 
-The last step for the actual frame assembly is adding two more **Aluminium 1** profiles to the top of the frame. Use the outer part of the 2040 profiles and loosly screw the profiles down with M5 25mm screws. Loosly is enough due to the reason that we can bolt them down when the preassembled gantry slot's in place.
-
 ![Step 4](../assets/images/manual/vz330_mellow/frame/step4.png)
 
-Congrats you have successfully built the frame to you VzBoT. This is the start of something truly impressive. This is like the foundation to your printer and is really important that it is built correctly.
+| | |
+|-|-|
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step4_screw_extrusion.png) | We take the **E screw** and fasten it in the second hole of the **A extrusion**, there should be a gap between the **E screw** and the extrusion big enough to slide the **C extrusion** on.
+| | |
+| | |
+| | |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step4_mount.png) | We now take the the **C extrusion** and slite it on the **A extrusion** and tighten down the **E screw** just enough so that the **C extrusion** can't slide off. We will tighten up this screws later when we made sure the frame is square.
+
+### Step 5
+
+![Step 5](../assets/images/manual/vz330_mellow/frame/step5.png)
+
+| | |
+|-|-|
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step5_screw_extrusion.png) | We take the **E screw** and fasten it to the other side of the u-shape in the second hole of the **A extrusion**, there should be a gap between the **E screw** and the extrusion big enough to slide the **C extrusion** on.
+| | |
+| | |
+| | |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_mount.png) | We now take the the **C extrusion** and slite it on the **A extrusion** and tighten down the **E screw** just enough so that the **C extrusion** can't slide off. We will tighten up this screws later when we made sure the frame is square.
+
+### Step 6
+
+| | |
+|-|-|
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step5_screw_extrusion.png) | We take the **E screw** and the second u-shape assemble and screw the **E screw** in the second hole of the **A extrusion**, there should be a gap between the **E screw** and the extrusion big enough to slide on the other assembly.
+| | |
+| | |
+| | |
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step4_screw_extrusion.png) | We take another **E screw** and screw it in the second hole of the **A extrusion** on the other side of the one we did before, there should be a gap between the **E screw** and the extrusion big enough to slide on the other assembly.
+| | |
+| | |
+| | |
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step6_combine.png) | We now take the u-shape assembly and slide it in the existing part of the frame and screw down the **E screw** just enough so that the **C extrusion** can't slide off. We will tighten up this screws later when we made sure the frame is square.
+
+### Step 7
+
+![Step 5](../assets/images/manual/vz330_mellow/frame/step7.png)
+
+We can take the assembly from **Step 1** to **Step 6** and flipp it upside down.
+
+| | |
+|-|-|
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step7_screw_extrusion.png) | We take the four **E screw** and screw them in the outer holes of the **A extrusions**, there should be a gap between the **E screw** and the extrusion big enough to slide on the missing **B extrusions**
+| | |
+| | |
+| | |
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step7_mount.png) | We now take the two remaining **B extrusions** and slide them over the inserted **E screws**. Tighten down the **E screw** just enough so that the **B extrusion** can't slide off, we let them like this because we need to adjust them later when we install the Gantry.
+
+### Step 8
+
+The last step for the frame is making sure that the extrusion's are mounted straight and square, when you unsured that tighten up all **E screws** beside the ones inserted in **Step 7**.
