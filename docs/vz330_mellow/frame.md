@@ -20,7 +20,7 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 
 ## STL's
 <div>
-<img src="../assets/images/manual/vz330_mellow/frame/stls.png" width="700" height="702" usemap="#image-map">
+<img src="../assets/images/manual/vz330_mellow/frame/stls.png" usemap="#image-map">
 <map name="image-map">
     <area target="_blank" alt="Handle" title="Handle" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/handle.stl" coords="1,3,698,234" shape="rect">
     <area target="_blank" alt="2020 endcaps" title="2020 endcaps" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/2020%20Endcap.stl" coords="4,236,213,409" shape="rect">
