@@ -58,11 +58,6 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 </style>
 
 ### Step 1
-<img src="../assets/images/manual/vz330_mellow/frame/step1.png" usemap="#image-map">
-
-<map name="image-map">
-    <area target="_blank" alt="test" title="test" href="http://www.google.de" coords="9,310,201,943" shape="rect">
-</map>
 
 ![Step 1](../assets/images/manual/vz330_mellow/frame/step1.png)
 
