@@ -7,8 +7,8 @@ layout: table_wrappers
 <html lang="{{ site.lang | default: 'en-US' }}">
 {% include head.html %}
 <head>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-  <script type="text/javascript" src="/assets/js/imageMapResizer.map.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  
 </head>
 <body>
   <a class="skip-to-main" href="#main-content">Skip to main content</a>
@@ -41,10 +41,6 @@ layout: table_wrappers
   {% if site.mermaid %}
     {% include components/mermaid.html %}
   {% endif %}
-  <script type="text/javascript">
-		$(document).ready(
-      function(e){$("map").imageMapResize();}
-    );
-	</script>
+  <script type="text/javascript" src="/assets/js/img-map.js"></script>
 </body>
 </html>
