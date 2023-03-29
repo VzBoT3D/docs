@@ -23,6 +23,7 @@
       this.areaArray = Array.from(area);
   
       window.addEventListener('resize', this.resizeEvent);
+      window.addEventListener('load', this.resizeEvent);
       setTimeout(this.imgMap, 500);
     }
     /**
@@ -53,9 +54,9 @@
      */
     areaLoop = (area) => {
       const coordinates = this.getCoordinates(area).split(',');
-      alert(coordinates)
       const coordsPercent = coordinates.map(this.mapCoords).join();
-      alert(coordsPercent)
+      console.log(coordsPercent)
+      console.log(coordinates)
       area.setAttribute('coords', coordsPercent);
     };
     /**
@@ -66,7 +67,12 @@
      */
     mapCoords = (coordinate, index) => {
       const parseCord = parseInt(coordinate, 10);
-  
+      
+      console.log(this.imageW)
+      console.log(this.imageH)
+      console.log(this.wPercent)
+      console.log(this.hPercent)
+
       return index % 2 === 0
         ? this.coordinatesMath(parseCord, this.imageW, this.wPercent)
         : this.coordinatesMath(parseCord, this.imageH, this.hPercent);
