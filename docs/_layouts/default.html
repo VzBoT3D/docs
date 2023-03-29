@@ -7,9 +7,8 @@ layout: table_wrappers
 <html lang="{{ site.lang | default: 'en-US' }}">
 {% include head.html %}
 <head>
-  <script type="text/javascript" src="/assets/js/jquery.js"></script>
-<script type="text/javascript" src="/assets/js/imageMapResizer.map.js"></script>
-<script type="text/javascript" src="/assets/js/areamap.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script type="text/javascript" src="/assets/js/imageMapResizer.map.js"></script>
 </head>
 <body>
   <a class="skip-to-main" href="#main-content">Skip to main content</a>
@@ -44,8 +43,7 @@ layout: table_wrappers
   {% endif %}
 
   <script type="text/javascript">
-		$('map').imageMapResize();
-    $('img[usemap]').rwdImageMaps();
+		$(document).ready(function(e){$("map").imageMapResize();});
 	</script>
 </body>
 </html>

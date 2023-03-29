@@ -1,168 +1,75 @@
-/*! Image Map Resizer
- *  Desc: Resize HTML imageMap to scaled image.
- *  Copyright: (c) 2014-15 David J. Bradshaw - dave@bradshaw.net
- *  License: MIT
- */
+/*! Image Map Resizer (imageMapResizer.min.js ) - v0.5.3 - 2015-01-29
+   *  Desc: Resize HTML imageMap to scaled image.
+   *  Copyright: (c) 2015 David J. Bradshaw - dave@bradshaw.net
+   *  License: MIT
+   */
 
-;(function() {
-    'use strict'
-  
-    function scaleImageMap() {
-      function resizeMap() {
-        function resizeAreaTag(cachedAreaCoords, idx) {
-          function scale(coord) {
-            var dimension = 1 === (isWidth = 1 - isWidth) ? 'width' : 'height'
-            return (
-              padding[dimension] +
-              Math.floor(Number(coord) * scalingFactor[dimension])
-            )
+! function() {
+    "use strict";
+
+    function a() {
+      function a() {
+        function a(a) {
+          function c(a) {
+            return a * b[1 === (d = 1 - d) ? "width" : "height"]
           }
-  
-          var isWidth = 0
-          areas[idx].coords = cachedAreaCoords
-            .split(',')
-            .map(scale)
-            .join(',')
+          var d = 0;
+          return a.split(",").map(Number).map(c).map(Math.floor).join(",")
         }
-  
-        var scalingFactor = {
-          //width: image.width / image.naturalWidth,
-          //height: image.height / image.naturalHeight,
-          width: window.innerWidth / origwindowwidth,
-          height: window.innerHeight / origwindowheight
+        for (var b = {
+            width: i.width / j.width,
+            height: i.height / j.height
+          }, c = 0; g > c; c++) f[c].coords = a(h[c])
+      }
+
+      function b() {
+        j.onload = function() {
+          (i.width !== j.width || i.height !== j.height) && a()
+        }, j.src = i.src
+      }
+
+      function c() {
+        function b() {
+          clearTimeout(k), k = setTimeout(a, 250)
         }
-  
-        var padding = {
-          width: parseInt(
-            window.getComputedStyle(image, null).getPropertyValue('padding-left'),
-            10
-          ),
-          height: parseInt(
-            window.getComputedStyle(image, null).getPropertyValue('padding-top'),
-            10
-          ),
-        }
-  
-        cachedAreaCoordsArray.forEach(resizeAreaTag)
+        window.addEventListener ? window.addEventListener("resize", b, !1) : window.attachEvent && window.attachEvent("onresize", b)
       }
-  
-      function getCoords(e) {
-        //Normalize coord-string to csv format without any space chars
-        return e.coords.replace(/ *, */g, ',').replace(/ +/g, ',')
+
+      function d(a) {
+        return a.coords.replace(/ *, */g, ",").replace(/ +/g, ",")
       }
-  
-      function debounce() {
-        clearTimeout(timer)
-        timer = setTimeout(resizeMap, 250)
-      }
-  
-      function start() {
-        if (
-          image.width !== image.naturalWidth ||
-          image.height !== image.naturalHeight
-        ) {
-          resizeMap()
-        }
-      }
-  
-      function addEventListeners() {
-        image.addEventListener('load', resizeMap, false) //Detect late image loads in IE11
-        window.addEventListener('focus', resizeMap, false) //Cope with window being resized whilst on another tab
-        window.addEventListener('resize', debounce, false)
-        window.addEventListener('readystatechange', resizeMap, false)
-        document.addEventListener('fullscreenchange', resizeMap, false)
-      }
-  
-      function beenHere() {
-        return 'function' === typeof map._resize
-      }
-  
-      function getImg(name) {
-        return document.querySelector('img[usemap="' + name + '"]')
-      }
-  
-      function setup() {
-        areas = map.getElementsByTagName('area')
-        cachedAreaCoordsArray = Array.prototype.map.call(areas, getCoords)
-        image = getImg('#' + map.name) || getImg(map.name)
-        image.src = image.src + "?" + new Date().getTime();
-        map._resize = resizeMap //Bind resize method to HTML map element
-      }
-  
-      var /*jshint validthis:true */
-        map = this,
-        areas = null,
-        cachedAreaCoordsArray = null,
-        image = null,
-        timer = null,
-        origwindowwidth = window.innerWidth,
-        origwindowheight = window.innerHeight;
-  
-      if (!beenHere()) {
-        setup()
-        addEventListeners()
-        start()
-      } else {
-        map._resize() //Already setup, so just resize map
-      }
+      var e = this,
+        f = e.getElementsByTagName("area"),
+        g = f.length,
+        h = Array.prototype.map.call(f, d),
+        i = document.querySelector('img[usemap="#' + e.name + '"]'),
+        j = new Image,
+        k = null;
+      b(), c()
     }
-  
-    function factory() {
-      function chkMap(element) {
-        if (!element.tagName) {
-          throw new TypeError('Object is not a valid DOM element')
-        } else if ('MAP' !== element.tagName.toUpperCase()) {
-          throw new TypeError(
-            'Expected <MAP> tag, found <' + element.tagName + '>.'
-          )
-        }
+
+    function b() {
+      function b(b) {
+        if (!b.tagName) throw new TypeError("Object is not a valid DOM element");
+        if ("MAP" !== b.tagName.toUpperCase()) throw new TypeError("Expected <MAP> tag, found <" + b.tagName + ">.");
+        a.call(b)
       }
-  
-      function init(element) {
-        if (element) {
-          chkMap(element)
-          scaleImageMap.call(element)
-          maps.push(element)
-        }
-      }
-  
-      var maps
-  
-      return function imageMapResizeF(target) {
-        maps = [] // Only return maps from this call
-  
-        switch (typeof target) {
-          case 'undefined':
-          case 'string':
-            Array.prototype.forEach.call(
-              document.querySelectorAll(target || 'map'),
-              init
-            )
-            break
-          case 'object':
-            init(target)
-            break
+      return function(a) {
+        switch (typeof a) {
+          case "undefined":
+          case "string":
+            Array.prototype.forEach.call(document.querySelectorAll(a || "map"), b);
+            break;
+          case "object":
+            b(a);
+            break;
           default:
-            throw new TypeError('Unexpected data type (' + typeof target + ').')
+            throw new TypeError("Unexpected data type (" + typeof a + ").")
         }
-  
-        return maps
       }
     }
-  
-    if (typeof define === 'function' && define.amd) {
-      define([], factory)
-    } else if (typeof module === 'object' && typeof module.exports === 'object') {
-      module.exports = factory() //Node for browserfy
-    } else {
-      window.imageMapResize = factory()
-    }
-  
-    if ('jQuery' in window) {
-      window.jQuery.fn.imageMapResize = function $imageMapResizeF() {
-        return this.filter('map')
-          .each(scaleImageMap)
-          .end()
-      }
-    }
-  })()
+    "function" == typeof define && define.amd ? define([], b) : "object" == typeof exports ? module.exports = b() : window.imageMapResize = b(), "jQuery" in window && (jQuery.fn.imageMapResize = function() {
+      return this.filter("map").each(a).end()
+    })
+  }();
+  //# sourceMappingURL=imageMapResizer.map

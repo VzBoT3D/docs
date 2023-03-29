@@ -20,12 +20,12 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 
 ## STL's
 <div>
-<img src="../assets/images/manual/vz330_mellow/frame/stls.png" usemap="#image-map">
-<map name="image-map">
-    <area target="_blank" alt="Handle" title="Handle" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/handle.stl" coords="1,3,698,234" shape="rect">
-    <area target="_blank" alt="2020 endcaps" title="2020 endcaps" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/2020%20Endcap.stl" coords="4,236,213,409" shape="rect">
-    <area target="_blank" alt="Cable Holder" title="Cable Holder" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/cable%20holder%20frame%20side.stl" coords="244,240,491,403" shape="rect">
-    <area target="_blank" alt="Frame stablizer" title="Frame stablizer" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/Frame_Brace.stl" coords="269,426,698,697" shape="rect">
+<img src="../assets/images/manual/vz330_mellow/frame/stls.png" d="map-image" style="width: 700px; max-width: 100%; height: auto;" usemap="#stl">
+<map name="stl">
+    <area target="_blank" alt="Handle" title="Handle" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/handle.stl" coords="6, 26, 696, 233" shape="rect">
+    <area target="_blank" alt="2020 endcaps" title="2020 endcaps" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/2020%20Endcap.stl" coords="6, 238, 234, 423" shape="rect">
+    <area target="_blank" alt="Cable Holder" title="Cable Holder" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/cable%20holder%20frame%20side.stl" coords="313, 241, 402, 396" shape="rect">
+    <area target="_blank" alt="Frame stablizer" title="Frame stablizer" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/Frame_Brace.stl" coords="300, 433, 697, 699" shape="rect">
 </map>
 </div>
 
