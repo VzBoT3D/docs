@@ -38,14 +38,10 @@ layout: table_wrappers
     {% include components/mermaid.html %}
   {% endif %}
 
-  <script src="/assets/js/jquery.js"></script>
-  <script src="/assets/js/areamap.js"></script>
-  <script>
-    $('img[usemap]').rwdImageMaps();
-
-    $(document).ready(function(e) {
-      $('img[usemap]').rwdImageMaps();
-    });
-  </script>
+  <script type="text/javascript" src="/assets/js/jquery.js"></script>
+  <script type="text/javascript" src="/assets/js/imageresizer.js"></script>
+  <script type="text/javascript">
+		$('map').imageMapResize();
+	</script>
 </body>
 </html>
