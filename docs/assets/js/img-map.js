@@ -44,7 +44,7 @@
     imgMap = () => {
       this.wPercent = this.imageMap.offsetWidth / 100;
       this.hPercent = this.imageMap.offsetHeight / 100;
-  
+
       this.areaArray.forEach(this.areaLoop);
     };
     /**
@@ -53,8 +53,9 @@
      */
     areaLoop = (area) => {
       const coordinates = this.getCoordinates(area).split(',');
+      alert(coordinates)
       const coordsPercent = coordinates.map(this.mapCoords).join();
-  
+      alert(coordsPercent)
       area.setAttribute('coords', coordsPercent);
     };
     /**
