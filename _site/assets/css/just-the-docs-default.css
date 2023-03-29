@@ -144,6 +144,10 @@
 
 .site-footer { visibility: hidden; }
 
+#backing { vertical-align: middle; margin: 0; overflow: hidden; }
+
+#backing svg { display: inline-block; position: absolute; top: 0; left: 0; }
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document ========================================================================== */
 /** 1. Correct the line height in all browsers. 2. Prevent adjustments of font size after orientation changes in iOS. */
