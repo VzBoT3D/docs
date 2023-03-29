@@ -19,29 +19,28 @@ The frame is assembled through a combination of blind joints and corner brackets
 For detailed informations on how to assemble blind joints visit this [page](../general/blind-joints)
 
 ## STL's
+**You can click on the object you wanna print on the plate and the corresponding STL will open up. This currently don't work on mobile**
 <div>
-<img src="../assets/images/manual/vz330_mellow/frame/stls.png" id="stl-frame__map" style="width: 700px; max-width: 100%; height: auto;" usemap="#stl">
-<map name="stl">
-    <area target="_blank" alt="Handle" title="Handle" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/handle.stl" coords="6, 26, 696, 233" shape="rect">
-    <area target="_blank" alt="2020 endcaps" title="2020 endcaps" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/2020%20Endcap.stl" coords="6, 238, 234, 423" shape="rect">
-    <area target="_blank" alt="Cable Holder" title="Cable Holder" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/cable%20holder%20frame%20side.stl" coords="313, 241, 402, 396" shape="rect">
-    <area target="_blank" alt="Frame stablizer" title="Frame stablizer" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/Frame_Brace.stl" coords="300, 433, 697, 699" shape="rect">
-</map>
+  <img src="../assets/images/manual/vz330_mellow/frame/stls.png" id="stl-frame__map" style="width: 700px; max-width: 100%; height: auto;" usemap="#stl">
+  <map name="stl">
+      <area target="_blank" alt="Handle" title="Handle" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/handle.stl" coords="6, 26, 696, 233" shape="rect">
+      <area target="_blank" alt="2020 endcaps" title="2020 endcaps" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/2020%20Endcap.stl" coords="6, 238, 234, 423" shape="rect">
+      <area target="_blank" alt="Cable Holder" title="Cable Holder" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/cable%20holder%20frame%20side.stl" coords="313, 241, 402, 396" shape="rect">
+      <area target="_blank" alt="Frame stablizer" title="Frame stablizer" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/Frame_Brace.stl" coords="300, 433, 697, 699" shape="rect">
+  </map>
 </div>
 
-**You can click on the object you wanna print on the plate and the corresponding STL will open up.**
+
 
 ## Part's
 
-| Material        | Quantity          | Notes | Identifier |
-|:-------------|:------------------|:------| :------ |
-| ![2040](../assets/images/manual/vz330_mellow/frame/parts/2040_extrusion.png) | 4 | 2040 extrusion (530mm) | A |
-| ![2020 530mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_530mm.png) | 4 | 2020 extrusion (530mm) | B |
-| ![2020 460mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_460mm.png) | 4 | 2020 extrusion (460mm) | C |
-| ![2020 Corners](../assets/images/manual/vz330_mellow/frame/parts/corner.png) | 8 | optional | D |
-| ![M5 screw](../assets/images/manual/vz330_mellow/frame/parts/m5_screw.png) | 16 | - | E |
-
-**During the assembly the part's get referenced by it's corresponding identifier specified in the part's section**
+| Material        | Quantity          | Notes |
+|:-------------|:------------------|:------|
+| ![2040](../assets/images/manual/vz330_mellow/frame/parts/2040_extrusion.png) | 4 | 2040 extrusion (530mm) |
+| ![2020 530mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_530mm.png) | 4 | 2020 extrusion (530mm) with two holes|
+| ![2020 460mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_460mm.png) | 4 | 2020 extrusion (460mm) |
+| ![2020 Corners](../assets/images/manual/vz330_mellow/frame/parts/corner.png) | 8 | optional | 
+| ![M5 screw](../assets/images/manual/vz330_mellow/frame/parts/m5_screw.png) | 16 | M5x25mm | 
 
 ## Assembly
 
@@ -63,22 +62,18 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 
 | | |
 |-|-|
-| ![Screw](../assets/images/manual/vz330_mellow/frame/step1_screw_extrusion.png) | We take the **E screw** and fasten it in the outer hole of the **A extrusion**, there should be a gap between the **E screw** and the extrusion big enough to slide the **B extrusion** on.
-| | |
-| | |
-| | |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_mount.png) | We now take the **B extrusion** and slide it on the **A extrusion** and tighten down the **E screw** just enough so that the **B extrusion** can't slide off. We will tighten up this screws later when we made sure the frame is square.|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_mount.png) | 1) 2040 extrusion (530mm) <br> 2) 2020 extrusion (530mm) <br> 3) Align the extrusions flush |
+| 1) M5 x 25mm screw <br> 2) Insert screw in 2020 extrusion (530mm) | ![Mount](../assets/images/manual/vz330_mellow/frame/step1_screw_insert.png) |
+| ![Screw](../assets/images/manual/vz330_mellow/frame/step1_screw.png) | 1) Tighten the 2020 extrusion to the 2040 extrusion <br> 2) Make sure they are still flush |
 
 ### Step 2
 ![Step 2](../assets/images/manual/vz330_mellow/frame/step2.png)
 
 | | |
 |-|-|
-| ![Screw](../assets/images/manual/vz330_mellow/frame/step2_screw_extrusion.png) | We take the **E screw** and fasten it in the outer hole of the **A extrusion**, there should be a gap between the **E screw** and the extrusion big enough to slide the **B extrusion** on.
-| | |
-| | |
-| | |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_mount.png) | We now take the assembled part from **Step 1** and slide it on the **A extrusion** and tighten down the **E screw** just enough so that the **B extrusion** can't slide off. We will tighten up this screws later when we made sure the frame is square.
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_mount.png) | 1) 2040 extrusion (530mm) <br> 2) Assembly from step 1 <br> 3) Align the extrusions flush |
+| 1) M5 x 25mm screw <br> 2) Insert screw in 2020 extrusion (530mm) | ![Mount](../assets/images/manual/vz330_mellow/frame/step1_screw_insert.png) |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_screw.png) | 1) Tighten the 2020 extrusion to the 2040 extrusion <br> 2) Make sure they are still flush
 
 ### Step 3
 Repeat the steps from **Step 1** and **Step 2** for the other u-shaped side.
