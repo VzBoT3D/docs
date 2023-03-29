@@ -23,6 +23,41 @@ $search-background-color: $light-grey-color;
 $table-background-color: $light-grey-color;
 $feedback-color: darken($sidebar-color, 3%);
 
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted $body-background-color;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: $body-background-color;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
 .site-footer {
     visibility: hidden;
+}
+
+#backing {
+	vertical-align: middle;
+	margin: 0;
+	overflow: hidden;
+}
+#backing svg { 
+	display: inline-block;
+	position: absolute;
+	top: 0; left: 0;
 }
