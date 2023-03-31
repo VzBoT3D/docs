@@ -24,6 +24,7 @@
   
       window.addEventListener('resize', this.resizeEvent);
       window.addEventListener('load', this.resizeEvent);
+      document.addEventListener('DOMContentLoaded', this.resizeEvent);
       setTimeout(this.imgMap, 500);
     }
     /**
