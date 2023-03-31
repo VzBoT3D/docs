@@ -20,8 +20,21 @@ The frame is assembled through a combination of blind joints and corner brackets
 
 For detailed informations on how to assemble blind joints visit this [page](../general/blind-joints)
 
+## Part's
+
+| Material        | Quantity          | Notes |
+| ![2040](../assets/images/manual/vz330_mellow/frame/parts/2040_extrusion.png) | 4 | 2040 extrusion (530mm) |
+| ![2020 530mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_530mm.png) | 4 | 2020 extrusion (530mm) with two holes|
+| ![2020 460mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_460mm.png) | 4 | 2020 extrusion (460mm) with two holes|
+| ![2020 Corners](../assets/images/manual/vz330_mellow/frame/parts/corner.png) | 8 | optional | 
+| ![M5 screw](../assets/images/manual/vz330_mellow/frame/parts/m5_screw.png) | 16 | M5x25mm | 
+
 ## STL's
-**You can click on the object you wanna print on the plate and the corresponding STL will open up. This currently don't work on mobile**
+<br>
+
+**You can click on the object you wanna print on the plate and the corresponding STL will open up.**
+
+<br>
 <div>
   <img src="../assets/images/manual/vz330_mellow/frame/stls.png" id="stl-frame__map" style="width: 700px; max-width: 100%; height: auto;" usemap="#stl">
   <map name="stl">
@@ -33,104 +46,105 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 </div>
 
 
-
-## Part's
-
-| Material        | Quantity          | Notes |
-| ![2040](../assets/images/manual/vz330_mellow/frame/parts/2040_extrusion.png) | 4 | 2040 extrusion (530mm) |
-| ![2020 530mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_530mm.png) | 4 | 2020 extrusion (530mm) with two holes|
-| ![2020 460mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_460mm.png) | 4 | 2020 extrusion (460mm) |
-| ![2020 Corners](../assets/images/manual/vz330_mellow/frame/parts/corner.png) | 8 | optional | 
-| ![M5 screw](../assets/images/manual/vz330_mellow/frame/parts/m5_screw.png) | 16 | M5x25mm | 
-
 ## Assembly
 
 ### Step 1
 
-![Step 1](../assets/images/manual/vz330_mellow/frame/step1.png)
 <br>
 <br>
 
 | | |
 |-|-|
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part1.png) | 1) 2040 extrusion (530mm) <br> 2) 2020 extrusion (530mm) <br> 3) Align the extrusions flush |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_screw_extrusion.png) | - |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part2.png) | 1) Tighten the 2020 extrusion to the 2040 extrusion |
+| ![Step 1](../assets/images/manual/vz330_mellow/frame/step1.png) | 1) 2040 extrusion (530mm) <br> 2) 2020 extrusion (530mm) <br> 3) 2020 extrusion (460mm) <br> 4) 2 x M5 25mm |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part1.png) | 1) Align the extrusions flush |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part2.png) | 1) Tighten the 2020 extrusion's to the 2040 extrusion |
 
 <br>
 <br>
 
 ### Step 2
 
-![Step 2](../assets/images/manual/vz330_mellow/frame/step1.png)
 <br>
 <br>
 
 | | |
 |-|-|
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_part1.png) | 1) 2040 extrusion (530mm) <br> 2) Assembly from step 1 <br> 3) Align the extrusions flush |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_part2.png) | 1) Tighten the 2020 extrusion to the 2040 extrusion <br> 2) Make sure they are still flush |
+| ![Step 1](../assets/images/manual/vz330_mellow/frame/step2.png) | 1) 2040 extrusion (530mm) <br> 2) 2020 extrusion (530mm) <br> 3) 2020 extrusion (460mm) <br> 4) 2 x M5 25mm |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part1.png) | 1) Align the extrusions flush |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part2.png) | 1) Tighten the 2020 extrusion's to the 2040 extrusion |
 
 <br>
 <br>
 
 ### Step 3
-Repeat the steps from **Step 1** and **Step 2** for the other u-shaped side.
 
-![Step 3](../assets/images/manual/vz330_mellow/frame/step3.png)
+<br>
+<br>
+
+| | |
+|-|-|
+| ![Step 1](../assets/images/manual/vz330_mellow/frame/step3.png) | 1) 2040 extrusion (530mm) <br> 2) Assembly from Step 1 and 2 <br> 3) 2 x M5 25mm |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step3_part1.png) | 1) Align the extrusions flush with the both 2020 extrusion's |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part2.png) | 1) Tighten the 2020 extrusion's to the 2040 extrusion |
+
+<br>
+<br>
 
 ### Step 4
 
-![Step 4](../assets/images/manual/vz330_mellow/frame/step4.png)
+<br>
+<br>
 
 | | |
 |-|-|
-| ![Screw](../assets/images/manual/vz330_mellow/frame/step4_screw_extrusion.png) | We take the **E screw** and fasten it in the second hole of the **A extrusion**, there should be a gap between the **E screw** and the extrusion big enough to slide the **C extrusion** on.
-| | |
-| | |
-| | |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step4_mount.png) | We now take the the **C extrusion** and slite it on the **A extrusion** and tighten down the **E screw** just enough so that the **C extrusion** can't slide off. We will tighten up this screws later when we made sure the frame is square.
+| ![Step 1](../assets/images/manual/vz330_mellow/frame/step4.png) | 1) 2040 extrusion (530mm) <br> 2) Assembly from Step 3 <br> 3) 2 x M5 25mm |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step4_part1.png) | 1) Align the extrusions flush with the both 2020 extrusion's |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step4_part2.png) | 1) Tighten the 2020 extrusion's to the 2040 extrusion |
+
+<br>
+<br>
 
 ### Step 5
 
-![Step 5](../assets/images/manual/vz330_mellow/frame/step5.png)
+<br>
+<br>
 
 | | |
 |-|-|
-| ![Screw](../assets/images/manual/vz330_mellow/frame/step5_screw_extrusion.png) | We take the **E screw** and fasten it to the other side of the u-shape in the second hole of the **A extrusion**, there should be a gap between the **E screw** and the extrusion big enough to slide the **C extrusion** on.
-| | |
-| | |
-| | |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_mount.png) | We now take the the **C extrusion** and slite it on the **A extrusion** and tighten down the **E screw** just enough so that the **C extrusion** can't slide off. We will tighten up this screws later when we made sure the frame is square.
+| ![Step 1](../assets/images/manual/vz330_mellow/frame/step5.png) | 1) 2020 extrusion (530mm) <br> 2) Assembly from Step 4 <br> 3) 2 x M5 25mm |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part1.png) | 1) Align the extrusions flush on both sides |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part2.png) | 1) Tighten the 2020 extrusion's to the right side of the 2040 extrusion <br> 2) Tighten the 2020 extrusion's to the left side of the 2040 extrusion <br> 3) Don't tighten it down all the way, we need some play for later |
+
+<br>
+<br>
 
 ### Step 6
 
+<br>
+<br>
+
 | | |
 |-|-|
-| ![Screw](../assets/images/manual/vz330_mellow/frame/step5_screw_extrusion.png) | We take the **E screw** and the second u-shape assemble and screw the **E screw** in the second hole of the **A extrusion**, there should be a gap between the **E screw** and the extrusion big enough to slide on the other assembly.
-| | |
-| | |
-| | |
-| ![Screw](../assets/images/manual/vz330_mellow/frame/step4_screw_extrusion.png) | We take another **E screw** and screw it in the second hole of the **A extrusion** on the other side of the one we did before, there should be a gap between the **E screw** and the extrusion big enough to slide on the other assembly.
-| | |
-| | |
-| | |
-| ![Screw](../assets/images/manual/vz330_mellow/frame/step6_combine.png) | We now take the u-shape assembly and slide it in the existing part of the frame and screw down the **E screw** just enough so that the **C extrusion** can't slide off. We will tighten up this screws later when we made sure the frame is square.
+| ![Step 1](../assets/images/manual/vz330_mellow/frame/step6.png) | 1) 2020 extrusion (530mm) <br> 2) Assembly from Step 5 <br> 3) 2 x M5 25mm |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step6_part1.png) | 1) Align the extrusions flush on both sides |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step6_part2.png) | 1) Tighten the 2020 extrusion's to the right side of the 2040 extrusion <br> 2) Tighten the 2020 extrusion's to the left side of the 2040 extrusion <br> 3) Don't tighten it down all the way, we need some play for later |
+
+<br>
+<br>
 
 ### Step 7
 
-![Step 5](../assets/images/manual/vz330_mellow/frame/step7.png)
-
-We can take the assembly from **Step 1** to **Step 6** and flipp it upside down.
-
-| | |
-|-|-|
-| ![Screw](../assets/images/manual/vz330_mellow/frame/step7_screw_extrusion.png) | We take the four **E screw** and screw them in the outer holes of the **A extrusions**, there should be a gap between the **E screw** and the extrusion big enough to slide on the missing **B extrusions**
-| | |
-| | |
-| | |
-| ![Screw](../assets/images/manual/vz330_mellow/frame/step7_mount.png) | We now take the two remaining **B extrusions** and slide them over the inserted **E screws**. Tighten down the **E screw** just enough so that the **B extrusion** can't slide off, we let them like this because we need to adjust them later when we install the Gantry.
+TODO frame bracer
 
 ### Step 8
 
-The last step for the frame is making sure that the extrusion's are mounted straight and square, when you unsured that tighten up all **E screws** beside the ones inserted in **Step 7**.
+<br>
+<br>
+
+| | |
+|-|-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step8_part1.png) | 1) 8x 2020 printed endpart's <br> 2) Insert all 8 endpart's at the shown location. |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step8_part2.png) | 1) Put in the endpart's
+
+<br>
+<br>
