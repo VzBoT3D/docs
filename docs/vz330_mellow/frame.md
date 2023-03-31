@@ -62,17 +62,19 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 
 | | |
 |-|-|
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_mount.png) | 1) 2040 extrusion (530mm) <br> 2) 2020 extrusion (530mm) <br> 3) Align the extrusions flush |
-| 1) M5 x 25mm screw <br> 2) Insert screw in 2020 extrusion (530mm) | ![Mount](../assets/images/manual/vz330_mellow/frame/step1_screw_insert.png) |
-| ![Screw](../assets/images/manual/vz330_mellow/frame/step1_screw.png) | 1) Tighten the 2020 extrusion to the 2040 extrusion <br> 2) Make sure they are still flush |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part1.png) | 1) 2040 extrusion (530mm) <br> 2) 2020 extrusion (530mm) <br> 3) Align the extrusions flush |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part2.png) | 1) Tighten the 2020 extrusion to the 2040 extrusion|
 
 ### Step 2
-![Step 2](../assets/images/manual/vz330_mellow/frame/step2.png)
+
+![Step 2](../assets/images/manual/vz330_mellow/frame/step1.png)
+
+![Mount](../assets/images/manual/vz330_mellow/frame/step2_part3.png)
 
 | | |
 |-|-|
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_mount.png) | 1) 2040 extrusion (530mm) <br> 2) Assembly from step 1 <br> 3) Align the extrusions flush |
-| 1) M5 x 25mm screw <br> 2) Insert screw in 2020 extrusion (530mm) | ![Mount](../assets/images/manual/vz330_mellow/frame/step1_screw_insert.png) |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_part1.png) | 1) 2040 extrusion (530mm) <br> 2) Assembly from step 1 <br> 3) Align the extrusions flush |
+| 1) Tighten the 2020 extrusion to the 2040 extrusion <br> 2) Make sure they are still flush | ![Mount](../assets/images/manual/vz330_mellow/frame/step2_part2.png) |
 | ![Mount](../assets/images/manual/vz330_mellow/frame/step2_screw.png) | 1) Tighten the 2020 extrusion to the 2040 extrusion <br> 2) Make sure they are still flush
 
 ### Step 3

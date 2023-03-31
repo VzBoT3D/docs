@@ -1,108 +1,108 @@
 {"0": {
-    "doc": "7.3 Mellow Super8 v1.3",
-    "title": "7.3 Mellow Super8 V1.3",
-    "content": " ",
-    "url": "/vz330_mellow/electronics/super_mellow#73-mellow-super8-v13",
-    
-    "relUrl": "/vz330_mellow/electronics/super_mellow#73-mellow-super8-v13"
-  },"1": {
-    "doc": "7.3 Mellow Super8 v1.3",
-    "title": "STL’s",
-    "content": "| File name | Amount to print | . | Super8 + 5160 mount | 1 | . | Super8 din mount | 2 | . | 5160 fan mount | 1 | . Setup guide . Here’s A detailed guide on how to install the Mellow Super8 V1.3 with Mellow 5160HV Externals and how to wire everything up. What’s in the boxes . Overview of the board. Fuses . The first thing we need to do is install the fuses. These are in one off the small bags and should be put in the board as shown down below. Mosfets . Now we’re gonna install the Mosfets for the fansports. These are needed otherwise the fanports won’t work. The mosfets are in the same small bag the Fuses where in. Don’t be afraid to break them in halve they’re ment to be. You’ll see that the mosfet ports on the board arrive empty and are in between the fan plugs. Insert the mosfets into the holes the direction they face doesn’t matter. Driver setup . Now we’re done with that we’re going to the plugs for the driver ports. We’re gonna install the bridges for SPI and UART. Here’s a view of the board with all the plugs still not filled. It’s important to not put bridges on the ports you’re not gonna use. For SPI you need to put bridges on the front 2 rows of pins. These are used for the 5160’s . For UART you need to put the bridge on the second pin from the left and then bridge the front and middle row. These are for the 2209’s. Next step is to populate all the driver slots that you’re gonna use. Here’s a example for a AWD setup on 5160’s and Z and E on 2209’s. installing the 5160’s. We start off by putting the Heatsinks on the 5160’s. If you don’t do this they will go into overtemp error. Now we’ll plug in the adapter into the Driver slots. Make sure they are set to SPI like shown in the instructions above here. Next up is to connect the cable between the adapter board and the External 5160. Fan Voltage Selection . Next up we’re gonna put the fan ports on the voltage we would like to run them on. You can choose 5V/12V/24V. Each plug has a voltage selection pin grid to the right of it. The bridges are to be inserte Left to right. The Top row is 5V. Middle row is 12V and the Bottom row is 24V. ",
-    "url": "/vz330_mellow/electronics/super_mellow#stls",
-    
-    "relUrl": "/vz330_mellow/electronics/super_mellow#stls"
-  },"2": {
-    "doc": "7.3 Mellow Super8 v1.3",
-    "title": "7.3 Mellow Super8 v1.3",
-    "content": " ",
-    "url": "/vz330_mellow/electronics/super_mellow",
-    
-    "relUrl": "/vz330_mellow/electronics/super_mellow"
-  },"3": {
     "doc": "6.2 Mellow Super8 v1.3",
     "title": "6.2 Mellow Super8 V1.3",
     "content": " ",
     "url": "/vz235_printed/electronics/super_mellow#62-mellow-super8-v13",
     
     "relUrl": "/vz235_printed/electronics/super_mellow#62-mellow-super8-v13"
-  },"4": {
+  },"1": {
     "doc": "6.2 Mellow Super8 v1.3",
     "title": "Setup guide",
     "content": "Here’s A detailed guide on how to install the Mellow Super8 V1.3 with Mellow 5160HV Externals and how to wire everything up. What’s in the boxes . Overview of the board. ",
     "url": "/vz235_printed/electronics/super_mellow#setup-guide",
     
     "relUrl": "/vz235_printed/electronics/super_mellow#setup-guide"
-  },"5": {
+  },"2": {
     "doc": "6.2 Mellow Super8 v1.3",
     "title": "Fuses",
     "content": "The first thing we need to do is install the fuses. These are in one off the small bags and should be put in the board as shown down below. ",
     "url": "/vz235_printed/electronics/super_mellow#fuses",
     
     "relUrl": "/vz235_printed/electronics/super_mellow#fuses"
-  },"6": {
+  },"3": {
     "doc": "6.2 Mellow Super8 v1.3",
     "title": "Mosfets",
     "content": "Now we’re gonna install the Mosfets for the fansports. These are needed otherwise the fanports won’t work. The mosfets are in the same small bag the Fuses where in. Don’t be afraid to break them in halve they’re ment to be. You’ll see that the mosfet ports on the board arrive empty and are in between the fan plugs. Insert the mosfets into the holes the direction they face doesn’t matter. ",
     "url": "/vz235_printed/electronics/super_mellow#mosfets",
     
     "relUrl": "/vz235_printed/electronics/super_mellow#mosfets"
-  },"7": {
+  },"4": {
     "doc": "6.2 Mellow Super8 v1.3",
     "title": "Driver setup",
     "content": "Now we’re done with that we’re going to the plugs for the driver ports. We’re gonna install the bridges for SPI and UART. Here’s a view of the board with all the plugs still not filled. It’s important to not put bridges on the ports you’re not gonna use. For SPI you need to put bridges on the front 2 rows of pins. These are used for the 5160’s . For UART you need to put the bridge on the second pin from the left and then bridge the front and middle row. These are for the 2209’s. Next step is to populate all the driver slots that you’re gonna use. Here’s a example for a AWD setup on 5160’s and Z and E on 2209’s. ",
     "url": "/vz235_printed/electronics/super_mellow#driver-setup",
     
     "relUrl": "/vz235_printed/electronics/super_mellow#driver-setup"
-  },"8": {
+  },"5": {
     "doc": "6.2 Mellow Super8 v1.3",
     "title": "installing the 5160’s.",
     "content": "We start off by putting the Heatsinks on the 5160’s. If you don’t do this they will go into overtemp error. Now we’ll plug in the adapter into the Driver slots. Make sure they are set to SPI like shown in the instructions above here. Next up is to connect the cable between the adapter board and the External 5160. ",
     "url": "/vz235_printed/electronics/super_mellow#installing-the-5160s",
     
     "relUrl": "/vz235_printed/electronics/super_mellow#installing-the-5160s"
-  },"9": {
+  },"6": {
     "doc": "6.2 Mellow Super8 v1.3",
     "title": "Fan Voltage Selection",
     "content": "Next up we’re gonna put the fan ports on the voltage we would like to run them on. You can choose 5V/12V/24V. Each plug has a voltage selection pin grid to the right of it. The bridges are to be inserte Left to right. The Top row is 5V. Middle row is 12V and the Bottom row is 24V. ",
     "url": "/vz235_printed/electronics/super_mellow#fan-voltage-selection",
     
     "relUrl": "/vz235_printed/electronics/super_mellow#fan-voltage-selection"
-  },"10": {
+  },"7": {
     "doc": "6.2 Mellow Super8 v1.3",
     "title": "6.2 Mellow Super8 v1.3",
     "content": " ",
     "url": "/vz235_printed/electronics/super_mellow",
     
     "relUrl": "/vz235_printed/electronics/super_mellow"
+  },"8": {
+    "doc": "7.3 Mellow Super8 v1.3",
+    "title": "7.3 Mellow Super8 V1.3",
+    "content": " ",
+    "url": "/vz330_mellow/electronics/super_mellow#73-mellow-super8-v13",
+    
+    "relUrl": "/vz330_mellow/electronics/super_mellow#73-mellow-super8-v13"
+  },"9": {
+    "doc": "7.3 Mellow Super8 v1.3",
+    "title": "STL’s",
+    "content": "| File name | Amount to print | . | Super8 + 5160 mount | 1 | . | Super8 din mount | 2 | . | 5160 fan mount | 1 | . Setup guide . Here’s A detailed guide on how to install the Mellow Super8 V1.3 with Mellow 5160HV Externals and how to wire everything up. What’s in the boxes . Overview of the board. Fuses . The first thing we need to do is install the fuses. These are in one off the small bags and should be put in the board as shown down below. Mosfets . Now we’re gonna install the Mosfets for the fansports. These are needed otherwise the fanports won’t work. The mosfets are in the same small bag the Fuses where in. Don’t be afraid to break them in halve they’re ment to be. You’ll see that the mosfet ports on the board arrive empty and are in between the fan plugs. Insert the mosfets into the holes the direction they face doesn’t matter. Driver setup . Now we’re done with that we’re going to the plugs for the driver ports. We’re gonna install the bridges for SPI and UART. Here’s a view of the board with all the plugs still not filled. It’s important to not put bridges on the ports you’re not gonna use. For SPI you need to put bridges on the front 2 rows of pins. These are used for the 5160’s . For UART you need to put the bridge on the second pin from the left and then bridge the front and middle row. These are for the 2209’s. Next step is to populate all the driver slots that you’re gonna use. Here’s a example for a AWD setup on 5160’s and Z and E on 2209’s. installing the 5160’s. We start off by putting the Heatsinks on the 5160’s. If you don’t do this they will go into overtemp error. Now we’ll plug in the adapter into the Driver slots. Make sure they are set to SPI like shown in the instructions above here. Next up is to connect the cable between the adapter board and the External 5160. Fan Voltage Selection . Next up we’re gonna put the fan ports on the voltage we would like to run them on. You can choose 5V/12V/24V. Each plug has a voltage selection pin grid to the right of it. The bridges are to be inserte Left to right. The Top row is 5V. Middle row is 12V and the Bottom row is 24V. ",
+    "url": "/vz330_mellow/electronics/super_mellow#stls",
+    
+    "relUrl": "/vz330_mellow/electronics/super_mellow#stls"
+  },"10": {
+    "doc": "7.3 Mellow Super8 v1.3",
+    "title": "7.3 Mellow Super8 v1.3",
+    "content": " ",
+    "url": "/vz330_mellow/electronics/super_mellow",
+    
+    "relUrl": "/vz330_mellow/electronics/super_mellow"
   },"11": {
     "doc": "7. Side panels + RSCS",
     "title": "7. Side panels + RSCS",
     "content": " ",
-    "url": "/vz235_printed/rscs",
+    "url": "/vz235_alu/rscs",
     
-    "relUrl": "/vz235_printed/rscs"
+    "relUrl": "/vz235_alu/rscs"
   },"12": {
     "doc": "7. Side panels + RSCS",
     "title": "Overview",
     "content": ". RSCS short for remote static cooling is an optional extra pair of cooling fans which help cool the entire print when doing unicorn speeds! RSCS is mounted to the acrylic panels and this version fits in very tight to the Z-assembly. To ensure its proper fitment it is recommended to check the CAD for accurate measurements on the hole positions. Panels with pre made holes again available at F3D-racing. ",
-    "url": "/vz235_printed/rscs#overview",
+    "url": "/vz235_alu/rscs#overview",
     
-    "relUrl": "/vz235_printed/rscs#overview"
+    "relUrl": "/vz235_alu/rscs#overview"
   },"13": {
     "doc": "7. Side panels + RSCS",
     "title": "BOM",
     "content": "| Material | Quantity | Notes | . | M3 8mm | 8 | - | . | M3 10mm | 22 | - | . | M3 35mm | 4 | - | . | M3 nut | 12 | - | . | M3 t-nut | 22 | - | . | M4 8mm | 2 | - | . | M4 nut | 2 | - | . | 7530 radial fan | 2 | Gdstime | . | 470x415mm acrylic panel | 2 | - | . ",
-    "url": "/vz235_printed/rscs#bom",
+    "url": "/vz235_alu/rscs#bom",
     
-    "relUrl": "/vz235_printed/rscs#bom"
+    "relUrl": "/vz235_alu/rscs#bom"
   },"14": {
     "doc": "7. Side panels + RSCS",
     "title": "STL’s",
     "content": "| File name | Amount to print | . | Cover corner piece | 8 | . | Cover middle piece | 8 | . | RSCS top piece | 2 | . | RSCS middle piece | 2 | . | RSCS bottom piece | 2 | . Step 1 . Use the M3 hardware to put the RSCS together like shown below. If the assembly won’t fit through between the 2 Z-rods. Unscrew the top part and put this on after assembly. Step 2 . Mount the RSCS to the panel. When drilling the holes make sure the duct is approximately 5mm above the Z-rods. Step 3 . Insert the M3 hardware in the side and front (narrow) panel using the available trim pieces like shown below. When everything lines up screw everything down starting with the bolts in the middle outward. ",
-    "url": "/vz235_printed/rscs#stls",
+    "url": "/vz235_alu/rscs#stls",
     
-    "relUrl": "/vz235_printed/rscs#stls"
+    "relUrl": "/vz235_alu/rscs#stls"
   },"15": {
     "doc": "8. Side panels + RSCS",
     "title": "8. Side panels + RSCS",
@@ -135,44 +135,44 @@
     "doc": "7. Side panels + RSCS",
     "title": "7. Side panels + RSCS",
     "content": " ",
-    "url": "/vz235_alu/rscs",
+    "url": "/vz235_printed/rscs",
     
-    "relUrl": "/vz235_alu/rscs"
+    "relUrl": "/vz235_printed/rscs"
   },"20": {
     "doc": "7. Side panels + RSCS",
     "title": "Overview",
     "content": ". RSCS short for remote static cooling is an optional extra pair of cooling fans which help cool the entire print when doing unicorn speeds! RSCS is mounted to the acrylic panels and this version fits in very tight to the Z-assembly. To ensure its proper fitment it is recommended to check the CAD for accurate measurements on the hole positions. Panels with pre made holes again available at F3D-racing. ",
-    "url": "/vz235_alu/rscs#overview",
+    "url": "/vz235_printed/rscs#overview",
     
-    "relUrl": "/vz235_alu/rscs#overview"
+    "relUrl": "/vz235_printed/rscs#overview"
   },"21": {
     "doc": "7. Side panels + RSCS",
     "title": "BOM",
     "content": "| Material | Quantity | Notes | . | M3 8mm | 8 | - | . | M3 10mm | 22 | - | . | M3 35mm | 4 | - | . | M3 nut | 12 | - | . | M3 t-nut | 22 | - | . | M4 8mm | 2 | - | . | M4 nut | 2 | - | . | 7530 radial fan | 2 | Gdstime | . | 470x415mm acrylic panel | 2 | - | . ",
-    "url": "/vz235_alu/rscs#bom",
+    "url": "/vz235_printed/rscs#bom",
     
-    "relUrl": "/vz235_alu/rscs#bom"
+    "relUrl": "/vz235_printed/rscs#bom"
   },"22": {
     "doc": "7. Side panels + RSCS",
     "title": "STL’s",
     "content": "| File name | Amount to print | . | Cover corner piece | 8 | . | Cover middle piece | 8 | . | RSCS top piece | 2 | . | RSCS middle piece | 2 | . | RSCS bottom piece | 2 | . Step 1 . Use the M3 hardware to put the RSCS together like shown below. If the assembly won’t fit through between the 2 Z-rods. Unscrew the top part and put this on after assembly. Step 2 . Mount the RSCS to the panel. When drilling the holes make sure the duct is approximately 5mm above the Z-rods. Step 3 . Insert the M3 hardware in the side and front (narrow) panel using the available trim pieces like shown below. When everything lines up screw everything down starting with the bolts in the middle outward. ",
-    "url": "/vz235_alu/rscs#stls",
+    "url": "/vz235_printed/rscs#stls",
     
-    "relUrl": "/vz235_alu/rscs#stls"
+    "relUrl": "/vz235_printed/rscs#stls"
   },"23": {
-    "doc": "6.1 AWD specific",
-    "title": "6.1 AWD specific",
-    "content": "To take best advantage of having 4 motors on X and Y, it is advised to run each motor on individual stepper drivers. Both Klipper &amp; RRF fortunately now natively supports QuadXY. So you will have to download and install your favorite firmware as described in their respective guides. For Klipper it is recommended to use the provided .cfg file as base or inspiration to make a configuration to suit your own build. It is recommended to copy &amp; paste the given TMC settings as much as possible for the best results both in terms of speed and quality. Although feel free to experiment, because after all that is what VzBoT is all about! [Credits for the Klipper adaptation to suit 4 motor CoreXY or QuadXY go to TypQxQ on Github] . https://github.com/TypQxQ/klipper/tree/Multiple_Steppers_on_CoreXY . ",
-    "url": "/vz235_alu/electronics/awd_specific",
-    
-    "relUrl": "/vz235_alu/electronics/awd_specific"
-  },"24": {
     "doc": "6.1 AWD specific",
     "title": "6.1 AWD specific",
     "content": "To take best advantage of having 4 motors on X and Y, it is advised to run each motor on individual stepper drivers. Both Klipper &amp; RRF fortunately now natively supports QuadXY. So you will have to download and install your favorite firmware as described in their respective guides. For Klipper it is recommended to use the provided .cfg file as base or inspiration to make a configuration to suit your own build. It is recommended to copy &amp; paste the given TMC settings as much as possible for the best results both in terms of speed and quality. Although feel free to experiment, because after all that is what VzBoT is all about! [Credits for the Klipper adaptation to suit 4 motor CoreXY or QuadXY go to TypQxQ on Github] . https://github.com/TypQxQ/klipper/tree/Multiple_Steppers_on_CoreXY . ",
     "url": "/vz235_printed/electronics/awd_specific",
     
     "relUrl": "/vz235_printed/electronics/awd_specific"
+  },"24": {
+    "doc": "6.1 AWD specific",
+    "title": "6.1 AWD specific",
+    "content": "To take best advantage of having 4 motors on X and Y, it is advised to run each motor on individual stepper drivers. Both Klipper &amp; RRF fortunately now natively supports QuadXY. So you will have to download and install your favorite firmware as described in their respective guides. For Klipper it is recommended to use the provided .cfg file as base or inspiration to make a configuration to suit your own build. It is recommended to copy &amp; paste the given TMC settings as much as possible for the best results both in terms of speed and quality. Although feel free to experiment, because after all that is what VzBoT is all about! [Credits for the Klipper adaptation to suit 4 motor CoreXY or QuadXY go to TypQxQ on Github] . https://github.com/TypQxQ/klipper/tree/Multiple_Steppers_on_CoreXY . ",
+    "url": "/vz235_alu/electronics/awd_specific",
+    
+    "relUrl": "/vz235_alu/electronics/awd_specific"
   },"25": {
     "doc": "4.2 AWD Motor sync",
     "title": "4.2 AWD Motor sync",
@@ -314,61 +314,61 @@
     
     "relUrl": "/vz330_mellow/z_assembly/bed_additions"
   },"45": {
-    "doc": "2.2 Bed Assembly",
-    "title": "2.2 Bed Assembly",
-    "content": " ",
-    "url": "/vz235_alu/z_assembly/bed_assembly",
-    
-    "relUrl": "/vz235_alu/z_assembly/bed_assembly"
-  },"46": {
-    "doc": "2.2 Bed Assembly",
-    "title": "Overview",
-    "content": ". ",
-    "url": "/vz235_alu/z_assembly/bed_assembly#overview",
-    
-    "relUrl": "/vz235_alu/z_assembly/bed_assembly#overview"
-  },"47": {
-    "doc": "2.2 Bed Assembly",
-    "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M3 8mm | 16 | - | . | M4 8mm | 16 | - | . | M3 nut | 4 | - | . | M3 50mm (countersunk) | 4 | Countersunk for the bed | . | LMK10LUU | 4 | If you want to use the bought version | . | LM10LUU | 4 | Use this from the old bed and print holders | . | Oldham coupler | 2 | Optional but highly advised | . | Leadscrew nut | 2 | - | . | Springs / Silicon dumper | 4 | - | . ",
-    "url": "/vz235_alu/z_assembly/bed_assembly#bom",
-    
-    "relUrl": "/vz235_alu/z_assembly/bed_assembly#bom"
-  },"48": {
-    "doc": "2.2 Bed Assembly",
-    "title": "STL’s",
-    "content": "| File name | Amount to print |   | . | Oldham couplers ( optional ) | 2 | - | . | LM10LUU adapter | 4 | Only if you don’t use the bought version | . | Bed level knobs | 4 | - | . Step 1 . Mount the LMK10LUU using the M4 10mm hardware to the bed frame. Then mount the Oldham couplers with the leadscrew nuts together with M3 10mm and the M3 nut and mount that assembly to the bed frame using M3 hardware. Afterwards place the bed assembly in the rods and the leadscrew. Step 2 . Place the bed assembly in the rods and leadscre . Step 3 . Mount the bed plate to the bed frame using the 50mm countersunk M3 screws, put a Spring or a silicon dumper on each corner of the bed before attaching the screw and the bed level knob to it. Then give every knob a small “torque” so you can later level your bed propperly. When using a cast aluminum bed make sure it is well prepped before mounting. It is recommended to always be safe and inform yourself properly on how to apply a AC silicon heating pad. ",
-    "url": "/vz235_alu/z_assembly/bed_assembly#stls",
-    
-    "relUrl": "/vz235_alu/z_assembly/bed_assembly#stls"
-  },"49": {
     "doc": "3.2 Bed Assembly",
     "title": "3.2 Bed Assembly",
     "content": " ",
     "url": "/vz330_mellow/z_assembly/bed_assembly",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_assembly"
-  },"50": {
+  },"46": {
     "doc": "3.2 Bed Assembly",
     "title": "Overview",
     "content": ". ",
     "url": "/vz330_mellow/z_assembly/bed_assembly#overview",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_assembly#overview"
-  },"51": {
+  },"47": {
     "doc": "3.2 Bed Assembly",
     "title": "BOM",
     "content": "| Material | Quantity | Notes | . | M3 8mm | 16 | - | . | M4 8mm | 16 | - | . | M3 nut | 12 | - | . | M3 50mm (countersunk) | 4 | Countersunk for the bed | . | LMK10LUU | 4 | If you want to use the bought version | . | LM10LUU | 4 | Use this from the old bed and print holders | . | Oldham coupler | 2 | Optional but highly advised | . | Leadscrew nut | 2 | - | . | Springs / Silicon dumper | 4 | - | . ",
     "url": "/vz330_mellow/z_assembly/bed_assembly#bom",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_assembly#bom"
-  },"52": {
+  },"48": {
     "doc": "3.2 Bed Assembly",
     "title": "STL’s",
     "content": "| File name | Amount to print |   | . | Oldham couplers middle ( optional ) | 2 | - | . | Oldham couplers top / bottom ( optional ) | 4 | - | . | LM10LUU adapter | 4 | Only if you don’t use the bought version | . | Bed level knobs | 4 | - | . Step 1 . Mount the LMK10LUU using the M4 10mm hardware to the bed frame. Then mount the Oldham couplers with the leadscrew nuts together with M3 10mm and the M3 nut and mount that assembly to the bed frame using M3 hardware. Afterwards place the bed assembly in the rods and the leadscrew. Step 2 . Place the bed assembly in the rods and leadscre . Step 3 . Mount the bed plate to the bed frame using the 50mm countersunk M3 screws, put a Spring or a silicon dumper on each corner of the bed before attaching the screw and the bed level knob to it. Then give every knob a small “torque” so you can later level your bed propperly. When using a cast aluminum bed make sure it is well prepped before mounting. It is recommended to always be safe and inform yourself properly on how to apply a AC silicon heating pad. ",
     "url": "/vz330_mellow/z_assembly/bed_assembly#stls",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_assembly#stls"
+  },"49": {
+    "doc": "2.2 Bed Assembly",
+    "title": "2.2 Bed Assembly",
+    "content": " ",
+    "url": "/vz235_alu/z_assembly/bed_assembly",
+    
+    "relUrl": "/vz235_alu/z_assembly/bed_assembly"
+  },"50": {
+    "doc": "2.2 Bed Assembly",
+    "title": "Overview",
+    "content": ". ",
+    "url": "/vz235_alu/z_assembly/bed_assembly#overview",
+    
+    "relUrl": "/vz235_alu/z_assembly/bed_assembly#overview"
+  },"51": {
+    "doc": "2.2 Bed Assembly",
+    "title": "BOM",
+    "content": "| Material | Quantity | Notes | . | M3 8mm | 16 | - | . | M4 8mm | 16 | - | . | M3 nut | 4 | - | . | M3 50mm (countersunk) | 4 | Countersunk for the bed | . | LMK10LUU | 4 | If you want to use the bought version | . | LM10LUU | 4 | Use this from the old bed and print holders | . | Oldham coupler | 2 | Optional but highly advised | . | Leadscrew nut | 2 | - | . | Springs / Silicon dumper | 4 | - | . ",
+    "url": "/vz235_alu/z_assembly/bed_assembly#bom",
+    
+    "relUrl": "/vz235_alu/z_assembly/bed_assembly#bom"
+  },"52": {
+    "doc": "2.2 Bed Assembly",
+    "title": "STL’s",
+    "content": "| File name | Amount to print |   | . | Oldham couplers ( optional ) | 2 | - | . | LM10LUU adapter | 4 | Only if you don’t use the bought version | . | Bed level knobs | 4 | - | . Step 1 . Mount the LMK10LUU using the M4 10mm hardware to the bed frame. Then mount the Oldham couplers with the leadscrew nuts together with M3 10mm and the M3 nut and mount that assembly to the bed frame using M3 hardware. Afterwards place the bed assembly in the rods and the leadscrew. Step 2 . Place the bed assembly in the rods and leadscre . Step 3 . Mount the bed plate to the bed frame using the 50mm countersunk M3 screws, put a Spring or a silicon dumper on each corner of the bed before attaching the screw and the bed level knob to it. Then give every knob a small “torque” so you can later level your bed propperly. When using a cast aluminum bed make sure it is well prepped before mounting. It is recommended to always be safe and inform yourself properly on how to apply a AC silicon heating pad. ",
+    "url": "/vz235_alu/z_assembly/bed_assembly#stls",
+    
+    "relUrl": "/vz235_alu/z_assembly/bed_assembly#stls"
   },"53": {
     "doc": "3.5 Belt routing and tensioning (AWD & 2WD)",
     "title": "3.5 Belt routing and tensioning (AWD &amp; 2WD)",
@@ -443,30 +443,30 @@
     "doc": "3.5(B) AWD specific belt tensioning",
     "title": "3.5(B) AWD specific belt tensioning",
     "content": "Because of shortening and lengthening of the belt and the fact that there are 2 driven pulleys for AWD, it is needed to synchronize the motors after each time the belts are tensioned. To sync the belts properly it is important that the rear motor pulleys are attached without the grubscrews facing the flat part of the shaft. One can also use a motor with a round shaft instead of a D shaped shaft. Before tightening one needs to loosen the set screws on both of the rear motor pulleys to get a proper reading of the tension. After tensioning you will need to power on the motors so they are engaged thus on a step position. You can now retighten the grubscrews again making sure the screws are not at the flat side of the shaft, turn the motor shaft if needed. In the sample pinter.cfg file there is a macro included that enables all XY motors for synchronizing the belts. Make sure to have the pulleys and stepper shafts in a good position so they can be reached easily. ",
-    "url": "/vz235_printed/gantry/belt_routing_awd",
-    
-    "relUrl": "/vz235_printed/gantry/belt_routing_awd"
-  },"64": {
-    "doc": "3.5(B) AWD specific belt tensioning",
-    "title": "Videos",
-    "content": ". ",
-    "url": "/vz235_printed/gantry/belt_routing_awd#videos",
-    
-    "relUrl": "/vz235_printed/gantry/belt_routing_awd#videos"
-  },"65": {
-    "doc": "3.5(B) AWD specific belt tensioning",
-    "title": "3.5(B) AWD specific belt tensioning",
-    "content": "Because of shortening and lengthening of the belt and the fact that there are 2 driven pulleys for AWD, it is needed to synchronize the motors after each time the belts are tensioned. To sync the belts properly it is important that the rear motor pulleys are attached without the grubscrews facing the flat part of the shaft. One can also use a motor with a round shaft instead of a D shaped shaft. Before tightening one needs to loosen the set screws on both of the rear motor pulleys to get a proper reading of the tension. After tensioning you will need to power on the motors so they are engaged thus on a step position. You can now retighten the grubscrews again making sure the screws are not at the flat side of the shaft, turn the motor shaft if needed. In the sample pinter.cfg file there is a macro included that enables all XY motors for synchronizing the belts. Make sure to have the pulleys and stepper shafts in a good position so they can be reached easily. ",
     "url": "/vz235_alu/gantry/belt_routing_awd",
     
     "relUrl": "/vz235_alu/gantry/belt_routing_awd"
-  },"66": {
+  },"64": {
     "doc": "3.5(B) AWD specific belt tensioning",
     "title": "Videos",
     "content": ". ",
     "url": "/vz235_alu/gantry/belt_routing_awd#videos",
     
     "relUrl": "/vz235_alu/gantry/belt_routing_awd#videos"
+  },"65": {
+    "doc": "3.5(B) AWD specific belt tensioning",
+    "title": "3.5(B) AWD specific belt tensioning",
+    "content": "Because of shortening and lengthening of the belt and the fact that there are 2 driven pulleys for AWD, it is needed to synchronize the motors after each time the belts are tensioned. To sync the belts properly it is important that the rear motor pulleys are attached without the grubscrews facing the flat part of the shaft. One can also use a motor with a round shaft instead of a D shaped shaft. Before tightening one needs to loosen the set screws on both of the rear motor pulleys to get a proper reading of the tension. After tensioning you will need to power on the motors so they are engaged thus on a step position. You can now retighten the grubscrews again making sure the screws are not at the flat side of the shaft, turn the motor shaft if needed. In the sample pinter.cfg file there is a macro included that enables all XY motors for synchronizing the belts. Make sure to have the pulleys and stepper shafts in a good position so they can be reached easily. ",
+    "url": "/vz235_printed/gantry/belt_routing_awd",
+    
+    "relUrl": "/vz235_printed/gantry/belt_routing_awd"
+  },"66": {
+    "doc": "3.5(B) AWD specific belt tensioning",
+    "title": "Videos",
+    "content": ". ",
+    "url": "/vz235_printed/gantry/belt_routing_awd#videos",
+    
+    "relUrl": "/vz235_printed/gantry/belt_routing_awd#videos"
   },"67": {
     "doc": "Blind Joints",
     "title": "Blind joints",
@@ -499,86 +499,86 @@
     "doc": "4. Bottom and rear panels",
     "title": "4. Bottom and rear panels",
     "content": " ",
-    "url": "/vz235_alu/panels_part1",
-    
-    "relUrl": "/vz235_alu/panels_part1"
-  },"72": {
-    "doc": "4. Bottom and rear panels",
-    "title": "Overview",
-    "content": "A full panel kit is available at F3D-racing’s shop. We recommend getting that over drilling the holes by hand because it is really difficult to get all holes in exactly the right position. If you want to drill the holes yourself, it is recommended to use the CAD as reference. For the AWD variant, the rear panel must have cutouts at the idler/ motor mount as shown above. These are to reach the motor pulley to be able to synchronize the motors! . ",
-    "url": "/vz235_alu/panels_part1#overview",
-    
-    "relUrl": "/vz235_alu/panels_part1#overview"
-  },"73": {
-    "doc": "4. Bottom and rear panels",
-    "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M3/M4 6-8mm | 20* | Depending on the number of screws you use to secure your panels. Optionally you use the included enclosure trim pieces which are meant to use M3 hardware | . | M4 20mm | 8 | - | . | M4 25mm | 4 | - | . | M4 t-nuts | 20* | - | . | M5/M6 25mm | 4 | Depending on the extrusion type | . | Wood screws | 8 | Optional, to screw the printer down to a surface | . | 415x425x3mm aluminium | 1 | Optionally thickness, 1.5mm also possible | . | 425x470x3mm aluminium | 1 | Optionally thickness, 1.5mm also possible | . ",
-    "url": "/vz235_alu/panels_part1#bom",
-    
-    "relUrl": "/vz235_alu/panels_part1#bom"
-  },"74": {
-    "doc": "4. Bottom and rear panels",
-    "title": "STL’s",
-    "content": "| File name | Amount to print | . | VzBoT Foot | 4 | . | Foot scalable spacer (optional) | 4 | . Step 1 . Mount all hardware in the backpanel and put the panel on the frame. It is easiest to start tightening starting in the middle of each side and work your way outwards to prevent the panel from bulging. Step 2 . Insert all hardware in the printed feet and mount the rubber feet inside. When scaling the printed spacer make sure to get it to the height your rubber feet sticks out about 1-2mm out of the printed feet. Step 3 . Mount the feet and all hardware to the bottom panel. Next up mount the bottom panel to the frame. ",
-    "url": "/vz235_alu/panels_part1#stls",
-    
-    "relUrl": "/vz235_alu/panels_part1#stls"
-  },"75": {
-    "doc": "5. Bottom and rear panels",
-    "title": "5. Bottom and rear panels",
-    "content": " ",
-    "url": "/vz330_mellow/panels_part1",
-    
-    "relUrl": "/vz330_mellow/panels_part1"
-  },"76": {
-    "doc": "5. Bottom and rear panels",
-    "title": "Overview",
-    "content": ". ",
-    "url": "/vz330_mellow/panels_part1#overview",
-    
-    "relUrl": "/vz330_mellow/panels_part1#overview"
-  },"77": {
-    "doc": "5. Bottom and rear panels",
-    "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M3/M4 6-8mm | 20* | Depending on the number of screws you use to secure your panels. Optionally you use the included enclosure trim pieces which are meant to use M3 hardware | . | M4 20mm | 8 | - | . | M4 25mm | 4 | - | . | M4 t-nuts | 20* | - | . | M5/M6 25mm | 4 | Depending on the extrusion type | . | Wood screws | 8 | Optional, to screw the printer down to a surface | . | 570x500x3mm aluminium | 1 | Optionally thickness, 1.5mm also possible | . | 530x500x3mm aluminium | 1 | Optionally thickness, 1.5mm also possible | . ",
-    "url": "/vz330_mellow/panels_part1#bom",
-    
-    "relUrl": "/vz330_mellow/panels_part1#bom"
-  },"78": {
-    "doc": "5. Bottom and rear panels",
-    "title": "STL’s",
-    "content": "| File name | Amount to print | . | VzBoT Foot | 4 | . | Foot scalable spacer (optional) | 4 | . Step 1 . Mount all hardware in the backpanel and put the panel on the frame. It is easiest to start tightening starting in the middle of each side and work your way outwards to prevent the panel from bulging. Step 2 . Insert all hardware in the printed feet and mount the rubber feet inside. When scaling the printed spacer make sure to get it to the height your rubber feet sticks out about 1-2mm out of the printed feet. Step 3 . Mount the feet and all hardware to the bottom panel. Next up mount the bottom panel to the frame. ",
-    "url": "/vz330_mellow/panels_part1#stls",
-    
-    "relUrl": "/vz330_mellow/panels_part1#stls"
-  },"79": {
-    "doc": "4. Bottom and rear panels",
-    "title": "4. Bottom and rear panels",
-    "content": " ",
     "url": "/vz235_printed/panels_part1",
     
     "relUrl": "/vz235_printed/panels_part1"
-  },"80": {
+  },"72": {
     "doc": "4. Bottom and rear panels",
     "title": "Overview",
     "content": "A full panel kit is available at F3D-racing’s shop. We recommend getting that over drilling the holes by hand because it is really difficult to get all holes in exactly the right position. If you want to drill the holes yourself, it is recommended to use the CAD as reference. For the AWD variant, the rear panel must have cutouts at the idler/ motor mount as shown above. These are to reach the motor pulley to be able to synchronize the motors! . ",
     "url": "/vz235_printed/panels_part1#overview",
     
     "relUrl": "/vz235_printed/panels_part1#overview"
-  },"81": {
+  },"73": {
     "doc": "4. Bottom and rear panels",
     "title": "BOM",
     "content": "| Material | Quantity | Notes | . | M3/M4 6-8mm | 20* | Depending on the number of screws you use to secure your panels. Optionally you use the included enclosure trim pieces which are meant to use M3 hardware | . | M4 20mm | 8 | - | . | M4 25mm | 4 | - | . | M4 t-nuts | 20* | - | . | M5/M6 25mm | 4 | Depending on the extrusion type | . | Wood screws | 8 | Optional, to screw the printer down to a surface | . | 415x425x3mm aluminium | 1 | Optionally thickness, 1.5mm also possible | . | 425x470x3mm aluminium | 1 | Optionally thickness, 1.5mm also possible | . ",
     "url": "/vz235_printed/panels_part1#bom",
     
     "relUrl": "/vz235_printed/panels_part1#bom"
-  },"82": {
+  },"74": {
     "doc": "4. Bottom and rear panels",
     "title": "STL’s",
     "content": "| File name | Amount to print | . | VzBoT Foot | 4 | . | Foot scalable spacer (optional) | 4 | . Step 1 . Mount all hardware in the backpanel and put the panel on the frame. It is easiest to start tightening starting in the middle of each side and work your way outwards to prevent the panel from bulging. Step 2 . Insert all hardware in the printed feet and mount the rubber feet inside. When scaling the printed spacer make sure to get it to the height your rubber feet sticks out about 1-2mm out of the printed feet. Step 3 . Mount the feet and all hardware to the bottom panel. Next up mount the bottom panel to the frame. ",
     "url": "/vz235_printed/panels_part1#stls",
     
     "relUrl": "/vz235_printed/panels_part1#stls"
+  },"75": {
+    "doc": "4. Bottom and rear panels",
+    "title": "4. Bottom and rear panels",
+    "content": " ",
+    "url": "/vz235_alu/panels_part1",
+    
+    "relUrl": "/vz235_alu/panels_part1"
+  },"76": {
+    "doc": "4. Bottom and rear panels",
+    "title": "Overview",
+    "content": "A full panel kit is available at F3D-racing’s shop. We recommend getting that over drilling the holes by hand because it is really difficult to get all holes in exactly the right position. If you want to drill the holes yourself, it is recommended to use the CAD as reference. For the AWD variant, the rear panel must have cutouts at the idler/ motor mount as shown above. These are to reach the motor pulley to be able to synchronize the motors! . ",
+    "url": "/vz235_alu/panels_part1#overview",
+    
+    "relUrl": "/vz235_alu/panels_part1#overview"
+  },"77": {
+    "doc": "4. Bottom and rear panels",
+    "title": "BOM",
+    "content": "| Material | Quantity | Notes | . | M3/M4 6-8mm | 20* | Depending on the number of screws you use to secure your panels. Optionally you use the included enclosure trim pieces which are meant to use M3 hardware | . | M4 20mm | 8 | - | . | M4 25mm | 4 | - | . | M4 t-nuts | 20* | - | . | M5/M6 25mm | 4 | Depending on the extrusion type | . | Wood screws | 8 | Optional, to screw the printer down to a surface | . | 415x425x3mm aluminium | 1 | Optionally thickness, 1.5mm also possible | . | 425x470x3mm aluminium | 1 | Optionally thickness, 1.5mm also possible | . ",
+    "url": "/vz235_alu/panels_part1#bom",
+    
+    "relUrl": "/vz235_alu/panels_part1#bom"
+  },"78": {
+    "doc": "4. Bottom and rear panels",
+    "title": "STL’s",
+    "content": "| File name | Amount to print | . | VzBoT Foot | 4 | . | Foot scalable spacer (optional) | 4 | . Step 1 . Mount all hardware in the backpanel and put the panel on the frame. It is easiest to start tightening starting in the middle of each side and work your way outwards to prevent the panel from bulging. Step 2 . Insert all hardware in the printed feet and mount the rubber feet inside. When scaling the printed spacer make sure to get it to the height your rubber feet sticks out about 1-2mm out of the printed feet. Step 3 . Mount the feet and all hardware to the bottom panel. Next up mount the bottom panel to the frame. ",
+    "url": "/vz235_alu/panels_part1#stls",
+    
+    "relUrl": "/vz235_alu/panels_part1#stls"
+  },"79": {
+    "doc": "5. Bottom and rear panels",
+    "title": "5. Bottom and rear panels",
+    "content": " ",
+    "url": "/vz330_mellow/panels_part1",
+    
+    "relUrl": "/vz330_mellow/panels_part1"
+  },"80": {
+    "doc": "5. Bottom and rear panels",
+    "title": "Overview",
+    "content": ". ",
+    "url": "/vz330_mellow/panels_part1#overview",
+    
+    "relUrl": "/vz330_mellow/panels_part1#overview"
+  },"81": {
+    "doc": "5. Bottom and rear panels",
+    "title": "BOM",
+    "content": "| Material | Quantity | Notes | . | M3/M4 6-8mm | 20* | Depending on the number of screws you use to secure your panels. Optionally you use the included enclosure trim pieces which are meant to use M3 hardware | . | M4 20mm | 8 | - | . | M4 25mm | 4 | - | . | M4 t-nuts | 20* | - | . | M5/M6 25mm | 4 | Depending on the extrusion type | . | Wood screws | 8 | Optional, to screw the printer down to a surface | . | 570x500x3mm aluminium | 1 | Optionally thickness, 1.5mm also possible | . | 530x500x3mm aluminium | 1 | Optionally thickness, 1.5mm also possible | . ",
+    "url": "/vz330_mellow/panels_part1#bom",
+    
+    "relUrl": "/vz330_mellow/panels_part1#bom"
+  },"82": {
+    "doc": "5. Bottom and rear panels",
+    "title": "STL’s",
+    "content": "| File name | Amount to print | . | VzBoT Foot | 4 | . | Foot scalable spacer (optional) | 4 | . Step 1 . Mount all hardware in the backpanel and put the panel on the frame. It is easiest to start tightening starting in the middle of each side and work your way outwards to prevent the panel from bulging. Step 2 . Insert all hardware in the printed feet and mount the rubber feet inside. When scaling the printed spacer make sure to get it to the height your rubber feet sticks out about 1-2mm out of the printed feet. Step 3 . Mount the feet and all hardware to the bottom panel. Next up mount the bottom panel to the frame. ",
+    "url": "/vz330_mellow/panels_part1#stls",
+    
+    "relUrl": "/vz330_mellow/panels_part1#stls"
   },"83": {
     "doc": "7.2 Display",
     "title": "7.1 Display",
@@ -671,47 +671,47 @@
     
     "relUrl": "/vz235_alu/electronics#stls"
   },"96": {
-    "doc": "7. Electronics",
-    "title": "7. Electronics",
-    "content": " ",
-    "url": "/vz330_mellow/electronics",
-    
-    "relUrl": "/vz330_mellow/electronics"
-  },"97": {
-    "doc": "7. Electronics",
-    "title": "Overview",
-    "content": "This is a general overview of the parts recommended for a VzBoT build. Everyone is free to use their own choice of parts. STL-files for other screens etc are not natively provided and may be found in the community mod section on GitHub and Discord. We trust everyone to use their own best judgement when wiring their printer, we do not recommend to do this without professional help if you are inexperienced in electronics. ",
-    "url": "/vz330_mellow/electronics#overview",
-    
-    "relUrl": "/vz330_mellow/electronics#overview"
-  },"98": {
     "doc": "6. Electronics",
     "title": "6. Electronics",
     "content": " ",
     "url": "/vz235_printed/electronics",
     
     "relUrl": "/vz235_printed/electronics"
-  },"99": {
+  },"97": {
     "doc": "6. Electronics",
     "title": "Overview",
     "content": "This is a general overview of the parts recommended for a VzBoT build. Everyone is free to use their own choice of parts. STL-files for other screens etc are not natively provided and may be found in the community mod section on GitHub and Discord. We trust everyone to use their own best judgement when wiring their printer, we do not recommend to do this without professional help if you are inexperienced in electronics. ",
     "url": "/vz235_printed/electronics#overview",
     
     "relUrl": "/vz235_printed/electronics#overview"
-  },"100": {
+  },"98": {
     "doc": "6. Electronics",
     "title": "BOM",
     "content": "| Material | Quantity | Notes | . | LED strip 310mm | 3 | - | . | Mainboard | 1 | - | . | BTT Pi TFT50 | 1 | - | . | PSU 24V | 1 | - | . | PSU 48V | 1 | - | . | Wires | - | - | . | C14 power switch | 1 | - | . | Power chord | 1 | - | . ",
     "url": "/vz235_printed/electronics#bom",
     
     "relUrl": "/vz235_printed/electronics#bom"
-  },"101": {
+  },"99": {
     "doc": "6. Electronics",
     "title": "STL’s",
     "content": "| File name | Amount to print | . | LED strip bracket [print in vase mode] | 3 | . | Power switch bracket | 1 | . | Front screen cover | 1 | . | Rear screen cover | 1 | . | Screen mount | 1 | . | Door stopper | 1 | . ",
     "url": "/vz235_printed/electronics#stls",
     
     "relUrl": "/vz235_printed/electronics#stls"
+  },"100": {
+    "doc": "7. Electronics",
+    "title": "7. Electronics",
+    "content": " ",
+    "url": "/vz330_mellow/electronics",
+    
+    "relUrl": "/vz330_mellow/electronics"
+  },"101": {
+    "doc": "7. Electronics",
+    "title": "Overview",
+    "content": "This is a general overview of the parts recommended for a VzBoT build. Everyone is free to use their own choice of parts. STL-files for other screens etc are not natively provided and may be found in the community mod section on GitHub and Discord. We trust everyone to use their own best judgement when wiring their printer, we do not recommend to do this without professional help if you are inexperienced in electronics. ",
+    "url": "/vz330_mellow/electronics#overview",
+    
+    "relUrl": "/vz330_mellow/electronics#overview"
   },"102": {
     "doc": "3.6 Y end stop-switch mount",
     "title": "3.6 Y end stop-switch mount",
@@ -790,103 +790,103 @@
     
     "relUrl": "/faq#what-is-awd-all-wheel-drive"
   },"113": {
-    "doc": "1. Frame",
-    "title": "1. Frame",
-    "content": "TODO . ",
-    "url": "/vz330_printed/frame",
-    
-    "relUrl": "/vz330_printed/frame"
-  },"114": {
-    "doc": "1. Frame",
-    "title": "1. Frame",
-    "content": " ",
-    "url": "/vz235_alu/frame",
-    
-    "relUrl": "/vz235_alu/frame"
-  },"115": {
-    "doc": "1. Frame",
-    "title": "Overview",
-    "content": ". The frame is assembled through a combination of blind joints, corner brackets and blind corner brackets. The corner brackets are to help stiffen up the frame and are optional, though we highly recommend using them on every possible corner for best results. For detailed informations on how to assemble blind joints visit this page . ",
-    "url": "/vz235_alu/frame#overview",
-    
-    "relUrl": "/vz235_alu/frame#overview"
-  },"116": {
-    "doc": "1. Frame",
-    "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M5/M6 10mm buttonhead | 20 | Depending on the type of 2020 you use, you need M5 or M6 screws | . | 385mm 2020 extrusion | 4 | Yellow | . | 375mm 2020 extrusion | 6 | Red | . | 470mm 2020 extrusion | 4 | Blue | . | 385mm 2020 extrusion | 1 | Only for 2WD, mount the same as Y gantry extrusions | . | 2020 corner joints | 18 | - | . | 2020 blind corner joints | 4 | - | . ",
-    "url": "/vz235_alu/frame#bom",
-    
-    "relUrl": "/vz235_alu/frame#bom"
-  },"117": {
-    "doc": "1. Frame",
-    "title": "STL’s",
-    "content": "| File name | Amount to print | . | Bracer | 2 | . | Handle | 2 | . | Y Alignment Tool | 2 | . | Nut insers | 2 | . | Door latch | 4 | . To see the recommended print settings please refere here. Step 1 . To start you are going to build the 2 sides of your frame. Make sure you do your building on a nice flat surface. You will lay your frame half down with the included printed alignment tools for the y gantry extrusions and hand tighten all blind joints. After hand tightening you can start tightening everything down properly. Make sure every corner is exactly 90 degrees. Moreover, make sure the Y gantry extrusion is parallel to the upper and lower extrusion of the frame half. The Y gantry extrusion is the only extrusion that can’t use a 2020 corner joint bracket, it is stabilized by the motormount so there is no need for extra reinforcement. Once you are done with one half repeat for the other half. Check the two halves by laying them on top of each other with all corners exactly in the same spot and check the y gantry extrusions for the two halves whether they are parallel to each other. They need to be parallel for the printer to operate smoothly. It’s important to make sure the y-gantry is the same height. Step 2 . The bottom, top and upright extrusions in the front of the frame all have printed nut inserts inserted. 2 in the top for the door latches, 2 in the bottom for the lower latches and 1 in upright for the motor mounts to attach to. Insert the M4 nuts into the M4 inserts and push them in the uprights on the frame half. Next insert the 2x5mm magnets and the m3 nut into the frame part of the magnetic door latches and put 2 in the front lower and 2 in the front upper extrusion as shown in the picture before assembling the final part of the frame. Step 3 . Attach the extrusions to connect the two halves of the frame. Make sure to put the part you are assembling on the flat surface and afterwards check the frame on squareness. Step 4 . Attach all corner joints and check if your frame is square and strong. After this checks out attach the handles and the frame is built. ",
-    "url": "/vz235_alu/frame#stls",
-    
-    "relUrl": "/vz235_alu/frame#stls"
-  },"118": {
     "doc": "2. Frame",
     "title": "2. Frame",
     "content": " ",
     "url": "/vz330_mellow/frame",
     
     "relUrl": "/vz330_mellow/frame"
-  },"119": {
+  },"114": {
     "doc": "2. Frame",
     "title": "Overview",
     "content": ". The frame is assembled through a combination of blind joints and corner brackets. The corner brackets are to help stiffen up the frame and are optional, though we highly recommend using them on every possible corner for best results. For detailed informations on how to assemble blind joints visit this page . ",
     "url": "/vz330_mellow/frame#overview",
     
     "relUrl": "/vz330_mellow/frame#overview"
-  },"120": {
+  },"115": {
     "doc": "2. Frame",
     "title": "STL’s",
     "content": "You can click on the object you wanna print on the plate and the corresponding STL will open up. This currently don’t work on mobile . ",
     "url": "/vz330_mellow/frame#stls",
     
     "relUrl": "/vz330_mellow/frame#stls"
-  },"121": {
+  },"116": {
     "doc": "2. Frame",
     "title": "Part’s",
     "content": "| Material | Quantity | Notes | . | | 4 | 2040 extrusion (530mm) | . | | 4 | 2020 extrusion (530mm) with two holes | . | | 4 | 2020 extrusion (460mm) | . | | 8 | optional | . | | 16 | M5x25mm | . ",
     "url": "/vz330_mellow/frame#parts",
     
     "relUrl": "/vz330_mellow/frame#parts"
-  },"122": {
+  },"117": {
     "doc": "2. Frame",
     "title": "Assembly",
-    "content": "Step 1 . |   |   | . | | 1) 2040 extrusion (530mm) 2) 2020 extrusion (530mm) 3) Align the extrusions flush | . | 1) M5 x 25mm screw 2) Insert screw in 2020 extrusion (530mm) | | . | | 1) Tighten the 2020 extrusion to the 2040 extrusion 2) Make sure they are still flush | . Step 2 . |   |   | . | | 1) 2040 extrusion (530mm) 2) Assembly from step 1 3) Align the extrusions flush | . | 1) M5 x 25mm screw 2) Insert screw in 2020 extrusion (530mm) | | . | | 1) Tighten the 2020 extrusion to the 2040 extrusion 2) Make sure they are still flush | . Step 3 . Repeat the steps from Step 1 and Step 2 for the other u-shaped side. Step 4 . |   |   | . | | We take the E screw and fasten it in the second hole of the A extrusion, there should be a gap between the E screw and the extrusion big enough to slide the C extrusion on. | . |   |   | . |   |   | . |   |   | . | | We now take the the C extrusion and slite it on the A extrusion and tighten down the E screw just enough so that the C extrusion can’t slide off. We will tighten up this screws later when we made sure the frame is square. | . Step 5 . |   |   | . | | We take the E screw and fasten it to the other side of the u-shape in the second hole of the A extrusion, there should be a gap between the E screw and the extrusion big enough to slide the C extrusion on. | . |   |   | . |   |   | . |   |   | . | | We now take the the C extrusion and slite it on the A extrusion and tighten down the E screw just enough so that the C extrusion can’t slide off. We will tighten up this screws later when we made sure the frame is square. | . Step 6 . |   |   | . | | We take the E screw and the second u-shape assemble and screw the E screw in the second hole of the A extrusion, there should be a gap between the E screw and the extrusion big enough to slide on the other assembly. | . |   |   | . |   |   | . |   |   | . | | We take another E screw and screw it in the second hole of the A extrusion on the other side of the one we did before, there should be a gap between the E screw and the extrusion big enough to slide on the other assembly. | . |   |   | . |   |   | . |   |   | . | | We now take the u-shape assembly and slide it in the existing part of the frame and screw down the E screw just enough so that the C extrusion can’t slide off. We will tighten up this screws later when we made sure the frame is square. | . Step 7 . We can take the assembly from Step 1 to Step 6 and flipp it upside down. |   |   | . | | We take the four E screw and screw them in the outer holes of the A extrusions, there should be a gap between the E screw and the extrusion big enough to slide on the missing B extrusions | . |   |   | . |   |   | . |   |   | . | | We now take the two remaining B extrusions and slide them over the inserted E screws. Tighten down the E screw just enough so that the B extrusion can’t slide off, we let them like this because we need to adjust them later when we install the Gantry. | . Step 8 . The last step for the frame is making sure that the extrusion’s are mounted straight and square, when you unsured that tighten up all E screws beside the ones inserted in Step 7. ",
+    "content": "Step 1 . |   |   | . | | 1) 2040 extrusion (530mm) 2) 2020 extrusion (530mm) 3) Align the extrusions flush | . | | 1) Tighten the 2020 extrusion to the 2040 extrusion | . Step 2 . |   |   | . | | 1) 2040 extrusion (530mm) 2) Assembly from step 1 3) Align the extrusions flush | . | 1) Tighten the 2020 extrusion to the 2040 extrusion 2) Make sure they are still flush | | . | | 1) Tighten the 2020 extrusion to the 2040 extrusion 2) Make sure they are still flush | . Step 3 . Repeat the steps from Step 1 and Step 2 for the other u-shaped side. Step 4 . |   |   | . | | We take the E screw and fasten it in the second hole of the A extrusion, there should be a gap between the E screw and the extrusion big enough to slide the C extrusion on. | . |   |   | . |   |   | . |   |   | . | | We now take the the C extrusion and slite it on the A extrusion and tighten down the E screw just enough so that the C extrusion can’t slide off. We will tighten up this screws later when we made sure the frame is square. | . Step 5 . |   |   | . | | We take the E screw and fasten it to the other side of the u-shape in the second hole of the A extrusion, there should be a gap between the E screw and the extrusion big enough to slide the C extrusion on. | . |   |   | . |   |   | . |   |   | . | | We now take the the C extrusion and slite it on the A extrusion and tighten down the E screw just enough so that the C extrusion can’t slide off. We will tighten up this screws later when we made sure the frame is square. | . Step 6 . |   |   | . | | We take the E screw and the second u-shape assemble and screw the E screw in the second hole of the A extrusion, there should be a gap between the E screw and the extrusion big enough to slide on the other assembly. | . |   |   | . |   |   | . |   |   | . | | We take another E screw and screw it in the second hole of the A extrusion on the other side of the one we did before, there should be a gap between the E screw and the extrusion big enough to slide on the other assembly. | . |   |   | . |   |   | . |   |   | . | | We now take the u-shape assembly and slide it in the existing part of the frame and screw down the E screw just enough so that the C extrusion can’t slide off. We will tighten up this screws later when we made sure the frame is square. | . Step 7 . We can take the assembly from Step 1 to Step 6 and flipp it upside down. |   |   | . | | We take the four E screw and screw them in the outer holes of the A extrusions, there should be a gap between the E screw and the extrusion big enough to slide on the missing B extrusions | . |   |   | . |   |   | . |   |   | . | | We now take the two remaining B extrusions and slide them over the inserted E screws. Tighten down the E screw just enough so that the B extrusion can’t slide off, we let them like this because we need to adjust them later when we install the Gantry. | . Step 8 . The last step for the frame is making sure that the extrusion’s are mounted straight and square, when you unsured that tighten up all E screws beside the ones inserted in Step 7. ",
     "url": "/vz330_mellow/frame#assembly",
     
     "relUrl": "/vz330_mellow/frame#assembly"
-  },"123": {
+  },"118": {
+    "doc": "1. Frame",
+    "title": "1. Frame",
+    "content": "TODO . ",
+    "url": "/vz330_printed/frame",
+    
+    "relUrl": "/vz330_printed/frame"
+  },"119": {
     "doc": "1. Frame",
     "title": "1. Frame",
     "content": " ",
     "url": "/vz235_printed/frame",
     
     "relUrl": "/vz235_printed/frame"
-  },"124": {
+  },"120": {
     "doc": "1. Frame",
     "title": "Overview",
     "content": ". The frame is assembled through a combination of blind joints, corner brackets and blind corner brackets. The corner brackets are to help stiffen up the frame and are optional, though we highly recommend using them on every possible corner for best results. For detailed informations on how to assemble blind joints visit this page . ",
     "url": "/vz235_printed/frame#overview",
     
     "relUrl": "/vz235_printed/frame#overview"
-  },"125": {
+  },"121": {
     "doc": "1. Frame",
     "title": "BOM",
     "content": "| Material | Quantity | Notes | . | M5/M6 10mm buttonhead | 20 | Depending on the type of 2020 you use, you need M5 or M6 screws | . | 385mm 2020 extrusion | 4 | Yellow | . | 375mm 2020 extrusion | 6 | Red | . | 470mm 2020 extrusion | 4 | Blue | . | 385mm 2020 extrusion | 1 | Only for 2WD, mount the same as Y gantry extrusions | . | 2020 corner joints | 18 | - | . | 2020 blind corner joints | 4 | - | . ",
     "url": "/vz235_printed/frame#bom",
     
     "relUrl": "/vz235_printed/frame#bom"
-  },"126": {
+  },"122": {
     "doc": "1. Frame",
     "title": "STL’s",
     "content": "| File name | Amount to print | . | Bracer | 2 | . | Handle | 2 | . | Y Alignment Tool | 2 | . | Nut insers | 2 | . | Door latch | 4 | . To see the recommended print settings please refere here. Step 1 . To start you are going to build the 2 sides of your frame. Make sure you do your building on a nice flat surface. You will lay your frame half down with the included printed alignment tools for the y gantry extrusions and hand tighten all blind joints. After hand tightening you can start tightening everything down properly. Make sure every corner is exactly 90 degrees. Moreover, make sure the Y gantry extrusion is parallel to the upper and lower extrusion of the frame half. The Y gantry extrusion is the only extrusion that can’t use a 2020 corner joint bracket, it is stabilized by the motormount so there is no need for extra reinforcement. Once you are done with one half repeat for the other half. Check the two halves by laying them on top of each other with all corners exactly in the same spot and check the y gantry extrusions for the two halves whether they are parallel to each other. They need to be parallel for the printer to operate smoothly. It’s important to make sure the y-gantry is the same height. Step 2 . The bottom, top and upright extrusions in the front of the frame all have printed nut inserts inserted. 2 in the top for the door latches, 2 in the bottom for the lower latches and 1 in upright for the motor mounts to attach to. Insert the M4 nuts into the M4 inserts and push them in the uprights on the frame half. Next insert the 2x5mm magnets and the m3 nut into the frame part of the magnetic door latches and put 2 in the front lower and 2 in the front upper extrusion as shown in the picture before assembling the final part of the frame. Step 3 . Attach the extrusions to connect the two halves of the frame. Make sure to put the part you are assembling on the flat surface and afterwards check the frame on squareness. Step 4 . Attach all corner joints and check if your frame is square and strong. After this checks out attach the handles and the frame is built. ",
     "url": "/vz235_printed/frame#stls",
     
     "relUrl": "/vz235_printed/frame#stls"
+  },"123": {
+    "doc": "1. Frame",
+    "title": "1. Frame",
+    "content": " ",
+    "url": "/vz235_alu/frame",
+    
+    "relUrl": "/vz235_alu/frame"
+  },"124": {
+    "doc": "1. Frame",
+    "title": "Overview",
+    "content": ". The frame is assembled through a combination of blind joints, corner brackets and blind corner brackets. The corner brackets are to help stiffen up the frame and are optional, though we highly recommend using them on every possible corner for best results. For detailed informations on how to assemble blind joints visit this page . ",
+    "url": "/vz235_alu/frame#overview",
+    
+    "relUrl": "/vz235_alu/frame#overview"
+  },"125": {
+    "doc": "1. Frame",
+    "title": "BOM",
+    "content": "| Material | Quantity | Notes | . | M5/M6 10mm buttonhead | 20 | Depending on the type of 2020 you use, you need M5 or M6 screws | . | 385mm 2020 extrusion | 4 | Yellow | . | 375mm 2020 extrusion | 6 | Red | . | 470mm 2020 extrusion | 4 | Blue | . | 385mm 2020 extrusion | 1 | Only for 2WD, mount the same as Y gantry extrusions | . | 2020 corner joints | 18 | - | . | 2020 blind corner joints | 4 | - | . ",
+    "url": "/vz235_alu/frame#bom",
+    
+    "relUrl": "/vz235_alu/frame#bom"
+  },"126": {
+    "doc": "1. Frame",
+    "title": "STL’s",
+    "content": "| File name | Amount to print | . | Bracer | 2 | . | Handle | 2 | . | Y Alignment Tool | 2 | . | Nut insers | 2 | . | Door latch | 4 | . To see the recommended print settings please refere here. Step 1 . To start you are going to build the 2 sides of your frame. Make sure you do your building on a nice flat surface. You will lay your frame half down with the included printed alignment tools for the y gantry extrusions and hand tighten all blind joints. After hand tightening you can start tightening everything down properly. Make sure every corner is exactly 90 degrees. Moreover, make sure the Y gantry extrusion is parallel to the upper and lower extrusion of the frame half. The Y gantry extrusion is the only extrusion that can’t use a 2020 corner joint bracket, it is stabilized by the motormount so there is no need for extra reinforcement. Once you are done with one half repeat for the other half. Check the two halves by laying them on top of each other with all corners exactly in the same spot and check the y gantry extrusions for the two halves whether they are parallel to each other. They need to be parallel for the printer to operate smoothly. It’s important to make sure the y-gantry is the same height. Step 2 . The bottom, top and upright extrusions in the front of the frame all have printed nut inserts inserted. 2 in the top for the door latches, 2 in the bottom for the lower latches and 1 in upright for the motor mounts to attach to. Insert the M4 nuts into the M4 inserts and push them in the uprights on the frame half. Next insert the 2x5mm magnets and the m3 nut into the frame part of the magnetic door latches and put 2 in the front lower and 2 in the front upper extrusion as shown in the picture before assembling the final part of the frame. Step 3 . Attach the extrusions to connect the two halves of the frame. Make sure to put the part you are assembling on the flat surface and afterwards check the frame on squareness. Step 4 . Attach all corner joints and check if your frame is square and strong. After this checks out attach the handles and the frame is built. ",
+    "url": "/vz235_alu/frame#stls",
+    
+    "relUrl": "/vz235_alu/frame#stls"
   },"127": {
     "doc": "8.3 Front door latches",
     "title": "8.3 Front door latches",
@@ -1000,33 +1000,33 @@
     
     "relUrl": "/vz235_alu/gantry/front_motors#stls"
   },"143": {
-    "doc": "5. Fume extractor",
-    "title": "5. Fume extractor",
+    "doc": "6. Fume extractor",
+    "title": "6. Fume extractor",
     "content": " ",
-    "url": "/vz235_alu/fume_extractor",
+    "url": "/vz330_mellow/fume_extractor",
     
-    "relUrl": "/vz235_alu/fume_extractor"
+    "relUrl": "/vz330_mellow/fume_extractor"
   },"144": {
-    "doc": "5. Fume extractor",
+    "doc": "6. Fume extractor",
     "title": "Overview",
     "content": ". The VzBot fume extractor is an optional piece of hardware but highly recommended! This device gets rid of VOC’s (volatile organic compounds) and nasty smells that come from printing ABS filament. ",
-    "url": "/vz235_alu/fume_extractor#overview",
+    "url": "/vz330_mellow/fume_extractor#overview",
     
-    "relUrl": "/vz235_alu/fume_extractor#overview"
+    "relUrl": "/vz330_mellow/fume_extractor#overview"
   },"145": {
-    "doc": "5. Fume extractor",
+    "doc": "6. Fume extractor",
     "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M3 25mm | 4 | - | . | M3 nut | 4 | - | . | M4 40mm | 8 | - | . | M4 nut | 8 | - | . | 60x60x25 fan | 2 | - | . | HEPA filter (self-cut) | 1 | Available for kitchen applications | . | Activated carbon filter (self-cut) | 1 | - | . ",
-    "url": "/vz235_alu/fume_extractor#bom",
+    "content": "| Material | Quantity | Notes | . | M3 25mm ( button head ) | 4 | - | . | M3 nut | 4 | - | . | M4 50mm ( button head ) | 4 | - | . | M4 nut | 8 | - | . | 120x120x38 fan | 1 | - | . | HEPA filter (self-cut) | 1 | Available for kitchen applications | . | Activated carbon filter (self-cut) | 1 | - | . ",
+    "url": "/vz330_mellow/fume_extractor#bom",
     
-    "relUrl": "/vz235_alu/fume_extractor#bom"
+    "relUrl": "/vz330_mellow/fume_extractor#bom"
   },"146": {
-    "doc": "5. Fume extractor",
+    "doc": "6. Fume extractor",
     "title": "STL’s",
-    "content": ". | File name | Amount to print | . | TPU grommet (optional) | 1 | . | Fan guard | 1 | . | Fan guard insert | 1 | . | Exhaust fan housing | 1 | . | HEPA holder | 1 | . | Exhaust cover | 1 | . Step 1 . Start by inserting all the M4 and M3 nuts into the exhaust cover like shown below . Step 2 . Next put the two fans in the exhaust fan housing, put the fan cover on the back panel and mount the exhaust housing, exhaust cover and fans with the M4 hardware. Step 3 . Lastly Insert you HEPA filter and activated carbon filter in the HEPA_holder and screw onto the main fume extractor housing. The activated carbon filter br&gt; . ",
-    "url": "/vz235_alu/fume_extractor#stls",
+    "content": ". | File name | Amount to print | Note | . | Fan guard | 1 | - | . | Fan guard insert | 1 | - | . | Exhaust fan housing | 1 | - | . | HEPA holder 15mm | 1 | Print if your HEPA is 15mm “strong” | . | HEPA holder 10mm | 1 | Print if your HEPA is 10mm “strong” | . | Exhaust cover | 1 |   | . Step 1 . Start by inserting all the M4 and M3 nuts into the exhaust cover like shown below . Step 2 . Next put the two fans in the exhaust fan housing, put the fan cover on the back panel and mount the exhaust housing, exhaust cover and fans with the M4 hardware. Step 3 . Lastly Insert you HEPA filter and activated carbon filter in the HEPA_holder and screw onto the main fume extractor housing. The activated carbon filter . ",
+    "url": "/vz330_mellow/fume_extractor#stls",
     
-    "relUrl": "/vz235_alu/fume_extractor#stls"
+    "relUrl": "/vz330_mellow/fume_extractor#stls"
   },"147": {
     "doc": "5. Fume extractor",
     "title": "5. Fume extractor",
@@ -1056,166 +1056,166 @@
     
     "relUrl": "/vz235_printed/fume_extractor#stls"
   },"151": {
-    "doc": "6. Fume extractor",
-    "title": "6. Fume extractor",
+    "doc": "5. Fume extractor",
+    "title": "5. Fume extractor",
     "content": " ",
-    "url": "/vz330_mellow/fume_extractor",
+    "url": "/vz235_alu/fume_extractor",
     
-    "relUrl": "/vz330_mellow/fume_extractor"
+    "relUrl": "/vz235_alu/fume_extractor"
   },"152": {
-    "doc": "6. Fume extractor",
+    "doc": "5. Fume extractor",
     "title": "Overview",
     "content": ". The VzBot fume extractor is an optional piece of hardware but highly recommended! This device gets rid of VOC’s (volatile organic compounds) and nasty smells that come from printing ABS filament. ",
-    "url": "/vz330_mellow/fume_extractor#overview",
+    "url": "/vz235_alu/fume_extractor#overview",
     
-    "relUrl": "/vz330_mellow/fume_extractor#overview"
+    "relUrl": "/vz235_alu/fume_extractor#overview"
   },"153": {
-    "doc": "6. Fume extractor",
+    "doc": "5. Fume extractor",
     "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M3 25mm ( button head ) | 4 | - | . | M3 nut | 4 | - | . | M4 50mm ( button head ) | 4 | - | . | M4 nut | 8 | - | . | 120x120x38 fan | 1 | - | . | HEPA filter (self-cut) | 1 | Available for kitchen applications | . | Activated carbon filter (self-cut) | 1 | - | . ",
-    "url": "/vz330_mellow/fume_extractor#bom",
+    "content": "| Material | Quantity | Notes | . | M3 25mm | 4 | - | . | M3 nut | 4 | - | . | M4 40mm | 8 | - | . | M4 nut | 8 | - | . | 60x60x25 fan | 2 | - | . | HEPA filter (self-cut) | 1 | Available for kitchen applications | . | Activated carbon filter (self-cut) | 1 | - | . ",
+    "url": "/vz235_alu/fume_extractor#bom",
     
-    "relUrl": "/vz330_mellow/fume_extractor#bom"
+    "relUrl": "/vz235_alu/fume_extractor#bom"
   },"154": {
-    "doc": "6. Fume extractor",
+    "doc": "5. Fume extractor",
     "title": "STL’s",
-    "content": ". | File name | Amount to print | Note | . | Fan guard | 1 | - | . | Fan guard insert | 1 | - | . | Exhaust fan housing | 1 | - | . | HEPA holder 15mm | 1 | Print if your HEPA is 15mm “strong” | . | HEPA holder 10mm | 1 | Print if your HEPA is 10mm “strong” | . | Exhaust cover | 1 |   | . Step 1 . Start by inserting all the M4 and M3 nuts into the exhaust cover like shown below . Step 2 . Next put the two fans in the exhaust fan housing, put the fan cover on the back panel and mount the exhaust housing, exhaust cover and fans with the M4 hardware. Step 3 . Lastly Insert you HEPA filter and activated carbon filter in the HEPA_holder and screw onto the main fume extractor housing. The activated carbon filter . ",
-    "url": "/vz330_mellow/fume_extractor#stls",
+    "content": ". | File name | Amount to print | . | TPU grommet (optional) | 1 | . | Fan guard | 1 | . | Fan guard insert | 1 | . | Exhaust fan housing | 1 | . | HEPA holder | 1 | . | Exhaust cover | 1 | . Step 1 . Start by inserting all the M4 and M3 nuts into the exhaust cover like shown below . Step 2 . Next put the two fans in the exhaust fan housing, put the fan cover on the back panel and mount the exhaust housing, exhaust cover and fans with the M4 hardware. Step 3 . Lastly Insert you HEPA filter and activated carbon filter in the HEPA_holder and screw onto the main fume extractor housing. The activated carbon filter br&gt; . ",
+    "url": "/vz235_alu/fume_extractor#stls",
     
-    "relUrl": "/vz330_mellow/fume_extractor#stls"
+    "relUrl": "/vz235_alu/fume_extractor#stls"
   },"155": {
-    "doc": "3. Gantry",
-    "title": "3. Gantry",
-    "content": " ",
-    "url": "/vz235_printed/gantry",
-    
-    "relUrl": "/vz235_printed/gantry"
-  },"156": {
-    "doc": "3. Gantry",
-    "title": "Overview",
-    "content": ". The Gantry is configurable for an AWD version and a 2WD version. The only difference between the two configurations is the rear idler mounts. On AWD they have an additional Nema 17 integrated in the design. ",
-    "url": "/vz235_printed/gantry#overview",
-    
-    "relUrl": "/vz235_printed/gantry#overview"
-  },"157": {
-    "doc": "3. Gantry",
-    "title": "3. Gantry",
-    "content": " ",
-    "url": "/vz235_alu/gantry",
-    
-    "relUrl": "/vz235_alu/gantry"
-  },"158": {
-    "doc": "3. Gantry",
-    "title": "Overview",
-    "content": ". The Gantry is configurable for an AWD version and a 2WD version. The only difference between the two configurations is the rear idler mounts. On AWD they have an additional Nema 17 integrated in the design. ",
-    "url": "/vz235_alu/gantry#overview",
-    
-    "relUrl": "/vz235_alu/gantry#overview"
-  },"159": {
     "doc": "4. Gantry",
     "title": "4. Gantry",
     "content": " ",
     "url": "/vz330_mellow/gantry",
     
     "relUrl": "/vz330_mellow/gantry"
-  },"160": {
+  },"156": {
     "doc": "4. Gantry",
     "title": "Overview",
     "content": ". Gantry comes pre-assembled with printed parts in PLA that are for transportation only. It should not be used on the printer. You can easily replace the parts without disassembling the whole thing. ",
     "url": "/vz330_mellow/gantry#overview",
     
     "relUrl": "/vz330_mellow/gantry#overview"
-  },"161": {
+  },"157": {
     "doc": "4. Gantry",
     "title": "STL’s XY joiner",
     "content": "| File name | Amount to print | Note | . | Y gantry tube spacers | 4 | Only needed if the tube is not big enough and has play ( use as much as needed to get a good fit ) | . | Carbon fiber tube ends | 2 | Goes inside the tube to avoid crushing it while torquing | . | X limit switch stopper | 1 | - | . | Y gantry spacer | 2 | newer kit has those in CNC aluminum, so no need to print | . On how to print the files for this printer please refer to print settings . ",
     "url": "/vz330_mellow/gantry#stls-xy-joiner",
     
     "relUrl": "/vz330_mellow/gantry#stls-xy-joiner"
-  },"162": {
+  },"158": {
     "doc": "4. Gantry",
     "title": "STL’s rear motor mounts",
     "content": "| File name | Amount to print | Note | . | Spacer frame side | 2 | - | . | Spacer inner side | 2 | - | . | Tension adjustment knob | 2 | - | . | Cap for tension adjustment knob | 2 | - | . On how to print the files for this printer please refer to print settings . ",
     "url": "/vz330_mellow/gantry#stls-rear-motor-mounts",
     
     "relUrl": "/vz330_mellow/gantry#stls-rear-motor-mounts"
-  },"163": {
+  },"159": {
     "doc": "4. Gantry",
     "title": "STL’s front motor mounts",
     "content": "| File name | Amount to print | Note | . | Spacers | 2 | - | . On how to print the files for this printer please refer to print settings . Replace Parts . Next step is replacing all the pla printed parts with the parts from above, if this is done place the assembly on the frame and bolt down the upper part of the frame.s . ",
     "url": "/vz330_mellow/gantry#stls-front-motor-mounts",
     
     "relUrl": "/vz330_mellow/gantry#stls-front-motor-mounts"
-  },"164": {
-    "doc": "8.2 Front doors hinges & doors",
-    "title": "8.2 Front doors hinges &amp; doors",
+  },"160": {
+    "doc": "3. Gantry",
+    "title": "3. Gantry",
     "content": " ",
-    "url": "/vz235_alu/top_cover/hinges#82-front-doors-hinges--doors",
+    "url": "/vz235_printed/gantry",
     
-    "relUrl": "/vz235_alu/top_cover/hinges#82-front-doors-hinges--doors"
-  },"165": {
-    "doc": "8.2 Front doors hinges & doors",
+    "relUrl": "/vz235_printed/gantry"
+  },"161": {
+    "doc": "3. Gantry",
     "title": "Overview",
-    "content": ". ",
-    "url": "/vz235_alu/top_cover/hinges#overview",
+    "content": ". The Gantry is configurable for an AWD version and a 2WD version. The only difference between the two configurations is the rear idler mounts. On AWD they have an additional Nema 17 integrated in the design. ",
+    "url": "/vz235_printed/gantry#overview",
     
-    "relUrl": "/vz235_alu/top_cover/hinges#overview"
-  },"166": {
-    "doc": "8.2 Front doors hinges & doors",
-    "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M4 10mm | 8 | - | . | M4 40mm / 4x40mm shaft | 2 | - | . | M4 nut | 8 | - | . | 443X160X3 mm acrylic panel | 2 | Refer to the .step file for placement of the cutouts | . ",
-    "url": "/vz235_alu/top_cover/hinges#bom",
-    
-    "relUrl": "/vz235_alu/top_cover/hinges#bom"
-  },"167": {
-    "doc": "8.2 Front doors hinges & doors",
-    "title": "STL’s",
-    "content": "| File name | Amount to print | . | Hinge door side | 2 | . | Hinge frame side | 2 | . Step 1 . Mount the hinges to their respective panel. Step 2 . Put the door panels in position and insert the 40mm M4 . ",
-    "url": "/vz235_alu/top_cover/hinges#stls",
-    
-    "relUrl": "/vz235_alu/top_cover/hinges#stls"
-  },"168": {
-    "doc": "8.2 Front doors hinges & doors",
-    "title": "8.2 Front doors hinges & doors",
+    "relUrl": "/vz235_printed/gantry#overview"
+  },"162": {
+    "doc": "3. Gantry",
+    "title": "3. Gantry",
     "content": " ",
-    "url": "/vz235_alu/top_cover/hinges",
+    "url": "/vz235_alu/gantry",
     
-    "relUrl": "/vz235_alu/top_cover/hinges"
-  },"169": {
+    "relUrl": "/vz235_alu/gantry"
+  },"163": {
+    "doc": "3. Gantry",
+    "title": "Overview",
+    "content": ". The Gantry is configurable for an AWD version and a 2WD version. The only difference between the two configurations is the rear idler mounts. On AWD they have an additional Nema 17 integrated in the design. ",
+    "url": "/vz235_alu/gantry#overview",
+    
+    "relUrl": "/vz235_alu/gantry#overview"
+  },"164": {
     "doc": "8.2 Front doors hinges & doors",
     "title": "8.2 Front doors hinges &amp; doors",
     "content": " ",
     "url": "/vz235_printed/top_cover/hinges#82-front-doors-hinges--doors",
     
     "relUrl": "/vz235_printed/top_cover/hinges#82-front-doors-hinges--doors"
-  },"170": {
+  },"165": {
     "doc": "8.2 Front doors hinges & doors",
     "title": "Overview",
     "content": ". ",
     "url": "/vz235_printed/top_cover/hinges#overview",
     
     "relUrl": "/vz235_printed/top_cover/hinges#overview"
-  },"171": {
+  },"166": {
     "doc": "8.2 Front doors hinges & doors",
     "title": "BOM",
     "content": "| Material | Quantity | Notes | . | M4 10mm | 8 | - | . | M4 40mm / 4x40mm shaft | 2 | - | . | M4 nut | 8 | - | . | 443X160X3 mm acrylic panel | 2 | Refer to the .step file for placement of the cutouts | . ",
     "url": "/vz235_printed/top_cover/hinges#bom",
     
     "relUrl": "/vz235_printed/top_cover/hinges#bom"
-  },"172": {
+  },"167": {
     "doc": "8.2 Front doors hinges & doors",
     "title": "STL’s",
     "content": "| File name | Amount to print | . | Hinge door side | 2 | . | Hinge frame side | 2 | . Step 1 . Mount the hinges to their respective panel. Step 2 . Put the door panels in position and insert the 40mm M4 . ",
     "url": "/vz235_printed/top_cover/hinges#stls",
     
     "relUrl": "/vz235_printed/top_cover/hinges#stls"
-  },"173": {
+  },"168": {
     "doc": "8.2 Front doors hinges & doors",
     "title": "8.2 Front doors hinges & doors",
     "content": " ",
     "url": "/vz235_printed/top_cover/hinges",
     
     "relUrl": "/vz235_printed/top_cover/hinges"
+  },"169": {
+    "doc": "8.2 Front doors hinges & doors",
+    "title": "8.2 Front doors hinges &amp; doors",
+    "content": " ",
+    "url": "/vz235_alu/top_cover/hinges#82-front-doors-hinges--doors",
+    
+    "relUrl": "/vz235_alu/top_cover/hinges#82-front-doors-hinges--doors"
+  },"170": {
+    "doc": "8.2 Front doors hinges & doors",
+    "title": "Overview",
+    "content": ". ",
+    "url": "/vz235_alu/top_cover/hinges#overview",
+    
+    "relUrl": "/vz235_alu/top_cover/hinges#overview"
+  },"171": {
+    "doc": "8.2 Front doors hinges & doors",
+    "title": "BOM",
+    "content": "| Material | Quantity | Notes | . | M4 10mm | 8 | - | . | M4 40mm / 4x40mm shaft | 2 | - | . | M4 nut | 8 | - | . | 443X160X3 mm acrylic panel | 2 | Refer to the .step file for placement of the cutouts | . ",
+    "url": "/vz235_alu/top_cover/hinges#bom",
+    
+    "relUrl": "/vz235_alu/top_cover/hinges#bom"
+  },"172": {
+    "doc": "8.2 Front doors hinges & doors",
+    "title": "STL’s",
+    "content": "| File name | Amount to print | . | Hinge door side | 2 | . | Hinge frame side | 2 | . Step 1 . Mount the hinges to their respective panel. Step 2 . Put the door panels in position and insert the 40mm M4 . ",
+    "url": "/vz235_alu/top_cover/hinges#stls",
+    
+    "relUrl": "/vz235_alu/top_cover/hinges#stls"
+  },"173": {
+    "doc": "8.2 Front doors hinges & doors",
+    "title": "8.2 Front doors hinges & doors",
+    "content": " ",
+    "url": "/vz235_alu/top_cover/hinges",
+    
+    "relUrl": "/vz235_alu/top_cover/hinges"
   },"174": {
     "doc": "9.1 Top Cover hinges",
     "title": "9.1 Top Cover hinges",
@@ -1245,47 +1245,47 @@
     
     "relUrl": "/vz330_mellow/top_cover/top#stls"
   },"178": {
-    "doc": "VzBoT235 - Aluminium Version",
-    "title": "VzBoT235 - Aluminium Version",
-    "content": ". Vz235 is the smaller brother of the original VzBot 330 - Printed Version / VzBot 330 - Mellow Kit 3D-printer. With its relatively small build volume, it has reduced weight and a smaller form factor. The design is built around the popular Creality Ender 3 bed, but is not limited to this size: the frame can be scaled up or down to fit the individual builder’s requirements. This build differs from the Vz235 - Printed Version just in the part that gantry and z-assembly is replaced by manufactured aluminium pieces. On how to print the files for this printer please refer to print settings . We advice to build the printer in the following order: . | Frame | Z - Assembly &amp; Bed | Gantry | Bottom and rear panel | Fume extractor | Electronics | Side panels + RSCS | Top cover and doors panel | . ",
-    "url": "/vz235_alu",
-    
-    "relUrl": "/vz235_alu"
-  },"179": {
-    "doc": "VzBoT235 - Printed Version",
-    "title": "VzBoT235 - Printed Version Version",
-    "content": ". Vz235 is the smaller brother of the original VzBot 330 - Printed Version / VzBot 330 - Mellow Kit 3D-printer. With its relatively small build volume, it has reduced weight and a smaller form factor. The design is built around the popular Creality Ender 3 bed, but is not limited to this size: the frame can be scaled up or down to fit the individual builder’s requirements. On how to print the files for this printer please refer to print settings . We advice to build the printer in the following order: . | Frame | Z - Assembly &amp; Bed | Gantry | Bottom and rear panel | Fume extractor | Electronics | Side panels + RSCS | Top cover and doors panel | . ",
-    "url": "/vz235_printed#vzbot235---printed-version-version",
-    
-    "relUrl": "/vz235_printed#vzbot235---printed-version-version"
-  },"180": {
-    "doc": "VzBoT235 - Printed Version",
-    "title": "VzBoT235 - Printed Version",
-    "content": " ",
-    "url": "/vz235_printed",
-    
-    "relUrl": "/vz235_printed"
-  },"181": {
     "doc": "Welcome",
     "title": "Welcome to the VzBoT documentation",
     "content": "|   |   | . | VzBot 330 - Printed Version | VzBot 330 - Mellow Kit | . | | . |   |   | . | VzBot 235 - Printed Version | VzBot 235 - Aluminium Version | . | | . ",
     "url": "/#welcome-to-the-vzbot-documentation",
     
     "relUrl": "/#welcome-to-the-vzbot-documentation"
-  },"182": {
+  },"179": {
     "doc": "Welcome",
     "title": "Welcome",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"183": {
+  },"180": {
+    "doc": "VzBoT235 - Printed Version",
+    "title": "VzBoT235 - Printed Version Version",
+    "content": ". Vz235 is the smaller brother of the original VzBot 330 - Printed Version / VzBot 330 - Mellow Kit 3D-printer. With its relatively small build volume, it has reduced weight and a smaller form factor. The design is built around the popular Creality Ender 3 bed, but is not limited to this size: the frame can be scaled up or down to fit the individual builder’s requirements. On how to print the files for this printer please refer to print settings . We advice to build the printer in the following order: . | Frame | Z - Assembly &amp; Bed | Gantry | Bottom and rear panel | Fume extractor | Electronics | Side panels + RSCS | Top cover and doors panel | . ",
+    "url": "/vz235_printed#vzbot235---printed-version-version",
+    
+    "relUrl": "/vz235_printed#vzbot235---printed-version-version"
+  },"181": {
+    "doc": "VzBoT235 - Printed Version",
+    "title": "VzBoT235 - Printed Version",
+    "content": " ",
+    "url": "/vz235_printed",
+    
+    "relUrl": "/vz235_printed"
+  },"182": {
     "doc": "General Informations",
     "title": "General Informations",
     "content": "Here you can find basic informations around . | Print Settings | Video tutorial | Blind joints | . ",
     "url": "/general",
     
     "relUrl": "/general"
+  },"183": {
+    "doc": "VzBoT235 - Aluminium Version",
+    "title": "VzBoT235 - Aluminium Version",
+    "content": ". Vz235 is the smaller brother of the original VzBot 330 - Printed Version / VzBot 330 - Mellow Kit 3D-printer. With its relatively small build volume, it has reduced weight and a smaller form factor. The design is built around the popular Creality Ender 3 bed, but is not limited to this size: the frame can be scaled up or down to fit the individual builder’s requirements. This build differs from the Vz235 - Printed Version just in the part that gantry and z-assembly is replaced by manufactured aluminium pieces. On how to print the files for this printer please refer to print settings . We advice to build the printer in the following order: . | Frame | Z - Assembly &amp; Bed | Gantry | Bottom and rear panel | Fume extractor | Electronics | Side panels + RSCS | Top cover and doors panel | . ",
+    "url": "/vz235_alu",
+    
+    "relUrl": "/vz235_alu"
   },"184": {
     "doc": "VzBoT330 - Printed Version",
     "title": "VzBoT 330 - Printed Version",
@@ -1318,72 +1318,72 @@
     "doc": "8.1 Top cover & latches",
     "title": "8.1 top cover &amp; latches",
     "content": " ",
-    "url": "/vz235_printed/top_cover/latches#81-top-cover--latches",
-    
-    "relUrl": "/vz235_printed/top_cover/latches#81-top-cover--latches"
-  },"189": {
-    "doc": "8.1 Top cover & latches",
-    "title": "Overview",
-    "content": ". ",
-    "url": "/vz235_printed/top_cover/latches#overview",
-    
-    "relUrl": "/vz235_printed/top_cover/latches#overview"
-  },"190": {
-    "doc": "8.1 Top cover & latches",
-    "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M3 8mm | 8 | - | . | M3 nut | 8 | - | . | M4 10mm | 8 | - | . | M4 t-nut | 8 | - | . | 2x8mm Magnet | 8 | - | . | 395X405X3 mm acrylic panel | 1 | Refer to the .step file for placement of the cutouts | . ",
-    "url": "/vz235_printed/top_cover/latches#bom",
-    
-    "relUrl": "/vz235_printed/top_cover/latches#bom"
-  },"191": {
-    "doc": "8.1 Top cover & latches",
-    "title": "STL’s",
-    "content": ". | File name | Amount to print | . | Top cover holder top part | 4 | . | Top cover holder middle part | 4 | . | Top cover holder bottom part | 4 | . Step 1 . Insert the magnets in the top and bottom parts. They should be press fit, if not tight enough use some superglue . Step 2 . Screw the bottom part with M4 in each corner of the frame. Step 3 . Insert the rest of the magnets and m3 nuts in the middle pieces. Step 4 . Attach the top and middle piece to each corner of the panel and test the functionality of the top cover latch mechanism. ",
-    "url": "/vz235_printed/top_cover/latches#stls",
-    
-    "relUrl": "/vz235_printed/top_cover/latches#stls"
-  },"192": {
-    "doc": "8.1 Top cover & latches",
-    "title": "8.1 Top cover & latches",
-    "content": " ",
-    "url": "/vz235_printed/top_cover/latches",
-    
-    "relUrl": "/vz235_printed/top_cover/latches"
-  },"193": {
-    "doc": "8.1 Top cover & latches",
-    "title": "8.1 top cover &amp; latches",
-    "content": " ",
     "url": "/vz235_alu/top_cover/latches#81-top-cover--latches",
     
     "relUrl": "/vz235_alu/top_cover/latches#81-top-cover--latches"
-  },"194": {
+  },"189": {
     "doc": "8.1 Top cover & latches",
     "title": "Overview",
     "content": ". ",
     "url": "/vz235_alu/top_cover/latches#overview",
     
     "relUrl": "/vz235_alu/top_cover/latches#overview"
-  },"195": {
+  },"190": {
     "doc": "8.1 Top cover & latches",
     "title": "BOM",
     "content": "| Material | Quantity | Notes | . | M3 8mm | 8 | - | . | M3 nut | 8 | - | . | M4 10mm | 8 | - | . | M4 t-nut | 8 | - | . | 2x8mm Magnet | 8 | - | . | 395X405X3 mm acrylic panel | 1 | Refer to the .step file for placement of the cutouts | . ",
     "url": "/vz235_alu/top_cover/latches#bom",
     
     "relUrl": "/vz235_alu/top_cover/latches#bom"
-  },"196": {
+  },"191": {
     "doc": "8.1 Top cover & latches",
     "title": "STL’s",
     "content": ". | File name | Amount to print | . | Top cover holder top part | 4 | . | Top cover holder middle part | 4 | . | Top cover holder bottom part | 4 | . Step 1 . Insert the magnets in the top and bottom parts. They should be press fit, if not tight enough use some superglue . Step 2 . Screw the bottom part with M4 in each corner of the frame. Step 3 . Insert the rest of the magnets and m3 nuts in the middle pieces. Step 4 . Attach the top and middle piece to each corner of the panel and test the functionality of the top cover latch mechanism. ",
     "url": "/vz235_alu/top_cover/latches#stls",
     
     "relUrl": "/vz235_alu/top_cover/latches#stls"
-  },"197": {
+  },"192": {
     "doc": "8.1 Top cover & latches",
     "title": "8.1 Top cover & latches",
     "content": " ",
     "url": "/vz235_alu/top_cover/latches",
     
     "relUrl": "/vz235_alu/top_cover/latches"
+  },"193": {
+    "doc": "8.1 Top cover & latches",
+    "title": "8.1 top cover &amp; latches",
+    "content": " ",
+    "url": "/vz235_printed/top_cover/latches#81-top-cover--latches",
+    
+    "relUrl": "/vz235_printed/top_cover/latches#81-top-cover--latches"
+  },"194": {
+    "doc": "8.1 Top cover & latches",
+    "title": "Overview",
+    "content": ". ",
+    "url": "/vz235_printed/top_cover/latches#overview",
+    
+    "relUrl": "/vz235_printed/top_cover/latches#overview"
+  },"195": {
+    "doc": "8.1 Top cover & latches",
+    "title": "BOM",
+    "content": "| Material | Quantity | Notes | . | M3 8mm | 8 | - | . | M3 nut | 8 | - | . | M4 10mm | 8 | - | . | M4 t-nut | 8 | - | . | 2x8mm Magnet | 8 | - | . | 395X405X3 mm acrylic panel | 1 | Refer to the .step file for placement of the cutouts | . ",
+    "url": "/vz235_printed/top_cover/latches#bom",
+    
+    "relUrl": "/vz235_printed/top_cover/latches#bom"
+  },"196": {
+    "doc": "8.1 Top cover & latches",
+    "title": "STL’s",
+    "content": ". | File name | Amount to print | . | Top cover holder top part | 4 | . | Top cover holder middle part | 4 | . | Top cover holder bottom part | 4 | . Step 1 . Insert the magnets in the top and bottom parts. They should be press fit, if not tight enough use some superglue . Step 2 . Screw the bottom part with M4 in each corner of the frame. Step 3 . Insert the rest of the magnets and m3 nuts in the middle pieces. Step 4 . Attach the top and middle piece to each corner of the panel and test the functionality of the top cover latch mechanism. ",
+    "url": "/vz235_printed/top_cover/latches#stls",
+    
+    "relUrl": "/vz235_printed/top_cover/latches#stls"
+  },"197": {
+    "doc": "8.1 Top cover & latches",
+    "title": "8.1 Top cover & latches",
+    "content": " ",
+    "url": "/vz235_printed/top_cover/latches",
+    
+    "relUrl": "/vz235_printed/top_cover/latches"
   },"198": {
     "doc": "9.3 Front door latches",
     "title": "9.3 Front door latches",
@@ -1574,40 +1574,40 @@
     
     "relUrl": "/general/print-settings"
   },"225": {
-    "doc": "4.3 Printhead",
-    "title": "4.3 Printhead",
-    "content": " ",
-    "url": "/vz330_mellow/gantry/printhead",
-    
-    "relUrl": "/vz330_mellow/gantry/printhead"
-  },"226": {
-    "doc": "4.3 Printhead",
-    "title": "Overview",
-    "content": ". ",
-    "url": "/vz330_mellow/gantry/printhead#overview",
-    
-    "relUrl": "/vz330_mellow/gantry/printhead#overview"
-  },"227": {
-    "doc": "4.3 Printhead",
-    "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M3 x 4mm ( button head ) | 4 | Should be included in the kit | . | PTFE tube ( 22 mm ) | 1 | Between Goliath and VzHextrudORT | . | TODO pick right bags and list | 1 | - | . ",
-    "url": "/vz330_mellow/gantry/printhead#bom",
-    
-    "relUrl": "/vz330_mellow/gantry/printhead#bom"
-  },"228": {
-    "doc": "4.3 Printhead",
-    "title": "STL’s",
-    "content": "| File name | Amount to print | Note | . | X end stop switch mount | 1 | - | . | Cable Holder | 1 | - | . | Fan duct Goliath | 1 | Pick this if no beacon is used | . | Fan duct Goliath ( beacon ) | 1 | Use this duct for Goliath and beacon | . | Fan duct Goliath spacers | 1 | - | . | Fan duct upper | 1 | - | . | Upper duct mount | 1 | - | . | Upper duct cpcp c clamp | 1 | - | . | Goliath 2410 fan duct | 1 | - | . Note . 4xM3 4mm should have been included in the kit to mount the printhead to the MGN9. Some people reported those 4 were missing. If that is your case, please use the M3x4 button head. It should work. If you prefer you could grind down the included M3x6mm bolt about 1mm so it’s 5mm. Insert a nut on the bolt before doing so, that way when you are done grinding (or cutting), the threads will be repaired when the nut is removed. Mounting . TODO detailed description . ",
-    "url": "/vz330_mellow/gantry/printhead#stls",
-    
-    "relUrl": "/vz330_mellow/gantry/printhead#stls"
-  },"229": {
     "doc": "3.3 Printhead",
     "title": "3.3 Printhead",
     "content": "TODO -&gt; Manuel points to eva not related anymore . ",
     "url": "/vz235_alu/gantry/printhead",
     
     "relUrl": "/vz235_alu/gantry/printhead"
+  },"226": {
+    "doc": "4.3 Printhead",
+    "title": "4.3 Printhead",
+    "content": " ",
+    "url": "/vz330_mellow/gantry/printhead",
+    
+    "relUrl": "/vz330_mellow/gantry/printhead"
+  },"227": {
+    "doc": "4.3 Printhead",
+    "title": "Overview",
+    "content": ". ",
+    "url": "/vz330_mellow/gantry/printhead#overview",
+    
+    "relUrl": "/vz330_mellow/gantry/printhead#overview"
+  },"228": {
+    "doc": "4.3 Printhead",
+    "title": "BOM",
+    "content": "| Material | Quantity | Notes | . | M3 x 4mm ( button head ) | 4 | Should be included in the kit | . | PTFE tube ( 22 mm ) | 1 | Between Goliath and VzHextrudORT | . | TODO pick right bags and list | 1 | - | . ",
+    "url": "/vz330_mellow/gantry/printhead#bom",
+    
+    "relUrl": "/vz330_mellow/gantry/printhead#bom"
+  },"229": {
+    "doc": "4.3 Printhead",
+    "title": "STL’s",
+    "content": "| File name | Amount to print | Note | . | X end stop switch mount | 1 | - | . | Cable Holder | 1 | - | . | Fan duct Goliath | 1 | Pick this if no beacon is used | . | Fan duct Goliath ( beacon ) | 1 | Use this duct for Goliath and beacon | . | Fan duct Goliath spacers | 1 | - | . | Fan duct upper | 1 | - | . | Upper duct mount | 1 | - | . | Upper duct cpcp c clamp | 1 | - | . | Goliath 2410 fan duct | 1 | - | . Note . 4xM3 4mm should have been included in the kit to mount the printhead to the MGN9. Some people reported those 4 were missing. If that is your case, please use the M3x4 button head. It should work. If you prefer you could grind down the included M3x6mm bolt about 1mm so it’s 5mm. Insert a nut on the bolt before doing so, that way when you are done grinding (or cutting), the threads will be repaired when the nut is removed. Mounting . TODO detailed description . ",
+    "url": "/vz330_mellow/gantry/printhead#stls",
+    
+    "relUrl": "/vz330_mellow/gantry/printhead#stls"
   },"230": {
     "doc": "3.3 Printhead",
     "title": "3.3 Printhead ( printed )",
@@ -1675,23 +1675,23 @@
     "doc": "8. Top cover and doors panels",
     "title": "8. Top cover and doors panels",
     "content": " ",
-    "url": "/vz235_printed/top_cover",
-    
-    "relUrl": "/vz235_printed/top_cover"
-  },"240": {
-    "doc": "8. Top cover and doors panels",
-    "title": "8. Top cover and doors panels",
-    "content": " ",
     "url": "/vz235_alu/top_cover",
     
     "relUrl": "/vz235_alu/top_cover"
-  },"241": {
+  },"240": {
     "doc": "9. Top cover and doors panels",
     "title": "9. Top cover and doors panels",
     "content": " ",
     "url": "/vz330_mellow/top_cover",
     
     "relUrl": "/vz330_mellow/top_cover"
+  },"241": {
+    "doc": "8. Top cover and doors panels",
+    "title": "8. Top cover and doors panels",
+    "content": " ",
+    "url": "/vz235_printed/top_cover",
+    
+    "relUrl": "/vz235_printed/top_cover"
   },"242": {
     "doc": "2.3 Top rod mounts",
     "title": "2.3 Top rod mounts",
@@ -1819,61 +1819,61 @@
     
     "relUrl": "/vz235_alu/gantry/y_gantry#stls"
   },"260": {
-    "doc": "2. Z - Assembly & Bed",
-    "title": "2. Z - Assembly &amp; Bed",
-    "content": " ",
-    "url": "/vz235_printed/z_assembly#2-z---assembly--bed",
-    
-    "relUrl": "/vz235_printed/z_assembly#2-z---assembly--bed"
-  },"261": {
-    "doc": "2. Z - Assembly & Bed",
-    "title": "Overview",
-    "content": ". The proper alignment procedure of the VZ235 is the same as on the VZ330 only difference is the length of the alignment tools. Make sure to check out the YouTube video explaining how to align your Z-assembly, so it is both smooth and lines up with the possible travel of the printhead. Video tutorial . ",
-    "url": "/vz235_printed/z_assembly#overview",
-    
-    "relUrl": "/vz235_printed/z_assembly#overview"
-  },"262": {
-    "doc": "2. Z - Assembly & Bed",
-    "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M3 6mm | 4 | - | . | M3 15mm | 24 | - | . | M3 20mm | 4 | - | . | M3 30mm | - | 2 | . | M3 30mm countersunk | 5 | - | . | M3 nut | 28 | - | . | M3 t-nut | 2 | - | . | M3 wing nuts | 5 | - | . | M4 10mm | 47 | - | . | M4 8mm | 1 | - | . | M4 t-nut | 47 | - | . | M5/M6 20mm | 2 | Depending on extrusion type | . | M5 10/8mm | 8 | Depending on the 2020 corner bracket | . | 2020 corner bracket | 4 | - | . | 245mm 2020 extrusion | 2 | - | . | 232mm 2020 extrusion | 2 | - | . | 300mm leadscrew T8 | 2 | - | . | Leadscrew nut | 2 | - | . | 300mm 10mm smooth rod | 4 | Optional size, also supports 8 and 12mm as found on VZ330 | . | LMU10LUU bearing | 4 | - | . | 608-2RS bearing | 4 | - | . | GT2 40T 8mm pulley | 2 | - | . | NEMA17 Motor | 1 | - | . | GT2 20T Pulley | 1 | - | . | 850-890mm looped belt | 1 | - | . | Ender 3 bed / machined aluminum bed | 1 | - | . | Bed Springs | 4 | - | . | Microswitch | 1 | - | . ",
-    "url": "/vz235_printed/z_assembly#bom",
-    
-    "relUrl": "/vz235_printed/z_assembly#bom"
-  },"263": {
-    "doc": "2. Z - Assembly & Bed",
-    "title": "STL",
-    "content": "| File name | Amount to print | . | Z lower rod mount main | 4 | . | Z lower rod mount clamp | 4 | . | Z upper rod mount main | 4 | . | Z upper rod mount clamp | 4 | . | Single z motor bracket upper | 1 | . | Single z motor bracket lower | 1 | . | Lead screw upper bracket | 2 | . | Lead screw lower bracket | 2 | . | Limit switch mount | 1 | . | Z stopper | 1 | . | Z chain mount | 1 | . | Bearing mount | 4 | . | Leadscrew support | 2 | . | Oldham coupler (all parts) | 2 | . | Bed M3 support | 4 | . | Z alignment tool | 2 | . Step 1 . First assemble your bed assembly, make sure the bed frame is on a flat surface when assembling. Insert the linear bearings in their brackets and attach them to the bed frame. Do make sure the brackets are on the most outer position of the frame like shown below and that they are flat with the frame. Do not attach the printer bed to the frame yet. Step 2 . Attach all rod holders finger tight (upper &amp; lower) to the frame, don’t worry about the position just yet. You want to be able to shift them around. Then insert the rods into the bearings and attach the bed frame with the rods to the respective rod holders. Step 3 . With the assembly in place attach the two alignment tools like shown below and tighten . Step 4 . Once you aligned the front corners you are going to put the bed in the lowest position and wiggle the bed around. Try to get the rod pretty nice and vertical to the frame and tighten the rear bottom rod holders and tighten them to the frame. Step 5 . Now put the bed in the highest position and tighten the clamps for the upper rods and tighten the brackets to the frame. To keep the bed up you can use zip ties or ask someone to help. Step 6 . Insert the bearings in the leadscrew brackets (press fit) and attach the brackets like shown below. Don’t forget to put the belt around the pulley before assembling the top part of the bracket. Then attach the leadscrew support with the oldham couplers and leadscrew nut to the bed frame and assemble the parts loosely. Step 7 . To align the parts, measure the bracket is nicely in between the rod holders measure the distance and get it approximately centered. Turn the leadscrew a bit to help it self-align the upper leadscrew support on the bed and tighten the parts. The leadscrew should be nice and vertical. To check you can put the bed in the highest position and measure the distances between the leadscrew and z rod. The leadscrew should now be centered between both z rods. Step 8 . Attach the single motor mount like shown below . The top M3 screws are 30mm and lock the sliding mechanism in place. They also serve as reinforcement of the mount. Also attach the motor pulley and belt on the motor. Step 9 . To synchronize the leadscrews, turn out the grub screws on the 40t pulleys and get the bed in the top position. Then retighten the grubscrews . Step 10 . Assemble the z switch and make sure when the bed rises the switch is triggered by the screw to avoid a bed crash at the first homing sequence. Step 11 . Finally install the bed M3 supports, attach the bed with the countersunk M3’s and bed springs. If you are using a milled aluminum bed refer to the electronics/wiring section on how to properly assemble the silicone heater pad. ",
-    "url": "/vz235_printed/z_assembly#stl",
-    
-    "relUrl": "/vz235_printed/z_assembly#stl"
-  },"264": {
-    "doc": "2. Z - Assembly & Bed",
-    "title": "2. Z - Assembly & Bed",
-    "content": " ",
-    "url": "/vz235_printed/z_assembly",
-    
-    "relUrl": "/vz235_printed/z_assembly"
-  },"265": {
     "doc": "3. Z - Assembly & Bed",
     "title": "3. Z - Assembly &amp; Bed",
     "content": " ",
     "url": "/vz330_mellow/z_assembly#3-z---assembly--bed",
     
     "relUrl": "/vz330_mellow/z_assembly#3-z---assembly--bed"
-  },"266": {
+  },"261": {
     "doc": "3. Z - Assembly & Bed",
     "title": "Overview",
     "content": ". The proper alignment procedure of the VZ235 is the same as on the VZ330 only difference is the length of the alignment tools. Make sure to check out the YouTube video explaining how to align your Z-assembly, so it is both smooth and lines up with the possible travel of the printhead. ",
     "url": "/vz330_mellow/z_assembly#overview",
     
     "relUrl": "/vz330_mellow/z_assembly#overview"
-  },"267": {
+  },"262": {
     "doc": "3. Z - Assembly & Bed",
     "title": "3. Z - Assembly & Bed",
     "content": " ",
     "url": "/vz330_mellow/z_assembly",
     
     "relUrl": "/vz330_mellow/z_assembly"
+  },"263": {
+    "doc": "2. Z - Assembly & Bed",
+    "title": "2. Z - Assembly &amp; Bed",
+    "content": " ",
+    "url": "/vz235_printed/z_assembly#2-z---assembly--bed",
+    
+    "relUrl": "/vz235_printed/z_assembly#2-z---assembly--bed"
+  },"264": {
+    "doc": "2. Z - Assembly & Bed",
+    "title": "Overview",
+    "content": ". The proper alignment procedure of the VZ235 is the same as on the VZ330 only difference is the length of the alignment tools. Make sure to check out the YouTube video explaining how to align your Z-assembly, so it is both smooth and lines up with the possible travel of the printhead. Video tutorial . ",
+    "url": "/vz235_printed/z_assembly#overview",
+    
+    "relUrl": "/vz235_printed/z_assembly#overview"
+  },"265": {
+    "doc": "2. Z - Assembly & Bed",
+    "title": "BOM",
+    "content": "| Material | Quantity | Notes | . | M3 6mm | 4 | - | . | M3 15mm | 24 | - | . | M3 20mm | 4 | - | . | M3 30mm | - | 2 | . | M3 30mm countersunk | 5 | - | . | M3 nut | 28 | - | . | M3 t-nut | 2 | - | . | M3 wing nuts | 5 | - | . | M4 10mm | 47 | - | . | M4 8mm | 1 | - | . | M4 t-nut | 47 | - | . | M5/M6 20mm | 2 | Depending on extrusion type | . | M5 10/8mm | 8 | Depending on the 2020 corner bracket | . | 2020 corner bracket | 4 | - | . | 245mm 2020 extrusion | 2 | - | . | 232mm 2020 extrusion | 2 | - | . | 300mm leadscrew T8 | 2 | - | . | Leadscrew nut | 2 | - | . | 300mm 10mm smooth rod | 4 | Optional size, also supports 8 and 12mm as found on VZ330 | . | LMU10LUU bearing | 4 | - | . | 608-2RS bearing | 4 | - | . | GT2 40T 8mm pulley | 2 | - | . | NEMA17 Motor | 1 | - | . | GT2 20T Pulley | 1 | - | . | 850-890mm looped belt | 1 | - | . | Ender 3 bed / machined aluminum bed | 1 | - | . | Bed Springs | 4 | - | . | Microswitch | 1 | - | . ",
+    "url": "/vz235_printed/z_assembly#bom",
+    
+    "relUrl": "/vz235_printed/z_assembly#bom"
+  },"266": {
+    "doc": "2. Z - Assembly & Bed",
+    "title": "STL",
+    "content": "| File name | Amount to print | . | Z lower rod mount main | 4 | . | Z lower rod mount clamp | 4 | . | Z upper rod mount main | 4 | . | Z upper rod mount clamp | 4 | . | Single z motor bracket upper | 1 | . | Single z motor bracket lower | 1 | . | Lead screw upper bracket | 2 | . | Lead screw lower bracket | 2 | . | Limit switch mount | 1 | . | Z stopper | 1 | . | Z chain mount | 1 | . | Bearing mount | 4 | . | Leadscrew support | 2 | . | Oldham coupler (all parts) | 2 | . | Bed M3 support | 4 | . | Z alignment tool | 2 | . Step 1 . First assemble your bed assembly, make sure the bed frame is on a flat surface when assembling. Insert the linear bearings in their brackets and attach them to the bed frame. Do make sure the brackets are on the most outer position of the frame like shown below and that they are flat with the frame. Do not attach the printer bed to the frame yet. Step 2 . Attach all rod holders finger tight (upper &amp; lower) to the frame, don’t worry about the position just yet. You want to be able to shift them around. Then insert the rods into the bearings and attach the bed frame with the rods to the respective rod holders. Step 3 . With the assembly in place attach the two alignment tools like shown below and tighten . Step 4 . Once you aligned the front corners you are going to put the bed in the lowest position and wiggle the bed around. Try to get the rod pretty nice and vertical to the frame and tighten the rear bottom rod holders and tighten them to the frame. Step 5 . Now put the bed in the highest position and tighten the clamps for the upper rods and tighten the brackets to the frame. To keep the bed up you can use zip ties or ask someone to help. Step 6 . Insert the bearings in the leadscrew brackets (press fit) and attach the brackets like shown below. Don’t forget to put the belt around the pulley before assembling the top part of the bracket. Then attach the leadscrew support with the oldham couplers and leadscrew nut to the bed frame and assemble the parts loosely. Step 7 . To align the parts, measure the bracket is nicely in between the rod holders measure the distance and get it approximately centered. Turn the leadscrew a bit to help it self-align the upper leadscrew support on the bed and tighten the parts. The leadscrew should be nice and vertical. To check you can put the bed in the highest position and measure the distances between the leadscrew and z rod. The leadscrew should now be centered between both z rods. Step 8 . Attach the single motor mount like shown below . The top M3 screws are 30mm and lock the sliding mechanism in place. They also serve as reinforcement of the mount. Also attach the motor pulley and belt on the motor. Step 9 . To synchronize the leadscrews, turn out the grub screws on the 40t pulleys and get the bed in the top position. Then retighten the grubscrews . Step 10 . Assemble the z switch and make sure when the bed rises the switch is triggered by the screw to avoid a bed crash at the first homing sequence. Step 11 . Finally install the bed M3 supports, attach the bed with the countersunk M3’s and bed springs. If you are using a milled aluminum bed refer to the electronics/wiring section on how to properly assemble the silicone heater pad. ",
+    "url": "/vz235_printed/z_assembly#stl",
+    
+    "relUrl": "/vz235_printed/z_assembly#stl"
+  },"267": {
+    "doc": "2. Z - Assembly & Bed",
+    "title": "2. Z - Assembly & Bed",
+    "content": " ",
+    "url": "/vz235_printed/z_assembly",
+    
+    "relUrl": "/vz235_printed/z_assembly"
   },"268": {
     "doc": "2. Z - Assembly & Bed",
     "title": "2. Z - Assembly &amp; Bed",
@@ -1896,46 +1896,46 @@
     
     "relUrl": "/vz235_alu/z_assembly"
   },"271": {
-    "doc": "3.4 Z-Motor bracket",
-    "title": "3.4 Z-Motor bracket",
-    "content": " ",
-    "url": "/vz330_mellow/z_assembly/z_motor",
-    
-    "relUrl": "/vz330_mellow/z_assembly/z_motor"
-  },"272": {
-    "doc": "3.4 Z-Motor bracket",
-    "title": "Overview",
-    "content": ". ",
-    "url": "/vz330_mellow/z_assembly/z_motor#overview",
-    
-    "relUrl": "/vz330_mellow/z_assembly/z_motor#overview"
-  },"273": {
-    "doc": "3.4 Z-Motor bracket",
-    "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M3 10mm | 4 | - | . | M4 10mm | 4 | - | . | M4 t-nut | 2 | - | . | GT2 20 teeth | 1 | - | . | NEMA 17 stepper | 1 | - | . Step 1 . Mount the bracket shown below to the frame using the 10mm M4 screws and T-nuts. Make sure it is nicely centered in the middle of the frame. Step 2 . Mount the stepper motor to the top bracket using the 10mm M3 screws. Attach the motor pulley like shown below. Step 3 . Mount the previous assembly to the bracket on the frame using 10mm M4 screws. Step 4 . With the motor in the furthest position, loop the belt around the motor pulley and tighten the belt. Be sure to check if the belt is horizontally parallel to the frame for smoothest operation. ",
-    "url": "/vz330_mellow/z_assembly/z_motor#bom",
-    
-    "relUrl": "/vz330_mellow/z_assembly/z_motor#bom"
-  },"274": {
     "doc": "2.4 Z-Motor bracket",
     "title": "2.4 Z-Motor bracket",
     "content": " ",
     "url": "/vz235_alu/z_assembly/z_motor",
     
     "relUrl": "/vz235_alu/z_assembly/z_motor"
-  },"275": {
+  },"272": {
     "doc": "2.4 Z-Motor bracket",
     "title": "Overview",
     "content": ". ",
     "url": "/vz235_alu/z_assembly/z_motor#overview",
     
     "relUrl": "/vz235_alu/z_assembly/z_motor#overview"
-  },"276": {
+  },"273": {
     "doc": "2.4 Z-Motor bracket",
     "title": "BOM",
     "content": "| Material | Quantity | Notes | . | M3 10mm | 6 | - | . | M4 10mm | 2 | - | . | M4 t-nut | 2 | - | . | M3 washer | 2 | - | . | GT2 20 teeth | 1 | - | . | NEMA 17 stepper | 1 | - | . Step 1 . Mount the bracket shown below to the frame using the 10mm M4 screws and T-nuts. Make sure it is nicely centered in the middle of the frame. Step 2 . Mount the stepper motor to the top bracket using the 10mm M3 screws. Attach the motor pulley like shown below. Step 3 . Mount the previous assembly to the bracket on the frame using 10mm M3 screws. Step 4 . With the motor in the furthest position, loop the belt around the motor pulley and tighten the belt. Be sure to check if the belt is horizontally parallel to the frame for smoothest operation. ",
     "url": "/vz235_alu/z_assembly/z_motor#bom",
     
     "relUrl": "/vz235_alu/z_assembly/z_motor#bom"
+  },"274": {
+    "doc": "3.4 Z-Motor bracket",
+    "title": "3.4 Z-Motor bracket",
+    "content": " ",
+    "url": "/vz330_mellow/z_assembly/z_motor",
+    
+    "relUrl": "/vz330_mellow/z_assembly/z_motor"
+  },"275": {
+    "doc": "3.4 Z-Motor bracket",
+    "title": "Overview",
+    "content": ". ",
+    "url": "/vz330_mellow/z_assembly/z_motor#overview",
+    
+    "relUrl": "/vz330_mellow/z_assembly/z_motor#overview"
+  },"276": {
+    "doc": "3.4 Z-Motor bracket",
+    "title": "BOM",
+    "content": "| Material | Quantity | Notes | . | M3 10mm | 4 | - | . | M4 10mm | 4 | - | . | M4 t-nut | 2 | - | . | GT2 20 teeth | 1 | - | . | NEMA 17 stepper | 1 | - | . Step 1 . Mount the bracket shown below to the frame using the 10mm M4 screws and T-nuts. Make sure it is nicely centered in the middle of the frame. Step 2 . Mount the stepper motor to the top bracket using the 10mm M3 screws. Attach the motor pulley like shown below. Step 3 . Mount the previous assembly to the bracket on the frame using 10mm M4 screws. Step 4 . With the motor in the furthest position, loop the belt around the motor pulley and tighten the belt. Be sure to check if the belt is horizontally parallel to the frame for smoothest operation. ",
+    "url": "/vz330_mellow/z_assembly/z_motor#bom",
+    
+    "relUrl": "/vz330_mellow/z_assembly/z_motor#bom"
   }
 }

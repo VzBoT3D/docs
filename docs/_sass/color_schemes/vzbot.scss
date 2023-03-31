@@ -50,14 +50,3 @@ $feedback-color: darken($sidebar-color, 3%);
 .site-footer {
     visibility: hidden;
 }
-
-#backing {
-	vertical-align: middle;
-	margin: 0;
-	overflow: hidden;
-}
-#backing svg { 
-	display: inline-block;
-	position: absolute;
-	top: 0; left: 0;
-}
