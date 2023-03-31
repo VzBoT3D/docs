@@ -10,7 +10,7 @@ permalink: /vz330_mellow/frame
 
 # 2. Frame
 
-{toc}
+{:toc}
 
 ## Overview
 
@@ -37,7 +37,6 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 ## Part's
 
 | Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
 | ![2040](../assets/images/manual/vz330_mellow/frame/parts/2040_extrusion.png) | 4 | 2040 extrusion (530mm) |
 | ![2020 530mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_530mm.png) | 4 | 2020 extrusion (530mm) with two holes|
 | ![2020 460mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_460mm.png) | 4 | 2020 extrusion (460mm) |
@@ -46,38 +45,34 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 
 ## Assembly
 
-<style>
- table {
-    border-collapse: collapse;
-    border: none !important;
-    background: none !important;
- }
- table, th, td {
-   border: none !important;
-   background: none !important;
- }
-</style>
-
 ### Step 1
 
 ![Step 1](../assets/images/manual/vz330_mellow/frame/step1.png)
+<br>
+<br>
 
 | | |
 |-|-|
 | ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part1.png) | 1) 2040 extrusion (530mm) <br> 2) 2020 extrusion (530mm) <br> 3) Align the extrusions flush |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part2.png) | 1) Tighten the 2020 extrusion to the 2040 extrusion|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_screw_extrusion.png) | - |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part2.png) | 1) Tighten the 2020 extrusion to the 2040 extrusion |
+
+<br>
+<br>
 
 ### Step 2
 
 ![Step 2](../assets/images/manual/vz330_mellow/frame/step1.png)
-
-![Mount](../assets/images/manual/vz330_mellow/frame/step2_part3.png)
+<br>
+<br>
 
 | | |
 |-|-|
 | ![Mount](../assets/images/manual/vz330_mellow/frame/step2_part1.png) | 1) 2040 extrusion (530mm) <br> 2) Assembly from step 1 <br> 3) Align the extrusions flush |
-| 1) Tighten the 2020 extrusion to the 2040 extrusion <br> 2) Make sure they are still flush | ![Mount](../assets/images/manual/vz330_mellow/frame/step2_part2.png) |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_screw.png) | 1) Tighten the 2020 extrusion to the 2040 extrusion <br> 2) Make sure they are still flush
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_part2.png) | 1) Tighten the 2020 extrusion to the 2040 extrusion <br> 2) Make sure they are still flush |
+
+<br>
+<br>
 
 ### Step 3
 Repeat the steps from **Step 1** and **Step 2** for the other u-shaped side.
