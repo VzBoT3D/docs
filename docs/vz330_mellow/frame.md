@@ -10,15 +10,7 @@ permalink: /vz330_mellow/frame
 
 # 2. Frame
 
-{:toc}
-
-## Overview
-
 ![Frame](../assets/images/manual/vz330_mellow/frame/overview.png)
-
-The frame is assembled through a combination of blind joints and corner brackets. The corner brackets are to help stiffen up the frame and are optional, though we highly recommend using them on every possible corner for best results.
-
-For detailed informations on how to assemble blind joints visit this [page](../general/blind-joints)
 
 ## Part's
 
@@ -132,11 +124,19 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 <br>
 <br>
 
-### Step 7
+### Step 7 ( optional )
+
+TODO corner brackets
+
+### Step 8
+
+TODO square frame
+
+### Step 9
 
 TODO frame bracer
 
-### Step 8
+### Step 10
 
 <br>
 <br>
