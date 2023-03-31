@@ -17,16 +17,22 @@
       this.imageW = width;
       this.imageH = height;
       this.imageMap = document.querySelector(element);
-      const mapId = this.imageMap.getAttribute('usemap');
-      const mapElem = `map[name="${mapId.substring(1, mapId.length)}"]`;
-      const area = document.querySelector(mapElem).children;
-      this.areaArray = Array.from(area);
-  
-      //window.addEventListener('resize', this.resizeEvent);
-      //window.addEventListener('load', this.resizeEvent);
-      document.addEventListener('DOMContentLoaded', this.resizeEvent);
-      setTimeout(this.imgMap, 500);
+      if(this.imageMap != null ){
+        const mapId = this.imageMap.getAttribute('usemap');
+        if(mapId != null) {
+          const mapElem = `map[name="${mapId.substring(1, mapId.length)}"]`;
+          if(mapElem != null) {
+            const area = document.querySelector(mapElem).children;
+            if(area != null ) {
+              this.areaArray = Array.from(area);
+              document.addEventListener('DOMContentLoaded', this.resizeEvent);
+              setTimeout(this.imgMap, 500);
+            }
+          }
+        }
+      }
     }
+    
     /**
      * getCoords - get image map coordinates
      * @param  {Node} elem - area tag
