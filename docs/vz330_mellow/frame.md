@@ -98,53 +98,29 @@ permalink: /vz330_mellow/frame
 
 ### Step 5
 
-<br>
-<br>
+TODO put assembled gantry on frame
 
-| | |
-|-|-|
-| ![Step 1](../assets/images/manual/vz330_mellow/frame/step5.png) | 1) 2020 extrusion (530mm) <br> 2) Assembly from Step 4 <br> 3) 2 x M5 25mm |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part1.png) | 1) Align the extrusions flush on both sides |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part2.png) | 1) Tighten the 2020 extrusion's to the right side of the 2040 extrusion <br> 2) Tighten the 2020 extrusion's to the left side of the 2040 extrusion <br> 3) Don't tighten it down all the way, we need some play for later |
-
-<br>
-<br>
-
-### Step 6
-
-<br>
-<br>
-
-| | |
-|-|-|
-| ![Step 1](../assets/images/manual/vz330_mellow/frame/step6.png) | 1) 2020 extrusion (530mm) <br> 2) Assembly from Step 5 <br> 3) 2 x M5 25mm |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step6_part1.png) | 1) Align the extrusions flush on both sides |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step6_part2.png) | 1) Tighten the 2020 extrusion's to the right side of the 2040 extrusion <br> 2) Tighten the 2020 extrusion's to the left side of the 2040 extrusion <br> 3) Don't tighten it down all the way, we need some play for later |
-
-<br>
-<br>
-
-### Step 7 ( optional )
+### Step 6 ( optional )
 
 TODO corner brackets
 
-### Step 8
+### Step 7
 
 TODO square frame
 
-### Step 9
+### Step 8
 
 TODO frame bracer
 
-### Step 10
+### Step 9
 
 <br>
 <br>
 
 | | |
 |-|-|
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step8_part1.png) | 1) 8x 2020 printed endpart's <br> 2) Insert all 8 endpart's at the shown location. |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step8_part2.png) | 1) Put in the endpart's
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step9_part1.png) | 1) 8x 2020 printed endpart's <br> 2) Insert all 8 endpart's at the shown location. |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step9_part2.png) | 1) Put in the endpart's
 
 <br>
 <br>
