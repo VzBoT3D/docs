@@ -138,6 +138,7 @@
 
 .site-footer { visibility: hidden; }
 
+td { width: auto; height: auto; }
 td img { width: auto; height: 50%; }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
@@ -566,7 +567,7 @@ h6, .text-zeta { font-size: 11px !important; }
 
 table { display: table; min-width: 100%; border-collapse: separate; }
 
-th, td { font-size: 12px !important; min-width: 120px; padding: 0.5rem 0.75rem; background-color: #303134; border-bottom: 1px solid rgba(60, 64, 67, 0.5); border-left: 1px solid #3c4043; }
+th, td { font-size: 12px !important; padding: 0.5rem 0.75rem; background-color: #303134; border-bottom: 1px solid rgba(60, 64, 67, 0.5); border-left: 1px solid #3c4043; }
 @media (min-width: 31.25rem) { th, td { font-size: 14px !important; } }
 th:first-of-type, td:first-of-type { border-left: 0; }
 
