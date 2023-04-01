@@ -18,8 +18,9 @@ permalink: /vz330_mellow/frame
 | ![2040](../assets/images/manual/vz330_mellow/frame/parts/2040_extrusion.png) | 4 | 2040 extrusion (530mm) |
 | ![2020 530mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_530mm.png) | 4 | 2020 extrusion (530mm) with two holes|
 | ![2020 460mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_460mm.png) | 4 | 2020 extrusion (460mm) with two holes|
-| ![2020 Corners](../assets/images/manual/vz330_mellow/frame/parts/corner.png) | 8 | optional | 
-| ![M5 screw](../assets/images/manual/vz330_mellow/frame/parts/m5_screw.png) | 16 | M5x25mm | 
+| ![2020 Corners](../assets/images/manual/vz330_mellow/frame/parts/corner.png) | 6 | optional | 
+| ![M5 screw](../assets/images/manual/vz330_mellow/frame/parts/m5_screw.png) | 16 | M5x25mm |
+| xx | 4 | M4 t-nut | 
 
 ## STL's
 <br>
@@ -36,7 +37,6 @@ permalink: /vz330_mellow/frame
       <area target="_blank" alt="Frame stablizer" title="Frame stablizer" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/Frame_Brace.stl" coords="300, 433, 697, 699" shape="rect">
   </map>
 </div>
-
 
 ## Assembly
 
@@ -102,7 +102,10 @@ TODO put assembled gantry on frame
 
 ### Step 6 ( optional )
 
-TODO corner brackets
+| | |
+|-|-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step6_part1.png) | 1) 6 x 2020 corner brackets <br> 2) 12 x M4xXXmm <br> 3) 12 x M4 t-nut <br> 4) Insert screws and add t-nut |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step6_part2.png) | 1) Attach corner brackets to the frame, at the shown locations
 
 ### Step 7
 
@@ -110,7 +113,10 @@ TODO square frame
 
 ### Step 8
 
-TODO frame bracer
+| | |
+|-|-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step8_part1.png) | 1) 2x frame bracers <br> 2) 4 x M4xXXmm <br> 3) 4 x M4 t-nut <br> 4) Insert screws and add t-nut |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step8_part2.png) | 1) Attach frame bracers to the frame in the front left and right
 
 ### Step 9
 

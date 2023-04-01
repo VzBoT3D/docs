@@ -141,6 +141,26 @@
 td { width: auto; height: auto; }
 td img { width: auto; height: 50%; }
 
+body { font-family: Helvetica; font-size: 13px; }
+
+div.callout { height: 60px; width: 200px; float: left; }
+
+div.callout { background-color: #444; background-image: -moz-linear-gradient(top, #444, #444); position: relative; color: #ccc; padding: 10px; border-radius: 3px; box-shadow: 0px 0px 20px #999; margin: 25px; min-height: 50px; border: 1px solid #333; text-shadow: 0 0 1px #000; /*box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;*/ }
+
+.callout::before { content: ""; width: 0px; height: 0px; border: 0.8em solid transparent; position: absolute; }
+
+.callout.top::before { left: 45%; bottom: -20px; border-top: 10px solid #444; }
+
+.callout.bottom::before { left: 45%; top: -20px; border-bottom: 10px solid #444; }
+
+.callout.left::before { right: -20px; top: 40%; border-left: 10px solid #444; }
+
+.callout.right::before { left: -20px; top: 40%; border-right: 10px solid #444; }
+
+.callout.top-left::before { left: 7px; bottom: -20px; border-top: 10px solid #444; }
+
+.callout.top-right::before { right: 7px; bottom: -20px; border-top: 10px solid #444; }
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document ========================================================================== */
 /** 1. Correct the line height in all browsers. 2. Prevent adjustments of font size after orientation changes in iOS. */
