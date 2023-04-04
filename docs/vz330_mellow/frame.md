@@ -98,14 +98,31 @@ permalink: /vz330_mellow/frame
 
 ### Step 5
 
-TODO put assembled gantry on frame
+<br>
+<br>
+
+| | |
+|-|-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part1.png) | 1) Remove red marked screw <br> 2) Losen blue screw <br> 3) Slide assembly to the left <br> 4) Remove printed 2040 extrusion |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part2.png) | 1) Remove red marked screw <br> 2) Losen blue screw <br> 3) Slide assembly to the right <br> 4) Remove printed 2040 extrusion |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part3.png) | 1) Remove selected part from assembly |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part4.png) | 1) Remove printed 2040 extrusion part from the assembly |
+
+<br>
+<br>
 
 ### Step 6 ( optional )
+
+<br>
+<br>
 
 | | |
 |-|-|
 | ![Mount](../assets/images/manual/vz330_mellow/frame/step6_part1.png) | 1) 6 x 2020 corner brackets <br> 2) 12 x M4xXXmm <br> 3) 12 x M4 t-nut <br> 4) Insert screws and add t-nut |
 | ![Mount](../assets/images/manual/vz330_mellow/frame/step6_part2.png) | 1) Attach corner brackets to the frame, at the shown locations
+
+<br>
+<br>
 
 ### Step 7
 
