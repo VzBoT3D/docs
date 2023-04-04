@@ -107,6 +107,8 @@ permalink: /vz330_mellow/frame
 | ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part2.png) | 1) Remove red marked screw <br> 2) Losen blue screw <br> 3) Slide assembly to the right <br> 4) Remove printed 2040 extrusion |
 | ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part3.png) | 1) Remove selected part from assembly |
 | ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part4.png) | 1) Remove printed 2040 extrusion part from the assembly |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part5.png) | 1) Put preassembled assembly on the frame <br> 2) Align extrusions <br> 3) Screw down M5 x 25mm screws |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part6.png) | 1) Put second part on the frame <br> 2) Align extrusions <br> 3) Screw down M5x25mm screws |
 
 <br>
 <br>
