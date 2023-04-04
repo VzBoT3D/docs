@@ -114,7 +114,7 @@ TODO put assembled gantry on frame
 
 | | |
 |-|-|
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step7.png) | 1) Meassure from corner to corner <br> 2) The distance should be the same <br> 3) Do this for all side's of the printer |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step7.png) | 1) Meassure from corner to corner ( yellow and red line ) <br> 2) The distance should be the same for the red and the yellow line. <br> 3) Do this for all side's of the printer |
 
 <br>
 <br>
@@ -126,7 +126,7 @@ TODO put assembled gantry on frame
 
 | | |
 |-|-|
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step8_part1.png) | 1) 2x frame bracers <br> 2) 4 x M4xXXmm <br> 3) 4 x M4 t-nut <br> 4) Insert screws and add t-nut |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step8_part1.png) | 1) 2x frame bracers <br> 2) 4 x M4xXXmm <br> 3) 4 x M4 t-nut <br> 4) Insert screws and add t-nut for both parts |
 | ![Mount](../assets/images/manual/vz330_mellow/frame/step8_part2.png) | 1) Attach frame bracers to the frame in the front left and right
 
 <br>
