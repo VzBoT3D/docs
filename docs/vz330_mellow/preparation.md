@@ -22,17 +22,60 @@ The following tool's you will need to build up your VzBoT330 from a mellow kit:
 
 ## Content
 
-<br>
-<br>
-
 The following part's are included in the kit
 
-- VZ330 Box 1
+### Parts
+- **Frame**
+    - Extrusion 2040 xx
+
+- **Gantry**
+    - Preasambled Gantry with PLA parts
+
+- **Z**
+    - NEMA 17 Motor ( LDO )
+    - GT2 20teeth idler
+    - Stepper motor cable
+    - 4 x Linear Shaft 10mm ( 500 mm )
+    - 2 x Leadscrew 8mm + Nut ( 500 mm )
+    - 4 x Top Rod mounts
+    - 4 x LMK10LUU
+    - 2 x Upper bracket ( with preinstalled bearing )
+    - 2 x Lower Z bracket leadscrew ( with preinstalled bearing )
+    - 1 x One piece bed support
+    - 1 x Single Z motor lower bracket
+    - 1 x Single Z motor upper bracket
+
+- **Bed**
+    - Aluminium Bed
+    - PEI Sheet
+    - Magnet
+    - Heater
+
+- **Enclosure**
+    - Panel Back ( Aluminium )
+    - Panel Bottom ( Aluminium )
+    - Panel Left + Right ( Acrylic )
+    - Panel Front ( Acrylic )
+    - Panel Top Cover Top ( Acrylic )
+    - Panel Top Cover Front ( Acrylic )
+    - Panel Top Cover Left + Right ( Acrylic )
+
+- **Misc**
+    - Power supply 24V
+    - Power supply 48V
+    - CPAP hose
+    - 2 x RSCS fans ()
+    - 1 x Exhaustion fan ( 120mm )
+
+### Boxes
+
+- **VZ330 Box 1**
     - USB Cable
     - Mellow Super Fly Pro
     - JST Crimps
     - Jumpers / Fuses / Connectors
-- VZ330 Box 2 ( Black / Silvery )
+
+- **VZ330 Box 2**
     - 2 x TMC2209
     - Endstop holder z / y
     - Z Chain holder
@@ -43,23 +86,27 @@ The following part's are included in the kit
     - X/Y Gate belt
     - SSR
     - Main volatage cables ( pre crimped )
-- VZ330 Box 3 ( 220V / 110V )
+
+- **VZ330 Box 3**
     - Main Inlet
     - Power cord
-- VZ330 Box 4
+
+- **VZ330 Box 4**
     - 2 x TMC5160HV
     - 2 x Stepper cable
-- VZ330 Box 5
+
+- **VZ330 Box 5**
     - 2 x TMC5160HV
     - 2 x Stepper cable
-- VZ330 Box 6
-    - VZ330 - M2 ( Bag )
+
+- **VZ330 Box 6**
+    - **VZ330 - M2 ( Bag )**
         - Bagnumber 1/5 - 4 x M2 x 8mm ( Button head )
         - Bagnumber 2/5 - 4 x M2 x 10mm ( Button head )
         - Bagnumber 3/5 - 6 x M2.5 x 5mm ( Low profile )
         - Bagnumber 4/5 - 6 x M2.5 x 6mm ( Low profile )
         - Bagnumber 5/5 - 6 x M2.6 x 8mm ( Self cutting )
-    - VZ330 - M3 ( Bag )
+    - **VZ330 - M3 ( Bag )**
         - Bagnumber 1/16 - 60 x M3 t-nuts
         - Bagnumber 2/16 - 60 x M3 sliding t-nuts
         - Bagnumber 3/16 - 4 x M3 x 8mm ( Socket head )
@@ -76,7 +123,7 @@ The following part's are included in the kit
         - Bagnumber 14/16 - 8 x M3 x 6mm ( Button head )
         - Bagnumber 15/16 - 4 x M3 x 14mm ( Button head )
         - Bagnumber 16/16 - 14 x M3 x 10mm ( Button head )
-    - VZ330 - M4 ( Bag )
+    - **VZ330 - M4 ( Bag )**
         - Bagnumber 1/16 - 10 x M4 x 12mm ( Self cutting )
         - Bagnumber 2/16 - 96 x M4 t-nut
         - Bagnumber 3/16 - 96 x M4 sliding t-nut
@@ -93,36 +140,48 @@ The following part's are included in the kit
         - Bagnumber 14/16 - 26 x M4 x 10mm ( Button head )
         - Bagnumber 15/16 - 12 x M4 x 8mm ( Button head )
         - Babnumber 16/16 - 2 x M4 x 30mm ( xxx )
-    - VZ330 - M5 ( Bag )
+    - **VZ330 - M5 ( Bag )**
         - Bagnumber 1/6 - 16 x M5 t-nut
         - Bagnumber 2/6 - 16 x M5 sliding t-nut 
         - Bagnumber 3/6 - 14 x M5 x 8mm ( Socket head )
         - Bagnumber 4/6 - 10 x M5 x 25mm ( Socket head )
         - Bagnumber 5/6 - 6 x M5 x 35mm ( Socket head )
         - Bagnumber 6/6 - 10 x M5 x 10mm ( Socket head )
-    - VZ330 - Others
+    - **VZ330 - Others**
         - Bagnumber 1/4 - 6 x 2020 Corner pieces
         - Bagnumber 2/4 - 10 x Magnet ( 5 x 2mm )
         - Bagnumber 3/4 - 2 x 4 x 50mm ( xxx )
         - Bagnumber 4/4 - 2x 5 x 50mm ( xxx )
-- VZ330 Box 7
+
+- **VZ330 Box 7**
     - Main wires
     - Hotend wires
     - Endstop wires
-- VZ330 Box A
+
+- **VZ330 Box A**
     - Display
-- VZ330 Box B
+
+- **VZ330 Box B**
     - CPAP Fan
-- VZ330 Box C 
+
+- **VZ330 Box C**
     - VzExtrudor
     - Goliath hotend
     - Aluminium printhead parts
-- VZ330 Box D
+
+- **VZ330 Box D**
     - 4 x Fan xxxx
     - 1 x Fan xxxx
 
-<br>
-<br>
+## Parts to self source
+
+- Exhaust filtration ( link1 / link2 )
+- Carbon activated filter ( link1 / link2 )
+- Front led bars ( link1 / link2 )
+- Oldham couplers ( link1 / link2 )
+- Raspberry PI 3/4/Zero ( link1 / link2 )
+- Thermal Fuse ( link1 / link2 )
+
 
 ## STL's
 
