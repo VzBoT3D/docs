@@ -19,7 +19,7 @@ permalink: /vz330_mellow/frame
 | ![2020 530mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_530mm.png) | 4 | 2020 extrusion (530mm) with two holes|
 | ![2020 460mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_460mm.png) | 4 | 2020 extrusion (460mm) with two holes|
 | ![2020 Corners](../assets/images/manual/vz330_mellow/frame/parts/corner.png) | 6 | optional | 
-| ![M5 screw](../assets/images/manual/vz330_mellow/frame/parts/m5_screw.png) | 16 | M5x25mm |
+| ![M5 screw](../assets/images/manual/vz330_mellow/frame/parts/m5_screw.png) | 16 | M5x25mm - VZ330 Box 6 / Bagnumber 4s l, u|
 | xx | 4 | M4 t-nut | 
 
 ## STL's
@@ -39,6 +39,8 @@ permalink: /vz330_mellow/frame
 </div>
 
 ## Assembly
+
+**Imoportant on the extrusions is a side with a "bigger" hole this is where the head of the bolt should go through!**
 
 ### Step 1
 

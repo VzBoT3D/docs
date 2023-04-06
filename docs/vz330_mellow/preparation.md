@@ -26,7 +26,12 @@ The following part's are included in the kit
 
 ### Parts
 - **Frame**
-    - Extrusion 2040 xx
+    - 4x 2040 Aluminium Profile ( Pretapped on both ends ) - Z ( 530mm )
+    - 2020 Aluminium Profile () - ()
+    - 2020 Aluminium Profile () - ()
+    - 2020 Aluminium Profile () - ()
+    - 2020 Aluminium Profile () - ()
+
 
 - **Gantry**
     - Preasambled Gantry with PLA parts
@@ -66,6 +71,9 @@ The following part's are included in the kit
     - CPAP hose
     - 2 x RSCS fans ()
     - 1 x Exhaustion fan ( 120mm )
+    - x x Din rail
+    - x x Cable duct
+    - 1 x Z Drag chain
 
 ### Boxes
 
