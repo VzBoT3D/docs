@@ -6,7 +6,7 @@ grand_parent: VzBoT330 - Mellow Kit
 has_toc: false
 nav_order: 1
 has_children: false
-permalink: /vz235_alu/z_assembly/lower_part
+permalink: /vz330_mellow/z_assembly/lower_part
 ---
 
 # 3.1 Lower rod & leadscrew bracket
@@ -38,22 +38,29 @@ permalink: /vz235_alu/z_assembly/lower_part
 
 ### Step 1
 
-Mount the top bracket with the 12mm M4 hardware to the frame loosely. Then mount the sliding rods with 12mm M4 screws and align the assembly to the frame using the printed “Z assembly alignment tool”. Be sure to secure all hardware. Be sure to either insert 2 T-nuts underneath the center two holes for the top leadscrew bracket or immediately mount the top bracket.
+<br>
+<br>
 
-![Lower bracket](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/lower_bracket.png)
+| | |
+|-|-|
+| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step1.png) | 1) 2 x lower z bracket  <br> 2) 4 x M4 x 12mm <br> 3) 4 x 10mm rods |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step1_part1.png) | 1) Align the rod flush with the bottom of the lower z bracket |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step1_part2.png) | 1) Tighten the M4 x 12mm screw |
+
+<br>
+<br>
 
 ### Step 2
 
-Mount the lower leadscrew bracket, using 2x 10mm M4 screws, loosely to the frame approximately in the correct position relative to the top bracket.
+<br>
+<br>
 
-![Lower bracket lead](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/lower_bracket_lead.png)
+| | |
+|-|-|
+| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2.png) | 1) 2 x lower z bracket  <br> 2) 8 x M4 x 12mm <br> 3) 8 x t-nut <br> 4) 4 x sliding t-nut |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part1.png) | 1) Attach M4 x 12mm + t-nut to the lower z bracket <br> 2) Insert sliding t-nut in the extrusion below the middle two holes |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part2.png) | 1) Tighten the M4 x 12mm screw loosly, we need to align the lower z bracket |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part2.png) | 1) Align the front rod with the z-alignment tool <br> 2) tighten the M4 x 12mm screws, when it's aligned |
 
-### Step 3
-
-Mount the top leadscrew bracket to the assembly using 12mm M4 screws (skip when done in step one). Insert the pulley with the closed belt and insert the leadscrew. Then tighten the grub screws on the pulley. Lastly while making sure the leadscrew is perfectly straight up tighten the screws on the upper and lower leadscrew brackets. This can be checked by measuring the distance on both sides between the leadscrew (top position) and the 10mm Rods.
-
-![Upper bracket lead](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/upper_bracket_lead.png)
-
-### Step 4
-
-Repeat **Step 1 / Step 2 / Step 3** for the other side of the frame
+<br>
+<br>

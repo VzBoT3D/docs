@@ -1465,37 +1465,37 @@
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "3.1 Lower rod &amp; leadscrew bracket",
     "content": " ",
-    "url": "/vz235_alu/z_assembly/lower_part#31-lower-rod--leadscrew-bracket",
+    "url": "/vz330_mellow/z_assembly/lower_part#31-lower-rod--leadscrew-bracket",
     
-    "relUrl": "/vz235_alu/z_assembly/lower_part#31-lower-rod--leadscrew-bracket"
+    "relUrl": "/vz330_mellow/z_assembly/lower_part#31-lower-rod--leadscrew-bracket"
   },"210": {
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "Overview",
     "content": ". ",
-    "url": "/vz235_alu/z_assembly/lower_part#overview",
+    "url": "/vz330_mellow/z_assembly/lower_part#overview",
     
-    "relUrl": "/vz235_alu/z_assembly/lower_part#overview"
+    "relUrl": "/vz330_mellow/z_assembly/lower_part#overview"
   },"211": {
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "BOM",
     "content": "| Material | Quantity | Notes | . | M4 10mm | 4 | - | . | M4 12mm | 16 | - | . | M4 t-nut | 20 | - | . | 608-2RS bearings | 4 | - | . | 10mm rods ( 500mm ) | 4 | - | . | Belt GT2 closed ( 1100mm ) | 1 | - | . | Leadscrew TR8 ( 500 mm ) | 2 | - | . | GT2 40 teeth | 2 | - | . | GT2 20 teeth | 1 | - | . ",
-    "url": "/vz235_alu/z_assembly/lower_part#bom",
+    "url": "/vz330_mellow/z_assembly/lower_part#bom",
     
-    "relUrl": "/vz235_alu/z_assembly/lower_part#bom"
+    "relUrl": "/vz330_mellow/z_assembly/lower_part#bom"
   },"212": {
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "STL’s",
-    "content": "| File name | Amount to print | . | Z alignment tool | 2 | . Step 1 . Mount the top bracket with the 12mm M4 hardware to the frame loosely. Then mount the sliding rods with 12mm M4 screws and align the assembly to the frame using the printed “Z assembly alignment tool”. Be sure to secure all hardware. Be sure to either insert 2 T-nuts underneath the center two holes for the top leadscrew bracket or immediately mount the top bracket. Step 2 . Mount the lower leadscrew bracket, using 2x 10mm M4 screws, loosely to the frame approximately in the correct position relative to the top bracket. Step 3 . Mount the top leadscrew bracket to the assembly using 12mm M4 screws (skip when done in step one). Insert the pulley with the closed belt and insert the leadscrew. Then tighten the grub screws on the pulley. Lastly while making sure the leadscrew is perfectly straight up tighten the screws on the upper and lower leadscrew brackets. This can be checked by measuring the distance on both sides between the leadscrew (top position) and the 10mm Rods. Step 4 . Repeat Step 1 / Step 2 / Step 3 for the other side of the frame . ",
-    "url": "/vz235_alu/z_assembly/lower_part#stls",
+    "content": "| File name | Amount to print | . | Z alignment tool | 2 | . Step 1 . |   |   | . | | 1) 2 x lower z bracket 2) 4 x M4 x 12mm 3) 4 x 10mm rods | . | | 1) Align the rod flush with the bottom of the lower z bracket | . | | 1) Tighten the M4 x 12mm screw | . Step 2 . |   |   | . | | 1) 2 x lower z bracket 2) 8 x M4 x 12mm 3) 8 x t-nut 4) 4 x sliding t-nut | . | | 1) Attach M4 x 12mm + t-nut to the lower z bracket 2) Insert sliding t-nut in the extrusion below the middle two holes | . | | 1) Tighten the M4 x 12mm screw loosly, we need to align the lower z bracket | . | | 1) Align the front rod with the z-alignment tool 2) tighten the M4 x 12mm screws, when it’s aligned | . ",
+    "url": "/vz330_mellow/z_assembly/lower_part#stls",
     
-    "relUrl": "/vz235_alu/z_assembly/lower_part#stls"
+    "relUrl": "/vz330_mellow/z_assembly/lower_part#stls"
   },"213": {
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "3.1 Lower rod & leadscrew bracket",
     "content": " ",
-    "url": "/vz235_alu/z_assembly/lower_part",
+    "url": "/vz330_mellow/z_assembly/lower_part",
     
-    "relUrl": "/vz235_alu/z_assembly/lower_part"
+    "relUrl": "/vz330_mellow/z_assembly/lower_part"
   },"214": {
     "doc": "7.1 Overview",
     "title": "7.1 Overview",
@@ -1534,7 +1534,7 @@
   },"219": {
     "doc": "1. Preparation",
     "title": "Parts to self source",
-    "content": ". | Exhaust filtration ( link1 / link2 ) | Carbon activated filter ( link1 / link2 ) | Front led bars ( link1 / link2 ) | Oldham couplers ( link1 / link2 ) | Raspberry PI 3/4/Zero ( link1 / link2 ) | Thermal Fuse ( link1 / link2 ) | . ",
+    "content": ". | Exhaust filtration ( link1 / link2 ) | Carbon activated filter ( link1 / link2 ) | Front led bars ( link1 / link2 ) | Raspberry PI 3/4/Zero ( link1 / link2 ) | Thermal Fuse ( link1 / link2 ) | . ",
     "url": "/vz330_mellow/preparation#parts-to-self-source",
     
     "relUrl": "/vz330_mellow/preparation#parts-to-self-source"
