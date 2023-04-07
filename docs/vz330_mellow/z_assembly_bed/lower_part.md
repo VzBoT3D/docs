@@ -58,9 +58,10 @@ permalink: /vz330_mellow/z_assembly/lower_part
 | | |
 |-|-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2.png) | 1) 2 x lower z bracket  <br> 2) 8 x M4 x 12mm <br> 3) 8 x t-nut <br> 4) 4 x sliding t-nut |
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part1.png) | 1) Attach M4 x 12mm + t-nut to the lower z bracket <br> 2) Insert sliding t-nut in the extrusion below the middle two holes |
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part2.png) | 1) Tighten the M4 x 12mm screw loosly, we need to align the lower z bracket |
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part3.png) | 1) Align the front rod with the z-alignment tool <br> 2) tighten the M4 x 12mm screws, when it's aligned |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part1.png) | 1) Insert sliding t-nut in the extrusion below the middle two holes <br> 2) **Tip:** screw in two screws for now in the two holes and the t-nuts so they move with the part if you move it around. | 
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part2.png) | 1) Attach M4 x 12mm + t-nut to the lower z bracket |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part3.png) | 1) Tighten the M4 x 12mm screw loosly, we need to align the lower z bracket |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part4.png) | 1) Align the front rod with the z-alignment tool <br> 2) tighten the M4 x 12mm screws, when it's aligned |
 
 <br>
 <br>
@@ -81,7 +82,7 @@ permalink: /vz330_mellow/z_assembly/lower_part
 | | |
 |-|-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step4.png) | 1) 2 x upper leadscrew mount  <br> 2) 4 x M4 x 12mm  |
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step4_part1.png) | 1) Insert upper leadscrew mount to single z bracket <br> 2) Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount <br> 3) We will align the parts in **Step 5** |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step4_part1.png) | 1) Insert upper leadscrew mount to single z bracket <br> 2) Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount <br> 3) Use a drill bit or a similar tool, put it through the two bearing's and prealign the two mounts <br> 4) We will align the parts in **Step 5** |
 
 <br>
 <br>
