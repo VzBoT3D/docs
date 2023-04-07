@@ -187,7 +187,6 @@ The following part's are included in the kit
 - Exhaust filtration ( link1 / link2 )
 - Carbon activated filter ( link1 / link2 )
 - Front led bars ( link1 / link2 )
-- Oldham couplers ( link1 / link2 )
 - Raspberry PI 3/4/Zero ( link1 / link2 )
 - Thermal Fuse ( link1 / link2 )
 
