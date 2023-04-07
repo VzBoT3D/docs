@@ -834,7 +834,7 @@
   },"119": {
     "doc": "2. Frame",
     "title": "Part’s",
-    "content": "| Material | Quantity | Notes | . | | 4 | 2040 extrusion (530mm) | . | | 2 | 2020 extrusion (530mm) with two holes | . | | 2 | 2020 extrusion (460mm) with two holes | . | xx | 1 | Preassembled Gantry | . | | 6 | optional | . | | 16 | M5 x 25mm - ( VZ330 Box 6 / Bag M5 / Bagnumber 4/16 ) | . | xx | 10 | M4 t-nut ( VZ330 Box 6 / Bag M4 / Bagnumber 2/16 ) | . | xx | 8 | M4 x 10mm ( VZ330 Box 6 / Bag M4 / Bagnumber 4/16 ) | . | xx | 2 | M4 x 10mm ( VZ330 Box 6 / Bag M4 / Bagnumber 14/16 ) | . ",
+    "content": "| Material | Quantity | Notes | . | | 4 | 2040 extrusion (530mm) | . | | 2 | 2020 extrusion (530mm) with two holes | . | | 2 | 2020 extrusion (460mm) with two holes | . | Picture | 1 | Preassembled Gantry | . | | 6 | optional | . | Picture | 16 | M5 x 25mm - ( VZ330 Box 6 / Bag M5 / Bagnumber 4/16 ) | . | | 10 | M4 t-nut ( VZ330 Box 6 / Bag M4 / Bagnumber 2/16 ) | . | Picture | 8 | M4 x 10mm ( VZ330 Box 6 / Bag M4 / Bagnumber 4/16 ) | . | | 2 | M4 x 10mm ( VZ330 Box 6 / Bag M4 / Bagnumber 14/16 ) | . ",
     "url": "/vz330_mellow/frame#parts",
     
     "relUrl": "/vz330_mellow/frame#parts"

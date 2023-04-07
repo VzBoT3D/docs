@@ -18,12 +18,12 @@ permalink: /vz330_mellow/frame
 | ![2040](../assets/images/manual/vz330_mellow/frame/parts/2040_extrusion.png) | 4 | 2040 extrusion (530mm) |
 | ![2020 530mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_530mm.png) | 2 | 2020 extrusion (530mm) with two holes |
 | ![2020 460mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_460mm.png) | 2 | 2020 extrusion (460mm) with two holes |
-| xx | 1 | Preassembled Gantry | 
+| Picture | 1 | Preassembled Gantry | 
 | ![2020 Corners](../assets/images/manual/vz330_mellow/frame/parts/corner.png) | 6 | optional | 
-| ![M5 screw](../assets/images/manual/vz330_mellow/frame/parts/m5_screw.png) | 16 | M5 x 25mm - ( VZ330 Box 6 / Bag M5 / Bagnumber 4/16 )|
-| xx | 10 | M4 t-nut ( VZ330 Box 6 / Bag M4 / Bagnumber 2/16 ) |
-| xx | 8 | M4 x 10mm ( VZ330 Box 6 / Bag M4 / Bagnumber 4/16 ) |
-| xx | 2 | M4 x 10mm ( VZ330 Box 6 / Bag M4 / Bagnumber 14/16 ) |
+| Picture | 16 | M5 x 25mm - ( VZ330 Box 6 / Bag M5 / Bagnumber 4/16 ) |
+| ![M4 tnut](../assets/images/manual/vz330_mellow/frame/parts/m4_tnut.png) | 10 | M4 t-nut ( VZ330 Box 6 / Bag M4 / Bagnumber 2/16 ) |
+| Picture | 8 | M4 x 10mm ( VZ330 Box 6 / Bag M4 / Bagnumber 4/16 ) |
+| ![M4 screw](../assets/images/manual/vz330_mellow/frame/parts/m4_10mm_screw.png) | 2 | M4 x 10mm ( VZ330 Box 6 / Bag M4 / Bagnumber 14/16 ) |
 
 ## STL's
 <br>
@@ -178,8 +178,8 @@ permalink: /vz330_mellow/frame
 
 | | |
 |-|-|
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step9_part1.png) | 1) 1 x cable holder <br> 2) 4 x M4 x 10mm ( Bagnumber 4/16 ) <br> 3) 4 x M4 t-nut (Bagnumber 2/16 ) <br> 4) Insert screws and add t-nut |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step9_part2.png) | 1) Attach cable holder to the back of the frame and center it. |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step10_part1.png) | 1) 1 x cable holder <br> 2) 4 x M4 x 10mm ( Bagnumber 4/16 ) <br> 3) 4 x M4 t-nut (Bagnumber 2/16 ) <br> 4) Insert screws and add t-nut |
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step10_part2.png) | 1) Attach cable holder to the back of the frame and center it. |
 
 <br>
 <br>
