@@ -17,15 +17,22 @@
       this.imageW = width;
       this.imageH = height;
       this.imageMap = document.querySelector(element);
-      const mapId = this.imageMap.getAttribute('usemap');
-      const mapElem = `map[name="${mapId.substring(1, mapId.length)}"]`;
-      const area = document.querySelector(mapElem).children;
-      this.areaArray = Array.from(area);
-  
-      window.addEventListener('resize', this.resizeEvent);
-      window.addEventListener('load', this.resizeEvent);
-      setTimeout(this.imgMap, 500);
+      if(this.imageMap != null ){
+        const mapId = this.imageMap.getAttribute('usemap');
+        if(mapId != null) {
+          const mapElem = `map[name="${mapId.substring(1, mapId.length)}"]`;
+          if(mapElem != null) {
+            const area = document.querySelector(mapElem).children;
+            if(area != null ) {
+              this.areaArray = Array.from(area);
+              document.addEventListener('DOMContentLoaded', this.resizeEvent);
+              setTimeout(this.imgMap, 500);
+            }
+          }
+        }
+      }
     }
+    
     /**
      * getCoords - get image map coordinates
      * @param  {Node} elem - area tag
@@ -55,8 +62,7 @@
     areaLoop = (area) => {
       const coordinates = this.getCoordinates(area).split(',');
       const coordsPercent = coordinates.map(this.mapCoords).join();
-      console.log(coordsPercent)
-      console.log(coordinates)
+
       area.setAttribute('coords', coordsPercent);
     };
     /**
@@ -67,11 +73,6 @@
      */
     mapCoords = (coordinate, index) => {
       const parseCord = parseInt(coordinate, 10);
-      
-      console.log(this.imageW)
-      console.log(this.imageH)
-      console.log(this.wPercent)
-      console.log(this.hPercent)
 
       return index % 2 === 0
         ? this.coordinatesMath(parseCord, this.imageW, this.wPercent)
@@ -94,7 +95,6 @@
       this.imgMap();
     };
   }
-  
   
   const resizeImg = new ImageResize({
     width: 700,

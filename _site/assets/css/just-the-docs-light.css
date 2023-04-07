@@ -277,11 +277,11 @@ hr { height: 1px; padding: 0; margin: 2rem 0; background-color: #eeebee; border:
 blockquote { margin: 10px 0; margin-block-start: 0; margin-inline-start: 0; padding-left: 15px; border-left: 3px solid #eeebee; }
 
 .side-bar { z-index: 0; display: flex; flex-wrap: wrap; background-color: #f5f6fa; }
-@media (min-width: 50rem) { .side-bar { flex-flow: column nowrap; position: fixed; width: 248px; height: 100%; border-right: 1px solid #eeebee; align-items: flex-end; } }
-@media (min-width: 66.5rem) { .side-bar { width: calc((100% - 1064px) / 2 + 264px); min-width: 264px; } }
+@media (min-width: 50rem) { .side-bar { flex-flow: column nowrap; position: fixed; height: 100%; border-right: 1px solid #eeebee; align-items: flex-end; } }
+@media (min-width: 66.5rem) { .side-bar { min-width: 264px; } }
 
-@media (min-width: 50rem) { .main { position: relative; max-width: 800px; margin-left: 248px; } }
-@media (min-width: 66.5rem) { .main { margin-left: Max(264px, calc((100% - 1064px) / 2 + 264px)); } }
+@media (min-width: 50rem) { .main { position: relative; margin-left: 248px; } }
+@media (min-width: 66.5rem) { .main { margin-left: Max(264px, 264px); } }
 
 .main-content-wrap { padding-right: 1rem; padding-left: 1rem; padding-top: 1rem; padding-bottom: 1rem; }
 @media (min-width: 50rem) { .main-content-wrap { padding-right: 2rem; padding-left: 2rem; } }
@@ -561,7 +561,7 @@ h6, .text-zeta { font-size: 11px !important; }
 
 table { display: table; min-width: 100%; border-collapse: separate; }
 
-th, td { font-size: 12px !important; min-width: 120px; padding: 0.5rem 0.75rem; background-color: #fff; border-bottom: 1px solid rgba(238, 235, 238, 0.5); border-left: 1px solid #eeebee; }
+th, td { font-size: 12px !important; padding: 0.5rem 0.75rem; background-color: #fff; border-bottom: 1px solid rgba(238, 235, 238, 0.5); border-left: 1px solid #eeebee; }
 @media (min-width: 31.25rem) { th, td { font-size: 14px !important; } }
 th:first-of-type, td:first-of-type { border-left: 0; }
 
