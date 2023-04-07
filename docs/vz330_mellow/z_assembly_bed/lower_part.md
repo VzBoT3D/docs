@@ -60,7 +60,7 @@ permalink: /vz330_mellow/z_assembly/lower_part
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2.png) | 1) 2 x lower z bracket  <br> 2) 8 x M4 x 12mm <br> 3) 8 x t-nut <br> 4) 4 x sliding t-nut |
 | ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part1.png) | 1) Attach M4 x 12mm + t-nut to the lower z bracket <br> 2) Insert sliding t-nut in the extrusion below the middle two holes |
 | ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part2.png) | 1) Tighten the M4 x 12mm screw loosly, we need to align the lower z bracket |
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part2.png) | 1) Align the front rod with the z-alignment tool <br> 2) tighten the M4 x 12mm screws, when it's aligned |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part3.png) | 1) Align the front rod with the z-alignment tool <br> 2) tighten the M4 x 12mm screws, when it's aligned |
 
 <br>
 <br>
