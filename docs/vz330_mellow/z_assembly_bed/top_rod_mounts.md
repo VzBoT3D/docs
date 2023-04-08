@@ -10,10 +10,21 @@ permalink: /vz330_mellow/z_assembly/top_rod_mounts
 ---
 
 # 3.3 Top rod mounts
-
-## Overview
+{: .no_toc}
 
 ![Overview](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/overview.png)
+
+<br>
+<br>
+
+## Table of content
+{: .no_toc}
+
+1. TOC
+{:toc}
+
+<br>
+<br>
 
 ## BOM
 
@@ -21,6 +32,8 @@ permalink: /vz330_mellow/z_assembly/top_rod_mounts
 | **Type**: <br> **Amount**: | M4 x 10mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 4/16 |
 | **Type**: <br> **Amount**: | M4 x 20mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 8/16 |
 | **Type**: <br> **Amount**: | M4 t-nut  <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |
+
+## Assembly
 
 ### Step 1
 

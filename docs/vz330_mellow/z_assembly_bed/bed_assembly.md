@@ -10,12 +10,23 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 ---
 
 # 3.2 Bed Assembly
-
-## Overview
+{: .no_toc}
 
 ![Bed Overview](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/overview.png)
 
-## BOM
+<br>
+<br>
+
+## Table of content
+{: .no_toc}
+
+1. TOC
+{:toc}
+
+<br>
+<br>
+
+## Part's
 
 |:-------------|:------------------|:------|
 | **Type**: <br> **Amount**: | M3 x 8mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 3/16  |
@@ -31,6 +42,8 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 | File name | Amount to print |
 |-----------|-----------------|
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/Bed%20level%20adjustment%20knobs%20.stl" target="_blank">Bed level knobs</a> | 4 | - |
+
+## Assembly
 
 ### Step 1
 

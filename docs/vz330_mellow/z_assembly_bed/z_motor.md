@@ -10,10 +10,21 @@ permalink: /vz330_mellow/z_assembly/z_motor
 ---
 
 # 3.4 Z-Motor bracket
-
-## Overview
+{: .no_toc}
 
 ![Z-Motor overview](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/overview.png)
+
+<br>
+<br>
+
+## Table of content
+{: .no_toc}
+
+1. TOC
+{:toc}
+
+<br>
+<br>
 
 ## BOM
 
@@ -23,6 +34,8 @@ permalink: /vz330_mellow/z_assembly/z_motor
 | **Type**: <br> **Amount**: | M4 t-nut <br> 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |
 | **Type**: <br> **Amount**: | GT2 20 teeth <br> 1 | **Layer**: 1 |
 | **Type**: <br> **Amount**: | NEMA 17 stepper <br> 1 | **Layer**: 1 |
+
+## Assembly
 
 ### Step 1
 

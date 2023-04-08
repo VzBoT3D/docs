@@ -10,12 +10,23 @@ permalink: /vz330_mellow/z_assembly/lower_part
 ---
 
 # 3.1 Lower rod & leadscrew bracket
-
-## Overview
+{: .no_toc}
 
 ![Z Overview](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/overview.png)
 
-## BOM
+<br>
+<br>
+
+## Table of content
+{: .no_toc}
+
+1. TOC
+{:toc}
+
+<br>
+<br>
+
+## Part's
 
 |:-------------|:------------------|:------|
 | **Type**: <br> **Amount**: | M4 x 10mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 |
@@ -33,6 +44,7 @@ permalink: /vz330_mellow/z_assembly/lower_part
 |-----------|-----------------|
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignment%20Tools/Z%20Alignment%20tool%2010mm%20rod.stl" target="_blank">Z alignment tool</a> | 2 |
 
+## Assembly
 
 ### Step 1 (do for each side)
 

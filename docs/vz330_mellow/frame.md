@@ -9,8 +9,21 @@ permalink: /vz330_mellow/frame
 ---
 
 # 2. Frame
+{: .no_toc}
 
 ![Frame](../assets/images/manual/vz330_mellow/frame/overview.png)
+
+<br>
+<br>
+
+## Table of content
+{: .no_toc}
+
+1. TOC
+{:toc}
+
+<br>
+<br>
 
 ## Part's
 
@@ -27,7 +40,10 @@ permalink: /vz330_mellow/frame
 ## STL's
 <br>
 
-**You can click on the object you wanna print on the plate and the corresponding STL will open up.**
+{: .highlight }
+> Info
+>
+> You can click on the object you wanna print on the plate and the corresponding STL will open up.
 
 <br>
 <div>
@@ -41,8 +57,6 @@ permalink: /vz330_mellow/frame
 </div>
 
 ## Assembly
-
-**Imoportant on the extrusions is a side with a "bigger" hole this is where the head of the bolt should go through!**
 
 ### Step 1
 

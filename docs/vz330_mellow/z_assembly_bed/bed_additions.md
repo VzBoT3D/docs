@@ -3,7 +3,7 @@ layout: default
 title: 3.5 Z-Switch & bed chain
 parent: 3. Z - Assembly & Bed
 grand_parent: VzBoT330 - Mellow Kit
-has_toc: false
+has_toc: true
 nav_order: 5
 has_children: false
 permalink: /vz330_mellow/z_assembly/bed_additions
@@ -12,16 +12,22 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 # 3.5 Z-Switch & bed chain
 {: .no_toc }
 
-
-{:toc}
-
-## Overview
-
 ![Overview](../../assets/images/manual/vz330_mellow/z_assembly/bed_additions/overview.png)
 
-## BOM
+<br>
+<br>
 
-| Material        | Quantity          | Notes |
+## Table of content
+{: .no_toc}
+
+1. TOC
+{:toc}
+
+<br>
+<br>
+
+## Part's
+
 |:-------------|:------------------|:------|
 | **Type**: <br> **Amount**: | M2 x 10mm <br> 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M2 <br> **Bagnumber**: 2/5 |
 | **Type**: <br> **Amount**: | M3 x 6mm <br> 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 14/16 |
@@ -31,6 +37,8 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 | **Type**: <br> **Amount**: | M3 nut <br> 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 12/16 |
 | **Type**: <br> **Amount**: | M3 t-nut <br> 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 1/16 |
 | **Type**: <br> **Amount**: | Microswitch <br> 1 | **Layer**: 2 <br> **Box**: VZ330 Box 2 |
+
+## Assembly
 
 ### Step 1
 
