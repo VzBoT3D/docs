@@ -19,13 +19,13 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 | Material        | Quantity          | Notes |
 |:-------------|:------------------|:------|
-| M3 x 10mm           | 4 | -  |
-| M4 x 10mm | 16   | -  |
-| M3 x 45mm (countersunk) | 4 |  |
-| M3 nut | 2 | - |
-| LMK10LUU | 4 | - |
-| Oldham coupler | 2 | - |
-| Springs / Silicon dumper | 4 | - |
+| M3 x 8mm | 4 | VZ330 Box 6 / Bag M3 / Bagnumber 3/16  |
+| M3 x 45mm (countersunk) | 4 | VZ330 Box 6 / Bag M3 / Bagnumber 8/16 |
+| M3 nut | 2 | VZ330 Box 6 / Bag M4 / Bagnumber 12/16 |
+| M4 x 10mm | 16 | VZ330 Box 6 / Bag M4 / Bagnumber 4/16  |
+| LMK10LUU | 4 | In the same layer the extrusions are located |
+| Oldham coupler | 2 | In the same layer the extrusions are located |
+| Springs / Silicon dumper | 4 | VZ330 Box 2 |
 
 ## STL's
 

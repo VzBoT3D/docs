@@ -19,15 +19,14 @@ permalink: /vz330_mellow/z_assembly/lower_part
 
 | Material        | Quantity          | Notes |
 |:-------------|:------------------|:------|
-| M4 10mm           | 4 | -  |
-| M4 12mm | 16   | -  |
-| M4 t-nut | 20 | - |
-| 608-2RS bearings | 4 | - |
-| 10mm rods ( 500mm ) | 4 | - |
-| Belt GT2 closed ( 1100mm ) | 1 | - |
-| Leadscrew TR8 ( 500 mm ) | 2 | - |
-| GT2 40 teeth | 2 | - |
-| GT2 20 teeth | 1 | - |
+| M4 x 10mm | 4 | VZ330 Box 6 / Bag M4 / Bagnumber 14/16 |
+| M4 x 12mm | 16 | VZ330 Box 6 / Bag M4 / Bagnumber 13/16 |
+| M4 t-nut | 20 | VZ330 Box 6 / Bag M4 / Bagnumber 2/16 |
+| M4 sliding t-nut | 4 | VZ330 Box 6 / Bag M4 / Bagnumber 3/16 |
+| 10mm rods ( 500mm ) | 4 | In the same layer the extrusions are located |
+| Belt GT2 closed ( 1100mm ) | 1 | VZ330 Box 2 |
+| Leadscrew TR8 ( 500 mm ) | 2 | In the same layer the extrusions are located |
+| GT2 40 teeth | 2 | VZ330 Box 2 |
 
 ## STL's
 

@@ -19,26 +19,45 @@ permalink: /vz330_mellow/z_assembly/top_rod_mounts
 
 | Material        | Quantity          | Notes |
 |:-------------|:------------------|:------|
-| M4 10mm           | 4 | -  |
-| M4 20mm | 4   | -  |
-| M4 t-nut | 4 | - |
-
-![Details](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/details.png)
+| M4 x 10mm | 4 | VZ330 Box 6 / Bag M4 / Bagnumber 4/16 |
+| M4 x 20mm | 4 | VZ330 Box 6 / Bag M4 / Bagnumber 8/16 |
+| M4 t-nut  | 4 | VZ330 Box 6 / Bag M4 / Bagnumber 2/16 |
 
 ### Step 1
 
-**Important: When mounting the top rod's make sure the top rod with the extra hole for the z switch is in the back**
+<br>
+<br>
 
-Mount the 10mm M4 screws and t-nuts to all top rod mounts and loosely turn in the 20mm M4 screws in the clamping mechanism.
+| | |
+|-|-|
+| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step1.png) | 1) 4 x Top rod mount <br> 2) 4 x M4 x 20mm |
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step1_part1.png) | 1) Screw in the M4 x 20mm screw to all Top rod mounts |
 
-![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/step1.png)
+<br>
+<br>
 
 ### Step 2
 
-Mount all top rod mounts to the rod first. Make sure the rod mount with the extra hole (for the Z limit switch) is in the back right of the printer like shown below. Finally tighten the rod holders to the frame with the pre-inserted M4 hardware.
+<br>
+<br>
 
-![Step 2](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/step2.png)
+| | |
+|-|-|
+| ![Step 2](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step1.png) | 1) 4 x Top rod mount <br> 2) 4 x M4 x 10mm <br> 3) 4 x M4 t-nut |
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step1_part1.png) | 1) Screw in the M4 x 10mm screw with the t-nut to all top rod mounts |
+
+<br>
+<br>
 
 ### Step 3
 
-After installing check the movement of the bed assembly by turning the leadscrews. This should operate smoothly. If not, place the bed assembly in the top most position, untighten all top rod holders and retighten to align the rods.
+<br>
+<br>
+
+| | |
+|-|-|
+| ![Step 3](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step1.png) | 1) 4 x Top rod mount |
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step1_part1.png) | 1) But the top rod mounts over the rod <br> 2) Attach the top part to the extrusion 3) Tighten the M4x20mm screw |
+
+<br>
+<br>

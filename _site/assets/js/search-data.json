@@ -330,7 +330,7 @@
   },"47": {
     "doc": "3.2 Bed Assembly",
     "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M3 x 10mm | 4 | - | . | M4 x 10mm | 16 | - | . | M3 x 45mm (countersunk) | 4 |   | . | M3 nut | 2 | - | . | LMK10LUU | 4 | - | . | Oldham coupler | 2 | - | . | Springs / Silicon dumper | 4 | - | . ",
+    "content": "| Material | Quantity | Notes | . | M3 x 8mm | 4 | VZ330 Box 6 / Bag M3 / Bagnumber 3/16 | . | M3 x 45mm (countersunk) | 4 | VZ330 Box 6 / Bag M3 / Bagnumber 8/16 | . | M3 nut | 2 | VZ330 Box 6 / Bag M4 / Bagnumber 12/16 | . | M4 x 10mm | 16 | VZ330 Box 6 / Bag M4 / Bagnumber 4/16 | . | LMK10LUU | 4 | In the same layer the extrusions are located | . | Oldham coupler | 2 | In the same layer the extrusions are located | . | Springs / Silicon dumper | 4 | VZ330 Box 2 | . ",
     "url": "/vz330_mellow/z_assembly/bed_assembly#bom",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_assembly#bom"
@@ -1478,7 +1478,7 @@
   },"211": {
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M4 10mm | 4 | - | . | M4 12mm | 16 | - | . | M4 t-nut | 20 | - | . | 608-2RS bearings | 4 | - | . | 10mm rods ( 500mm ) | 4 | - | . | Belt GT2 closed ( 1100mm ) | 1 | - | . | Leadscrew TR8 ( 500 mm ) | 2 | - | . | GT2 40 teeth | 2 | - | . | GT2 20 teeth | 1 | - | . ",
+    "content": "| Material | Quantity | Notes | . | M4 x 10mm | 4 | VZ330 Box 6 / Bag M4 / Bagnumber 14/16 | . | M4 x 12mm | 16 | VZ330 Box 6 / Bag M4 / Bagnumber 13/16 | . | M4 t-nut | 20 | VZ330 Box 6 / Bag M4 / Bagnumber 2/16 | . | M4 sliding t-nut | 4 | VZ330 Box 6 / Bag M4 / Bagnumber 3/16 | . | 10mm rods ( 500mm ) | 4 | In the same layer the extrusions are located | . | Belt GT2 closed ( 1100mm ) | 1 | VZ330 Box 2 | . | Leadscrew TR8 ( 500 mm ) | 2 | In the same layer the extrusions are located | . | GT2 40 teeth | 2 | VZ330 Box 2 | . ",
     "url": "/vz330_mellow/z_assembly/lower_part#bom",
     
     "relUrl": "/vz330_mellow/z_assembly/lower_part#bom"
@@ -1730,7 +1730,7 @@
   },"247": {
     "doc": "3.3 Top rod mounts",
     "title": "BOM",
-    "content": "| Material | Quantity | Notes | . | M4 10mm | 4 | - | . | M4 20mm | 4 | - | . | M4 t-nut | 4 | - | . Step 1 . Important: When mounting the top rod’s make sure the top rod with the extra hole for the z switch is in the back . Mount the 10mm M4 screws and t-nuts to all top rod mounts and loosely turn in the 20mm M4 screws in the clamping mechanism. Step 2 . Mount all top rod mounts to the rod first. Make sure the rod mount with the extra hole (for the Z limit switch) is in the back right of the printer like shown below. Finally tighten the rod holders to the frame with the pre-inserted M4 hardware. Step 3 . After installing check the movement of the bed assembly by turning the leadscrews. This should operate smoothly. If not, place the bed assembly in the top most position, untighten all top rod holders and retighten to align the rods. ",
+    "content": "| Material | Quantity | Notes | . | M4 x 10mm | 4 | VZ330 Box 6 / Bag M4 / Bagnumber 4/16 | . | M4 x 20mm | 4 | VZ330 Box 6 / Bag M4 / Bagnumber 8/16 | . | M4 t-nut | 4 | VZ330 Box 6 / Bag M4 / Bagnumber 2/16 | . Step 1 . |   |   | . | | 1) 4 x Top rod mount 2) 4 x M4 x 20mm | . | | 1) Screw in the M4 x 20mm screw to all Top rod mounts | . Step 2 . |   |   | . | | 1) 4 x Top rod mount 2) 4 x M4 x 10mm 3) 4 x M4 t-nut | . | | 1) Screw in the M4 x 10mm screw with the t-nut to all top rod mounts | . Step 3 . |   |   | . | | 1) 4 x Top rod mount | . | | 1) But the top rod mounts over the rod 2) Attach the top part to the extrusion 3) Tighten the M4x20mm screw | . ",
     "url": "/vz330_mellow/z_assembly/top_rod_mounts#bom",
     
     "relUrl": "/vz330_mellow/z_assembly/top_rod_mounts#bom"
