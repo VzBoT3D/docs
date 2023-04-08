@@ -19,38 +19,64 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 | Material        | Quantity          | Notes |
 |:-------------|:------------------|:------|
-| M3 8mm           | 16 | -  |
-| M4 8mm | 16   | -  |
-| M3 nut | 12 | - |
-| M3 50mm (countersunk) | 4 | Countersunk for the bed |
-| LMK10LUU | 4 | If you want to use the bought version |
-| LM10LUU | 4 | Use this from the old bed and print holders |
-| Oldham coupler | 2 | Optional but highly advised |
-| Leadscrew nut | 2 | - |
+| M3 x 10mm           | 4 | -  |
+| M4 x 10mm | 16   | -  |
+| M3 x 45mm (countersunk) | 4 |  |
+| M3 nut | 2 | - |
+| LMK10LUU | 4 | - |
+| Oldham coupler | 2 | - |
 | Springs / Silicon dumper | 4 | - |
 
 ## STL's
 
 | File name | Amount to print |
 |-----------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Bed%20Assembly/STLs/Oldham_middle.stl" target="_blank">Oldham couplers middle ( optional )</a> | 2 | - |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Bed%20Assembly/STLs/Oldham_topbot.stl" target="_blank">Oldham couplers top / bottom ( optional )</a> | 4 | - |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/LM10LUU%20to%20LMK10LUU.stl" target="_blank">LM10LUU adapter</a> | 4 | Only if you don't use the bought version |
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20complete%20system%20-%20Aluminum/STLs/Bed%20level%20adjustment%20knobs%20.stl" target="_blank">Bed level knobs</a> | 4 | - |
 
 ### Step 1
 
-Mount the LMK10LUU using the M4 10mm hardware to the bed frame. Then mount the Oldham couplers with the leadscrew nuts together with M3 10mm and the M3 nut and mount that assembly to the bed frame using M3 hardware.<br>
-Afterwards place the bed assembly in the rods and the leadscrew.
+<br>
+<br>
 
-![Bed mount](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/mount.png)
+| | |
+|-|-|
+| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step1.png) | 1) 1 x bed bracket <br> 2) 4 x LMK10LUU <br> 3) 2 x oldham couplers  <br> 4) 16 x M4 x 10mm |
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step1_part1.png) | 1) Insert LMK10LUU in the four holes <br> 2) fixate them with the M4 x 10mm screws |
 
-### Step 2
+<br>
+<br>
 
-Place the bed assembly in the rods and leadscre
+#### Step 2
+
+<br>
+<br>
+
+| | |
+|-|-|
+| ![Step 2](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step2.png) | 1) 2 x upper part of the oldham coupler <br> 2) 4 x M3 x 10mm |
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step2_part1.png) | 1) Attache the part of the oldham coupler to the center hole <br> 2) Fixate it with the M3 x 10mm screw |
+| ![Part 2](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step2_part2.png) | 1) Attache the rest of the oldham coupler to the fixated part |
+
+<br>
+<br>
 
 ### Step 3
 
-Mount the bed plate to the bed frame using the 50mm countersunk M3 screws, put a Spring or a silicon dumper on each corner of the bed before attaching the screw and the bed level knob to it. Then give every knob a small "torque" so you can later level your bed propperly. When using a cast aluminum bed make sure it is well prepped before mounting. It is recommended to always be safe and inform yourself properly on how to apply a AC silicon heating pad.
+<br>
+<br>
 
-![Bed plate](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/plate.png)
+| | |
+|-|-|
+| ![Step 3](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step3.png) | 1) 1 x assembled bed bracket |
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step3_part1.png) | 1) Slide the assembled bed bracket onto the rod's <br> 2) Screw in the leadscrew to the assembled oldham coupler |
+
+<br>
+<br>
+
+### Step 4
+
+Prepare bed ( heatmap and magnetic sheet) - looking for videos
+
+### Step 5
+
+Attache bed to bed bracket! ( Springs/Dumper ) + Screws + knobs
