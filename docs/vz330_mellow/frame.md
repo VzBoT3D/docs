@@ -16,15 +16,6 @@ permalink: /vz330_mellow/frame
 <br>
 <br>
 
-## Table of content
-{: .no_toc}
-
-1. TOC
-{:toc}
-
-<br>
-<br>
-
 ## Part's
 
 |:-|:-|:-|:-|
@@ -58,30 +49,57 @@ permalink: /vz330_mellow/frame
 
 ## Assembly
 
+<br>
+
 ### Step 1
 
-<br>
-<br>
+#### Notes
+
+|:-|
+| ![Step 1](../assets/images/manual/vz330_mellow/frame/step1.png) |
 
 |:-|:-|
-| ![Step 1](../assets/images/manual/vz330_mellow/frame/step1.png) | 1) 2040 extrusion (530mm) <br> 2) 2020 extrusion (530mm) <br> 3) 2020 extrusion (460mm) <br> 4) 2 x M5 25mm |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part1.png) | 1) Align the extrusions flush |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part2.png) | 1) Tighten the 2020 extrusion's to the 2040 extrusion |
+| **Type**: <br> **Amount**: | 2040 extrusion ( 530 mm ) <br> 1 |
+| **Type**: <br> **Amount**: | 2020 extrusion ( 530 mm ) <br> 1 |
+| **Type**: <br> **Amount**: | 2020 extrusion ( 460 mm ) <br> 1 |
 
 <br>
+
+#### Instructions
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part1.png) | 1) Align the extrusions flush |
+
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part2.png) | 1) Tighten the 2020 extrusion's to the 2040 extrusion |
+
 <br>
 
 ### Step 2
 
-<br>
-<br>
+#### Notes
+
+|:-|
+| ![Step 1](../assets/images/manual/vz330_mellow/frame/step2.png) |
 
 |:-|:-|
-| ![Step 1](../assets/images/manual/vz330_mellow/frame/step2.png) | 1) 2040 extrusion (530mm) <br> 2) 2020 extrusion (530mm) <br> 3) 2020 extrusion (460mm) <br> 4) 2 x M5 25mm |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_part1.png) | 1) Align the extrusions flush |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_part2.png) | 1) Tighten the 2020 extrusion's to the 2040 extrusion |
+| **Type**: <br> **Amount**: | 2040 extrusion ( 530mm ) <br> 1 |
+| **Type**: <br> **Amount**: | 2020 extrusion ( 530mm ) <br> 1 |
+| **Type**: <br> **Amount**: | 2020 extrusion ( 460mm ) <br> 1 |
+| **Type**: <br> **Amount**: | M5 x 25mm <br> 2 |
 
 <br>
+
+#### Instructions
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_part1.png) | 1) Align the extrusions flush |
+
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_part2.png) | 1) Tighten the 2020 extrusion's to the 2040 extrusion |
+
 <br>
 
 ### Step 3
