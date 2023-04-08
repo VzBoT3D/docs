@@ -143,6 +143,9 @@ td img { width: auto; height: auto; }
 
 body { font-family: Helvetica; font-size: 13px; }
 
+.instructiontable td { border: none !important; white-space: nowrap; line-height: 2em; background-color: #ffffff10; }
+.instructiontable td:nth-child(1) { text-align: right; white-space: nowrap; font-weight: bold; min-width: inherit; max-width: inherit; }
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document ========================================================================== */
 /** 1. Correct the line height in all browsers. 2. Prevent adjustments of font size after orientation changes in iOS. */

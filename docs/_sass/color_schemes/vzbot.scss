@@ -40,3 +40,18 @@ body {
 	font-family: Helvetica;
 	font-size: 13px;
 }
+
+.instructiontable td {
+  border: none !important;
+  white-space: nowrap;
+  line-height: 2em;
+  background-color: #ffffff10;
+
+  &:nth-child(1) {
+      text-align: right;
+      white-space: nowrap;
+      font-weight: bold;
+      min-width: inherit;
+      max-width: inherit;
+  }
+}

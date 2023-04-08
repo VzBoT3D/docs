@@ -38,8 +38,7 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 <br>
 <br>
 
-| | |
-|-|-|
+|:-|:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step1.png) | 1) 1 x bed bracket <br> 2) 4 x LMK10LUU <br> 3) 2 x oldham couplers  <br> 4) 16 x M4 x 10mm |
 | ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step1_part1.png) | 1) Insert LMK10LUU in the four holes <br> 2) fixate them with the M4 x 10mm screws |
 
@@ -51,8 +50,7 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 <br>
 <br>
 
-| | |
-|-|-|
+|:-|:-|
 | ![Step 2](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step2.png) | 1) 2 x upper part of the oldham coupler <br> 2) 4 x M3 x 10mm |
 | ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step2_part1.png) | 1) Attache the part of the oldham coupler to the center hole <br> 2) Fixate it with the M3 x 10mm screw |
 | ![Part 2](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step2_part2.png) | 1) Attache the rest of the oldham coupler to the fixated part |
@@ -65,8 +63,7 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 <br>
 <br>
 
-| | |
-|-|-|
+|:-|:-|
 | ![Step 3](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step3.png) | 1) 1 x assembled bed bracket |
 | ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step3_part1.png) | 1) Slide the assembled bed bracket onto the rod's <br> 2) Screw in the leadscrew to the assembled oldham coupler |
 
@@ -83,7 +80,6 @@ assembling knob!
 
 ### Step 6
 
-| | |
-|-|-|
+|:-|:-|
 | ![Step 5](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step6.png) | 1) 1 x bed ( with attached heatmat and magnetic sheet ) <br> 2) 4 x M3 x 45mm countersunk screws <br> 3) 4 x Spings or Silicon dumper <br> 4) 4 x Knob |
 | ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step6_part1.png) | 1) Put the silicon dumper's or the springs on the 4 holes in the bed bracket <br> 2) Put the assembled printbed ontop of the silicon dumpers or springs <br> 3) Put the M3 x 45mm screws through the holes in the plate and secure them with the knobs |

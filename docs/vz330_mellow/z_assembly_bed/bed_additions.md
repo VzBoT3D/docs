@@ -10,6 +10,10 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 ---
 
 # 3.5 Z-Switch & bed chain
+{: .no_toc }
+
+
+{:toc}
 
 ## Overview
 
@@ -28,4 +32,22 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 | M3 t-nut | 2 | VZ330 Box 6 / Bag M3 / Bagnumber 1/16 |
 | Microswitch | 1 | VZ330 Box 2 |
 
+### Step 1
 
+Install endstop holder
+
+### Step 2
+
+Install endstop
+
+### Step 3
+
+Install screw + nut in bed
+
+### Step 4
+
+Install chain holder
+
+### Step 5
+
+Install chain
