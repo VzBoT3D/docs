@@ -799,14 +799,14 @@
   },"114": {
     "doc": "2. Frame",
     "title": "2. Frame",
-    "content": ". ",
+    "content": "| . ",
     "url": "/vz330_mellow/frame",
     
     "relUrl": "/vz330_mellow/frame"
   },"115": {
     "doc": "2. Frame",
     "title": "Part’s",
-    "content": "| Type: Amount: | 2040 extrusion (530) 4 | Layer: 2 | | . | Type: Amount: | 2020 extrusion (530mm) with two holes 2 | Layer: 2 | | . | Type: Amount: | 2020 extrusion (460mm) with two holes 2 | Layer: 2 | | . | Type: Amount: | Preasembled gantry 1 | Layer: 1 | - | . | Type: Amount: | 2020 Corner brackets 1 | - | optional | . | Type: Amount: | M5 x 25mm 16 | Layer: 3 Box: VZ330 Box 6 Bag: M5 Bagnumber: 4/16 | - | . | Type: Amount: | M4 t-nut 10 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | - | . | Type: Amount: | M4 x 10mm 8 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 | - | . ",
+    "content": ". | Type: Amount: | 2040 extrusion (530) 4 | Layer: 2 | | . | Type: Amount: | 2020 extrusion (530mm) with two holes 2 | Layer: 2 | | . | Type: Amount: | 2020 extrusion (460mm) with two holes 2 | Layer: 2 | | . | Type: Amount: | Preasembled gantry 1 | Layer: 1 | - | . | Type: Amount: | 2020 Corner brackets 1 | - | optional | . | Type: Amount: | M5 x 25mm 16 | Layer: 3 Box: VZ330 Box 6 Bag: M5 Bagnumber: 4/16 | - | . | Type: Amount: | M4 t-nut 10 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | - | . | Type: Amount: | M4 x 10mm 8 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 | - | . ",
     "url": "/vz330_mellow/frame#parts",
     
     "relUrl": "/vz330_mellow/frame#parts"

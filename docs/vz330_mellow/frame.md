@@ -11,12 +11,15 @@ permalink: /vz330_mellow/frame
 # 2. Frame
 {: .no_toc}
 
-![Frame](../assets/images/manual/vz330_mellow/frame/overview.png)
+|:-|
+| ![Frame](../assets/images/manual/vz330_mellow/frame/overview.png) |
 
 <br>
 <br>
 
 ## Part's
+
+<br>
 
 |:-|:-|:-|:-|
 | **Type**: <br> **Amount**: | 2040 extrusion (530) <br> 4 | **Layer**: 2 | ![2040](../assets/images/manual/vz330_mellow/frame/parts/2040_extrusion.png) |
@@ -29,6 +32,7 @@ permalink: /vz330_mellow/frame
 | **Type**: <br> **Amount**: | M4 x 10mm <br> 8 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 | - |
 
 ## STL's
+
 <br>
 
 {: .highlight }
