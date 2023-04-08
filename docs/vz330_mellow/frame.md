@@ -14,16 +14,15 @@ permalink: /vz330_mellow/frame
 
 ## Part's
 
-| Material        | Quantity          | Notes |
-| ![2040](../assets/images/manual/vz330_mellow/frame/parts/2040_extrusion.png) | 4 | 2040 extrusion (530mm) |
-| ![2020 530mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_530mm.png) | 2 | 2020 extrusion (530mm) with two holes |
-| ![2020 460mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_460mm.png) | 2 | 2020 extrusion (460mm) with two holes |
-| Picture | 1 | Preassembled Gantry | 
-| ![2020 Corners](../assets/images/manual/vz330_mellow/frame/parts/corner.png) | 6 | optional | 
-| Picture | 16 | M5 x 25mm - ( VZ330 Box 6 / Bag M5 / Bagnumber 4/16 ) |
-| ![M4 tnut](../assets/images/manual/vz330_mellow/frame/parts/m4_tnut.png) | 10 | M4 t-nut ( VZ330 Box 6 / Bag M4 / Bagnumber 2/16 ) |
-| Picture | 8 | M4 x 10mm ( VZ330 Box 6 / Bag M4 / Bagnumber 4/16 ) |
-| ![M4 screw](../assets/images/manual/vz330_mellow/frame/parts/m4_10mm_screw.png) | 2 | M4 x 10mm ( VZ330 Box 6 / Bag M4 / Bagnumber 14/16 ) |
+|:-|:-|:-|:-|
+| **Type**: <br> **Amount**: | 2040 extrusion (530) <br> 4 | **Layer**: 2 | ![2040](../assets/images/manual/vz330_mellow/frame/parts/2040_extrusion.png) |
+| **Type**: <br> **Amount**: | 2020 extrusion (530mm) with two holes <br> 2 | **Layer**: 2 | ![2020 530mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_530mm.png) |
+| **Type**: <br> **Amount**: | 2020 extrusion (460mm) with two holes <br> 2 | **Layer**: 2 | ![2020 460mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_460mm.png) |
+| **Type**: <br> **Amount**: | Preasembled gantry <br> 1 | **Layer**: 1 | - |
+| **Type**: <br> **Amount**: | 2020 Corner brackets <br> 1 | - | optional |
+| **Type**: <br> **Amount**: | M5 x 25mm <br> 16 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M5 <br> **Bagnumber**: 4/16 | - |
+| **Type**: <br> **Amount**: | M4 t-nut <br> 10 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 | - |
+| **Type**: <br> **Amount**: | M4 x 10mm <br> 8 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 | - |
 
 ## STL's
 <br>

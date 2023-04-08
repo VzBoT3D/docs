@@ -17,13 +17,12 @@ permalink: /vz330_mellow/z_assembly/z_motor
 
 ## BOM
 
-| Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
-| M3 x 10mm | 4 | VZ330 Box 6 / Bag M3 / Bagnumber 16/16 |
-| M4 x 10mm | 4 | VZ330 Box 6 / Bag M4 / Bagnumber 14/16 |
-| M4 t-nut | 2 | VZ330 Box 6 / Bag M4 / Bagnumber 2/16 |
-| GT2 20 teeth | 1 | In the same layer the gantry is located |
-| NEMA 17 stepper | 1 | In the same layer the gantry is located |
+|:-------------|:------------------|
+| **Type**: <br> **Amount**: | M3 x 10mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 16/16 |
+| **Type**: <br> **Amount**: | M4 x 10mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 |
+| **Type**: <br> **Amount**: | M4 t-nut <br> 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |
+| **Type**: <br> **Amount**: | GT2 20 teeth <br> 1 | **Layer**: 1 |
+| **Type**: <br> **Amount**: | NEMA 17 stepper <br> 1 | **Layer**: 1 |
 
 ### Step 1
 

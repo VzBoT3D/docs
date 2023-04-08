@@ -17,16 +17,15 @@ permalink: /vz330_mellow/z_assembly/lower_part
 
 ## BOM
 
-| Material        | Quantity          | Notes |
 |:-------------|:------------------|:------|
-| M4 x 10mm | 4 | VZ330 Box 6 / Bag M4 / Bagnumber 14/16 |
-| M4 x 12mm | 16 | VZ330 Box 6 / Bag M4 / Bagnumber 13/16 |
-| M4 t-nut | 20 | VZ330 Box 6 / Bag M4 / Bagnumber 2/16 |
-| M4 sliding t-nut | 4 | VZ330 Box 6 / Bag M4 / Bagnumber 3/16 |
-| 10mm rods ( 500mm ) | 4 | In the same layer the extrusions are located |
-| Belt GT2 closed ( 1100mm ) | 1 | VZ330 Box 2 |
-| Leadscrew TR8 ( 500 mm ) | 2 | In the same layer the extrusions are located |
-| GT2 40 teeth | 2 | VZ330 Box 2 |
+| **Type**: <br> **Amount**: | M4 x 10mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 |
+| **Type**: <br> **Amount**: | M4 x 12mm <br> 16 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 13/16 |
+| **Type**: <br> **Amount**: | M4 t-nut <br> 20 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |
+| **Type**: <br> **Amount**: | M4 sliding t-nut <br> 4 | **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 3/16 |
+| **Type**: <br> **Amount**: | 10mm rods ( 500mm ) <br> 4 | **Layer**: 2  |
+| **Type**: <br> **Amount**: | Belt GT2 closed ( 1100mm ) <br> 1 | **Layer**: 2 <br> **Box**: VZ330 Box 2 |
+| **Type**: <br> **Amount**: | Leadscrew TR8 ( 500 mm ) <br> 2 | **Layer**: 2 |
+| **Type**: <br> **Amount**: | GT2 40 teeth <br> 2 | **Layer**: 2 <br> **Box**: VZ330 Box 2 |
 
 ## STL's
 

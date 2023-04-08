@@ -17,15 +17,14 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 ## BOM
 
-| Material        | Quantity          | Notes |
 |:-------------|:------------------|:------|
-| M3 x 8mm | 4 | VZ330 Box 6 / Bag M3 / Bagnumber 3/16  |
-| M3 x 45mm (countersunk) | 4 | VZ330 Box 6 / Bag M3 / Bagnumber 8/16 |
-| M3 nut | 2 | VZ330 Box 6 / Bag M4 / Bagnumber 12/16 |
-| M4 x 10mm | 16 | VZ330 Box 6 / Bag M4 / Bagnumber 4/16  |
-| LMK10LUU | 4 | In the same layer the extrusions are located |
-| Oldham coupler | 2 | In the same layer the extrusions are located |
-| Springs / Silicon dumper | 4 | VZ330 Box 2 |
+| **Type**: <br> **Amount**: | M3 x 8mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 3/16  |
+| **Type**: <br> **Amount**: | M3 x 45mm (countersunk) <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 8/16 |
+| **Type**: <br> **Amount**: | M3 nut <br> 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 12/16 |
+| **Type**: <br> **Amount**: | M4 x 10mm <br> 16 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 4/16 |
+| **Type**: <br> **Amount**: | LMK10LUU <br> 4 | **Layer**: 2 |
+| **Type**: <br> **Amount**: | Oldham coupler <br> 2 | **Layer**: 2 |
+| **Type**: <br> **Amount**: | Springs / Silicon dumper <br> 4 | **Box**: VZ330 Box 2 |
 
 ## STL's
 
