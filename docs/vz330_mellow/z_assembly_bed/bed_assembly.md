@@ -79,4 +79,11 @@ Prepare bed ( heatmap and magnetic sheet) - looking for videos
 
 ### Step 5
 
-Attache bed to bed bracket! ( Springs/Dumper ) + Screws + knobs
+assembling knob!
+
+### Step 6
+
+| | |
+|-|-|
+| ![Step 5](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step6.png) | 1) 1 x bed ( with attached heatmat and magnetic sheet ) <br> 2) 4 x M3 x 45mm countersunk screws <br> 3) 4 x Spings or Silicon dumper <br> 4) 4 x Knob |
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step6_part1.png) | 1) Put the silicon dumper's or the springs on the 4 holes in the bed bracket <br> 2) Put the assembled printbed ontop of the silicon dumpers or springs <br> 3) Put the M3 x 45mm screws through the holes in the plate and secure them with the knobs |
