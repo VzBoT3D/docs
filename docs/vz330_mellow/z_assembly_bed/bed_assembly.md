@@ -121,7 +121,9 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 ### Magnetic sheet
 
-Prepare bed ( heatmap and magnetic sheet) - looking for videos
+|:-|:-|
+| [![magnetic sheet](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/magnetic_video.png)](https://www.youtube.com/embed/0g1VRiW48NA "Apply magnetic sheet") | &#8226; How to apply the magnetic sheet to the aluminium plate |
+{: .instructiontable}
 
 <br>
 

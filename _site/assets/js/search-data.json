@@ -407,7 +407,7 @@
   },"58": {
     "doc": "3.2 Bed Assembly",
     "title": "Step 4",
-    "content": "You should first apply the magnetic sheet and then the heated bed, due to the reason that the bed isn’t flat anymore after applying the heated bed due to the thermistor build into it. Magnetic sheet . Prepare bed ( heatmap and magnetic sheet) - looking for videos . Heatbed . | | • How to apply the heatbed to the aluminium plate | . ",
+    "content": "You should first apply the magnetic sheet and then the heated bed, due to the reason that the bed isn’t flat anymore after applying the heated bed due to the thermistor build into it. Magnetic sheet . | | • How to apply the magnetic sheet to the aluminium plate | . Heatbed . | | • How to apply the heatbed to the aluminium plate | . ",
     "url": "/vz330_mellow/z_assembly/bed_assembly#step-4",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_assembly#step-4"
