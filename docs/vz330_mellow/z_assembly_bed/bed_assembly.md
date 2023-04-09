@@ -116,15 +116,19 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 ## Step 4
 
+### Magnetic sheet
+
+Prepare bed ( heatmap and magnetic sheet) - looking for videos
+
+<br>
+
 ### Heatbed
 
 |:-|:-|
 | [![heatbed](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/heatbed_video.png)](https://www.youtube.com/embed/vZx4vfevwx4 "Apply heatbed") | &#8226; How to apply the heatbed to the aluminium plate |
 {: .instructiontable}
 
-### Magnetic sheet
-
-Prepare bed ( heatmap and magnetic sheet) - looking for videos
+<br>
 
 ## Step 5
 
