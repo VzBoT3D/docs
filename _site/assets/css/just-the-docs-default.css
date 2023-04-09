@@ -142,6 +142,8 @@ td { width: auto; height: auto; }
 td img { width: auto; height: auto; }
 td br { display: block; margin: 10px 0; content: " "; }
 
+thead th { background: #575555; }
+
 body { font-family: Helvetica; font-size: 13px; }
 
 .instructiontable table { border: none; }
