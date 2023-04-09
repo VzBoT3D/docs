@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 1. Preparation
+title: 0. Preparation
 parent: VzBoT330 - Mellow Kit
 has_toc: false
-nav_order: 1
+nav_order: 0
 has_children: false
 permalink: /vz330_mellow/preparation
 ---
 
-# 1. Preparation
+<br>
 
 ![Overview](../assets/images/manual/vz330_mellow/overview.png)
 
@@ -172,11 +172,14 @@ The following part's are included in the kit
 
 - **VZ330 Box B**
     - CPAP Fan
+    - ....
 
 - **VZ330 Box C**
-    - VzExtrudor
+    - VzExtrudor with 10 teeth moon stepper
     - Goliath hotend
     - Aluminium printhead parts
+    - Nozzle
+    - Thermistor ( M3 )
 
 - **VZ330 Box D**
     - 4 x Fan xxxx

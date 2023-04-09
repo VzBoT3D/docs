@@ -20,7 +20,8 @@ On how to print the files for this printer please refer to [print settings](../g
 <br>
 
 We advice to build the printer in the following order:
-1. [Preparation](./vz330_mellow/preparation)
+0. [Preparation](./vz330_mellow/preparation)
+1. [Print plates](./vz330_mellow/print_plates)
 2. [Frame](./vz330_mellow/frame)
 3. [Z - Assembly & Bed](./vz330_mellow/z_assembly)
 4. [Gantry](./vz330_mellow/gantry)

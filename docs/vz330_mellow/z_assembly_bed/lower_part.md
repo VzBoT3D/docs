@@ -73,45 +73,106 @@ permalink: /vz330_mellow/z_assembly/lower_part
 
 <br>
 
-### Step 2 (do for each side)
+## Step 2 (do for each side)
 
-<br>
-<br>
+### Notes
 
-|:-|:-|
-| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2.png) | 1) 2 x lower z bracket  <br> 2) 8 x M4 x 12mm <br> 3) 8 x t-nut <br> 4) 4 x sliding t-nut |
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part1.png) | 1) Insert sliding t-nut in the extrusion below the middle two holes | 
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part2.png) | 1) Attach M4 x 12mm + t-nut to the lower z bracket <br> 2) **Tip:** screw in two screws for now in the two holes and the sliding t-nuts so they move with the part if you move it around. |
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part3.png) | 1) Tighten the M4 x 12mm screw loosly, we need to align the lower z bracket |
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part4.png) | 1) Align the front rod with the z-alignment tool <br> 2) tighten the M4 x 12mm screws, when it's aligned |
-
-<br>
-<br>
-
-### Step 3 (do for each side)
+|:-|
+| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2.png)  |
 
 |:-|:-|
-| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step3.png) | 1) 2 x lower leadscrew mount  <br> 2) 4 x M4 x 12mm <br> 3) 4 x t-nut  |
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step3_part1.png) | 1) Attach M4 x 12mm + t-nut to the lower leadscrew mount |
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step3_part2.png) | 1) Insert lower leadscrew mount to bottom extrusion <br> 2) Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount <br> 3) We will align the parts in **Step 5** |
+| **Type**: <br> **Amount**: | Lower z bracket <br> 2 |
+| **Type**: <br> **Amount**: | M4 x 12mm <br> 8 |
+| **Type**: <br> **Amount**: | M4 t-nut <br> 8 |
+| **Type**: <br> **Amount**: | M4 sliding t-nut <br> 4 |
 
 <br>
-<br>
 
-### Step 4 (do for each side)
+### Instructions
 
 |:-|:-|
-| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step4.png) | 1) 2 x upper leadscrew mount  <br> 2) 4 x M4 x 12mm  |
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step4_part1.png) | 1) Insert upper leadscrew mount to single z bracket <br> 2) Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount <br> 3) Use a drill bit or a similar tool, put it through the two bearing's and prealign the two mounts <br> 4) We will align the parts in **Step 5** |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part1.png) | &#8226; Insert sliding t-nut in the extrusion below the middle two holes | 
+{: .instructiontable}
 
-<br>
-<br>
-
-### Step 5 (do for each side)
 
 |:-|:-|
-| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step5.png) | 1) 2 x leadscrew  <br> 2) 2 x GT2 40 tooth idler <br> 3) 1 x closed GT2 belt ( 1100mm )  |
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step5_part1.png) | 1) Insert closed GT2 belt between lower and upper leadscrew mount <br> 2) Insert GT2 40 tooth idler between lower and upper leadscrew mount (the beld should be around the idler ) <br> 3) Insert leadscrew <br> 4) Secure leadscrew with grub screws of the GT2 idler (leadscrew shouldn't rub on the ground) <br> 5) Check that leadscrew is straight and tighten upper and lower leadscrew bracket |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part2.png) | &#8226; Attach M4 x 12mm + t-nut to the lower z bracket <br> &#8226; **Tip:** screw in two screws for now in the two holes and the sliding t-nuts so they move with the part if you move it around. |
+{: .instructiontable}
+
+
+|:-|:-|
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part3.png) | &#8226; Tighten the M4 x 12mm screw loosly, we need to align the lower z bracket |
+{: .instructiontable}
+
+
+|:-|:-|
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part4.png) | &#8226; Align the front rod with the z-alignment tool <br> &#8226; tighten the M4 x 12mm screws, when it's aligned |
+{: .instructiontable}
 
 <br>
+
+## Step 3 (do for each side)
+
+### Notes
+
+|:-|
+| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step3.png) |
+
+|:-|:-|
+| **Type**: <br> **Amount**: | Lower leadscrew mount <br> 2 |
+| **Type**: <br> **Amount**: | M4 x 12mm <br> 4 |
+| **Type**: <br> **Amount**: | M4 t-nut <br> 4 |
+
 <br>
+
+### Instructions
+
+|:-|:-|
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step3_part1.png) | &#8226; Attach M4 x 12mm + t-nut to the lower leadscrew mount |
+{: .instructiontable}
+
+
+|:-|:-|
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step3_part2.png) | &#8226; Insert lower leadscrew mount to bottom extrusion <br> &#8226; Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount <br> &#8226; We will align the parts in **Step 5** |
+{: .instructiontable}
+
+<br>
+
+## Step 4 (do for each side)
+
+### Notes
+
+|:-|
+| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step4.png) |
+
+|:-|:-|
+| **Type**: <br> **Amount**: | Upper leadscrew mount <br> 2 |
+| **Type**: <br> **Amount**: | M4 x 12mm <br> 4 |
+
+<br>
+
+### Instructions
+
+|:-|:-|
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step4_part1.png) | &#8226; Insert upper leadscrew mount to single z bracket <br> &#8226; Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount <br> &#8226; Use a drill bit or a similar tool (with 8mm diameter), put it through the two bearing's and prealign the two mounts <br> &#8226; We will align the parts in **Step 5** |
+
+<br>
+
+## Step 5 (do for each side)
+
+### Notes
+
+|:-|
+| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step5.png) |
+
+|:-|:-|
+| **Type**: <br> **Amount**: | Leadscrew <br> 2 |
+| **Type**: <br> **Amount**: | GT2 40 teeth idler <br> 2 |
+| **Type**: <br> **Amount**: | Closed GT2 belt ( 1100mm ) <br> 1 |
+
+<br>
+
+### Instructions
+
+|:-|:-|
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step5_part1.png) | &#8226; Insert closed GT2 belt between lower and upper leadscrew mount <br> &#8226; Insert GT2 40 tooth idler between lower and upper leadscrew mount (the beld should be around the idler ) <br> &#8226; Insert leadscrew <br> &#8226; Secure leadscrew with grub screws of the GT2 idler (leadscrew shouldn't rub on the ground) <br> &#8226; Check that leadscrew is straight and tighten upper and lower leadscrew bracket |

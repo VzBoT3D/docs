@@ -9,24 +9,15 @@ has_children: false
 permalink: /vz330_mellow/z_assembly/bed_additions
 ---
 
-# 3.5 Z-Switch & bed chain
-{: .no_toc }
+<br>
 
-![Overview](../../assets/images/manual/vz330_mellow/z_assembly/bed_additions/overview.png)
+|:-|
+| ![Overview](../../assets/images/manual/vz330_mellow/z_assembly/bed_additions/overview.png) |
 
 <br>
 <br>
 
-## Table of content
-{: .no_toc}
-
-1. TOC
-{:toc}
-
-<br>
-<br>
-
-## Part's
+# Part's
 
 |:-------------|:------------------|:------|
 | **Type**: <br> **Amount**: | M2 x 10mm <br> 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M2 <br> **Bagnumber**: 2/5 |
@@ -38,24 +29,24 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 | **Type**: <br> **Amount**: | M3 t-nut <br> 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 1/16 |
 | **Type**: <br> **Amount**: | Microswitch <br> 1 | **Layer**: 2 <br> **Box**: VZ330 Box 2 |
 
-## Assembly
+# Assembly
 
-### Step 1
+## Step 1
 
 Install endstop holder
 
-### Step 2
+## Step 2
 
 Install endstop
 
-### Step 3
+## Step 3
 
 Install screw + nut in bed
 
-### Step 4
+## Step 4
 
 Install chain holder
 
-### Step 5
+## Step 5
 
 Install chain

@@ -9,24 +9,14 @@ has_children: false
 permalink: /vz330_mellow/z_assembly/z_motor
 ---
 
-# 3.4 Z-Motor bracket
-{: .no_toc}
+<br>
 
 ![Z-Motor overview](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/overview.png)
 
 <br>
 <br>
 
-## Table of content
-{: .no_toc}
-
-1. TOC
-{:toc}
-
-<br>
-<br>
-
-## Part's
+# Part's
 
 |:-------------|:------------------|
 | **Type**: <br> **Amount**: | M3 x 10mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 16/16 |
@@ -35,66 +25,111 @@ permalink: /vz330_mellow/z_assembly/z_motor
 | **Type**: <br> **Amount**: | GT2 20 teeth <br> 1 | **Layer**: 1 |
 | **Type**: <br> **Amount**: | NEMA 17 stepper <br> 1 | **Layer**: 1 |
 
-## Assembly
+# Assembly
 
-### Step 1
+## Step 1
 
-<br>
-<br>
+### Notes
 
-|:-|:-|
-| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1.png) | 1) 1 x NEMA 17 motor <br> 2) GT2 20 teeth idler |
-| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1_part1.png) | 1) Attache the GT2 idler to the motor shaft of the nema 17 motor ( we will align it later ) |
-
-<br>
-<br>
-
-### Step 2
-
-<br>
-<br>
+|:-|
+| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1.png) |
 
 |:-|:-|
-| ![Step 2](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step2.png) | 1) 1 x NEMA 17 motor <br> 2) Motor piece from the Single Z mount |
-| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step2_part1.png) | 1) Attach the NEMA 17 motor to the motor piece with the four M3 x 10mm screws <br> 2) Take care that the motor cable points to the back ( the side with the slides in the plate) |
+| **Type**: <br> **Amount**: | NEMA 17 motor <br> 1 |
+| **Type**: <br> **Amount**: | GT2 20 teeth idler <br> 1 |
 
 <br>
-<br>
 
-### Step 3
-
-<br>
-<br>
+### Instructions
 
 |:-|:-|
-| ![Step 3](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1.png) | 1) 1 x Extrusion mount plate <br> 2) 2 x M4 x 10mm <br> 3) 2 x M4 t-nut |
-| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1_part1.png) | 1) Attach the M4 x 10 mm screw and the M4 t-nut to the plate |
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1_part1.png) | &#8226; Attach the GT2 idler to the motor shaft of the nema 17 motor ( we will align it later ) |
+{: .instructiontable}
 
 <br>
-<br>
 
-### Step 4
+## Step 2
 
-<br>
-<br>
+### Notes
 
-|:-|:-|
-| ![Step 4](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1.png) | 1) 1 x Extrusion mount plate |
-| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1_part1.png) | 1) Attach the extrusion mount plate to the frame ( take care it's in the middle of the back extrusion ) |
-
-<br>
-<br>
-
-### Step 5
-
-<br>
-<br>
+|:-|
+| ![Step 2](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step2.png) |
 
 |:-|:-|
-| ![Step 5](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1.png) | 1) 1 x Assembled Motor mount <br> 2) 2 x M4 x 10mm|
-| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1_part1.png) | 1) Put the assembled mount on the extrusion plate and screw in the M4 x 10mm screws slightly |
+| **Type**: <br> **Amount**: | NEMA 17 motor <br> 1 |
+| **Type**: <br> **Amount**: | Motor piece from the single z mount <br> 1 |
 
 <br>
+
+### Instructions
+
+|:-|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step2_part1.png) | &#8226; Attach the NEMA 17 motor to the motor piece with the four M3 x 10mm screws <br> &#8226; Take care that the motor cable points to the back ( the side with the slides in the plate) |
+{: .instructiontable}
+
+<br>
+
+## Step 3
+
+### Notes
+
+|:-|
+| ![Step 3](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1.png) |
+
+|:-|:-|
+| **Type**: <br> **Amount**: | Extrution mount plate <br> 1 |
+| **Type**: <br> **Amount**: | M4 x 10mm <br> 2 |
+| **Type**: <br> **Amount**: | M4 t-nut <br> 2 |
+
+<br>
+
+### Instructions
+
+|:-|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1_part1.png) | &#8226; Attach the M4 x 10 mm screw and the M4 t-nut to the plate |
+{: .instructiontable}
+
+<br>
+
+## Step 4
+
+### Notes
+
+|:-|
+| ![Step 4](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1.png) |
+
+|:-|:-|
+| **Type**: <br> **Amount**: | Extrusion mount plate <br> 1 |
+
+<br>
+
+### Instructions
+
+|:-|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1_part1.png) | &#8226; Attach the extrusion mount plate to the frame ( take care it's in the middle of the back extrusion ) |
+{: .instructiontable}
+
+<br>
+
+## Step 5
+
+### Notes
+
+|:-|
+| ![Step 5](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1.png) |
+
+|:-|:-|
+| **Type**: <br> **Amount**: | Assembled motor mount <br> 1 |
+| **Type**: <br> **Amount**: | M4 x 10mm <br> 2 |
+
+<br>
+
+### Instructions
+
+|:-|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1_part1.png) | &#8226; Put the assembled mount on the extrusion plate and screw in the M4 x 10mm screws slightly |
+{: .instructiontable}
+
 <br>
 
 ### Step 6

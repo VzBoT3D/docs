@@ -36,7 +36,6 @@ permalink: /vz330_mellow/frame
 
 {: .highlight }
 > You can click on the object you wanna print on the plate and the corresponding STL will open up.
-{: .calloutcenter}
 
 <br>
 <div>
