@@ -9,24 +9,15 @@ has_children: false
 permalink: /vz330_mellow/z_assembly/lower_part
 ---
 
-# 3.1 Lower rod & leadscrew bracket
-{: .no_toc}
+<br>
 
-![Z Overview](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/overview.png)
+|:-|
+| ![Z Overview](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/overview.png) |
 
 <br>
 <br>
 
-## Table of content
-{: .no_toc}
-
-1. TOC
-{:toc}
-
-<br>
-<br>
-
-## Part's
+# Part's
 
 |:-------------|:------------------|:------|
 | **Type**: <br> **Amount**: | M4 x 10mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 |
@@ -38,25 +29,48 @@ permalink: /vz330_mellow/z_assembly/lower_part
 | **Type**: <br> **Amount**: | Leadscrew TR8 ( 500 mm ) <br> 2 | **Layer**: 2 |
 | **Type**: <br> **Amount**: | GT2 40 teeth <br> 2 | **Layer**: 2 <br> **Box**: VZ330 Box 2 |
 
-## STL's
-
-| File name | Amount to print |
-|-----------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignment%20Tools/Z%20Alignment%20tool%2010mm%20rod.stl" target="_blank">Z alignment tool</a> | 2 |
-
-## Assembly
-
-### Step 1 (do for each side)
+# STL's
 
 <br>
+
+{: .highlight }
+> You can click on the object you wanna print on the plate and the corresponding STL will open up.
+
 <br>
+<div>
+  <img src="../../assets/images/manual/vz330_mellow/z_assembly/lower_part/stls.png" id="stl-lower_part__map" style="width: 700px; max-width: 100%; height: auto;" usemap="#stl">
+  <map name="stl">
+    <area target="_blank" alt="Alignment tool" title="Alignment tool" href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignment%20Tools/Z%20Alignment%20tool%2010mm%20rod.stl" coords="204,154,498,553" shape="rect">
+    </map>
+</div>
+
+# Assembly
+
+<br>
+
+## Step 1 (do for each side)
+
+### Notes
+
+|:-|
+| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step1.png) |
 
 |:-|:-|
-| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step1.png) | 1) 2 x lower z bracket  <br> 2) 4 x M4 x 12mm <br> 3) 4 x 10mm rods |
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step1_part1.png) | 1) Align the rod flush with the bottom of the lower z bracket |
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step1_part2.png) | 1) Tighten the M4 x 12mm screw |
+| **Type**: <br> **Amount**: | Lower z bracket <br> 2 |
+| **Type**: <br> **Amount**: | M4 x 12mm <br> 4 |
+| **Type**: <br> **Amount**: | Rods ( 10mm ) <br> 4 |
 
 <br>
+
+### Instructions
+
+|:-|:-|
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step1_part1.png) | &#8226; Align the rod flush with the bottom of the lower z bracket |
+{: .instructiontable}
+
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step1_part2.png) | &#8226; Tighten the M4 x 12mm screw |
+{: .instructiontable}
+
 <br>
 
 ### Step 2 (do for each side)

@@ -1547,495 +1547,488 @@
     "relUrl": "/vz235_alu/z_assembly/lower_part"
   },"221": {
     "doc": "3.1 Lower rod & leadscrew bracket",
-    "title": "3.1 Lower rod &amp; leadscrew bracket",
-    "content": ". ",
-    "url": "/vz330_mellow/z_assembly/lower_part#31-lower-rod--leadscrew-bracket",
-    
-    "relUrl": "/vz330_mellow/z_assembly/lower_part#31-lower-rod--leadscrew-bracket"
-  },"222": {
-    "doc": "3.1 Lower rod & leadscrew bracket",
-    "title": "Table of content",
-    "content": ". | Part’s | STL’s | Assembly . | Step 1 (do for each side) | Step 2 (do for each side) | Step 3 (do for each side) | Step 4 (do for each side) | Step 5 (do for each side) | . | . ",
-    "url": "/vz330_mellow/z_assembly/lower_part#table-of-content",
-    
-    "relUrl": "/vz330_mellow/z_assembly/lower_part#table-of-content"
-  },"223": {
-    "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "Part’s",
     "content": "| Type: Amount: | M4 x 10mm 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 | . | Type: Amount: | M4 x 12mm 16 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 13/16 | . | Type: Amount: | M4 t-nut 20 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . | Type: Amount: | M4 sliding t-nut 4 | Box: VZ330 Box 6 Bag: M4 Bagnumber: 3/16 | . | Type: Amount: | 10mm rods ( 500mm ) 4 | Layer: 2 | . | Type: Amount: | Belt GT2 closed ( 1100mm ) 1 | Layer: 2 Box: VZ330 Box 2 | . | Type: Amount: | Leadscrew TR8 ( 500 mm ) 2 | Layer: 2 | . | Type: Amount: | GT2 40 teeth 2 | Layer: 2 Box: VZ330 Box 2 | . ",
     "url": "/vz330_mellow/z_assembly/lower_part#parts",
     
     "relUrl": "/vz330_mellow/z_assembly/lower_part#parts"
-  },"224": {
+  },"222": {
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "STL’s",
-    "content": "| File name | Amount to print | . | Z alignment tool | 2 | . ",
+    "content": ". You can click on the object you wanna print on the plate and the corresponding STL will open up. ",
     "url": "/vz330_mellow/z_assembly/lower_part#stls",
     
     "relUrl": "/vz330_mellow/z_assembly/lower_part#stls"
-  },"225": {
+  },"223": {
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "Assembly",
-    "content": "Step 1 (do for each side) . | | 1) 2 x lower z bracket 2) 4 x M4 x 12mm 3) 4 x 10mm rods | . | | 1) Align the rod flush with the bottom of the lower z bracket | . | | 1) Tighten the M4 x 12mm screw | . Step 2 (do for each side) . | | 1) 2 x lower z bracket 2) 8 x M4 x 12mm 3) 8 x t-nut 4) 4 x sliding t-nut | . | | 1) Insert sliding t-nut in the extrusion below the middle two holes | . | | 1) Attach M4 x 12mm + t-nut to the lower z bracket 2) Tip: screw in two screws for now in the two holes and the sliding t-nuts so they move with the part if you move it around. | . | | 1) Tighten the M4 x 12mm screw loosly, we need to align the lower z bracket | . | | 1) Align the front rod with the z-alignment tool 2) tighten the M4 x 12mm screws, when it’s aligned | . Step 3 (do for each side) . | | 1) 2 x lower leadscrew mount 2) 4 x M4 x 12mm 3) 4 x t-nut | . | | 1) Attach M4 x 12mm + t-nut to the lower leadscrew mount | . | | 1) Insert lower leadscrew mount to bottom extrusion 2) Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount 3) We will align the parts in Step 5 | . Step 4 (do for each side) . | | 1) 2 x upper leadscrew mount 2) 4 x M4 x 12mm | . | | 1) Insert upper leadscrew mount to single z bracket 2) Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount 3) Use a drill bit or a similar tool, put it through the two bearing’s and prealign the two mounts 4) We will align the parts in Step 5 | . Step 5 (do for each side) . | | 1) 2 x leadscrew 2) 2 x GT2 40 tooth idler 3) 1 x closed GT2 belt ( 1100mm ) | . | | 1) Insert closed GT2 belt between lower and upper leadscrew mount 2) Insert GT2 40 tooth idler between lower and upper leadscrew mount (the beld should be around the idler ) 3) Insert leadscrew 4) Secure leadscrew with grub screws of the GT2 idler (leadscrew shouldn’t rub on the ground) 5) Check that leadscrew is straight and tighten upper and lower leadscrew bracket | . ",
+    "content": ". ",
     "url": "/vz330_mellow/z_assembly/lower_part#assembly",
     
     "relUrl": "/vz330_mellow/z_assembly/lower_part#assembly"
-  },"226": {
+  },"224": {
+    "doc": "3.1 Lower rod & leadscrew bracket",
+    "title": "Step 1 (do for each side)",
+    "content": "Notes . | . | Type: Amount: | Lower z bracket 2 | . | Type: Amount: | M4 x 12mm 4 | . | Type: Amount: | Rods ( 10mm ) 4 | . Instructions . | | • Align the rod flush with the bottom of the lower z bracket | . | | • Tighten the M4 x 12mm screw | . Step 2 (do for each side) . | | 1) 2 x lower z bracket 2) 8 x M4 x 12mm 3) 8 x t-nut 4) 4 x sliding t-nut | . | | 1) Insert sliding t-nut in the extrusion below the middle two holes | . | | 1) Attach M4 x 12mm + t-nut to the lower z bracket 2) Tip: screw in two screws for now in the two holes and the sliding t-nuts so they move with the part if you move it around. | . | | 1) Tighten the M4 x 12mm screw loosly, we need to align the lower z bracket | . | | 1) Align the front rod with the z-alignment tool 2) tighten the M4 x 12mm screws, when it’s aligned | . Step 3 (do for each side) . | | 1) 2 x lower leadscrew mount 2) 4 x M4 x 12mm 3) 4 x t-nut | . | | 1) Attach M4 x 12mm + t-nut to the lower leadscrew mount | . | | 1) Insert lower leadscrew mount to bottom extrusion 2) Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount 3) We will align the parts in Step 5 | . Step 4 (do for each side) . | | 1) 2 x upper leadscrew mount 2) 4 x M4 x 12mm | . | | 1) Insert upper leadscrew mount to single z bracket 2) Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount 3) Use a drill bit or a similar tool, put it through the two bearing’s and prealign the two mounts 4) We will align the parts in Step 5 | . Step 5 (do for each side) . | | 1) 2 x leadscrew 2) 2 x GT2 40 tooth idler 3) 1 x closed GT2 belt ( 1100mm ) | . | | 1) Insert closed GT2 belt between lower and upper leadscrew mount 2) Insert GT2 40 tooth idler between lower and upper leadscrew mount (the beld should be around the idler ) 3) Insert leadscrew 4) Secure leadscrew with grub screws of the GT2 idler (leadscrew shouldn’t rub on the ground) 5) Check that leadscrew is straight and tighten upper and lower leadscrew bracket | . ",
+    "url": "/vz330_mellow/z_assembly/lower_part#step-1-do-for-each-side",
+    
+    "relUrl": "/vz330_mellow/z_assembly/lower_part#step-1-do-for-each-side"
+  },"225": {
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "3.1 Lower rod & leadscrew bracket",
-    "content": " ",
+    "content": ". | . ",
     "url": "/vz330_mellow/z_assembly/lower_part",
     
     "relUrl": "/vz330_mellow/z_assembly/lower_part"
-  },"227": {
+  },"226": {
     "doc": "7.1 Overview",
     "title": "7.1 Overview",
     "content": ". ",
     "url": "/vz330_mellow/electronics/overview",
     
     "relUrl": "/vz330_mellow/electronics/overview"
-  },"228": {
+  },"227": {
     "doc": "7.1 Overview",
     "title": "STL’s",
     "content": "| File name | Amount to print |   | . | CPAP contoller board mounting plate | 3 |   | . | CPAP fan mount | 1 |   | . | CPAP fan outlet | 1 |   | . | Lower Grill right with powerswitch | 1 |   | . | Lower Grill left | 1 |   | . | Knobs | 4 |   | . | Vz330 logo plate | 1 |   | . | Raspberry pi mount | 1 | Pick from the link what you like | . ",
     "url": "/vz330_mellow/electronics/overview#stls",
     
     "relUrl": "/vz330_mellow/electronics/overview#stls"
-  },"229": {
+  },"228": {
     "doc": "1. Preparation",
     "title": "1. Preparation",
     "content": ". ",
     "url": "/vz330_mellow/preparation",
     
     "relUrl": "/vz330_mellow/preparation"
-  },"230": {
+  },"229": {
     "doc": "1. Preparation",
     "title": "Tools",
     "content": "The following tool’s you will need to build up your VzBoT330 from a mellow kit: . | Tool 1 | Tool 2 | Tool 3 | . ",
     "url": "/vz330_mellow/preparation#tools",
     
     "relUrl": "/vz330_mellow/preparation#tools"
-  },"231": {
+  },"230": {
     "doc": "1. Preparation",
     "title": "Content",
     "content": "The following part’s are included in the kit . Parts . | Frame . | 4 x 2040 Aluminium Profile ( Pretapped on both ends ) - Z ( 530mm ) | 2 x 2020 Aluminium Profile ( One hole on each end ) - X ( 530mm ) | 2 x 2020 Aluminium Profile ( One hole on each end ) - Y ( 460 mm ) | 2 x 2020 Aluminium Profile ( Tow holes on each end ) - Top cover ( 530mm ) | 2 x 2020 Aluminium Profile ( No holes at all ) - Top cover ( 460 mm ) | 4 x 2020 Aluminium Profile - Top Cover ( 100 mm) | . | Gantry . | Preasambled Gantry with PLA parts | . | Z . | NEMA 17 Motor ( LDO ) | GT2 20teeth idler | Stepper motor cable | 4 x Linear Shaft 10mm ( 500 mm ) | 2 x Leadscrew 8mm + Nut ( 500 mm ) | 4 x Top Rod mounts | 4 x LMK10LUU | 2 x Upper bracket ( with preinstalled bearing ) | 2 x Lower Z bracket leadscrew ( with preinstalled bearing ) | 1 x One piece bed support | 1 x Single Z motor lower bracket | 1 x Single Z motor upper bracket | . | Bed . | Aluminium Bed | PEI Sheet | Magnet | Heater | . | Enclosure . | Panel Back ( Aluminium ) | Panel Bottom ( Aluminium ) | Panel Left + Right ( Acrylic ) | Panel Front ( Acrylic ) | Panel Top Cover Top ( Acrylic ) | Panel Top Cover Front ( Acrylic ) | Panel Top Cover Left + Right ( Acrylic ) | . | Misc . | Power supply 24V | Power supply 48V | CPAP hose | 2 x RSCS fans () | 1 x Exhaustion fan ( 120mm ) | x x Din rail ( xxx mm ) | x x Din rail ( xxx mm ) | x x Cable duct | 1 x Z Drag chain | . | . Boxes . | VZ330 Box 1 . | USB Cable | Mellow Super Fly Pro | JST Crimps | Jumpers / Fuses / Connectors | . | VZ330 Box 2 . | 2 x TMC2209 | Endstop holder z / y | Z Chain holder | 4 x Bed - springs | Z Gate belt | 3 x Microswitches ( Endstops ) | 2 x 40 teeth GT Idlers | X/Y Gate belt | SSR | Main volatage cables ( pre crimped ) | . | VZ330 Box 3 . | Main Inlet | Power cord | . | VZ330 Box 4 . | 2 x TMC5160HV | 2 x Stepper cable | . | VZ330 Box 5 . | 2 x TMC5160HV | 2 x Stepper cable | . | VZ330 Box 6 . | VZ330 - M2 ( Bag ) . | Bagnumber 1/5 - 4 x M2 x 8mm ( Button head ) | Bagnumber 2/5 - 4 x M2 x 10mm ( Button head ) | Bagnumber 3/5 - 6 x M2.5 x 5mm ( Low profile ) | Bagnumber 4/5 - 6 x M2.5 x 6mm ( Low profile ) | Bagnumber 5/5 - 6 x M2.6 x 8mm ( Self cutting ) | . | VZ330 - M3 ( Bag ) . | Bagnumber 1/16 - 60 x M3 t-nuts | Bagnumber 2/16 - 60 x M3 sliding t-nuts | Bagnumber 3/16 - 4 x M3 x 8mm ( Socket head ) | Bagnumber 4/16 - 70 x M3 x 10mm ( Socket head ) | Bagnumber 5/16 - 20 x M3 x 6mm ( Low profile ) | Bagnumber 6/16 - 6 x M3 x 5mm ( Low profile ) | Bagnumber 7/16 - 4 x M3 x 8mm ( Low profile ) | Bagnumber 8/16 - 6 x M3 x 45mm ( Countersunk ) | Bagnumber 9/16 - 4 x M3 x 8mm ( Countersunk ) | Bagnumber 10/16 - 4 x M3 x 10mm ( Countersunk ) | Bagnumber 11/16 - 4 x M3 washer ( 0.5 ) | Bagnumber 12/16 - 26 x M3 nut | Bagnumber 13/16 - 4 x M3 x 25mm ( Button head ) | Bagnumber 14/16 - 8 x M3 x 6mm ( Button head ) | Bagnumber 15/16 - 4 x M3 x 14mm ( Button head ) | Bagnumber 16/16 - 14 x M3 x 10mm ( Button head ) | . | VZ330 - M4 ( Bag ) . | Bagnumber 1/16 - 10 x M4 x 12mm ( Self cutting ) | Bagnumber 2/16 - 96 x M4 t-nut | Bagnumber 3/16 - 96 x M4 sliding t-nut | Bagnumber 4/16 - 40 x M4 x 10mm ( Socket head ) | Bagnumber 5/16 - 6 x M4 x 8mm ( Socket head ) | Bagnumber 6/16 - 12 x M4 x 12mm ( Socket head ) | Bagnumber 7/16 - 12 x M4 x 16mm ( Socket head ) | Bagnumber 8/16 - 14 x M4 x 20mm ( Socket head ) | Bagnumber 9/16 - 2 x M4 x 30mm ( Socket head ) | Bagnumber 10/16 - 12 x M4 nut | Bagnumber 11/16 - 2 x M4 selflocking nut | Bagnumber 12/16 - 6 x M4 x 20mm ( Button head ) | Bagnumber 13/16 - 20 x M4 x 12mm ( Button head ) | Bagnumber 14/16 - 26 x M4 x 10mm ( Button head ) | Bagnumber 15/16 - 12 x M4 x 8mm ( Button head ) | Babnumber 16/16 - 2 x M4 x 30mm ( xxx ) | . | VZ330 - M5 ( Bag ) . | Bagnumber 1/6 - 16 x M5 t-nut | Bagnumber 2/6 - 16 x M5 sliding t-nut | Bagnumber 3/6 - 14 x M5 x 8mm ( Socket head ) | Bagnumber 4/6 - 10 x M5 x 25mm ( Socket head ) | Bagnumber 5/6 - 6 x M5 x 35mm ( Socket head ) | Bagnumber 6/6 - 10 x M5 x 10mm ( Socket head ) | . | VZ330 - Others . | Bagnumber 1/4 - 6 x 2020 Corner pieces | Bagnumber 2/4 - 10 x Magnet ( 5 x 2mm ) | Bagnumber 3/4 - 2 x 4 x 50mm ( xxx ) | Bagnumber 4/4 - 2x 5 x 50mm ( xxx ) | . | . | VZ330 Box 7 . | Main wires | Hotend wires | Endstop wires | . | VZ330 Box A . | Display | . | VZ330 Box B . | CPAP Fan | . | VZ330 Box C . | VzExtrudor | Goliath hotend | Aluminium printhead parts | . | VZ330 Box D . | 4 x Fan xxxx | 1 x Fan xxxx | . | . ",
     "url": "/vz330_mellow/preparation#content",
     
     "relUrl": "/vz330_mellow/preparation#content"
-  },"232": {
+  },"231": {
     "doc": "1. Preparation",
     "title": "Parts to self source",
     "content": ". | Exhaust filtration ( link1 / link2 ) | Carbon activated filter ( link1 / link2 ) | Front led bars ( link1 / link2 ) | Raspberry PI 3/4/Zero ( link1 / link2 ) | Thermal Fuse ( link1 / link2 ) | . ",
     "url": "/vz330_mellow/preparation#parts-to-self-source",
     
     "relUrl": "/vz330_mellow/preparation#parts-to-self-source"
-  },"233": {
+  },"232": {
     "doc": "1. Preparation",
     "title": "STL’s",
     "content": "The STL’s you need to build the kit are linked in the corresponding part of the build manual. They are shown as a build plate, you are able to click every object there and the corresponding STL should open. The actual number you need to print of the part is the same shown in the picture. ",
     "url": "/vz330_mellow/preparation#stls",
     
     "relUrl": "/vz330_mellow/preparation#stls"
-  },"234": {
+  },"233": {
     "doc": "Print Settings",
     "title": "Print settings",
     "content": "It is recommended to print all parts in ABS (not ABS+), ASA or similar material to be able to withstand the high temperature environment of an enclosed printer. Print settings should always be tuned for the material of choice and tested for sufficient strength, proper layer adhesion and mechenical load. ",
     "url": "/general/print-settings#print-settings",
     
     "relUrl": "/general/print-settings#print-settings"
-  },"235": {
+  },"234": {
     "doc": "Print Settings",
     "title": "For stationary parts",
     "content": "Parts such as motor mounts, bed frame braces, etc. | Setting | Recommended value | . | Layer height | 0.2mm | . | Layer width | 0.4-0.6mm | . | Outside perimiters (walls) | 4 | . | Top/bottom layers: | 5 | . | Infill | 40-50% cubic, gyroid or honeycomb | . ",
     "url": "/general/print-settings#for-stationary-parts",
     
     "relUrl": "/general/print-settings#for-stationary-parts"
-  },"236": {
+  },"235": {
     "doc": "Print Settings",
     "title": "For motion parts",
     "content": "Parts such as the carriage and X gantry joint, etc. | Setting | Recommended value | . | Layer height | 0.2mm | . | Layer width | 0.4-0.6mm | . | Outside perimiters (walls) | 4 | . | Top/bottom layers: | 5 | . | Infill | 30-40% cubic, gyroid or honeycomb | . ",
     "url": "/general/print-settings#for-motion-parts",
     
     "relUrl": "/general/print-settings#for-motion-parts"
-  },"237": {
+  },"236": {
     "doc": "Print Settings",
     "title": "Print Settings",
     "content": " ",
     "url": "/general/print-settings",
     
     "relUrl": "/general/print-settings"
-  },"238": {
+  },"237": {
     "doc": "3.3 Printhead",
     "title": "3.3 Printhead",
     "content": "TODO -&gt; Manuel points to eva not related anymore . ",
     "url": "/vz235_alu/gantry/printhead",
     
     "relUrl": "/vz235_alu/gantry/printhead"
-  },"239": {
+  },"238": {
     "doc": "4.3 Printhead",
     "title": "4.3 Printhead",
     "content": " ",
     "url": "/vz330_mellow/gantry/printhead",
     
     "relUrl": "/vz330_mellow/gantry/printhead"
-  },"240": {
+  },"239": {
     "doc": "4.3 Printhead",
     "title": "Overview",
     "content": ". ",
     "url": "/vz330_mellow/gantry/printhead#overview",
     
     "relUrl": "/vz330_mellow/gantry/printhead#overview"
-  },"241": {
+  },"240": {
     "doc": "4.3 Printhead",
     "title": "BOM",
     "content": "| Material | Quantity | Notes | . | M3 x 4mm ( button head ) | 4 | Should be included in the kit | . | PTFE tube ( 22 mm ) | 1 | Between Goliath and VzHextrudORT | . | TODO pick right bags and list | 1 | - | . ",
     "url": "/vz330_mellow/gantry/printhead#bom",
     
     "relUrl": "/vz330_mellow/gantry/printhead#bom"
-  },"242": {
+  },"241": {
     "doc": "4.3 Printhead",
     "title": "STL’s",
     "content": "| File name | Amount to print | Note | . | X end stop switch mount | 1 | - | . | Cable Holder | 1 | - | . | Fan duct Goliath | 1 | Pick this if no beacon is used | . | Fan duct Goliath ( beacon ) | 1 | Use this duct for Goliath and beacon | . | Fan duct Goliath spacers | 1 | - | . | Fan duct upper | 1 | - | . | Upper duct mount | 1 | - | . | Upper duct cpcp c clamp | 1 | - | . | Goliath 2410 fan duct | 1 | - | . Note . 4xM3 4mm should have been included in the kit to mount the printhead to the MGN9. Some people reported those 4 were missing. If that is your case, please use the M3x4 button head. It should work. If you prefer you could grind down the included M3x6mm bolt about 1mm so it’s 5mm. Insert a nut on the bolt before doing so, that way when you are done grinding (or cutting), the threads will be repaired when the nut is removed. Mounting . TODO detailed description . ",
     "url": "/vz330_mellow/gantry/printhead#stls",
     
     "relUrl": "/vz330_mellow/gantry/printhead#stls"
-  },"243": {
+  },"242": {
     "doc": "3.3 Printhead",
     "title": "3.3 Printhead ( printed )",
     "content": "TODO -&gt; Manuel points to eva not related anymore . ",
     "url": "/vz235_printed/gantry/printhead#33-printhead--printed-",
     
     "relUrl": "/vz235_printed/gantry/printhead#33-printhead--printed-"
-  },"244": {
+  },"243": {
     "doc": "3.3 Printhead",
     "title": "3.3 Printhead",
     "content": " ",
     "url": "/vz235_printed/gantry/printhead",
     
     "relUrl": "/vz235_printed/gantry/printhead"
-  },"245": {
+  },"244": {
     "doc": "3.2(A) Rear idler 2WD",
     "title": "3.2(A) Rear idler 2WD",
     "content": " ",
     "url": "/vz235_printed/gantry/rear_idler_2wd",
     
     "relUrl": "/vz235_printed/gantry/rear_idler_2wd"
-  },"246": {
+  },"245": {
     "doc": "3.2(A) Rear idler 2WD",
     "title": "Overview",
     "content": ". ",
     "url": "/vz235_printed/gantry/rear_idler_2wd#overview",
     
     "relUrl": "/vz235_printed/gantry/rear_idler_2wd#overview"
-  },"247": {
+  },"246": {
     "doc": "3.2(A) Rear idler 2WD",
     "title": "BOM",
     "content": ". | Material | Quantity | Notes | . | M3 30mm | 2 | - | . | M3 nut | 2 | - | . | M4 10mm | 12 | - | . | M4 t-nut | 12 | - | . | M5 35mm/5mmx30mm shoulder bolt | 4 | - | . | GT2 toothed idler | 4 | Low profile as available at Mellow &amp; F3D | . ",
     "url": "/vz235_printed/gantry/rear_idler_2wd#bom",
     
     "relUrl": "/vz235_printed/gantry/rear_idler_2wd#bom"
-  },"248": {
+  },"247": {
     "doc": "3.2(A) Rear idler 2WD",
     "title": "STL’s",
     "content": "| File name | Amount to print | . | Pulley mount left bottom | 1 | . | Pulley mount left top | 1 | . | Pulley mount right bottom | 1 | . | Pulley mount right top | 1 | . Step 1 . Attach the bottom half of the idler to the frame, insert the pulleys and hardware to the upper part and mate together. TODO maybe a bit more details on how to assemble the idlers and stuff! :) . Step 2 . Repeat for the other side . ",
     "url": "/vz235_printed/gantry/rear_idler_2wd#stls",
     
     "relUrl": "/vz235_printed/gantry/rear_idler_2wd#stls"
-  },"249": {
+  },"248": {
     "doc": "3.2(B) Secondary motor mounts/Idlers (AWD)",
     "title": "3.2(B) Secondary motor mounts/Idlers (AWD)",
     "content": " ",
     "url": "/vz235_printed/gantry/rear_idler_awd",
     
     "relUrl": "/vz235_printed/gantry/rear_idler_awd"
-  },"250": {
+  },"249": {
     "doc": "3.2(B) Secondary motor mounts/Idlers (AWD)",
     "title": "BOM",
     "content": ". | Material | Quantity | Notes | . | M3 6mm/8mm | 6 | Depending on your motor you’ll need a 6mm or 8mm bolt | . | M3 25mm | 2 | - | . | M3 nut | 2 | +4 when using M3 Shoulder bolts | . | M4 10mm | 14 | - | . | M4 T-nut | 14 | - | . | M4 nut | 4 | - | . | M5/M6 20mm | 2 | - | . | Shoulder bolt 5mmx20mm | 4 | Choose M4 or M3 Misumi version (available at F3D &amp; Mellow) | . | NEMA 17 | 2 | - | . | GT2 toothed idler | 2 | Low profile required, as available at Mellow &amp; F3D | . | GT2 smooth idler | 2 | You’ll need the mellow version idler, the 18mm OD version won’t fit | . | GT2 20T Pulley | 2 | - | . | 260mm 2020 extrusion | 1 | AWD only | . ",
     "url": "/vz235_printed/gantry/rear_idler_awd#bom",
     
     "relUrl": "/vz235_printed/gantry/rear_idler_awd#bom"
-  },"251": {
+  },"250": {
     "doc": "3.2(B) Secondary motor mounts/Idlers (AWD)",
     "title": "STL’s",
     "content": "| File name | Amount to print | . | Pulley mount left bottom (M3/M4) | 1 | . | Pulley mount left top (M3/M4) | 1 | . | Pulley mount right bottom (M3/M4) | 1 | . | Pulley mount right top (M3/M4) | 1 | . Step 1 . Insert the M3 nut as shown by the arrow in the picture below (left and right): . Step 2 . Insert the M4 nuts in the pulley mount bottom (left and right) part and install the motor with pulley. Mind that the left pulley has the grub screws on the upper side and the right mount needs the grub screws on the pulley on the lower side. Step 3 . Install all hardware on the lower idlers (left and right) and attach the 2020 extrusion connecting the two idlers/motor mounts. Step 4 . Install the assembly in the frame . Step 5 . Insert all hardware in the top pulley mounts, including idlers and shoulder bolts and attach them to their respective lower half. ",
     "url": "/vz235_printed/gantry/rear_idler_awd#stls",
     
     "relUrl": "/vz235_printed/gantry/rear_idler_awd#stls"
-  },"252": {
+  },"251": {
     "doc": "8. Top cover and doors panels",
     "title": "8. Top cover and doors panels",
     "content": " ",
     "url": "/vz235_alu/top_cover",
     
     "relUrl": "/vz235_alu/top_cover"
-  },"253": {
+  },"252": {
     "doc": "9. Top cover and doors panels",
     "title": "9. Top cover and doors panels",
     "content": " ",
     "url": "/vz330_mellow/top_cover",
     
     "relUrl": "/vz330_mellow/top_cover"
-  },"254": {
+  },"253": {
     "doc": "8. Top cover and doors panels",
     "title": "8. Top cover and doors panels",
     "content": " ",
     "url": "/vz235_printed/top_cover",
     
     "relUrl": "/vz235_printed/top_cover"
-  },"255": {
+  },"254": {
     "doc": "2.3 Top rod mounts",
     "title": "2.3 Top rod mounts",
     "content": " ",
     "url": "/vz235_alu/z_assembly/top_rod_mounts",
     
     "relUrl": "/vz235_alu/z_assembly/top_rod_mounts"
-  },"256": {
+  },"255": {
     "doc": "2.3 Top rod mounts",
     "title": "Overview",
     "content": ". ",
     "url": "/vz235_alu/z_assembly/top_rod_mounts#overview",
     
     "relUrl": "/vz235_alu/z_assembly/top_rod_mounts#overview"
-  },"257": {
+  },"256": {
     "doc": "2.3 Top rod mounts",
     "title": "BOM",
     "content": "| Material | Quantity | Notes | . | M4 10mm | 4 | - | . | M4 20mm | 4 | - | . | M4 t-nut | 4 | - | . Step 1 . Important: When mounting the top rod’s make sure the top rod with the extra hole for the z switch is in the back . Mount the 10mm M4 screws and t-nuts to all top rod mounts and loosely turn in the 20mm M4 screws in the clamping mechanism. Step 2 . Mount all top rod mounts to the rod first, finally tighten the rod holders to the frame with the pre-inserted M4 hardware. Step 3 . After installing check the movement of the bed assembly by turning the leadscrews. This should operate smoothly. If not, place the bed assembly in the top most position, untighten all top rod holders and retighten to align the rods. ",
     "url": "/vz235_alu/z_assembly/top_rod_mounts#bom",
     
     "relUrl": "/vz235_alu/z_assembly/top_rod_mounts#bom"
-  },"258": {
+  },"257": {
     "doc": "3.3 Top rod mounts",
     "title": "3.3 Top rod mounts",
     "content": ". ",
     "url": "/vz330_mellow/z_assembly/top_rod_mounts",
     
     "relUrl": "/vz330_mellow/z_assembly/top_rod_mounts"
-  },"259": {
+  },"258": {
     "doc": "3.3 Top rod mounts",
     "title": "Table of content",
     "content": ". | Part’s | Assembly . | Step 1 | Step 2 | Step 3 ( For all four mounts ) | Step 4 ( For all four mounts ) | . | . ",
     "url": "/vz330_mellow/z_assembly/top_rod_mounts#table-of-content",
     
     "relUrl": "/vz330_mellow/z_assembly/top_rod_mounts#table-of-content"
-  },"260": {
+  },"259": {
     "doc": "3.3 Top rod mounts",
     "title": "Part’s",
     "content": "| Type: Amount: | M4 x 10mm 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 4/16 | . | Type: Amount: | M4 x 20mm 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 8/16 | . | Type: Amount: | M4 t-nut 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . ",
     "url": "/vz330_mellow/z_assembly/top_rod_mounts#parts",
     
     "relUrl": "/vz330_mellow/z_assembly/top_rod_mounts#parts"
-  },"261": {
+  },"260": {
     "doc": "3.3 Top rod mounts",
     "title": "Assembly",
     "content": "Step 1 . | | 1) 4 x Top rod mount 2) 4 x M4 x 20mm | . | | 1) Screw in the M4 x 20mm screw to all Top rod mounts | . Step 2 . | | 1) 4 x Top rod mount 2) 4 x M4 x 10mm 3) 4 x M4 t-nut | . | | 1) Screw in the M4 x 10mm screw with the t-nut to all top rod mounts | . Step 3 ( For all four mounts ) . | | 1) 4 x Top rod mount | . | | 1) But the top rod mounts over the rod 2) Attach the top part to the extrusion 3) Tighten the M4x20mm screw | . Step 4 ( For all four mounts ) . | | 1) 4 x Top rod mount | . | | 1) Now that the top rod mounts are mounted to the extrusion tighten the M4 x 20mm screws to secure the rods to the mounts | . ",
     "url": "/vz330_mellow/z_assembly/top_rod_mounts#assembly",
     
     "relUrl": "/vz330_mellow/z_assembly/top_rod_mounts#assembly"
-  },"262": {
+  },"261": {
     "doc": "Video tutorial",
     "title": "Video tutorial",
     "content": " ",
     "url": "/general/video-tutorial",
     
     "relUrl": "/general/video-tutorial"
-  },"263": {
+  },"262": {
     "doc": "Video tutorial",
     "title": "Vz235 Build Part 1: The Frame",
     "content": ". ",
     "url": "/general/video-tutorial#vz235-build-part-1-the-frame",
     
     "relUrl": "/general/video-tutorial#vz235-build-part-1-the-frame"
-  },"264": {
+  },"263": {
     "doc": "Video tutorial",
     "title": "Vz235 Build Part 2: The Z Axis",
     "content": ". ",
     "url": "/general/video-tutorial#vz235-build-part-2-the-z-axis",
     
     "relUrl": "/general/video-tutorial#vz235-build-part-2-the-z-axis"
-  },"265": {
+  },"264": {
     "doc": "Video tutorial",
     "title": "Vz235 Build Part 3: The Gantry",
     "content": ". ",
     "url": "/general/video-tutorial#vz235-build-part-3-the-gantry",
     
     "relUrl": "/general/video-tutorial#vz235-build-part-3-the-gantry"
-  },"266": {
+  },"265": {
     "doc": "Video tutorial",
     "title": "Vz235 Build Part 4: The electronics",
     "content": ". ",
     "url": "/general/video-tutorial#vz235-build-part-4-the-electronics",
     
     "relUrl": "/general/video-tutorial#vz235-build-part-4-the-electronics"
-  },"267": {
+  },"266": {
     "doc": "3.4 Y-gantry rails, X-gantry and idlers",
     "title": "3.4 Y-gantry rails, X-gantry and idlers",
     "content": ". ",
     "url": "/vz235_printed/gantry/y_gantry",
     
     "relUrl": "/vz235_printed/gantry/y_gantry"
-  },"268": {
+  },"267": {
     "doc": "3.4 Y-gantry rails, X-gantry and idlers",
     "title": "BOM",
     "content": ". | Material | Quantity | Notes | . | M3 8mm | 20 | (or more depending on how much you use to secure the MGN12 &amp; MGN9) | . | M3 10mm | 8 | - | . | M3 30mm | 4 | - | . | M3 t-nut | 12 | - | . | M3 nut | 12 | - | . | M5 30mm (titanium) | 4 | - | . | M5 nut (self-locking) | 4 | - | . | GT2 smooth idler | 2 | - | . | CF square tube / aluminium tube | 1 | - | . | MGN9H 300mm | 1 | - | . | MGN12H 300m | 2 | - | . ",
     "url": "/vz235_printed/gantry/y_gantry#bom",
     
     "relUrl": "/vz235_printed/gantry/y_gantry#bom"
-  },"269": {
+  },"268": {
     "doc": "3.4 Y-gantry rails, X-gantry and idlers",
     "title": "STL’s",
     "content": "| File name | Amount to print | . | MGN12 alignment tool | 4 | . | MGN9 alignment tool | 4 | . | Y gantry printed bottom | 2 | . | Y gantry printed top | 2 | . Step 1 . Using the alignment tool, mount the MGN12 to the frame like shown below: . Use the 8mm M3 screws and T-nuts. You don’t need to fill all holes, but any other hole is fine. Make sure they are perfectly centered to the 2020 extrusion . Step 2 . Mount the lower half of the printed Y gantry pieces to their MGN12 cart with the 10mm M3 screws. Make sure the y gantry piece is parallel to the linear rail on both sides, you can use a small spirit level to achieve this. Step 3 . To drill the holes in your CF-tube you’ll need to measure out where all holes will need, to do this the following is recommended: put a piece of painter’s tape on the tube, put the MGN9 on the tube with the alignment tools and have it centered. use a pencil to mark out all the holes you want to use. Put the CF-tube in your gantry and mark the holes for the tube to connect to the Y gantry, you will only need the 30mm M3 screws to secure the tube, the holes in the side are for 2020 extrusions. !warning! drilling and sawing carbon fiber is very hazardous, if you don’t buy the predrilled tube from mellow or the aluminum tube from F3D’s shop be careful. Wear protection and drill in wet surfaces! . Step 4 . Mount the rail on the CF-tube using the alignment tools and the 8mm M3 screws, use the M3 insert piece to hold the M3 nuts and remove this printed holder after mounting. Step 5 . Insert the endcaps in the CF-tube and put the tube in the Y gantry brackets, add the top part of the Y gantry and their corresponding hardware. Don’t forget to add the printed X end stop part on top of the left Y gantry. Keep all hardware on this point finger tight. Step 6 . Insert the idlers and M5 bolts and nuts to secure, again only finger tight . Step 7 . Put the x gantry against the rear idlers and tighten the Y gantry M3 hardware that hold the CF-tube in place. Then tighten the M5 hardware that hold the idlers, now your X gantry should be parallel to your rear extrusion. Measure with calipers to verify. ",
     "url": "/vz235_printed/gantry/y_gantry#stls",
     
     "relUrl": "/vz235_printed/gantry/y_gantry#stls"
-  },"270": {
+  },"269": {
     "doc": "3.4 Y-gantry rails, X-gantry and idlers",
     "title": "3.4 Y-gantry rails, X-gantry and idlers",
     "content": " ",
     "url": "/vz235_alu/gantry/y_gantry",
     
     "relUrl": "/vz235_alu/gantry/y_gantry"
-  },"271": {
+  },"270": {
     "doc": "3.4 Y-gantry rails, X-gantry and idlers",
     "title": "Overview",
     "content": " ",
     "url": "/vz235_alu/gantry/y_gantry#overview",
     
     "relUrl": "/vz235_alu/gantry/y_gantry#overview"
-  },"272": {
+  },"271": {
     "doc": "3.4 Y-gantry rails, X-gantry and idlers",
     "title": "BOM",
     "content": " ",
     "url": "/vz235_alu/gantry/y_gantry#bom",
     
     "relUrl": "/vz235_alu/gantry/y_gantry#bom"
-  },"273": {
+  },"272": {
     "doc": "3.4 Y-gantry rails, X-gantry and idlers",
     "title": "STL’s",
     "content": "Step 1 . ",
     "url": "/vz235_alu/gantry/y_gantry#stls",
     
     "relUrl": "/vz235_alu/gantry/y_gantry#stls"
-  },"274": {
+  },"273": {
     "doc": "3. Z - Assembly & Bed",
     "title": "3. Z - Assembly &amp; Bed",
     "content": " ",
     "url": "/vz330_mellow/z_assembly#3-z---assembly--bed",
     
     "relUrl": "/vz330_mellow/z_assembly#3-z---assembly--bed"
-  },"275": {
+  },"274": {
     "doc": "3. Z - Assembly & Bed",
     "title": "Overview",
     "content": ". The proper alignment procedure of the VZ235 is the same as on the VZ330 only difference is the length of the alignment tools. Make sure to check out the YouTube video explaining how to align your Z-assembly, so it is both smooth and lines up with the possible travel of the printhead. ",
     "url": "/vz330_mellow/z_assembly#overview",
     
     "relUrl": "/vz330_mellow/z_assembly#overview"
-  },"276": {
+  },"275": {
     "doc": "3. Z - Assembly & Bed",
     "title": "3. Z - Assembly & Bed",
     "content": " ",
     "url": "/vz330_mellow/z_assembly",
     
     "relUrl": "/vz330_mellow/z_assembly"
-  },"277": {
+  },"276": {
     "doc": "2. Z - Assembly & Bed",
     "title": "2. Z - Assembly &amp; Bed",
     "content": " ",
     "url": "/vz235_printed/z_assembly#2-z---assembly--bed",
     
     "relUrl": "/vz235_printed/z_assembly#2-z---assembly--bed"
-  },"278": {
+  },"277": {
     "doc": "2. Z - Assembly & Bed",
     "title": "Overview",
     "content": ". The proper alignment procedure of the VZ235 is the same as on the VZ330 only difference is the length of the alignment tools. Make sure to check out the YouTube video explaining how to align your Z-assembly, so it is both smooth and lines up with the possible travel of the printhead. Video tutorial . ",
     "url": "/vz235_printed/z_assembly#overview",
     
     "relUrl": "/vz235_printed/z_assembly#overview"
-  },"279": {
+  },"278": {
     "doc": "2. Z - Assembly & Bed",
     "title": "BOM",
     "content": "| Material | Quantity | Notes | . | M3 6mm | 4 | - | . | M3 15mm | 24 | - | . | M3 20mm | 4 | - | . | M3 30mm | - | 2 | . | M3 30mm countersunk | 5 | - | . | M3 nut | 28 | - | . | M3 t-nut | 2 | - | . | M3 wing nuts | 5 | - | . | M4 10mm | 47 | - | . | M4 8mm | 1 | - | . | M4 t-nut | 47 | - | . | M5/M6 20mm | 2 | Depending on extrusion type | . | M5 10/8mm | 8 | Depending on the 2020 corner bracket | . | 2020 corner bracket | 4 | - | . | 245mm 2020 extrusion | 2 | - | . | 232mm 2020 extrusion | 2 | - | . | 300mm leadscrew T8 | 2 | - | . | Leadscrew nut | 2 | - | . | 300mm 10mm smooth rod | 4 | Optional size, also supports 8 and 12mm as found on VZ330 | . | LMU10LUU bearing | 4 | - | . | 608-2RS bearing | 4 | - | . | GT2 40T 8mm pulley | 2 | - | . | NEMA17 Motor | 1 | - | . | GT2 20T Pulley | 1 | - | . | 850-890mm looped belt | 1 | - | . | Ender 3 bed / machined aluminum bed | 1 | - | . | Bed Springs | 4 | - | . | Microswitch | 1 | - | . ",
     "url": "/vz235_printed/z_assembly#bom",
     
     "relUrl": "/vz235_printed/z_assembly#bom"
-  },"280": {
+  },"279": {
     "doc": "2. Z - Assembly & Bed",
     "title": "STL",
     "content": "| File name | Amount to print | . | Z lower rod mount main | 4 | . | Z lower rod mount clamp | 4 | . | Z upper rod mount main | 4 | . | Z upper rod mount clamp | 4 | . | Single z motor bracket upper | 1 | . | Single z motor bracket lower | 1 | . | Lead screw upper bracket | 2 | . | Lead screw lower bracket | 2 | . | Limit switch mount | 1 | . | Z stopper | 1 | . | Z chain mount | 1 | . | Bearing mount | 4 | . | Leadscrew support | 2 | . | Oldham coupler (all parts) | 2 | . | Bed M3 support | 4 | . | Z alignment tool | 2 | . Step 1 . First assemble your bed assembly, make sure the bed frame is on a flat surface when assembling. Insert the linear bearings in their brackets and attach them to the bed frame. Do make sure the brackets are on the most outer position of the frame like shown below and that they are flat with the frame. Do not attach the printer bed to the frame yet. Step 2 . Attach all rod holders finger tight (upper &amp; lower) to the frame, don’t worry about the position just yet. You want to be able to shift them around. Then insert the rods into the bearings and attach the bed frame with the rods to the respective rod holders. Step 3 . With the assembly in place attach the two alignment tools like shown below and tighten . Step 4 . Once you aligned the front corners you are going to put the bed in the lowest position and wiggle the bed around. Try to get the rod pretty nice and vertical to the frame and tighten the rear bottom rod holders and tighten them to the frame. Step 5 . Now put the bed in the highest position and tighten the clamps for the upper rods and tighten the brackets to the frame. To keep the bed up you can use zip ties or ask someone to help. Step 6 . Insert the bearings in the leadscrew brackets (press fit) and attach the brackets like shown below. Don’t forget to put the belt around the pulley before assembling the top part of the bracket. Then attach the leadscrew support with the oldham couplers and leadscrew nut to the bed frame and assemble the parts loosely. Step 7 . To align the parts, measure the bracket is nicely in between the rod holders measure the distance and get it approximately centered. Turn the leadscrew a bit to help it self-align the upper leadscrew support on the bed and tighten the parts. The leadscrew should be nice and vertical. To check you can put the bed in the highest position and measure the distances between the leadscrew and z rod. The leadscrew should now be centered between both z rods. Step 8 . Attach the single motor mount like shown below . The top M3 screws are 30mm and lock the sliding mechanism in place. They also serve as reinforcement of the mount. Also attach the motor pulley and belt on the motor. Step 9 . To synchronize the leadscrews, turn out the grub screws on the 40t pulleys and get the bed in the top position. Then retighten the grubscrews . Step 10 . Assemble the z switch and make sure when the bed rises the switch is triggered by the screw to avoid a bed crash at the first homing sequence. Step 11 . Finally install the bed M3 supports, attach the bed with the countersunk M3’s and bed springs. If you are using a milled aluminum bed refer to the electronics/wiring section on how to properly assemble the silicone heater pad. ",
     "url": "/vz235_printed/z_assembly#stl",
     
     "relUrl": "/vz235_printed/z_assembly#stl"
-  },"281": {
+  },"280": {
     "doc": "2. Z - Assembly & Bed",
     "title": "2. Z - Assembly & Bed",
     "content": " ",
     "url": "/vz235_printed/z_assembly",
     
     "relUrl": "/vz235_printed/z_assembly"
-  },"282": {
+  },"281": {
     "doc": "2. Z - Assembly & Bed",
     "title": "2. Z - Assembly &amp; Bed",
     "content": " ",
     "url": "/vz235_alu/z_assembly#2-z---assembly--bed",
     
     "relUrl": "/vz235_alu/z_assembly#2-z---assembly--bed"
-  },"283": {
+  },"282": {
     "doc": "2. Z - Assembly & Bed",
     "title": "Overview",
     "content": ". The proper alignment procedure of the VZ235 is the same as on the VZ330 only difference is the length of the alignment tools. Make sure to check out the YouTube video explaining how to align your Z-assembly, so it is both smooth and lines up with the possible travel of the printhead. ",
     "url": "/vz235_alu/z_assembly#overview",
     
     "relUrl": "/vz235_alu/z_assembly#overview"
-  },"284": {
+  },"283": {
     "doc": "2. Z - Assembly & Bed",
     "title": "2. Z - Assembly & Bed",
     "content": " ",
     "url": "/vz235_alu/z_assembly",
     
     "relUrl": "/vz235_alu/z_assembly"
-  },"285": {
+  },"284": {
     "doc": "2.4 Z-Motor bracket",
     "title": "2.4 Z-Motor bracket",
     "content": " ",
     "url": "/vz235_alu/z_assembly/z_motor",
     
     "relUrl": "/vz235_alu/z_assembly/z_motor"
-  },"286": {
+  },"285": {
     "doc": "2.4 Z-Motor bracket",
     "title": "Overview",
     "content": ". ",
     "url": "/vz235_alu/z_assembly/z_motor#overview",
     
     "relUrl": "/vz235_alu/z_assembly/z_motor#overview"
-  },"287": {
+  },"286": {
     "doc": "2.4 Z-Motor bracket",
     "title": "BOM",
     "content": "| Material | Quantity | Notes | . | M3 10mm | 6 | - | . | M4 10mm | 2 | - | . | M4 t-nut | 2 | - | . | M3 washer | 2 | - | . | GT2 20 teeth | 1 | - | . | NEMA 17 stepper | 1 | - | . Step 1 . Mount the bracket shown below to the frame using the 10mm M4 screws and T-nuts. Make sure it is nicely centered in the middle of the frame. Step 2 . Mount the stepper motor to the top bracket using the 10mm M3 screws. Attach the motor pulley like shown below. Step 3 . Mount the previous assembly to the bracket on the frame using 10mm M3 screws. Step 4 . With the motor in the furthest position, loop the belt around the motor pulley and tighten the belt. Be sure to check if the belt is horizontally parallel to the frame for smoothest operation. ",
     "url": "/vz235_alu/z_assembly/z_motor#bom",
     
     "relUrl": "/vz235_alu/z_assembly/z_motor#bom"
-  },"288": {
+  },"287": {
     "doc": "3.4 Z-Motor bracket",
     "title": "3.4 Z-Motor bracket",
     "content": ". ",
     "url": "/vz330_mellow/z_assembly/z_motor",
     
     "relUrl": "/vz330_mellow/z_assembly/z_motor"
-  },"289": {
+  },"288": {
     "doc": "3.4 Z-Motor bracket",
     "title": "Table of content",
     "content": ". | Part’s | Assembly . | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 | . | . ",
     "url": "/vz330_mellow/z_assembly/z_motor#table-of-content",
     
     "relUrl": "/vz330_mellow/z_assembly/z_motor#table-of-content"
-  },"290": {
+  },"289": {
     "doc": "3.4 Z-Motor bracket",
     "title": "Part’s",
     "content": "| Type: Amount: | M3 x 10mm 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 16/16 | . | Type: Amount: | M4 x 10mm 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 | . | Type: Amount: | M4 t-nut 2 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . | Type: Amount: | GT2 20 teeth 1 | Layer: 1 | . | Type: Amount: | NEMA 17 stepper 1 | Layer: 1 | . ",
     "url": "/vz330_mellow/z_assembly/z_motor#parts",
     
     "relUrl": "/vz330_mellow/z_assembly/z_motor#parts"
-  },"291": {
+  },"290": {
     "doc": "3.4 Z-Motor bracket",
     "title": "Assembly",
     "content": "Step 1 . | | 1) 1 x NEMA 17 motor 2) GT2 20 teeth idler | . | | 1) Attache the GT2 idler to the motor shaft of the nema 17 motor ( we will align it later ) | . Step 2 . | | 1) 1 x NEMA 17 motor 2) Motor piece from the Single Z mount | . | | 1) Attach the NEMA 17 motor to the motor piece with the four M3 x 10mm screws 2) Take care that the motor cable points to the back ( the side with the slides in the plate) | . Step 3 . | | 1) 1 x Extrusion mount plate 2) 2 x M4 x 10mm 3) 2 x M4 t-nut | . | | 1) Attach the M4 x 10 mm screw and the M4 t-nut to the plate | . Step 4 . | | 1) 1 x Extrusion mount plate | . | | 1) Attach the extrusion mount plate to the frame ( take care it’s in the middle of the back extrusion ) | . Step 5 . | | 1) 1 x Assembled Motor mount 2) 2 x M4 x 10mm | . | | 1) Put the assembled mount on the extrusion plate and screw in the M4 x 10mm screws slightly | . Step 6 . | Put on the z-belt and tighten the belt by pulling the motor back and fixate it with the slightly screwed in M4 x 10mm screws. | Loose the GT2 grub screws and align the belt that it is horizontal and tighten the grub screws on the flat spots of the motor after. | . ",
