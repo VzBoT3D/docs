@@ -365,7 +365,7 @@
   },"52": {
     "doc": "3.2 Bed Assembly",
     "title": "Part’s",
-    "content": "| Type: Amount: | M3 x 8mm 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 3/16 | . | Type: Amount: | M3 x 45mm (countersunk) 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 8/16 | . | Type: Amount: | M3 nut 2 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 12/16 | . | Type: Amount: | M4 x 10mm 16 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 4/16 | . | Type: Amount: | LMK10LUU 4 | Layer: 2 | . | Type: Amount: | Oldham coupler 2 | Layer: 2 | . | Type: Amount: | Springs / Silicon dumper 4 | Box: VZ330 Box 2 | . ",
+    "content": "| Type: Amount: | M3 x 8mm 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 3/16 | . | Type: Amount: | M3 x 45mm (countersunk) 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 8/16 | . | Type: Amount: | M3 nut 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 12/16 | . | Type: Amount: | M4 x 10mm 16 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 4/16 | . | Type: Amount: | LMK10LUU 4 | Layer: 2 | . | Type: Amount: | Oldham coupler 2 | Layer: 2 | . | Type: Amount: | Springs / Silicon dumper 4 | Box: VZ330 Box 2 | . ",
     "url": "/vz330_mellow/z_assembly/bed_assembly#parts",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_assembly#parts"
@@ -882,14 +882,14 @@
     "relUrl": "/vz235_alu/frame#stls"
   },"126": {
     "doc": "2. Frame",
-    "title": "Part’s",
+    "title": "Parts",
     "content": ". | Type: Amount: | 2040 extrusion (530) 4 | Layer: 2 | | . | Type: Amount: | 2020 extrusion (530mm) with two holes 2 | Layer: 2 | | . | Type: Amount: | 2020 extrusion (460mm) with two holes 2 | Layer: 2 | | . | Type: Amount: | Preasembled gantry 1 | Layer: 1 | - | . | Type: Amount: | 2020 Corner brackets 1 | - | optional | . | Type: Amount: | M5 x 25mm 16 | Layer: 3 Box: VZ330 Box 6 Bag: M5 Bagnumber: 4/16 | - | . | Type: Amount: | M4 t-nut 10 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | - | . | Type: Amount: | M4 x 10mm 8 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 | - | . ",
     "url": "/vz330_mellow/frame#parts",
     
     "relUrl": "/vz330_mellow/frame#parts"
   },"127": {
     "doc": "2. Frame",
-    "title": "STL’s",
+    "title": "STLs",
     "content": ". You can click on the object you wanna print on the plate and the corresponding STL will open up. ",
     "url": "/vz330_mellow/frame#stls",
     
@@ -911,35 +911,35 @@
   },"130": {
     "doc": "2. Frame",
     "title": "Step 1",
-    "content": "Notes . | . | Type: Amount: | 2040 extrusion ( 530 mm ) 1 | . | Type: Amount: | 2020 extrusion ( 530mm ) with two holes 1 | . | Type: Amount: | 2020 extrusion ( 460 mm ) with two holes 1 | . Instructions . | | • Align the extrusions flush | . | | • Tighten the 2020 extrusion’s to the 2040 extrusion | . ",
+    "content": "Notes . | . | Type: Amount: | 2040 extrusion ( 530 mm ) 1 | Layer: 2 | . | Type: Amount: | 2020 extrusion ( 530mm ) with two holes 1 | Layer: 2 | . | Type: Amount: | 2020 extrusion ( 460 mm ) with two holes 1 | Layer: 2 | . Instructions . | | • Align the extrusions flush | . | | • Tighten the 2020 extrusion’s to the 2040 extrusion | . ",
     "url": "/vz330_mellow/frame#step-1",
     
     "relUrl": "/vz330_mellow/frame#step-1"
   },"131": {
     "doc": "2. Frame",
     "title": "Step 2",
-    "content": "Notes . | . | Type: Amount: | 2040 extrusion ( 530mm ) 1 | . | Type: Amount: | 2020 extrusion ( 530mm ) with two holes 1 | . | Type: Amount: | 2020 extrusion ( 460mm ) with two holes 1 | . | Type: Amount: | M5 x 25mm 2 | . Instructions . | | • Align the extrusions flush | . | | • Tighten the 2020 extrusion’s to the 2040 extrusion | . ",
+    "content": "Notes . | . | Type: Amount: | 2040 extrusion ( 530mm ) 1 | Layer: 2 | . | Type: Amount: | 2020 extrusion ( 530mm ) with two holes 1 | Layer: 2 | . | Type: Amount: | 2020 extrusion ( 460mm ) with two holes 1 | Layer: 2 | . | Type: Amount: | M5 x 25mm 2 | Layer: 3 Box: VZ330 Box 6 Bag: M5 Bagnumber: 4/16 | . Instructions . | | • Align the extrusions flush | . | | • Tighten the 2020 extrusion’s to the 2040 extrusion | . ",
     "url": "/vz330_mellow/frame#step-2",
     
     "relUrl": "/vz330_mellow/frame#step-2"
   },"132": {
     "doc": "2. Frame",
     "title": "Step 3",
-    "content": "Notes . | . | Type: Amount: | 2040 extrusion ( 530mm ) 1 | . | Type: Amount: | Assembly from Step 1 / 2 1 | . | Type: Amount: | M5 x 25mm 2 | . Instructions . | | • Align the extrusions flush with the both 2020 extrusion’s | . | | • Tighten the 2020 extrusion’s to the 2040 extrusion | . ",
+    "content": "Notes . | . | Type: Amount: | 2040 extrusion ( 530mm ) 1 | Layer: 2 | . | Type: Amount: | Assembly from Step 1 / 2 1 | Part from step 2 | . | Type: Amount: | M5 x 25mm 2 | Layer: 3 Box: VZ330 Box 6 Bag: M5 Bagnumber: 4/16 | . Instructions . | | • Align the extrusions flush with the both 2020 extrusion’s | . | | • Tighten the 2020 extrusion’s to the 2040 extrusion | . ",
     "url": "/vz330_mellow/frame#step-3",
     
     "relUrl": "/vz330_mellow/frame#step-3"
   },"133": {
     "doc": "2. Frame",
     "title": "Step 4",
-    "content": "Notes . | . | Type: Amount: | 2040 extrusion (530mm) 1 | . | Type: Amount: | Assembly from Step 3 1 | . | Type: Amount: | M5 x 25mm 1 | . Instructions . | | • Align the extrusions flush with the both 2020 extrusion’s | . | | • Tighten the 2020 extrusion’s to the 2040 extrusion | . ",
+    "content": "Notes . | . | Type: Amount: | 2040 extrusion (530mm) 1 | Layer: 2 | . | Type: Amount: | Assembly from Step 3 1 | Part from step 3 | . | Type: Amount: | M5 x 25mm 1 | Layer: 3 Box: VZ330 Box 6 Bag: M5 Bagnumber: 4/16 | . Instructions . | | • Align the extrusions flush with the both 2020 extrusion’s | . | | • Tighten the 2020 extrusion’s to the 2040 extrusion | . ",
     "url": "/vz330_mellow/frame#step-4",
     
     "relUrl": "/vz330_mellow/frame#step-4"
   },"134": {
     "doc": "2. Frame",
     "title": "Step 5",
-    "content": "Notes . | Type: Amount: | Preasembled gantry 1 | . Instructions . | | • Remove red marked screw • Losen blue screw • Slide assembly to the left • Remove the printed 2040 extrusion | . | | • Remove red marked screw • Losen blue screw • Slide assembly to the right • Remove the printed 2040 extrusion | . | | • Remove selected part from assembly | . | | • Remove printed 2040 extrusion part from the assembly | . | | • Put preassembled assembly on the frame • Loosen all screws on the back motor mounts • Align extrusions • Screw down M5 x 25mm screws • Tighten screws on the motor mount again | . | | • Add screw + t-nut to the bottom part of the idler on the left and right side. | . | | • Put second part on the frame • Align extrusions • Screw down M5x25mm screws | . | | • Insert M4 Screw + t-nut in the upper part on the right / left side • Tighten the front motor mounts | . ",
+    "content": "Notes . | Type: Amount: | Preasembled gantry 1 | Layer: 1 | . Instructions . | | • Remove red marked screw • Losen blue screw • Slide assembly to the left • Remove the printed 2040 extrusion | . | | • Remove red marked screw • Losen blue screw • Slide assembly to the right • Remove the printed 2040 extrusion | . | | • Remove selected part from assembly | . | | • Remove printed 2040 extrusion part from the assembly | . | | • Put preassembled assembly on the frame • Loosen all screws on the back motor mounts • Align extrusions • Screw down M5 x 25mm screws • Tighten screws on the motor mount again | . | | • Add screw + t-nut to the bottom part of the idler on the left and right side. | . | | • Put second part on the frame • Align extrusions • Screw down M5x25mm screws | . | | • Insert M4 Screw + t-nut in the upper part on the right / left side • Tighten the front motor mounts | . ",
     "url": "/vz330_mellow/frame#step-5",
     
     "relUrl": "/vz330_mellow/frame#step-5"
@@ -960,28 +960,28 @@
   },"137": {
     "doc": "2. Frame",
     "title": "Step 8",
-    "content": "Notes . | Type: Amount: | M4 x 10mm 4 | . | Type: Amount: | M4 t-nut 4 | . | Type: Amount: | Printed frame bracers 2 | . Instructions . | | • Insert screws and add t-nut for both parts | . | | • Attach frame bracers to the frame in the front left and right | . ",
+    "content": "Notes . | Type: Amount: | M4 x 10mm 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 | . | Type: Amount: | M4 t-nut 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . | Type: Amount: | Printed frame bracers 2 | STLs | . Instructions . | | • Insert screws and add t-nut for both parts | . | | • Attach frame bracers to the frame in the front left and right | . ",
     "url": "/vz330_mellow/frame#step-8",
     
     "relUrl": "/vz330_mellow/frame#step-8"
   },"138": {
     "doc": "2. Frame",
     "title": "Step 9",
-    "content": "Notes . | Type: Amount: | M4 x 10mm 4 | . | Type: Amount: | M4 t-nut 4 | . | Type: Amount: | Printed handles 2 | . Instructions . | | • Insert screws and add t-nut for both parts | . | | • Attach handles to the left and right side of the frame and center them | . ",
+    "content": "Notes . | Type: Amount: | M4 x 10mm 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 | . | Type: Amount: | M4 t-nut 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . | Type: Amount: | Printed handles 2 | STLs | . Instructions . | | • Insert screws and add t-nut for both parts | . | | • Attach handles to the left and right side of the frame and center them | . ",
     "url": "/vz330_mellow/frame#step-9",
     
     "relUrl": "/vz330_mellow/frame#step-9"
   },"139": {
     "doc": "2. Frame",
     "title": "Step 10",
-    "content": "Notes . | Type: Amount: | M4 x 10mm 4 | . | Type: Amount: | M4 t-nut 4 | . | Type: Amount: | Printed cable holder 2 | . Instructions . | | • Insert screws and add t-nut | . | | • Attach cable holder to the back of the frame and center it. | . ",
+    "content": "Notes . | Type: Amount: | M4 x 10mm 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 | . | Type: Amount: | M4 t-nut 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . | Type: Amount: | Printed cable holder 2 | STLs | . Instructions . | | • Insert screws and add t-nut | . | | • Attach cable holder to the back of the frame and center it. | . ",
     "url": "/vz330_mellow/frame#step-10",
     
     "relUrl": "/vz330_mellow/frame#step-10"
   },"140": {
     "doc": "2. Frame",
     "title": "Step 11",
-    "content": "Notes . | Type: Amount: | Printed endpart’s 8 | . Instructions . | | • Insert all 8 endpart’s at the shown location. | . | | • Put in the endpart’s | . ",
+    "content": "Notes . | Type: Amount: | Printed endpart’s 8 | STLs | . Instructions . | | • Insert all 8 endpart’s at the shown location. | . | | • Put in the endpart’s | . ",
     "url": "/vz330_mellow/frame#step-11",
     
     "relUrl": "/vz330_mellow/frame#step-11"

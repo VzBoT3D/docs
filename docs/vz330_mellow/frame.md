@@ -16,7 +16,7 @@ permalink: /vz330_mellow/frame
 <br>
 <br>
 
-# Part's
+# Parts
 
 <br>
 
@@ -30,7 +30,7 @@ permalink: /vz330_mellow/frame
 | **Type**: <br> **Amount**: | M4 t-nut <br> 10 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 | - |
 | **Type**: <br> **Amount**: | M4 x 10mm <br> 8 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 | - |
 
-# STL's
+# STLs
 
 <br>
 
@@ -64,10 +64,10 @@ permalink: /vz330_mellow/frame
 |:-|
 | ![Step 1](../assets/images/manual/vz330_mellow/frame/step1.png) |
 
-|:-|:-|
-| **Type**: <br> **Amount**: | 2040 extrusion ( 530 mm ) <br> 1 |
-| **Type**: <br> **Amount**: | 2020 extrusion ( 530mm ) with two holes <br> 1 |
-| **Type**: <br> **Amount**: | 2020 extrusion ( 460 mm ) with two holes <br> 1 |
+|:-|:-|:-|
+| **Type**: <br> **Amount**: | 2040 extrusion ( 530 mm ) <br> 1 | **Layer**: 2 |
+| **Type**: <br> **Amount**: | 2020 extrusion ( 530mm ) with two holes <br> 1 | **Layer**: 2 |
+| **Type**: <br> **Amount**: | 2020 extrusion ( 460 mm ) with two holes <br> 1 | **Layer**: 2 |
 
 <br>
 
@@ -90,11 +90,11 @@ permalink: /vz330_mellow/frame
 |:-|
 | ![Step 1](../assets/images/manual/vz330_mellow/frame/step2.png) |
 
-|:-|:-|
-| **Type**: <br> **Amount**: | 2040 extrusion ( 530mm ) <br> 1 |
-| **Type**: <br> **Amount**: | 2020 extrusion ( 530mm ) with two holes <br> 1 |
-| **Type**: <br> **Amount**: | 2020 extrusion ( 460mm ) with two holes <br> 1 |
-| **Type**: <br> **Amount**: | M5 x 25mm <br> 2 |
+|:-|:-|:-|
+| **Type**: <br> **Amount**: | 2040 extrusion ( 530mm ) <br> 1 | **Layer**: 2 |
+| **Type**: <br> **Amount**: | 2020 extrusion ( 530mm ) with two holes <br> 1 | **Layer**: 2 |
+| **Type**: <br> **Amount**: | 2020 extrusion ( 460mm ) with two holes <br> 1 | **Layer**: 2 |
+| **Type**: <br> **Amount**: | M5 x 25mm <br> 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M5 <br> **Bagnumber**: 4/16 |
 
 <br>
 
@@ -118,10 +118,10 @@ permalink: /vz330_mellow/frame
 |:-|
 | ![Step 1](../assets/images/manual/vz330_mellow/frame/step3.png) |
 
-|:-|:-|
-| **Type**: <br> **Amount**: | 2040 extrusion ( 530mm ) <br> 1 |
-| **Type**: <br> **Amount**: | Assembly from Step 1 / 2 <br> 1 |
-| **Type**: <br> **Amount**: | M5 x 25mm <br> 2 |
+|:-|:-|:-|
+| **Type**: <br> **Amount**: | 2040 extrusion ( 530mm ) <br> 1 | **Layer**: 2 |
+| **Type**: <br> **Amount**: | Assembly from Step 1 / 2 <br> 1 | [Part from step 2](#step-2) |
+| **Type**: <br> **Amount**: | M5 x 25mm <br> 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M5 <br> **Bagnumber**: 4/16
 
 <br>
 
@@ -146,9 +146,9 @@ permalink: /vz330_mellow/frame
 | ![Step 1](../assets/images/manual/vz330_mellow/frame/step4.png) |
 
 |:-|:-|
-| **Type**: <br> **Amount**: | 2040 extrusion (530mm) <br> 1 |
-| **Type**: <br> **Amount**: | Assembly from Step 3 <br> 1 |
-| **Type**: <br> **Amount**: | M5 x 25mm <br> 1 |
+| **Type**: <br> **Amount**: | 2040 extrusion (530mm) <br> 1 | **Layer**: 2 |
+| **Type**: <br> **Amount**: | Assembly from Step 3 <br> 1 | [Part from step 3](#step-3) |
+| **Type**: <br> **Amount**: | M5 x 25mm <br> 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M5 <br> **Bagnumber**: 4/16 |
 
 <br>
 
@@ -169,8 +169,8 @@ permalink: /vz330_mellow/frame
 
 ### Notes
 
-|:-|:-|
-| **Type**: <br> **Amount**: | Preasembled gantry <br> 1 |
+|:-|:-|:-|
+| **Type**: <br> **Amount**: | Preasembled gantry <br> 1 | **Layer**: 1 |
 
 <br>
 
@@ -223,8 +223,8 @@ permalink: /vz330_mellow/frame
 
 |:-|:-|
 | **Type**: <br> **Amount**: | 2020 corner brackets <br> 6 |
-| **Type**: <br> **Amount**: | M4 x 10mm <br> 12 |
-| **Type**: <br> **Amount**: | M4 t-nut <br> 12 |
+| **Type**: <br> **Amount**: | M4 x 10mm <br> 12 | 
+| **Type**: <br> **Amount**: | M4 t-nut <br> 12 | 
 
 <br>
 
@@ -254,10 +254,10 @@ permalink: /vz330_mellow/frame
 
 ### Notes
 
-|:-|:-|
-| **Type**: <br> **Amount**: | M4 x 10mm <br> 4 |
-| **Type**: <br> **Amount**: | M4 t-nut <br> 4 |
-| **Type**: <br> **Amount**: | Printed frame bracers <br> 2 |
+|:-|:-|:-|
+| **Type**: <br> **Amount**: | M4 x 10mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 |
+| **Type**: <br> **Amount**: | M4 t-nut <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |
+| **Type**: <br> **Amount**: | Printed frame bracers <br> 2 | [STLs](#stls) |
 
 <br>
 
@@ -278,10 +278,10 @@ permalink: /vz330_mellow/frame
 
 ### Notes
 
-|:-|:-|
-| **Type**: <br> **Amount**: | M4 x 10mm <br> 4 |
-| **Type**: <br> **Amount**: | M4 t-nut <br> 4 |
-| **Type**: <br> **Amount**: | Printed handles <br> 2 |
+|:-|:-|:-|
+| **Type**: <br> **Amount**: | M4 x 10mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 |
+| **Type**: <br> **Amount**: | M4 t-nut <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |
+| **Type**: <br> **Amount**: | Printed handles <br> 2 | [STLs](#stls) |
 
 <br>
 
@@ -301,10 +301,10 @@ permalink: /vz330_mellow/frame
 
 ### Notes
 
-|:-|:-|
-| **Type**: <br> **Amount**: | M4 x 10mm <br> 4 |
-| **Type**: <br> **Amount**: | M4 t-nut <br> 4 |
-| **Type**: <br> **Amount**: | Printed cable holder <br> 2 |
+|:-|:-|:-|
+| **Type**: <br> **Amount**: | M4 x 10mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 |
+| **Type**: <br> **Amount**: | M4 t-nut <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |
+| **Type**: <br> **Amount**: | Printed cable holder <br> 2 | [STLs](#stls) |
 
 <br>
 
@@ -325,8 +325,8 @@ permalink: /vz330_mellow/frame
 
 ### Notes
 
-|:-|:-|
-| **Type**: <br> **Amount**: | Printed endpart's <br> 8 |
+|:-|:-|:-|
+| **Type**: <br> **Amount**: | Printed endpart's <br> 8 | [STLs](#stls) |
 
 <br>
 

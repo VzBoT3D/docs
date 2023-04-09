@@ -21,7 +21,7 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 |:-------------|:------------------|:------|
 | **Type**: <br> **Amount**: | M3 x 8mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 3/16  |
 | **Type**: <br> **Amount**: | M3 x 45mm (countersunk) <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 8/16 |
-| **Type**: <br> **Amount**: | M3 nut <br> 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 12/16 |
+| **Type**: <br> **Amount**: | M3 nut <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 12/16 |
 | **Type**: <br> **Amount**: | M4 x 10mm <br> 16 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 4/16 |
 | **Type**: <br> **Amount**: | LMK10LUU <br> 4 | **Layer**: 2 |
 | **Type**: <br> **Amount**: | Oldham coupler <br> 2 | **Layer**: 2 |
