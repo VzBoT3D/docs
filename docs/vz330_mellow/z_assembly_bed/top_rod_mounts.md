@@ -26,7 +26,7 @@ permalink: /vz330_mellow/z_assembly/top_rod_mounts
 <br>
 <br>
 
-## BOM
+## Part's
 
 |:-------------|:------------------|:------|
 | **Type**: <br> **Amount**: | M4 x 10mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 4/16 |

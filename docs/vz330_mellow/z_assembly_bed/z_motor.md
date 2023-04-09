@@ -26,7 +26,7 @@ permalink: /vz330_mellow/z_assembly/z_motor
 <br>
 <br>
 
-## BOM
+## Part's
 
 |:-------------|:------------------|
 | **Type**: <br> **Amount**: | M3 x 10mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 16/16 |

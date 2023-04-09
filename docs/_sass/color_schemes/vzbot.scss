@@ -32,6 +32,11 @@ td {
     width: auto;
     height: auto;
   }
+  br {
+    display: block;
+    margin: 10px 0;
+    content: " ";
+  }
   width: auto;
   height: auto;
 }
@@ -41,17 +46,11 @@ body {
 	font-size: 13px;
 }
 
-.instructiontable td {
-  border: none !important;
-  white-space: nowrap;
-  line-height: 2em;
-  background-color: #ffffff10;
-
-  &:nth-child(1) {
-      text-align: right;
-      white-space: nowrap;
-      font-weight: bold;
-      min-width: inherit;
-      max-width: inherit;
+.instructiontable {
+  table {
+    border: none;
+  }
+  td {
+    width: 70%;
   }
 }
