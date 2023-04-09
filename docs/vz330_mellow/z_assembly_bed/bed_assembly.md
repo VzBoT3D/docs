@@ -16,18 +16,19 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 <br>
 <br>
 
-# Part's
+# Parts
 
+| Part | Location | Info |
 |:-------------|:------------------|:------|
-| **Type**: <br> **Amount**: | M3 x 8mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 3/16  |
-| **Type**: <br> **Amount**: | M3 x 45mm (countersunk) <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 8/16 |
-| **Type**: <br> **Amount**: | M3 nut <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 12/16 |
-| **Type**: <br> **Amount**: | M4 x 10mm <br> 16 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 4/16 |
-| **Type**: <br> **Amount**: | LMK10LUU <br> 4 | **Layer**: 2 |
-| **Type**: <br> **Amount**: | Oldham coupler <br> 2 | **Layer**: 2 |
-| **Type**: <br> **Amount**: | Springs / Silicon dumper <br> 4 | **Box**: VZ330 Box 2 |
+| M3 x 8mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 3/16  |  |
+| M3 x 45mm (countersunk) <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 8/16 |  |
+| M3 nut <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 12/16 |  |
+| M4 x 10mm <br> Quantity: 16 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 4/16 |  |
+| LMK10LUU <br> Quantity: 4 | **Layer**: 2 | picture |
+| Oldham coupler <br> Quantity: 2 | **Layer**: 2 | picture |
+| Springs / Silicon dumper <br> Quantity: 4 | **Box**: VZ330 Box 2 | picture |
 
-# STL's
+# STLs
 
 <br>
 
@@ -48,14 +49,20 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 ### Notes
 
+{: .highlight }
+> Required 
+>
+> &#8226; Box 6 - M4 - 4/16
+
 |:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step1.png) |
 
+| Part | Location |
 |:-|:-|
-| **Type**: <br> **Amount**: | Single bed piece <br> 1 |
-| **Type**: <br> **Amount**: | LMK10LUU <br> 4 |
-| **Type**: <br> **Amount**: | Oldham couplers <br> 2 |
-| **Type**: <br> **Amount**: | M4 x 10mm <br> 16 |
+| Single bed piece <br> Quantity: 1 | **Layer**: 4 |
+| LMK10LUU <br> Quantity: 4 | **Layer**: 1 |
+| Oldham couplers <br> Quantity: 2 | **Layer**: 2 |
+| M4 x 10mm <br> Quantity: 16 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 4/16 |
 
 <br>
 
@@ -71,19 +78,25 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 ### Notes
 
+{: .highlight }
+> Required 
+>
+> &#8226; Box 6 - M3 - 3/16
+
 |:-|
 | ![Step 2](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step2.png) |
 
+| Part | Location |
 |:-|:-|
-| **Type**: <br> **Amount**: | Upper part of the oldham coupler <br> 2 |
-| **Type**: <br> **Amount**: | M3 x 10mm <br> 2 |
+| Upper part of the oldham coupler <br> Quantity: 2 | **Layer**: 2 |
+| M3 x 8mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 3/16 |
 
 <br>
 
 ### Instructions
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step2_part1.png) | &#8226; Attach the part of the oldham coupler to the center hole <br> &#8226; Fixate it with the M3 x 10mm screw |
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step2_part1.png) | &#8226; Attach the part of the oldham coupler to the center hole <br> &#8226; Fixate it with the M3 x 8mm screw |
 {: .instructiontable}
 
 
@@ -100,8 +113,9 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 |:-|
 | ![Step 3](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step3.png) |
 
+| Part | Location |
 |:-|:-|
-| **Type**: <br> **Amount**: | Assembled bed bracket <br> 1 |
+| Assembled bed bracket <br> Quantity: 1 | **Layer**: 4 |
 
 
 <br>
@@ -116,10 +130,20 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 ## Step 4
 
+### Notes
+
+| Part | Location |
+|:-|:-|
+| Aluminium Bed <br> Quantity: 1 | **Layer**: 4 |
+| Heatbed <br> Quantity: 1 | **Layer**: 4 |
+| Magnetic sheet <br>Quantity: 1 | **Layer**: 4 |
+
+### Instructions
+
 {: .highlight }
 > You should first apply the magnetic sheet and then the heated bed, due to the reason that the bed isn't flat anymore after applying the heated bed due to the thermistor build into it.
 
-### Magnetic sheet
+#### Magnetic sheet
 
 |:-|:-|
 | [![magnetic sheet](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/magnetic_video.png)](https://www.youtube.com/embed/0g1VRiW48NA "Apply magnetic sheet") | &#8226; How to apply the magnetic sheet to the aluminium plate |
@@ -127,7 +151,7 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 <br>
 
-### Heatbed
+#### Heatbed
 
 |:-|:-|
 | [![heatbed](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/heatbed_video.png)](https://www.youtube.com/embed/vZx4vfevwx4 "Apply heatbed") | &#8226; How to apply the heatbed to the aluminium plate |
@@ -139,12 +163,17 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 ### Notes
 
+{: .highlight }
+> Required 
+>
+> &#8226; Box 6 - M3 - 12/16
+
 |:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step5.png) |
 
 |:-|:-|
-| **Type**: <br> **Amount**: | Bed leveling knobs <br> 4 | 
-| **Type**: <br> **Amount**: | M3 nut <br> 4 |
+| Bed leveling knobs <br> Quantity: 4 | [STLs](#stls) |
+| M3 nut <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 12/16 |
 
 <br>
 
@@ -160,14 +189,20 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 ### Notes
 
+{: .highlight }
+> Required 
+>
+> &#8226; Box 6 - M3 - 8/16 <br>
+> &#8226; Box 2
+
 |:-|
 | ![Step 5](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step6.png) |
 
 |:-|:-|
-| **Type**: <br> **Amount**: | Bed with attached heatmat and magnetic sheet <br> 1 |
-| **Type**: <br> **Amount**: | M3 x 45mm <br> 4 |
-| **Type**: <br> **Amount**: | Spring's or silicon dumper <br> 4 |
-| **Type**: <br> **Amount**: | Bed leveling knob's <br> 4 |
+| Bed with attached heatmat and magnetic sheet <br> Quantity: 1 | [Part from step 5](#step-5) |
+| M3 x 45mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 8/16 |
+| Spring's or silicon dumper <br> Quantity: 4 | **Box**: VZ330 Box 2 |
+| Bed leveling knob's <br> Quantity: 4 | [STLs](#stls)
 
 <br>
 

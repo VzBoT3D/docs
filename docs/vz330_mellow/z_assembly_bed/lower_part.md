@@ -19,15 +19,20 @@ permalink: /vz330_mellow/z_assembly/lower_part
 
 # Part's
 
-|:-------------|:------------------|:------|
-| **Type**: <br> **Amount**: | M4 x 10mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 |
-| **Type**: <br> **Amount**: | M4 x 12mm <br> 16 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 13/16 |
-| **Type**: <br> **Amount**: | M4 t-nut <br> 20 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |
-| **Type**: <br> **Amount**: | M4 sliding t-nut <br> 4 | **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 3/16 |
-| **Type**: <br> **Amount**: | 10mm rods ( 500mm ) <br> 4 | **Layer**: 2  |
-| **Type**: <br> **Amount**: | Belt GT2 closed ( 1100mm ) <br> 1 | **Layer**: 2 <br> **Box**: VZ330 Box 2 |
-| **Type**: <br> **Amount**: | Leadscrew TR8 ( 500 mm ) <br> 2 | **Layer**: 2 |
-| **Type**: <br> **Amount**: | GT2 40 teeth <br> 2 | **Layer**: 2 <br> **Box**: VZ330 Box 2 |
+| Part | Location |
+|:-------------|:------------------|
+| M4 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 |  |
+| M4 x 12mm <br> Quantity: 16 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 13/16 |  |
+| M4 t-nut <br> Quantity: 20 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |  |
+| M4 sliding t-nut <br> Quantity: 4 | **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 3/16 |  |
+| 10mm rods ( 500mm ) <br> Quantity: 4 | **Layer**: 2  | picture |
+| Belt GT2 closed ( 1100mm ) <br> Quantity: 1 | **Layer**: 2 <br> **Box**: VZ330 Box 2 | picture |
+| Leadscrew TR8 ( 500 mm ) <br> Quantity: 2 | **Layer**: 2 | picture |
+| GT2 40 teeth <br> Quantity: 2 | **Layer**: 2 <br> **Box**: VZ330 Box 2 | picture |
+| z bracket <br> Quantity: 2 | **Layer**: 1 | picture |
+| Lower leadscrew mount <br> Quantity: 2 | **Layer**: 1 | picture |
+| Upper leadscrew mount <br> Quantity: 2 | **Layer**: 1 | picture |
+
 
 # STL's
 
@@ -52,20 +57,26 @@ permalink: /vz330_mellow/z_assembly/lower_part
 
 ### Notes
 
+{: .highlight }
+> Required
+>
+> &#8226; Box 6 - M4 - 13/16
+
 |:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step1.png) |
 
+| Part | Location |
 |:-|:-|
-| **Type**: <br> **Amount**: | Lower z bracket <br> 2 |
-| **Type**: <br> **Amount**: | M4 x 12mm <br> 4 |
-| **Type**: <br> **Amount**: | Rods ( 10mm ) <br> 4 |
+| z bracket <br> Quantity: 2 | **Layer**: 1  |
+| M4 x 12mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 13/16 |
+| Rods ( 10mm ) <br> Quantity: 4 | **Layer**: 1 |
 
 <br>
 
 ### Instructions
 
 |:-|:-|
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step1_part1.png) | &#8226; Align the rod flush with the bottom of the lower z bracket |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step1_part1.png) | &#8226; Align the rod flush with the bottom of the z bracket |
 {: .instructiontable}
 
 | ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step1_part2.png) | &#8226; Tighten the M4 x 12mm screw |
@@ -77,14 +88,22 @@ permalink: /vz330_mellow/z_assembly/lower_part
 
 ### Notes
 
+{: .highlight }
+> Required
+>
+> &#8226; Box 6 - M4 - 13/16 <br>
+> &#8226; Box 6 - M4 - 2/16 <br>
+> &#8226; Box 6 - M4 - 3/16 
+
 |:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2.png)  |
 
+| Part | Location |
 |:-|:-|
-| **Type**: <br> **Amount**: | Lower z bracket <br> 2 |
-| **Type**: <br> **Amount**: | M4 x 12mm <br> 8 |
-| **Type**: <br> **Amount**: | M4 t-nut <br> 8 |
-| **Type**: <br> **Amount**: | M4 sliding t-nut <br> 4 |
+| z bracket <br> Quantity: 2 | **Layer**: 1 |
+| M4 x 12mm <br> Quantity: 8 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 13/16 |
+| M4 t-nut <br> Quantity: 8 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |
+| M4 sliding t-nut <br> Quantity: 4 | **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 3/16 |
 
 <br>
 
@@ -96,12 +115,12 @@ permalink: /vz330_mellow/z_assembly/lower_part
 
 
 |:-|:-|
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part2.png) | &#8226; Attach M4 x 12mm + t-nut to the lower z bracket <br> &#8226; **Tip:** screw in two screws for now in the two holes and the sliding t-nuts so they move with the part if you move it around. |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part2.png) | &#8226; Attach M4 x 12mm + t-nut to the z bracket <br> &#8226; **Tip:** screw in two screws for now in the two holes and the sliding t-nuts so they move with the part if you move it around. |
 {: .instructiontable}
 
 
 |:-|:-|
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part3.png) | &#8226; Tighten the M4 x 12mm screw loosly, we need to align the lower z bracket |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part3.png) | &#8226; Tighten the M4 x 12mm screw loosly, we need to align the z bracket |
 {: .instructiontable}
 
 
@@ -115,13 +134,20 @@ permalink: /vz330_mellow/z_assembly/lower_part
 
 ### Notes
 
+{: .highlight }
+> Required
+>
+> &#8226; Box 6 - M4 - 13/16 <br>
+> &#8226; Box 6 - M4 - 2/16 
+
 |:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step3.png) |
 
+| Part | Location |
 |:-|:-|
-| **Type**: <br> **Amount**: | Lower leadscrew mount <br> 2 |
-| **Type**: <br> **Amount**: | M4 x 12mm <br> 4 |
-| **Type**: <br> **Amount**: | M4 t-nut <br> 4 |
+| Lower leadscrew mount <br> Quantity: 2 | **Layer**: 1 |
+| M4 x 12mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 13/16 |
+| M4 t-nut <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |
 
 <br>
 
@@ -142,12 +168,17 @@ permalink: /vz330_mellow/z_assembly/lower_part
 
 ### Notes
 
+{: .highlight }
+> Required
+>
+> &#8226; Box 6 - M4 - 13/16
+
 |:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step4.png) |
 
 |:-|:-|
-| **Type**: <br> **Amount**: | Upper leadscrew mount <br> 2 |
-| **Type**: <br> **Amount**: | M4 x 12mm <br> 4 |
+| Upper leadscrew mount <br> Quantity: 2 | **Layer**: 1 |
+| M4 x 12mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 13/16 |
 
 <br>
 
@@ -162,13 +193,18 @@ permalink: /vz330_mellow/z_assembly/lower_part
 
 ### Notes
 
+{: .highlight }
+> Required
+>
+> &#8226; Box 2
+
 |:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step5.png) |
 
 |:-|:-|
-| **Type**: <br> **Amount**: | Leadscrew <br> 2 |
-| **Type**: <br> **Amount**: | GT2 40 teeth idler <br> 2 |
-| **Type**: <br> **Amount**: | Closed GT2 belt ( 1100mm ) <br> 1 |
+| Leadscrew <br> Quantity: 2 | **Layer**: 2 |
+| GT2 40 teeth idler <br> Quantity: 2 | **Layer**: 2 <br> **Box**: VZ330 Box 2 |
+| Closed GT2 belt ( 1100mm ) <br> Quantity: 1 | **Layer**: 2 <br> **Box**: VZ330 Box 2 |
 
 <br>
 

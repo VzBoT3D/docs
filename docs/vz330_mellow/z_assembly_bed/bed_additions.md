@@ -19,15 +19,16 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 
 # Part's
 
-|:-------------|:------------------|:------|
-| **Type**: <br> **Amount**: | M2 x 10mm <br> 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M2 <br> **Bagnumber**: 2/5 |
-| **Type**: <br> **Amount**: | M3 x 6mm <br> 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 14/16 |
-| **Type**: <br> **Amount**: | M3 x 8mm <br> 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 9/16 |
-| **Type**: <br> **Amount**: | M3 x 10mm <br> 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 4/16 |
-| **Type**: <br> **Amount**: | M3 x 45mm <br> 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 8/16 |
-| **Type**: <br> **Amount**: | M3 nut <br> 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 12/16 |
-| **Type**: <br> **Amount**: | M3 t-nut <br> 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 1/16 |
-| **Type**: <br> **Amount**: | Microswitch <br> 1 | **Layer**: 2 <br> **Box**: VZ330 Box 2 |
+| Part | Location | Info |
+|:-------------|:------------------|
+| M2 x 10mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M2 <br> **Bagnumber**: 2/5 |  |
+| M3 x 6mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 14/16 |  |
+| M3 x 8mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 9/16 |  |
+| M3 x 10mm <br> Quantity: 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 4/16 |  |
+| M3 x 45mm <br> Quantity: 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 8/16 |  |
+| M3 nut <br> Quantity: 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 12/16 |  |
+| M3 t-nut <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 1/16 |  |
+| Microswitch <br> Quantity: 1 | **Layer**: 2 <br> **Box**: VZ330 Box 2 | picture |
 
 # Assembly
 
