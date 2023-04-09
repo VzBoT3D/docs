@@ -139,7 +139,7 @@
 .site-footer { visibility: hidden; }
 
 td { width: auto; height: auto; }
-td img { width: auto; height: auto; }
+td img { width: auto; height: auto; object-fit: scale-down; }
 td br { display: block; margin: 10px 0; content: " "; }
 
 thead th { background: #575555; }

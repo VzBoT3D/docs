@@ -23,10 +23,10 @@ permalink: /vz330_mellow/z_assembly/z_motor
 | M3 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 16/16 |  |
 | M4 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 |  |
 | M4 t-nut <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |  |
-| GT2 20 teeth <br> Quantity: 1 | **Layer**: 1 | picture |
+| GT2 20 teeth <br> Quantity: 1 | **Layer**: 1 | ![parts](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/parts/gt2_20.png) |
 | NEMA 17 stepper <br> Quantity: 1 | **Layer**: 1 |  |
-| Motor mount plate <br> Quantity: 1 | **Layer**: 1 | picture |
-| Extrutsion mount plate <br> Quantity: 1 | **Layer**: 1 | picture |
+| Motor mount plate <br> Quantity: 1 | **Layer**: 1 | ![parts](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/parts/motor_plate.png) |
+| Extrutsion mount plate <br> Quantity: 1 | **Layer**: 1 | ![parts](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/parts/extrusion_mount.png) |
 
 # Assembly
 

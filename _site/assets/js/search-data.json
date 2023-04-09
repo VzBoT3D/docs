@@ -365,7 +365,7 @@
   },"52": {
     "doc": "3.2 Bed Assembly",
     "title": "Parts",
-    "content": "| Part | Location | Info | . | M3 x 8mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 3/16 |   | . | M3 x 45mm (countersunk) Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 8/16 |   | . | M3 nut Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 12/16 |   | . | M4 x 10mm Quantity: 16 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 4/16 |   | . | LMK10LUU Quantity: 4 | Layer: 2 | picture | . | Oldham coupler Quantity: 2 | Layer: 2 | picture | . | Springs / Silicon dumper Quantity: 4 | Box: VZ330 Box 2 | picture | . ",
+    "content": "| Part | Location | Info | . | M3 x 8mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 3/16 |   | . | M3 x 45mm (countersunk) Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 8/16 |   | . | M3 nut Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 12/16 |   | . | M4 x 10mm Quantity: 16 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 4/16 |   | . | LMK10LUU Quantity: 4 | Layer: 2 | | . | Oldham coupler Quantity: 2 | Layer: 2 | | . | Springs / Silicon dumper Quantity: 4 | Box: VZ330 Box 2 |   | . ",
     "url": "/vz330_mellow/z_assembly/bed_assembly#parts",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_assembly#parts"
@@ -1611,7 +1611,7 @@
   },"230": {
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "Part’s",
-    "content": "| Part | Location |   | . | M4 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 |   | . | M4 x 12mm Quantity: 16 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 13/16 |   | . | M4 t-nut Quantity: 20 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 |   | . | M4 sliding t-nut Quantity: 4 | Box: VZ330 Box 6 Bag: M4 Bagnumber: 3/16 |   | . | 10mm rods ( 500mm ) Quantity: 4 | Layer: 2 | picture | . | Belt GT2 closed ( 1100mm ) Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | picture | . | Leadscrew TR8 ( 500 mm ) Quantity: 2 | Layer: 2 | picture | . | GT2 40 teeth Quantity: 2 | Layer: 2 Box: VZ330 Box 2 | picture | . | z bracket Quantity: 2 | Layer: 1 | picture | . | Lower leadscrew mount Quantity: 2 | Layer: 1 | picture | . | Upper leadscrew mount Quantity: 2 | Layer: 1 | picture | . ",
+    "content": "| Part | Location |   | . | M4 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 |   | . | M4 x 12mm Quantity: 16 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 13/16 |   | . | M4 t-nut Quantity: 20 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 |   | . | M4 rollin t-nut Quantity: 4 | Box: VZ330 Box 6 Bag: M4 Bagnumber: 3/16 | | . | 10mm rods ( 500mm ) Quantity: 4 | Layer: 2 | | . | Belt GT2 closed ( 1100mm ) Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | picture | . | Leadscrew TR8 ( 500 mm ) Quantity: 2 | Layer: 2 | | . | GT2 40 teeth Quantity: 2 | Layer: 2 Box: VZ330 Box 2 | | . | z bracket Quantity: 2 | Layer: 1 | | . | Lower leadscrew mount Quantity: 2 | Layer: 1 | | . | Upper leadscrew mount Quantity: 2 | Layer: 1 | | . ",
     "url": "/vz330_mellow/z_assembly/lower_part#parts",
     
     "relUrl": "/vz330_mellow/z_assembly/lower_part#parts"
@@ -1639,7 +1639,7 @@
   },"234": {
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "Step 2 (do for each side)",
-    "content": "Notes . Required . • Box 6 - M4 - 13/16 • Box 6 - M4 - 2/16 • Box 6 - M4 - 3/16 . | . | Part | Location | . | z bracket Quantity: 2 | Layer: 1 | . | M4 x 12mm Quantity: 8 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 13/16 | . | M4 t-nut Quantity: 8 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . | M4 sliding t-nut Quantity: 4 | Box: VZ330 Box 6 Bag: M4 Bagnumber: 3/16 | . Instructions . | | • Insert sliding t-nut in the extrusion below the middle two holes | . | | • Attach M4 x 12mm + t-nut to the z bracket • Tip: screw in two screws for now in the two holes and the sliding t-nuts so they move with the part if you move it around. | . | | • Tighten the M4 x 12mm screw loosly, we need to align the z bracket | . | | • Align the front rod with the z-alignment tool • tighten the M4 x 12mm screws, when it’s aligned | . ",
+    "content": "Notes . Required . • Box 6 - M4 - 13/16 • Box 6 - M4 - 2/16 • Box 6 - M4 - 3/16 . | . | Part | Location | . | z bracket Quantity: 2 | Layer: 1 | . | M4 x 12mm Quantity: 8 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 13/16 | . | M4 t-nut Quantity: 8 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . | M4 rollin t-nut Quantity: 4 | Box: VZ330 Box 6 Bag: M4 Bagnumber: 3/16 | . Instructions . | | • Insert rollin t-nut in the extrusion below the middle two holes | . | | • Attach M4 x 12mm + t-nut to the z bracket • Tip: screw in two screws for now in the two holes and the rollin t-nuts so they move with the part if you move it around. | . | | • Tighten the M4 x 12mm screw loosly, we need to align the z bracket | . | | • Align the front rod with the z-alignment tool • tighten the M4 x 12mm screws, when it’s aligned | . ",
     "url": "/vz330_mellow/z_assembly/lower_part#step-2-do-for-each-side",
     
     "relUrl": "/vz330_mellow/z_assembly/lower_part#step-2-do-for-each-side"
@@ -1877,7 +1877,7 @@
   },"268": {
     "doc": "3.3 Top rod mounts",
     "title": "Part’s",
-    "content": "| Part | Location | Info | . | M4 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 4/16 |   | . | M4 x 20mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 8/16 |   | . | M4 t-nut Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 |   | . | Top rod mount Quantity: 4 | Layer: 1 | picture | . ",
+    "content": "| Part | Location | Info | . | M4 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 4/16 |   | . | M4 x 20mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 8/16 |   | . | M4 t-nut Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 |   | . | Top rod mount Quantity: 4 | Layer: 1 | | . ",
     "url": "/vz330_mellow/z_assembly/top_rod_mounts#parts",
     
     "relUrl": "/vz330_mellow/z_assembly/top_rod_mounts#parts"
@@ -2108,7 +2108,7 @@
   },"301": {
     "doc": "3.4 Z-Motor bracket",
     "title": "Part’s",
-    "content": "| Part | Location | Info | . | M3 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 16/16 |   | . | M4 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 |   | . | M4 t-nut Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 |   | . | GT2 20 teeth Quantity: 1 | Layer: 1 | picture | . | NEMA 17 stepper Quantity: 1 | Layer: 1 |   | . | Motor mount plate Quantity: 1 | Layer: 1 | picture | . | Extrutsion mount plate Quantity: 1 | Layer: 1 | picture | . ",
+    "content": "| Part | Location | Info | . | M3 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 16/16 |   | . | M4 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 |   | . | M4 t-nut Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 |   | . | GT2 20 teeth Quantity: 1 | Layer: 1 | | . | NEMA 17 stepper Quantity: 1 | Layer: 1 |   | . | Motor mount plate Quantity: 1 | Layer: 1 | | . | Extrutsion mount plate Quantity: 1 | Layer: 1 | | . ",
     "url": "/vz330_mellow/z_assembly/z_motor#parts",
     
     "relUrl": "/vz330_mellow/z_assembly/z_motor#parts"

@@ -24,9 +24,9 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 | M3 x 45mm (countersunk) <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 8/16 |  |
 | M3 nut <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 12/16 |  |
 | M4 x 10mm <br> Quantity: 16 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 4/16 |  |
-| LMK10LUU <br> Quantity: 4 | **Layer**: 2 | picture |
-| Oldham coupler <br> Quantity: 2 | **Layer**: 2 | picture |
-| Springs / Silicon dumper <br> Quantity: 4 | **Box**: VZ330 Box 2 | picture |
+| LMK10LUU <br> Quantity: 4 | **Layer**: 2 | ![part](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/parts/lmk10luu.png) |
+| Oldham coupler <br> Quantity: 2 | **Layer**: 2 | ![part](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/parts/oldham_coupler.png) |
+| Springs / Silicon dumper <br> Quantity: 4 | **Box**: VZ330 Box 2 | |
 
 # STLs
 
