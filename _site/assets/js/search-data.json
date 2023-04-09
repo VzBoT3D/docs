@@ -2129,7 +2129,7 @@
   },"304": {
     "doc": "3.4 Z-Motor bracket",
     "title": "Step 2",
-    "content": "Notes . | . | Part | Location | . | NEMA 17 motor Quantity: 1 | Layer: 1 | . | Motor mount plate Quantity: 1 | Layer: 1 | . Instructions . | | • Attach the NEMA 17 motor to the motor mount plate with the four M3 x 10mm screws • Take care that the motor cable points to the back ( the side with the slides in the plate) | . ",
+    "content": "Notes . Required . • Box 6 - M3 - 16/16 . | . | Part | Location | . | NEMA 17 motor Quantity: 1 | Layer: 1 | . | Motor mount plate Quantity: 1 | Layer: 1 | . | M3 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 16/16 | . Instructions . | | • Attach the NEMA 17 motor to the motor mount plate with the four M3 x 10mm screws • Take care that the motor cable points to the back ( the side with the slides in the plate) | . ",
     "url": "/vz330_mellow/z_assembly/z_motor#step-2",
     
     "relUrl": "/vz330_mellow/z_assembly/z_motor#step-2"
