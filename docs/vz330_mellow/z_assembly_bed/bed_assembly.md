@@ -116,6 +116,9 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 ## Step 4
 
+{: .highlight }
+> You should first apply the magnetic sheet and then the heated bed, due to the reason that the bed isn't flat anymore after applying the heated bed due to the thermistor build into it.
+
 ### Magnetic sheet
 
 Prepare bed ( heatmap and magnetic sheet) - looking for videos
