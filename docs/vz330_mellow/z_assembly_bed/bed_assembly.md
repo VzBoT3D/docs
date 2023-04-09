@@ -93,7 +93,7 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 <br>
 
-### Step 3
+## Step 3
 
 ### Notes
 
@@ -114,15 +114,40 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 <br>
 
-### Step 4
+## Step 4
+
+### Heatbed
+
+|:-|:-|
+| [![heatbed](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/heatbed_video.png)](https://www.youtube.com/embed/vZx4vfevwx4 "Apply heatbed") | &#8226; How to apply the heatbed to the aluminium plate |
+{: .instructiontable}
+
+### Magnetic sheet
 
 Prepare bed ( heatmap and magnetic sheet) - looking for videos
 
-### Step 5
+## Step 5
 
-assembling knob!
+### Notes
 
-### Step 6
+|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step5.png) |
+
+|:-|:-|
+| **Type**: <br> **Amount**: | Bed leveling knobs <br> 4 | 
+| **Type**: <br> **Amount**: | M3 nut <br> 4 |
+
+<br>
+
+### Instructions
+
+|:-|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step5_part1.png) | &#8226; Insert the m3 nut in the leveling knob and press it in so it sits flush at the bottom |
+{: .instructiontable}
+
+<br>
+
+## Step 6
 
 ### Notes
 

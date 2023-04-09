@@ -108,3 +108,9 @@ const resizeImgLowerPart = new ImageResize({
   element : '#stl-lower_part__map'
 })
   
+const resizeImgBedAssembly = new ImageResize({
+  width: 700,
+  height: 701,
+  element : '#stl-bed_assembly__map'
+})
+
