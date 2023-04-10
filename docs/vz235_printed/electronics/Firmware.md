@@ -158,4 +158,33 @@ This will give you the serial you need to put in your Printer.cfg to make sure t
 
 ![stm32](../../assets/images/manual/vz235_printed/electronics/Firmware/serial.PNG)
 
- 
+ # Pi as secondary MCU
+
+ Next up we're gonna run a few small commands through Putty so we can use the Pi as a secondary MCU to control CPAP.
+
+
+```cd ~/klipper/```
+
+```sudo cp ./scripts/klipper-mcu.service /etc/systemd/system/```
+
+```sudo systemctl enable klipper-mcu.service```
+
+Next we select the correct MCU for the Pi.
+
+```cd ~/klipper/```
+
+```make menuconfig```
+
+In the menu, set "Microcontroller Architecture" to "Linux process," then save and exit.
+
+To build and install the new micro-controller code, run:
+
+```sudo service klipper stop```
+
+```make flash```
+
+```sudo service klipper start```
+
+If klippy.log reports a "Permission denied" error when attempting to connect to /tmp/klipper_host_mcu then you need to add your user to the tty group. The following command will add the "pi" user to the tty group:
+
+```sudo usermod -a -G tty pi```
