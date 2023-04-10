@@ -94,19 +94,22 @@ Go down to Micro-controller Architecture and press the spacebar. you'll see a li
 
 Now go down to Processor Model and press space there. We're gonna be selecting the correct MCU we have on our Motherboard.
 
-For the Mellow Super 8 V1.3 we need the STM32F407. And we next Select the Bootloader offset to be 32KiB Bootloader.
+For the Mellow Super 8 V1.3 we need the STM32F407. 
 
-It should look like this.
+And we next Select the Bootloader offset to be 32KiB Bootloader like this.
 
-![stm32](../../assets/images/manual/vz235_printed/electronics/Firmware/F407Setup.PNG)
+![F407](../../assets/images/manual/vz235_printed/electronics/Firmware/F407Setup.PNG)
 
-For the Mellow Super 8 Pro we need to use the STM32H743 with a 128KiB bootloader Offset. Like this.
+For the Mellow Super 8 Pro we need to use the STM32H723 or the STM32H743 Check wich one you have by reading it on the Chip of the Motherboard.
 
-![stm32](../../assets/images/manual/vz235_printed/electronics/Firmware/H743.PNG)
+Use both with a 128KiB bootloader Offset. And a 25MHz Crystal Like this.
+
+![H723](../../assets/images/manual/vz235_printed/electronics/Firmware/H723.PNG)
+![H743](../../assets/images/manual/vz235_printed/electronics/Firmware/H743.PNG)
 
 Now you simply Press: Q and hit Y for Yes save configuration.
 
-![stm32](../../assets/images/manual/vz235_printed/electronics/Firmware/save.PNG)
+![Save](../../assets/images/manual/vz235_printed/electronics/Firmware/save.PNG)
 
 Once that is done you simply type this command in putty and it will make the firmware file for you.
 
@@ -114,10 +117,44 @@ Once that is done you simply type this command in putty and it will make the fir
 
 Once it's done with compiling the firmware you'll see something like this telling you the file is ready and where it is located.
 
-![stm32](../../assets/images/manual/vz235_printed/electronics/Firmware/firmwaredone.PNG)
+![firmwaredone](../../assets/images/manual/vz235_printed/electronics/Firmware/firmwaredone.PNG)
 
 # Putting the firmware on the Motherboard.
 
 Now we're gonna use are next bit of software called WinSCP from this site [WinSCP](https://winscp.net/eng/download.php).
 
 Once downloaded start it up and you'll see a screen like this.
+
+![WinSCP](../../assets/images/manual/vz235_printed/electronics/Firmware/WinSCP.PNG)
+
+Again fill in your printers details and press Login. It will give you a warning since this is the first time connecting but just press Add. Once logged in you'll see the files on your Pi.
+
+![logged in](../../assets/images/manual/vz235_printed/electronics/Firmware/loggedin.PNG)
+
+Next on the right side go to the Folder: Klipper and then go to the Folder: Out Like shown Bellow.
+
+![out](../../assets/images/manual/vz235_printed/electronics/Firmware/out.PNG)
+
+Next Right click the file klipper.bin and press Download you'll see a screen giving you a option where to save the file. Put it on the SDCard for the Motherboard. wich you should have plugged into your PC/Laptop at this time.
+
+Now open the SDCard and rename the file from klipper.bin to firmware.bin.
+
+![Download](../../assets/images/manual/vz235_printed/electronics/Firmware/download.PNG)
+
+
+Now power off your Printer and put in the SDCard with the firmware.bin file. Once you power it back on again and wait a couple of minutes and take out the SDCard and put it in your PC/Laptop. 
+
+The file should now be named FLY.CUR meaning the board successfully flashed.
+
+# Serial time
+
+Now we're gonna make sure the Motherboard can talk to the Pi. Put back the SDCard and power up the printer again.
+
+Once it's all powered on open Putty Login and type in this command.
+
+```ls /dev/serial/by-id/*```
+
+This will give you the serial you need to put in your Printer.cfg to make sure they can talk to eachother.
+
+![stm32](../../assets/images/manual/vz235_printed/electronics/Firmware/serial.PNG)
+
