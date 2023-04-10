@@ -148,7 +148,7 @@ The file should now be named FLY.CUR meaning the board successfully flashed.
 
 # Serial time
 
-Now we're gonna make sure the Motherboard can talk to the Pi. Put back the SDCard and power up the printer again.
+Now we're gonna make sure the Motherboard can talk to the Pi. Put back the SDCard and power up the printer.
 
 Once it's all powered on open Putty Login and type in this command.
 
@@ -158,3 +158,4 @@ This will give you the serial you need to put in your Printer.cfg to make sure t
 
 ![stm32](../../assets/images/manual/vz235_printed/electronics/Firmware/serial.PNG)
 
+ 
