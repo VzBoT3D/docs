@@ -246,7 +246,7 @@
   },"35": {
     "doc": "3.5 Z-Switch & bed chain",
     "title": "Part’s",
-    "content": "| Part | Location | Info | . | M2 x 10mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M2 Bagnumber: 2/5 |   | . | M3 x 6mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 14/16 |   | . | M3 x 8mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 9/16 |   | . | M3 x 10mm Quantity: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 4/16 |   | . | M3 x 45mm Quantity: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 8/16 |   | . | M3 nut Quantity: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 12/16 |   | . | M3 t-nut Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 1/16 |   | . | Microswitch Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | picture | . ",
+    "content": "| Part | Location | Info | . | M2 x 10mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M2 Bagnumber: 2/5 |   | . | M3 x 6mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 14/16 |   | . | M3 x 8mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 9/16 |   | . | M3 x 10mm Quantity: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 4/16 |   | . | M3 x 45mm Quantity: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 8/16 |   | . | M3 nut Quantity: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 12/16 |   | . | M3 t-nut Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 1/16 |   | . | Microswitch Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | | . | Endstop holder Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | | . | Z-chain holder Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | | . ",
     "url": "/vz330_mellow/z_assembly/bed_additions#parts",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_additions#parts"
@@ -260,28 +260,28 @@
   },"37": {
     "doc": "3.5 Z-Switch & bed chain",
     "title": "Step 1",
-    "content": "Install endstop holder . ",
+    "content": "Notes . Required . • Box 6 - M3 - 4/16 • Box 2 . | . | Part | Location | . | M3 x 10mm Quantity: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 4/16 | . | Endstop holder Quantitiy: 1 | Layer: 2 Box: VZ330 Box 2 | . Instructions . | | • Screw in the endstop holder with the M3 x 10mm screw to the top front z rod holder. | . ",
     "url": "/vz330_mellow/z_assembly/bed_additions#step-1",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_additions#step-1"
   },"38": {
     "doc": "3.5 Z-Switch & bed chain",
     "title": "Step 2",
-    "content": "Install endstop . ",
+    "content": "Notes . Required . • Box 6 - M2 - 2/5 • Box 2 . | . | Part | Location | . | M2 x 10mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M2 Bagnumber: 2/5 | . | Endstop holder Quantitiy: 1 | From step 1 | . | Microswitch Quantity: 1 | Box: VZ330 Box 2 | . Instructions . | | • The pin from the microswitch needs to point to the outerside of the frame • Mount the microswitch to the endstop with the two M2 x 10mm screws. | . ",
     "url": "/vz330_mellow/z_assembly/bed_additions#step-2",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_additions#step-2"
   },"39": {
     "doc": "3.5 Z-Switch & bed chain",
     "title": "Step 3",
-    "content": "Install screw + nut in bed . ",
+    "content": "Required . • Box 6 - M3 - 8/16 • Box 6 - M3 - 12/16 . | . | Part | Location | . | M3 x 45mm Quantity: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 8/16 | . | M3 nut Quantitiy: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 12/16 | . Instructions . | | • Screw on the m3 nut to the M3 x 45mm screw • Screw in the nut screw combination to the front right of the bed support piece in the corresponding hole • The actual position of the screw will be aligned later in the build | . ",
     "url": "/vz330_mellow/z_assembly/bed_additions#step-3",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_additions#step-3"
   },"40": {
     "doc": "3.5 Z-Switch & bed chain",
     "title": "Step 4",
-    "content": "Install chain holder . ",
+    "content": "Notes . Required . • Box 6 - M3 - 14/16 • Box 6 - M3 - 9/16 • Box 2 . | . | Part | Location | . | M3 x 6mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 14/16 | . | M3 x 8mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 9/16 | . | Chain holder Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | . Instructions . | | • Use the M3 x 6mm screws to attach the chain holder to the bed support • Put in the M3 x 8mm screws in the other two holes, with them we later attach the chain to the holder | . ",
     "url": "/vz330_mellow/z_assembly/bed_additions#step-4",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_additions#step-4"
