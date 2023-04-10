@@ -4,7 +4,7 @@ title: 6.3 Firmware Setup
 parent: 6. Electronics
 grand_parent: VzBoT235 - Printed Version
 has_toc: false
-nav_order: 2
+nav_order: 3
 has_children: false
 permalink: /vz235_printed/electronics/Firmware
 ---
