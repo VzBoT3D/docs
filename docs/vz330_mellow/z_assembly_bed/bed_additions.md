@@ -36,6 +36,8 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 
 ## Step 1
 
+1.252
+
 ### Notes
 
 {: .highlight }
