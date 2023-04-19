@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 7.4 Display
-parent: 7. Electronics
+title: 6.5 Display
+parent: 6. Electronics
 grand_parent: VzBoT330 - Mellow Kit
 has_toc: false
-nav_order: 3
+nav_order: 5
 has_children: false
 permalink: /vz330_mellow/electronics/display
 ---

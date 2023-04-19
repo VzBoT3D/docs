@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 7.2 Mellow Super8 v1.3
-parent: 7. Electronics
+title: 6.2 Mellow Super8 v1.3
+parent: 6. Electronics
 grand_parent: VzBoT330 - Mellow Kit
 has_toc: false
 nav_order: 2
