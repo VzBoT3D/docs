@@ -154,7 +154,7 @@ permalink: /vz330_mellow/z_assembly/lower_part
 ### Instructions
 
 |:-|:-|
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step3_part1.png) | &#8226; Attach M4 x 12mm + t-nut to the lower leadscrew mount |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step3_part1.png) | &#8226; Attach M4 x 10mm + t-nut to the lower leadscrew mount |
 {: .instructiontable}
 
 
