@@ -61,8 +61,9 @@ permalink: /vz330_mellow/electronics/super_mellow
 | ![Ports with Mosfets](../../assets/images/manual/vz235_printed/electronics/DSC06340.JPG) | &#8226; Located in a bag in the box <br> &#8226; Break them apart <br> &#8226; Install mosfets like shown (face doesn't matter) |
 {: .instructiontable}
 
-## Driver setup ( 2209 )
+## Prepare driver setup
 
+## Driver setup ( 2209 )
 
 ## Driver setup ( 5160 )
 
