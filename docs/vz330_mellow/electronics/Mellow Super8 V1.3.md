@@ -1,15 +1,13 @@
 ---
 layout: default
-title: 7.3 Mellow Super8 v1.3
+title: 7.2 Mellow Super8 v1.3
 parent: 7. Electronics
 grand_parent: VzBoT330 - Mellow Kit
 has_toc: false
-nav_order: 3
+nav_order: 2
 has_children: false
 permalink: /vz330_mellow/electronics/super_mellow
 ---
-
-Here's A detailed guide on how to install the Mellow Super8 V1.3 with Mellow 5160HV Externals and how to wire everything up.
 
 # Parts
 
@@ -54,8 +52,10 @@ Here's A detailed guide on how to install the Mellow Super8 V1.3 with Mellow 516
 | Board <br> Quantity: 1 | **Layer**: 2 |
 | Mosfets <br> Quantity: x | **Layer**: 2 |
 
+<br>
 
 ### Instructions
+
 |:-|:-|
 | ![empty ports](../../assets/images/manual/vz235_printed/electronics/DSC06337.JPG) | &#8226; Mosfets port's are between fan headers |
 | ![Ports with Mosfets](../../assets/images/manual/vz235_printed/electronics/DSC06340.JPG) | &#8226; Located in a bag in the box <br> &#8226; Break them apart <br> &#8226; Install mosfets like shown (face doesn't matter) |
