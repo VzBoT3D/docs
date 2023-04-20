@@ -813,21 +813,21 @@
   },"116": {
     "doc": "4.1 Exchange parts",
     "title": "Step1",
-    "content": "Notes . | . | Part | Location | . | Part 1 Quantity: 1 | STL | . | Part 2 Quantity: 1 | STL | . Instructions . | | • Remove the two M3 x 35mm screws from the motor mount. | . | | • Remove the two highlighted PLA parts with the ABS ones. • Screw back in the two M3 x 35mm screws. | . Do this for both back motor mounts . ",
+    "content": "Notes . | . | Part | Location | . | Part 1 Quantity: 1 | STL | . | Part 2 Quantity: 1 | STL | . Instructions . | | • Remove the two M3 x 35mm screws from the motor mount. | . | | • Remove the two highlighted PLA parts with the ABS ones. • Screw back in the two M3 x 35mm screws. | . Do this for both front motor mounts . ",
     "url": "/vz330_mellow/gantry/change_parts#step1",
     
     "relUrl": "/vz330_mellow/gantry/change_parts#step1"
   },"117": {
     "doc": "4.1 Exchange parts",
     "title": "Step 2",
-    "content": "Notes . | . | Part | Location |   | . |   | Part 1 Quantity: 1 | STL | . Instructions . | | • Remove the two M3 x 30mm screws from the motor mount. | . | | • Unscrew the two mitsumi shoulder bolts a bit. | . | | • Remove the spacer and replace it with the ABS one • Screw back in the m3 x 30mm screw • Tighten the mitsumi shoulder bolts again. | . ",
+    "content": "Notes . | . | Part | Location | . | Part 1 Quantity: 1 | STL | . Instructions . | | • Remove the two M3 x 30mm screws from the motor mount. | . | | • Unscrew the two mitsumi shoulder bolts a bit. | . | | • Remove the spacer and replace it with the ABS one • Screw back in the m3 x 30mm screw • Tighten the mitsumi shoulder bolts again. | . ",
     "url": "/vz330_mellow/gantry/change_parts#step-2",
     
     "relUrl": "/vz330_mellow/gantry/change_parts#step-2"
   },"118": {
     "doc": "4.1 Exchange parts",
     "title": "Step 3",
-    "content": "Notes . | . | Part | Location |   | . |   | Spacer Quantity: 1 | STL | . Instruction . | | • Remove the two M3 screws on each side from the gantry part • Slide the cf tube out of the gantry by tilting it. | . | | • Messaure the height of your CF tube and substract it from 21 mm. • Divide it then by two and print four spacers in that thickness. • If you want to be super precicise do the same thing for the other side. And print each messaured thickness twice. | . | | • Insert the created spacer’s like shown and assemble the gantry with the m3 screws again. | . ",
+    "content": "Notes . | . | Part | Location | . | Spacer Quantity: 1 | STL | . Instruction . | | • Remove the two M3 screws on each side from the gantry part • Slide the cf tube out of the gantry by tilting it. | . | | • Messaure the height of your CF tube and substract it from 21 mm. • Divide it then by two and print four spacers in that thickness. • If you want to be super precicise do the same thing for the other side. And print each messaured thickness twice. | . | | • Insert the created spacer’s like shown and assemble the gantry with the m3 screws again. | . ",
     "url": "/vz330_mellow/gantry/change_parts#step-3",
     
     "relUrl": "/vz330_mellow/gantry/change_parts#step-3"
@@ -897,7 +897,7 @@
   },"128": {
     "doc": "6. Electronics",
     "title": "Table of content",
-    "content": ". | Wiring diagram | Mellow Super8 v1.3 | Layout | Firmware | Printer config | Display | . ",
+    "content": ". | Wiring diagram | Layout | Mellow Super8 v1.3 | Firmware | Printer config | Display | . ",
     "url": "/vz330_mellow/electronics#table-of-content",
     
     "relUrl": "/vz330_mellow/electronics#table-of-content"
