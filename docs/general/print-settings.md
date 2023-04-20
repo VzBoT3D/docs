@@ -26,7 +26,7 @@ Parts such as motor mounts, bed frame braces, etc.
 | Layer width                | **0.4-0.6mm**                         |
 | Outside perimiters (walls) | **4**                                 |
 | Top/bottom layers:         | **5**                                 |
-| Infill                     | **40-50%** cubic, gyroid or honeycomb |
+| Infill                     | **40-50%** cubic, triangular, gyroid or honeycomb |
 
 ## For motion parts
 
@@ -38,4 +38,4 @@ Parts such as the carriage and X gantry joint, etc.
 | Layer width                | **0.4-0.6mm**                         |
 | Outside perimiters (walls) | **4**                                 |
 | Top/bottom layers:         | **5**                                 |
-| Infill                     | **30-40%** cubic, gyroid or honeycomb |
+| Infill                     | **30-40%** cubic, triangular, gyroid or honeycomb |

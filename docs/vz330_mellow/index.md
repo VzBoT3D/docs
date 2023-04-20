@@ -20,12 +20,13 @@ On how to print the files for this printer please refer to [print settings](../g
 <br>
 
 We advice to build the printer in the following order:
-1. [Preparation](./vz330_mellow/preparation)
+0. [Preparation](./vz330_mellow/preparation)
+1. [Print plates](./vz330_mellow/print_plates)
 2. [Frame](./vz330_mellow/frame)
 3. [Z - Assembly & Bed](./vz330_mellow/z_assembly)
 4. [Gantry](./vz330_mellow/gantry)
 5. [Bottom and rear panel](./vz330_mellow/bottom_panels)
-6. [Fume extractor](./vz330_mellow/fume_extractor)
-7. [Electronics](./vz330_mellow/electronics)
+6. [Electronics](./vz330_mellow/electronics)
+7. [Fume extractor](./vz330_mellow/fume_extractor)
 8. [Side panels + RSCS](./vz330_mellow/rscs)
 9. [Top cover and doors panel](./vz330_mellow/top_cover)
