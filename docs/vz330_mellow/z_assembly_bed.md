@@ -23,5 +23,5 @@ The proper alignment procedure of the VZ235 is the same as on the VZ330 only dif
 1. [Lower rod & leadscrew bracket](./z_assembly/lower_part)
 2. [Bed assembly](./z_assembly/bed_assembly)
 3. [Top rod mounts](./z_assembly/top_rod_mounts)
-4. [Single z-motor](./z_assembly/single_z_motor)
+4. [Single z-motor](./z_assembly/z_motor)
 5. [Z-switch & bed chain](./z_assembly/bed_additions)

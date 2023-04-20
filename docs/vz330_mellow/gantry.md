@@ -20,5 +20,5 @@ permalink: /vz330_mellow/gantry
 
 # Table of content
 
-1. [Exchange parts](./gantry/disassemble)
+1. [Exchange parts](./gantry/change_parts)
 2. [Printhead](./gantry/printhead)
