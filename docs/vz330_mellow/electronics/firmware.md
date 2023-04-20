@@ -69,9 +69,7 @@ Once you have the IP it's time to start Putty from this website. [Putty](https:/
 {: .instructiontable}
 
 |:-|
-| Now go down to Processor Model and press space there. We're gonna be selecting the correct MCU we have on our Motherboard. |
-| For the Mellow Super 8 V1.3 we need the STM32F407. <br> 
-| For the Mellow Super 8 Pro we need to use the STM32H723 or the STM32H743 Check wich one you have by reading it on the Chip of the Motherboard. |
+| Now go down to Processor Model and press space there. We're gonna be selecting the correct MCU we have on our Motherboard. <br> &#8226; For the Mellow Super 8 V1.3 we need the STM32F407. <br>  &#8226; For the Mellow Super 8 Pro we need to use the STM32H723 or the STM32H743 Check wich one you have by reading it on the Chip of the Motherboard. |
 
 |:-|:-|
 | ![F407](../../assets/images/manual/vz235_printed/electronics/Firmware/F407Setup.PNG) |  And we next Select the Bootloader offset to be 32KiB Bootloader like this. |
