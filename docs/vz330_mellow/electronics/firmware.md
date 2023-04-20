@@ -13,7 +13,9 @@ permalink: /vz330_mellow/electronics/firmware
 
 # Flashing the Pi.
 
-Take your Pi's SDCard and put it in your PC/laptop. Now we're gonna use the program called Raspberry Pi Imager to flash the firmware for it onto our SDCard. You can get it here [Raspberry Pi Imager](https://www.raspberrypi.com/software/) 
+|:-|
+| Take your Pi's SDCard and put it in your PC/laptop. Now we're gonna use the program called Raspberry Pi Imager to flash the firmware for it onto our |
+| SDCard. You can get it here [Raspberry Pi Imager](https://www.raspberrypi.com/software/) |
 
 |:-|:-|
 | ![Mainpage](../../assets/images/manual/vz235_printed/electronics/Firmware/Main%20page.PNG) | Once downloaded start the software You'll be greated by this wonder full screen. |
@@ -30,8 +32,9 @@ Take your Pi's SDCard and put it in your PC/laptop. Now we're gonna use the prog
 
 # Installing Klipper.
 
-Once you've booted up your Pi find the IP adress of it with your Router. This IP will be user specific so we can't help much there.
-Once you have the IP it's time to start Putty from this website. [Putty](https://www.putty.org/)
+|:-|
+| Once you've booted up your Pi find the IP adress of it with your Router. This IP will be user specific so we can't help much there. |
+| Once you have the IP it's time to start Putty from this website. [Putty](https://www.putty.org/) |
 
 |:-|:-|
 | ![Putty](../../assets/images/manual/vz235_printed/electronics/Firmware/Putty.PNG) | If you've downloaded it start it up and you'll be greeted with this screen. Put your printes IP adress in the Host Name section and make sure port is set to 22 and SSH is checked. if you wanna save your printers settings enter a name in the Saved sessions box and press Save. Now press Open and you'll be greeted with a message just press yes there. |
@@ -88,70 +91,70 @@ Once you have the IP it's time to start Putty from this website. [Putty](https:/
 
 # Putting the firmware on the Motherboard.
 
-Now we're gonna use are next bit of software called WinSCP from this site [WinSCP](https://winscp.net/eng/download.php).
+|:-|
+| Now we're gonna use are next bit of software called WinSCP from this site [WinSCP](https://winscp.net/eng/download.php). |
+| Once downloaded start it up and you'll see a screen like this. |
 
-Once downloaded start it up and you'll see a screen like this.
+|:-|:-|
+| ![WinSCP](../../assets/images/manual/vz235_printed/electronics/Firmware/WinSCP.PNG) | Again fill in your printers details and press Login. It will give you a warning since this is the first time connecting but just press Add. Once logged in you'll see the files on your Pi. |
+| ![logged in](../../assets/images/manual/vz235_printed/electronics/Firmware/loggedin.PNG) | Next on the right side go to the Folder: Klipper and then go to the Folder: Out Like shown Bellow. |
+| ![out](../../assets/images/manual/vz235_printed/electronics/Firmware/out.PNG) | Next Right click the file klipper.bin and press Download. |
+| ![Download](../../assets/images/manual/vz235_printed/electronics/Firmware/download.PNG) | You'll see a screen giving you a option where to save the file. Put it on the SDCard for the Motherboard. wich you should have plugged into your PC/Laptop at this time. |
+{: .instructiontable}
 
-![WinSCP](../../assets/images/manual/vz235_printed/electronics/Firmware/WinSCP.PNG)
-
-Again fill in your printers details and press Login. It will give you a warning since this is the first time connecting but just press Add. Once logged in you'll see the files on your Pi.
-
-![logged in](../../assets/images/manual/vz235_printed/electronics/Firmware/loggedin.PNG)
-
-Next on the right side go to the Folder: Klipper and then go to the Folder: Out Like shown Bellow.
-
-![out](../../assets/images/manual/vz235_printed/electronics/Firmware/out.PNG)
-
-Next Right click the file klipper.bin and press Download you'll see a screen giving you a option where to save the file. Put it on the SDCard for the Motherboard. wich you should have plugged into your PC/Laptop at this time.
-
-Now open the SDCard and rename the file from klipper.bin to firmware.bin.
-
-![Download](../../assets/images/manual/vz235_printed/electronics/Firmware/download.PNG)
-
-
-Now power off your Printer and put in the SDCard with the firmware.bin file. Once you power it back on again and wait a couple of minutes and take out the SDCard and put it in your PC/Laptop. 
-
-The file should now be named FLY.CUR meaning the board successfully flashed.
+|:-|
+| Now open the SDCard and rename the file from klipper.bin to firmware.bin. |
+| Now power off your Printer and put in the SDCard with the firmware.bin file. Once you power it back on again and wait a couple of minutes and take out the SDCard and put it in your PC/Laptop. |
+|  The file should now be named FLY.CUR meaning the board successfully flashed. |
 
 # Serial time
 
-Now we're gonna make sure the Motherboard can talk to the Pi. Put back the SDCard and power up the printer.
+|:-|
+| Now we're gonna make sure the Motherboard can talk to the Pi. Put back the SDCard and power up the printer. |
+| Once it's all powered on open Putty Login and type in this command. |
 
-Once it's all powered on open Putty Login and type in this command.
+|:-|
+| ls /dev/serial/by-id/* |
+{: .commandtable}
 
-```ls /dev/serial/by-id/*```
+|:-|:-|
+| ![stm32](../../assets/images/manual/vz235_printed/electronics/Firmware/serial.PNG) | This will give you the serial you need to put in your Printer.cfg to make sure they can talk to eachother. |
+{: .instructiontable}
 
-This will give you the serial you need to put in your Printer.cfg to make sure they can talk to eachother.
+<br>
 
-![stm32](../../assets/images/manual/vz235_printed/electronics/Firmware/serial.PNG)
+# Pi as secondary MCU
 
- # Pi as secondary MCU
+|:-|
+| Next up we're gonna run a few small commands through Putty so we can use the Pi as a secondary MCU to control CPAP. |
 
- Next up we're gonna run a few small commands through Putty so we can use the Pi as a secondary MCU to control CPAP.
+|:-|
+| cd ~/klipper/ |
+| sudo cp ./scripts/klipper-mcu.service /etc/systemd/system/ |
+| sudo systemctl enable klipper-mcu.service |
+{: .commandtable}
 
+|:-|
+| Next we select the correct MCU for the Pi. |
 
-```cd ~/klipper/```
+|:-|
+| cd ~/klipper/ |
+| make menuconfig |
+{: .commandtable}
 
-```sudo cp ./scripts/klipper-mcu.service /etc/systemd/system/```
+|:-|
+| In the menu, set "Microcontroller Architecture" to "Linux process," then save and exit. |
+| To build and install the new micro-controller code, run: |
 
-```sudo systemctl enable klipper-mcu.service```
+|:-|
+| sudo service klipper stop |
+| make flash |
+| sudo service klipper start |
+{: .commandtable}
 
-Next we select the correct MCU for the Pi.
+|:-|
+| If klippy.log reports a "Permission denied" error when attempting to connect to /tmp/klipper_host_mcu then you need to add your user to the tty group. The following command will add the "pi" user to the tty group: |
 
-```cd ~/klipper/```
-
-```make menuconfig```
-
-In the menu, set "Microcontroller Architecture" to "Linux process," then save and exit.
-
-To build and install the new micro-controller code, run:
-
-```sudo service klipper stop```
-
-```make flash```
-
-```sudo service klipper start```
-
-If klippy.log reports a "Permission denied" error when attempting to connect to /tmp/klipper_host_mcu then you need to add your user to the tty group. The following command will add the "pi" user to the tty group:
-
-```sudo usermod -a -G tty pi```
+|:-|
+| sudo usermod -a -G tty pi |
+{: .commandtable}

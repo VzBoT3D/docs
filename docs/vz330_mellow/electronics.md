@@ -23,4 +23,5 @@ We trust everyone to use their own best judgement when wiring their printer, we 
 2. [Mellow Super8 v1.3](./electronics/super_mellow)
 3. [Layout](./electronics/layout)
 4. [Firmware](./electronics/firmware)
-5. [Display](./electronics/display)
+5. [Printer config](./electronics/config)
+6. [Display](./electronics/display)
