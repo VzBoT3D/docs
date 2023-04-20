@@ -44,7 +44,7 @@ permalink: /vz330_mellow/gantry/change_parts
 <br>
 
 {: .highlight }
-> Do this for both back motor mounts
+> Do this for both front motor mounts
 
 ## Step 2
 
@@ -53,7 +53,7 @@ permalink: /vz330_mellow/gantry/change_parts
 |:-|
 | ![Step 2](../../assets/images/manual/vz330_mellow/gantry/disassemble/step2.png) |
 
- Part | Location |
+| Part | Location |
 |:-|:-|
 | Part 1 <br> Quantity: 1 | [STL](#stls) |
 
@@ -82,7 +82,7 @@ permalink: /vz330_mellow/gantry/change_parts
 |:-|
 | ![Step 3](../../assets/images/manual/vz330_mellow/gantry/disassemble/step3.png) |
 
- Part | Location |
+| Part | Location |
 |:-|:-|
 | Spacer <br> Quantity: 1 | [STL](#stls) |
 
