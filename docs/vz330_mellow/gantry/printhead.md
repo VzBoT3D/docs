@@ -9,19 +9,18 @@ has_children: false
 permalink: /vz330_mellow/gantry/printhead
 ---
 
-# 4.3 Printhead
-
-## Overview
+<br>
 
 ![Overview](../../assets/images/manual/vz330_mellow/gantry/printhead/overview.png)
 
-## Parts
+# Parts
 
 | Part | Location | Info |
 |:-|:-|:-|
 | M3 x 5mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 | |
+| TODO | |
 
-## STLs
+# STLs
 
 | File name | Amount to print | Note |
 |-----------|-----------------|------|
@@ -44,14 +43,14 @@ permalink: /vz330_mellow/gantry/printhead
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M4 - 8/16
+> &#8226; Box 6 - M3 x 6mm
 
 | Part | Location
 |:-|:-|
-| M3 x 6mm <br> Quantity: 4 | xx |
-| Cable Holder | [STLs](#stls) |
+| M3 x 6mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 | Back part of printhead | **Layer**: xx |
-| Printhead cable holder | xx |
+| Cable Holder | [STLs](#stls) |
+| Printhead cable holder | [STLs](#stls) |
 
 <br>
 
@@ -70,12 +69,13 @@ permalink: /vz330_mellow/gantry/printhead
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M4 - 8/16
+> &#8226; Box 6 - M3 x 6mm <br>
+> &#8226; Box 6 - M3 x 5mm
 
 | Part | Location
 |:-|:-|
-| M3 x 6mm <br> Quantity: 8 | xx |
-| M3 x 5mm <br> Quantity: 4 | xx |
+| M3 x 6mm <br> Quantity: 8 | **Layer**: 3 <br> **Box**: VZ330 Box 6|
+| M3 x 5mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 | Part from step 1 | [Part from step 1](#step-1) |
 | Top plate | xx |
 | Bottom plate | xx |
@@ -94,6 +94,8 @@ permalink: /vz330_mellow/gantry/printhead
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step2.png) | &#8226; Screw on the top plate to the carriage with the four M3 x 5mm screws <br> &#8226; Install the back part from step 1 to the top plate with the two M3 x 6mm screws <br> &#8226; Install the front spacers with two M3 x 6mm screws <br> &#8226; Install the bottom plate to the assembly with four M3 x 6mm screws.
 {: .instructiontable}
 
+<br>
+
 ## Step 3
 
 ### Notes
@@ -101,13 +103,13 @@ permalink: /vz330_mellow/gantry/printhead
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M4 - 8/16 <br>
-> &#8226; Box 6 - M2 - 8/16
+> &#8226; Box 6 - M3 x 6mm <br>
+> &#8226; Box 6 - M2 x 8mm
 
 | Part | Location |
 |:-|:-|
-| M3 x 6mm <br> Quantity: 2 | xx |
-| M2 x 8mm <br> Quantity: 2 | xx |
+| M3 x 6mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| M2 x 8mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 
 <br>
 
@@ -126,12 +128,13 @@ permalink: /vz330_mellow/gantry/printhead
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M4 - 8/16
+> &#8226; Box 6 - M3 x 6mm <br>
+> &#8226; Box 6 - M3 t-nut
 
 | Part | Location
 |:-|:-|
-| M3 x 6mm <br> Quantity: 2 | xx |
-| M3 nut <br> Quantity: 2 | xx |
+| M3 x 6mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| M3 nut <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 | Part from step 3 | [Part from step 3](#step-3) |
 | Fan holder | xx |
 
@@ -156,14 +159,20 @@ permalink: /vz330_mellow/gantry/printhead
 | Part | Location
 |:-|:-|
 | GT2 belt <br> Quantity: 1 | xx |
-| Belt clips <br> Quantity: 2 | [STL](#stls)
+| Belt clips <br> Quantity: 2 | [STL](#stls) |
 
 <br>
 
 ### Instructions
 
 |:-|:-|
-| [![belt](../../assets/images/manual/vz330_mellow/gantry/printhead/step5.png)](https://www.youtube.com/embed/Ibi27Toh-pg "Apply belt") | &#8226; Make sure the motor's in the back are in the loosest position possible, moved to the front of the motor mount|
+| [![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step5_part1.png)](https://www.youtube.com/embed/Ibi27Toh-pg "Apply belt") | &#8226; Insert the first belt like so ( watch the video linked below for more details.)
+
+|:-|:-|
+| [![belt](../../assets/images/manual/vz330_mellow/gantry/printhead/step5_part2.png)](https://www.youtube.com/embed/Ibi27Toh-pg "Apply belt") | &#8226; Insert the second belt like so ( watch the video linked below for more details.) |
+
+|:-|:-|
+| [![belt](../../assets/images/manual/vz330_mellow/gantry/printhead/step5.png)](https://www.youtube.com/embed/Ibi27Toh-pg "Apply belt") | &#8226; Make sure the motor's in the back are in the loosest position possible, moved to the front of the motor mount. |
 {: .instructiontable}
 
 <br>
@@ -175,11 +184,14 @@ permalink: /vz330_mellow/gantry/printhead
 {: .highlight }
 > Required
 >
-> &#8226; Box x
+> &#8226; Box 6 - M3 x 10mm <br>
+> &#8226; Box 6 - M3 x ?mm
 
 | Part | Location |
 |:-|:-|
-| M3 x 10mm <br> Quantity: 2 | xx |
+| M3 x 10mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| M3 x ?mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| M3 heat insert <br> Quantity: 2 | self source |
 | Fanduct <br> Quantity: 1 | [STL's](#stls) |
 | xx <br> Quantity: 1 | [STL's](#stls) |
 
@@ -187,36 +199,75 @@ permalink: /vz330_mellow/gantry/printhead
 
 ### Instructions
 
-TODO
+|:-|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step6_part1.png)  | &#8226; Insert the heat insert's in the back holes of the fanduct |
+{: .instructiontable}
+
+|:-|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step6_part3.png)  | &#8226; Screw on the fan duct with the cpap connector to the printhead, with the M3 x 10mm screws. |
+{: .instructiontable}
+
+|:-|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step6_part2.png)  | &#8226; Use the printed spacers and the M3 x ??mm screws to secure and stabilize the duct to the printhead. |
+{: .instructiontable}
 
 ## Step 7
 
 ### Notes
 
+{: .highlight }
+> Required
+>
+> &#8226; Box 6 - M3 x 6mm
+
+|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step7.png) |
+
 | Part | Location |
 |:-|:-|
-| M3 x 6mm (ultra low profile ) <br> Quantity 2 | xx |
-
+| M3 x 6mm (ultra low profile ) <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 
 <br>
 
 ### Instructions
 
-Extruder
+|:-|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step7_part1.png)  | &#8226; Attach the preassembled extruder to the printhead with the M3 x 5mm ( ultra low profile ) screws |
+{: .instructiontable}
+
 <br>
 
 ## Step 8
 
 ### Notes
 
+{: .highlight }
+> Required
+>
+> &#8226; Box 6 - M3 x ??mm <br>
+> &#8226; Box 6 - M3 x ??mm
+
+|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8.png) |
+
 | Part | Location |
 |:-|:-|
-| PFTE Tube (22mm) <br> Quantity: 1 | - |
+| M3 x ??mm (ultra low profile ) <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| M3 x ??mm (ultra low profile ) <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| PFTE Tube (22mm) <br> Quantity: 1 | self source |
+| Goliath Hotend <br> Quantity: 1 | **Layer**: ?? |
+| Adapter plate <br> Quantity: 1 | **Layer**: ?? |
 
 <br>
 
 ### Instructions
 
+|:-|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8_part1.png)  | &#8226; Attache the adapter plate to the goliath hotendend with the M3 x ?? mm screws. |
+{: .instructiontable}
 
-Hotend + PFTE tube
+|:-|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8_part2.png)  | &#8226; Slide on the printed fanholder to the goliath hotend  <br> &#8226; Insert the 22mm pfte tube into the goliath on top <br> &#8226; Screw on the goliath to the printhead with the M3 x 6mm |
+{: .instructiontable}
+
 <br>
