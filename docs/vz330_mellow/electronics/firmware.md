@@ -26,6 +26,7 @@ Take your Pi's SDCard and put it in your PC/laptop. Now we're gonna use the prog
 | ![Specific_OS](../../assets/images/manual/vz235_printed/electronics/Firmware/Writing.PNG)| Now you've done that Press the big button saying Write and it's time to wait a bit. This can take some time. sometimes upto 15/20min. Just wait for it to say you can remove your SDCard once it's done and it's now time to plug it into your Pi and power it on. |
 {: .instructiontable}
 
+<br>
 
 # Installing Klipper.
 
@@ -44,6 +45,7 @@ Once you have the IP it's time to start Putty from this website. [Putty](https:/
 |:-|
 | sudo apt-get update |
 | sudo apt-get upgrade |
+{: .commandtable}
 
 |:-|
 | Now that we have a updated Pi it's time to setup the firmware for our Motherboard. |
@@ -51,6 +53,7 @@ Once you have the IP it's time to start Putty from this website. [Putty](https:/
 |:-|
 | cd ~/klipper/ |
 | make menuconfig |
+{: .commandtable}
 
 |:-|:-|
 | ![menuconfig](../../assets/images/manual/vz235_printed/electronics/Firmware/menuconfig.PNG) | You'll be greeted with this beautifull screen. |
@@ -83,7 +86,7 @@ Once you have the IP it's time to start Putty from this website. [Putty](https:/
 |:-|:-|
 | ![firmwaredone](../../assets/images/manual/vz235_printed/electronics/Firmware/firmwaredone.PNG) | Once it's done with compiling the firmware you'll see something like this telling you the file is ready and where it is located. |
 
-
+<br>
 
 # Putting the firmware on the Motherboard.
 
