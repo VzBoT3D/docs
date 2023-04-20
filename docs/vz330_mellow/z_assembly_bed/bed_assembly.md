@@ -20,10 +20,10 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 | Part | Location | Info |
 |:-------------|:------------------|:------|
-| M3 x 8mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 3/16  |  |
-| M3 x 45mm (countersunk) <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 8/16 |  |
-| M3 nut <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 12/16 |  |
-| M4 x 10mm <br> Quantity: 16 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 4/16 |  |
+| M3 x 8mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M3 x 45mm (countersunk) <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M3 nut <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M4 x 10mm <br> Quantity: 16 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
 | LMK10LUU <br> Quantity: 4 | **Layer**: 2 | ![part](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/parts/lmk10luu.png) |
 | Oldham coupler <br> Quantity: 2 | **Layer**: 2 | ![part](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/parts/oldham_coupler.png) |
 | Springs / Silicon dumper <br> Quantity: 4 | **Box**: VZ330 Box 2 | |
@@ -52,7 +52,7 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 {: .highlight }
 > Required 
 >
-> &#8226; Box 6 - M4 - 4/16
+> &#8226; Box 6 - M4 x 10mm
 
 |:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step1.png) |
@@ -81,7 +81,7 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 {: .highlight }
 > Required 
 >
-> &#8226; Box 6 - M3 - 3/16
+> &#8226; Box 6 - M3 x 8mm
 
 |:-|
 | ![Step 2](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step2.png) |
@@ -166,14 +166,14 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 {: .highlight }
 > Required 
 >
-> &#8226; Box 6 - M3 - 12/16
+> &#8226; Box 6 - M3 nut
 
 |:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step5.png) |
 
 |:-|:-|
 | Bed leveling knobs <br> Quantity: 4 | [STLs](#stls) |
-| M3 nut <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 12/16 |
+| M3 nut <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 
 <br>
 
@@ -192,7 +192,7 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 {: .highlight }
 > Required 
 >
-> &#8226; Box 6 - M3 - 8/16 <br>
+> &#8226; Box 6 - M3 x 45mm <br>
 > &#8226; Box 2
 
 |:-|
@@ -200,7 +200,7 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 |:-|:-|
 | Bed with attached heatmat and magnetic sheet <br> Quantity: 1 | [Part from step 5](#step-5) |
-| M3 x 45mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 8/16 |
+| M3 x 45mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 | Spring's or silicon dumper <br> Quantity: 4 | **Box**: VZ330 Box 2 |
 | Bed leveling knob's <br> Quantity: 4 | [STLs](#stls)
 

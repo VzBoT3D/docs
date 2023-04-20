@@ -21,10 +21,10 @@ permalink: /vz330_mellow/z_assembly/lower_part
 
 | Part | Location |
 |:-------------|:------------------|
-| M4 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 |  |
-| M4 x 12mm <br> Quantity: 16 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 13/16 |  |
-| M4 t-nut <br> Quantity: 20 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |  |
-| M4 rollin t-nut <br> Quantity: 4 | **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 3/16 | ![part](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/parts/rollin_t-nut.png) |
+| M4 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 | |
+| M4 x 12mm <br> Quantity: 16 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M4 t-nut <br> Quantity: 20 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M4 rollin t-nut <br> Quantity: 4 | **Box**: VZ330 Box 6  | ![part](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/parts/rollin_t-nut.png) |
 | 10mm rods ( 500mm ) <br> Quantity: 4 | **Layer**: 2  | ![part](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/parts/rod.png) |
 | Belt GT2 closed ( 1100mm ) <br> Quantity: 1 | **Layer**: 2 <br> **Box**: VZ330 Box 2 | picture |
 | Leadscrew TR8 ( 500 mm ) <br> Quantity: 2 | **Layer**: 2 | ![part](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/parts/leadscrew.png) |
@@ -60,7 +60,7 @@ permalink: /vz330_mellow/z_assembly/lower_part
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M4 - 13/16
+> &#8226; Box 6 - M4 x 12mm
 
 |:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step1.png) |
@@ -91,9 +91,9 @@ permalink: /vz330_mellow/z_assembly/lower_part
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M4 - 13/16 <br>
-> &#8226; Box 6 - M4 - 2/16 <br>
-> &#8226; Box 6 - M4 - 3/16 
+> &#8226; Box 6 - M4 x 12mm <br>
+> &#8226; Box 6 - M4 t-nut <br>
+> &#8226; Box 6 - M4 rollin t-nut 
 
 |:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2.png)  |
@@ -137,8 +137,8 @@ permalink: /vz330_mellow/z_assembly/lower_part
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M4 - 13/16 <br>
-> &#8226; Box 6 - M4 - 2/16 
+> &#8226; Box 6 - M4 x 12mm <br>
+> &#8226; Box 6 - M4 t-nut 
 
 |:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step3.png) |
@@ -171,7 +171,7 @@ permalink: /vz330_mellow/z_assembly/lower_part
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M4 - 13/16
+> &#8226; Box 6 - M4 x 12mm
 
 |:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step4.png) |

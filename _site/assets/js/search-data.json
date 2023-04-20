@@ -393,7 +393,7 @@
   },"56": {
     "doc": "3.5 Z-Switch & bed chain",
     "title": "Part’s",
-    "content": "| Part | Location | Info | . | M2 x 10mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M2 Bagnumber: 2/5 |   | . | M3 x 6mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 14/16 |   | . | M3 x 8mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 9/16 |   | . | M3 x 10mm Quantity: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 4/16 |   | . | M3 x 45mm Quantity: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 8/16 |   | . | M3 nut Quantity: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 12/16 |   | . | M3 t-nut Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 1/16 |   | . | Microswitch Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | | . | Endstop holder Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | | . | Z-chain holder Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | | . ",
+    "content": "| Part | Location | Info | . | M2 x 10mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 |   | . | M3 x 6mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 |   | . | M3 x 8mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 |   | . | M3 x 10mm Quantity: 1 | Layer: 3 Box: VZ330 Box 6 |   | . | M3 x 45mm Quantity: 1 | Layer: 3 Box: VZ330 Box 6 |   | . | M3 nut Quantity: 1 | Layer: 3 Box: VZ330 Box 6 |   | . | M3 t-nut Quantity: 2 | Layer: 3 Box: VZ330 Box 6 |   | . | Microswitch Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | | . | Endstop holder Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | | . | Z-chain holder Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | | . ",
     "url": "/vz330_mellow/z_assembly/bed_additions#parts",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_additions#parts"
@@ -407,28 +407,28 @@
   },"58": {
     "doc": "3.5 Z-Switch & bed chain",
     "title": "Step 1",
-    "content": "1.252 . Notes . Required . • Box 6 - M3 - 4/16 • Box 2 . | . | Part | Location | . | M3 x 10mm Quantity: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 4/16 | . | Endstop holder Quantitiy: 1 | Layer: 2 Box: VZ330 Box 2 | . Instructions . | | • Screw in the endstop holder with the M3 x 10mm screw to the top front z rod holder. | . ",
+    "content": "1.252 . Notes . Required . • Box 6 - M3 x 10mm • Box 2 . | . | Part | Location | . | M3 x 10mm Quantity: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 4/16 | . | Endstop holder Quantitiy: 1 | Layer: 2 Box: VZ330 Box 2 | . Instructions . | | • Screw in the endstop holder with the M3 x 10mm screw to the top front z rod holder. | . ",
     "url": "/vz330_mellow/z_assembly/bed_additions#step-1",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_additions#step-1"
   },"59": {
     "doc": "3.5 Z-Switch & bed chain",
     "title": "Step 2",
-    "content": "Notes . Required . • Box 6 - M2 - 2/5 • Box 2 . | . | Part | Location | . | M2 x 10mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M2 Bagnumber: 2/5 | . | Endstop holder Quantitiy: 1 | From step 1 | . | Microswitch Quantity: 1 | Box: VZ330 Box 2 | . Instructions . | | • The pin from the microswitch needs to point to the outerside of the frame • Mount the microswitch to the endstop with the two M2 x 10mm screws. | . ",
+    "content": "Notes . Required . • Box 6 - M2 x 10mm • Box 2 . | . | Part | Location | . | M2 x 10mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 | . | Endstop holder Quantitiy: 1 | From step 1 | . | Microswitch Quantity: 1 | Box: VZ330 Box 2 | . Instructions . | | • The pin from the microswitch needs to point to the outerside of the frame • Mount the microswitch to the endstop with the two M2 x 10mm screws. | . ",
     "url": "/vz330_mellow/z_assembly/bed_additions#step-2",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_additions#step-2"
   },"60": {
     "doc": "3.5 Z-Switch & bed chain",
     "title": "Step 3",
-    "content": "Required . • Box 6 - M3 - 8/16 • Box 6 - M3 - 12/16 . | . | Part | Location | . | M3 x 45mm Quantity: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 8/16 | . | M3 nut Quantitiy: 1 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 12/16 | . Instructions . | | • Screw on the m3 nut to the M3 x 45mm screw • Screw in the nut screw combination to the front right of the bed support piece in the corresponding hole • The actual position of the screw will be aligned later in the build | . ",
+    "content": "Required . • Box 6 - M3 x 45mm • Box 6 - M3 nut . | . | Part | Location | . | M3 x 45mm Quantity: 1 | Layer: 3 Box: VZ330 Box 6 | . | M3 nut Quantitiy: 1 | Layer: 3 Box: VZ330 Box 6 | . Instructions . | | • Screw on the m3 nut to the M3 x 45mm screw • Screw in the nut screw combination to the front right of the bed support piece in the corresponding hole • The actual position of the screw will be aligned later in the build | . ",
     "url": "/vz330_mellow/z_assembly/bed_additions#step-3",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_additions#step-3"
   },"61": {
     "doc": "3.5 Z-Switch & bed chain",
     "title": "Step 4",
-    "content": "Notes . Required . • Box 6 - M3 - 14/16 • Box 6 - M3 - 9/16 • Box 2 . | . | Part | Location | . | M3 x 6mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 14/16 | . | M3 x 8mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 9/16 | . | Chain holder Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | . Instructions . | | • Use the M3 x 6mm screws to attach the chain holder to the bed support • Put in the M3 x 8mm screws in the other two holes, with them we later attach the chain to the holder | . ",
+    "content": "Notes . Required . • Box 6 - M3 x 6mm • Box 6 - M3 x 8mm • Box 2 . | . | Part | Location | . | M3 x 6mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 | . | M3 x 8mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 | . | Chain holder Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | . Instructions . | | • Use the M3 x 6mm screws to attach the chain holder to the bed support • Put in the M3 x 8mm screws in the other two holes, with them we later attach the chain to the holder | . ",
     "url": "/vz330_mellow/z_assembly/bed_additions#step-4",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_additions#step-4"
@@ -512,7 +512,7 @@
   },"73": {
     "doc": "3.2 Bed Assembly",
     "title": "Parts",
-    "content": "| Part | Location | Info | . | M3 x 8mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 3/16 |   | . | M3 x 45mm (countersunk) Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 8/16 |   | . | M3 nut Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 12/16 |   | . | M4 x 10mm Quantity: 16 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 4/16 |   | . | LMK10LUU Quantity: 4 | Layer: 2 | | . | Oldham coupler Quantity: 2 | Layer: 2 | | . | Springs / Silicon dumper Quantity: 4 | Box: VZ330 Box 2 |   | . ",
+    "content": "| Part | Location | Info | . | M3 x 8mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 |   | . | M3 x 45mm (countersunk) Quantity: 4 | Layer: 3 Box: VZ330 Box 6 |   | . | M3 nut Quantity: 4 | Layer: 3 Box: VZ330 Box 6 |   | . | M4 x 10mm Quantity: 16 | Layer: 3 Box: VZ330 Box 6 |   | . | LMK10LUU Quantity: 4 | Layer: 2 | | . | Oldham coupler Quantity: 2 | Layer: 2 | | . | Springs / Silicon dumper Quantity: 4 | Box: VZ330 Box 2 |   | . ",
     "url": "/vz330_mellow/z_assembly/bed_assembly#parts",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_assembly#parts"
@@ -533,14 +533,14 @@
   },"76": {
     "doc": "3.2 Bed Assembly",
     "title": "Step 1",
-    "content": "Notes . Required . • Box 6 - M4 - 4/16 . | . | Part | Location | . | Single bed piece Quantity: 1 | Layer: 4 | . | LMK10LUU Quantity: 4 | Layer: 1 | . | Oldham couplers Quantity: 2 | Layer: 2 | . | M4 x 10mm Quantity: 16 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 4/16 | . Instructions . | | • Insert LMK10LUU in the four holes • fixate them with the M4 x 10mm screws | . ",
+    "content": "Notes . Required . • Box 6 - M4 x 10mm . | . | Part | Location | . | Single bed piece Quantity: 1 | Layer: 4 | . | LMK10LUU Quantity: 4 | Layer: 1 | . | Oldham couplers Quantity: 2 | Layer: 2 | . | M4 x 10mm Quantity: 16 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 4/16 | . Instructions . | | • Insert LMK10LUU in the four holes • fixate them with the M4 x 10mm screws | . ",
     "url": "/vz330_mellow/z_assembly/bed_assembly#step-1",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_assembly#step-1"
   },"77": {
     "doc": "3.2 Bed Assembly",
     "title": "Step 2",
-    "content": "Notes . Required . • Box 6 - M3 - 3/16 . | . | Part | Location | . | Upper part of the oldham coupler Quantity: 2 | Layer: 2 | . | M3 x 8mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 3/16 | . Instructions . | | • Attach the part of the oldham coupler to the center hole • Fixate it with the M3 x 8mm screw | . | | • Attach the rest of the oldham coupler to the fixated part | . ",
+    "content": "Notes . Required . • Box 6 - M3 x 8mm . | . | Part | Location | . | Upper part of the oldham coupler Quantity: 2 | Layer: 2 | . | M3 x 8mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 3/16 | . Instructions . | | • Attach the part of the oldham coupler to the center hole • Fixate it with the M3 x 8mm screw | . | | • Attach the rest of the oldham coupler to the fixated part | . ",
     "url": "/vz330_mellow/z_assembly/bed_assembly#step-2",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_assembly#step-2"
@@ -561,14 +561,14 @@
   },"80": {
     "doc": "3.2 Bed Assembly",
     "title": "Step 5",
-    "content": "Notes . Required . • Box 6 - M3 - 12/16 . | . | Bed leveling knobs Quantity: 4 | STLs | . | M3 nut Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 12/16 | . Instructions . | | • Insert the m3 nut in the leveling knob and press it in so it sits flush at the bottom | . ",
+    "content": "Notes . Required . • Box 6 - M3 nut . | . | Bed leveling knobs Quantity: 4 | STLs | . | M3 nut Quantity: 4 | Layer: 3 Box: VZ330 Box 6 | . Instructions . | | • Insert the m3 nut in the leveling knob and press it in so it sits flush at the bottom | . ",
     "url": "/vz330_mellow/z_assembly/bed_assembly#step-5",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_assembly#step-5"
   },"81": {
     "doc": "3.2 Bed Assembly",
     "title": "Step 6",
-    "content": "Notes . Required . • Box 6 - M3 - 8/16 • Box 2 . | . | Bed with attached heatmat and magnetic sheet Quantity: 1 | Part from step 5 | . | M3 x 45mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 8/16 | . | Spring’s or silicon dumper Quantity: 4 | Box: VZ330 Box 2 | . | Bed leveling knob’s Quantity: 4 | STLs | . Instructions . | | • Put the silicon dumper’s or the springs on the 4 holes in the bed bracket • Put the assembled printbed ontop of the silicon dumpers or springs • Put the M3 x 45mm screws through the holes in the plate and secure them with the knobs from the bottom | . ",
+    "content": "Notes . Required . • Box 6 - M3 x 45mm • Box 2 . | . | Bed with attached heatmat and magnetic sheet Quantity: 1 | Part from step 5 | . | M3 x 45mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 | . | Spring’s or silicon dumper Quantity: 4 | Box: VZ330 Box 2 | . | Bed leveling knob’s Quantity: 4 | STLs | . Instructions . | | • Put the silicon dumper’s or the springs on the 4 holes in the bed bracket • Put the assembled printbed ontop of the silicon dumpers or springs • Put the M3 x 45mm screws through the holes in the plate and secure them with the knobs from the bottom | . ",
     "url": "/vz330_mellow/z_assembly/bed_assembly#step-6",
     
     "relUrl": "/vz330_mellow/z_assembly/bed_assembly#step-6"
@@ -1772,7 +1772,7 @@
   },"253": {
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "Part’s",
-    "content": "| Part | Location |   | . | M4 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 |   | . | M4 x 12mm Quantity: 16 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 13/16 |   | . | M4 t-nut Quantity: 20 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 |   | . | M4 rollin t-nut Quantity: 4 | Box: VZ330 Box 6 Bag: M4 Bagnumber: 3/16 | | . | 10mm rods ( 500mm ) Quantity: 4 | Layer: 2 | | . | Belt GT2 closed ( 1100mm ) Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | picture | . | Leadscrew TR8 ( 500 mm ) Quantity: 2 | Layer: 2 | | . | GT2 40 teeth Quantity: 2 | Layer: 2 Box: VZ330 Box 2 | | . | z bracket Quantity: 2 | Layer: 1 | | . | Lower leadscrew mount Quantity: 2 | Layer: 1 | | . | Upper leadscrew mount Quantity: 2 | Layer: 1 | | . ",
+    "content": "| Part | Location |   | . | M4 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 |   | . | M4 x 12mm Quantity: 16 | Layer: 3 Box: VZ330 Box 6 |   | . | M4 t-nut Quantity: 20 | Layer: 3 Box: VZ330 Box 6 |   | . | M4 rollin t-nut Quantity: 4 | Box: VZ330 Box 6 | | . | 10mm rods ( 500mm ) Quantity: 4 | Layer: 2 | | . | Belt GT2 closed ( 1100mm ) Quantity: 1 | Layer: 2 Box: VZ330 Box 2 | picture | . | Leadscrew TR8 ( 500 mm ) Quantity: 2 | Layer: 2 | | . | GT2 40 teeth Quantity: 2 | Layer: 2 Box: VZ330 Box 2 | | . | z bracket Quantity: 2 | Layer: 1 | | . | Lower leadscrew mount Quantity: 2 | Layer: 1 | | . | Upper leadscrew mount Quantity: 2 | Layer: 1 | | . ",
     "url": "/vz330_mellow/z_assembly/lower_part#parts",
     
     "relUrl": "/vz330_mellow/z_assembly/lower_part#parts"
@@ -1793,28 +1793,28 @@
   },"256": {
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "Step 1 (do for each side)",
-    "content": "Notes . Required . • Box 6 - M4 - 13/16 . | . | Part | Location | . | z bracket Quantity: 2 | Layer: 1 | . | M4 x 12mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 13/16 | . | Rods ( 10mm ) Quantity: 4 | Layer: 1 | . Instructions . | | • Align the rod flush with the bottom of the z bracket | . | | • Tighten the M4 x 12mm screw | . ",
+    "content": "Notes . Required . • Box 6 - M4 x 12mm . | . | Part | Location | . | z bracket Quantity: 2 | Layer: 1 | . | M4 x 12mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 13/16 | . | Rods ( 10mm ) Quantity: 4 | Layer: 1 | . Instructions . | | • Align the rod flush with the bottom of the z bracket | . | | • Tighten the M4 x 12mm screw | . ",
     "url": "/vz330_mellow/z_assembly/lower_part#step-1-do-for-each-side",
     
     "relUrl": "/vz330_mellow/z_assembly/lower_part#step-1-do-for-each-side"
   },"257": {
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "Step 2 (do for each side)",
-    "content": "Notes . Required . • Box 6 - M4 - 13/16 • Box 6 - M4 - 2/16 • Box 6 - M4 - 3/16 . | . | Part | Location | . | z bracket Quantity: 2 | Layer: 1 | . | M4 x 12mm Quantity: 8 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 13/16 | . | M4 t-nut Quantity: 8 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . | M4 rollin t-nut Quantity: 4 | Box: VZ330 Box 6 Bag: M4 Bagnumber: 3/16 | . Instructions . | | • Insert rollin t-nut in the extrusion below the middle two holes | . | | • Attach M4 x 12mm + t-nut to the z bracket • Tip: screw in two screws for now in the two holes and the rollin t-nuts so they move with the part if you move it around. | . | | • Tighten the M4 x 12mm screw loosly, we need to align the z bracket | . | | • Align the front rod with the z-alignment tool • tighten the M4 x 12mm screws, when it’s aligned | . ",
+    "content": "Notes . Required . • Box 6 - M4 x 12mm • Box 6 - M4 t-nut • Box 6 - M4 rollin t-nut . | . | Part | Location | . | z bracket Quantity: 2 | Layer: 1 | . | M4 x 12mm Quantity: 8 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 13/16 | . | M4 t-nut Quantity: 8 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . | M4 rollin t-nut Quantity: 4 | Box: VZ330 Box 6 Bag: M4 Bagnumber: 3/16 | . Instructions . | | • Insert rollin t-nut in the extrusion below the middle two holes | . | | • Attach M4 x 12mm + t-nut to the z bracket • Tip: screw in two screws for now in the two holes and the rollin t-nuts so they move with the part if you move it around. | . | | • Tighten the M4 x 12mm screw loosly, we need to align the z bracket | . | | • Align the front rod with the z-alignment tool • tighten the M4 x 12mm screws, when it’s aligned | . ",
     "url": "/vz330_mellow/z_assembly/lower_part#step-2-do-for-each-side",
     
     "relUrl": "/vz330_mellow/z_assembly/lower_part#step-2-do-for-each-side"
   },"258": {
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "Step 3 (do for each side)",
-    "content": "Notes . Required . • Box 6 - M4 - 13/16 • Box 6 - M4 - 2/16 . | . | Part | Location | . | Lower leadscrew mount Quantity: 2 | Layer: 1 | . | M4 x 12mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 13/16 | . | M4 t-nut Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . Instructions . | | • Attach M4 x 10mm + t-nut to the lower leadscrew mount | . | | • Insert lower leadscrew mount to bottom extrusion • Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount • We will align the parts in Step 5 | . ",
+    "content": "Notes . Required . • Box 6 - M4 x 12mm • Box 6 - M4 t-nut . | . | Part | Location | . | Lower leadscrew mount Quantity: 2 | Layer: 1 | . | M4 x 12mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 13/16 | . | M4 t-nut Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . Instructions . | | • Attach M4 x 10mm + t-nut to the lower leadscrew mount | . | | • Insert lower leadscrew mount to bottom extrusion • Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount • We will align the parts in Step 5 | . ",
     "url": "/vz330_mellow/z_assembly/lower_part#step-3-do-for-each-side",
     
     "relUrl": "/vz330_mellow/z_assembly/lower_part#step-3-do-for-each-side"
   },"259": {
     "doc": "3.1 Lower rod & leadscrew bracket",
     "title": "Step 4 (do for each side)",
-    "content": "Notes . Required . • Box 6 - M4 - 13/16 . | . | Upper leadscrew mount Quantity: 2 | Layer: 1 | . | M4 x 12mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 13/16 | . Instructions . | | • Insert upper leadscrew mount to single z bracket • Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount • Use a drill bit or a similar tool (with 8mm diameter), put it through the two bearing’s and prealign the two mounts • We will align the parts in Step 5 | . ",
+    "content": "Notes . Required . • Box 6 - M4 x 12mm . | . | Upper leadscrew mount Quantity: 2 | Layer: 1 | . | M4 x 12mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 13/16 | . Instructions . | | • Insert upper leadscrew mount to single z bracket • Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount • Use a drill bit or a similar tool (with 8mm diameter), put it through the two bearing’s and prealign the two mounts • We will align the parts in Step 5 | . ",
     "url": "/vz330_mellow/z_assembly/lower_part#step-4-do-for-each-side",
     
     "relUrl": "/vz330_mellow/z_assembly/lower_part#step-4-do-for-each-side"
@@ -1926,14 +1926,14 @@
   },"275": {
     "doc": "4.3 Printhead",
     "title": "Step 1",
-    "content": "Notes . Required . • Box 6 - M3 x 6mm . | Part | Location | . | M3 x 6mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 | . | Back part of printhead | Layer: xx | . | Cable Holder | STLs | . | Printhead cable holder | STLs | . Instructions . | | • Screw on the printhead cable holder with two M3 x 6mm screws • Attach the printed cable holder to the top with two M3 x 6mm screws. | . ",
+    "content": "Notes . Required . • Box 6 - M3 x 6mm • Box C . | Part | Location | . | M3 x 6mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 | . | Back part of printhead | Layer: 3 Box: VZ330 Box C | . | Cable Holder | STLs | . | Printhead cable holder | STLs | . Instructions . | | • Screw on the printhead cable holder with two M3 x 6mm screws • Attach the printed cable holder to the top with two M3 x 6mm screws. | . ",
     "url": "/vz330_mellow/gantry/printhead#step-1",
     
     "relUrl": "/vz330_mellow/gantry/printhead#step-1"
   },"276": {
     "doc": "4.3 Printhead",
     "title": "Step 2",
-    "content": "Notes . Required . • Box 6 - M3 x 6mm • Box 6 - M3 x 5mm . | Part | Location | . | M3 x 6mm Quantity: 8 | Layer: 3 Box: VZ330 Box 6 | . | M3 x 5mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 | . | Part from step 1 | Part from step 1 | . | Top plate | xx | . | Bottom plate | xx | . | Side pieces | xx | . Instructions . Important . The spacer need to be installed like shown in the picture, be careful otherwise the belt routing will not work. | | • Screw on the top plate to the carriage with the four M3 x 5mm screws • Install the back part from step 1 to the top plate with the two M3 x 6mm screws • Install the front spacers with two M3 x 6mm screws • Install the bottom plate to the assembly with four M3 x 6mm screws. | . ",
+    "content": "Notes . Required . • Box 6 - M3 x 6mm • Box 6 - M3 x 5mm • Box C . | Part | Location | . | M3 x 6mm Quantity: 8 | Layer: 3 Box: VZ330 Box 6 | . | M3 x 5mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 | . | Part from step 1 | Part from step 1 | . | Top plate | Layer: 3 Box: VZ330 Box C | . | Bottom plate | Layer: 3 Box: VZ330 Box C | . | Side pieces | Layer: 3 Box: VZ330 Box C | . Instructions . Important . The spacer need to be installed like shown in the picture, be careful otherwise the belt routing will not work. | | • Screw on the top plate to the carriage with the four M3 x 5mm screws • Install the back part from step 1 to the top plate with the two M3 x 6mm screws • Install the front spacers with two M3 x 6mm screws • Install the bottom plate to the assembly with four M3 x 6mm screws. | . ",
     "url": "/vz330_mellow/gantry/printhead#step-2",
     
     "relUrl": "/vz330_mellow/gantry/printhead#step-2"
@@ -1947,21 +1947,21 @@
   },"278": {
     "doc": "4.3 Printhead",
     "title": "Step 4",
-    "content": "Notes . Required . • Box 6 - M3 x 6mm • Box 6 - M3 t-nut . | Part | Location | . | M3 x 6mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 | . | M3 nut Quantity: 2 | Layer: 3 Box: VZ330 Box 6 | . | Part from step 3 | Part from step 3 | . | Fan holder | xx | . Instructions . | | • Screw on the printhead fan holder to the assembly with two M3 x 6mm screws and M3 nuts. | . ",
+    "content": "Notes . Required . • Box 6 - M3 x 6mm • Box 6 - M3 t-nut . | Part | Location | . | M3 x 6mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 | . | M3 nut Quantity: 2 | Layer: 3 Box: VZ330 Box 6 | . | Part from step 3 | Part from step 3 | . | Fan holder | STL | . Instructions . | | • Screw on the printhead fan holder to the assembly with two M3 x 6mm screws and M3 nuts. | . ",
     "url": "/vz330_mellow/gantry/printhead#step-4",
     
     "relUrl": "/vz330_mellow/gantry/printhead#step-4"
   },"279": {
     "doc": "4.3 Printhead",
     "title": "Step 5",
-    "content": "Notes . Required . • Box x . | Part | Location | . | GT2 belt Quantity: 1 | xx | . | Belt clips Quantity: 2 | STL | . Instructions . | | • Insert the first belt like so ( watch the video linked below for more details.) | . | | • Insert the second belt like so ( watch the video linked below for more details.) | . | | • Make sure the motor’s in the back are in the loosest position possible, moved to the front of the motor mount. | . ",
+    "content": "Notes . Required . • Box 2 . | Part | Location | . | GT2 belt Quantity: 1 | Layer: 1 Box: VZ330 Box 2 | . | Belt clips Quantity: 2 | STL | . Instructions . | | • Insert the first belt like so ( watch the video linked below for more details.) | . | | • Insert the second belt like so ( watch the video linked below for more details.) | . | | • Make sure the motor’s in the back are in the loosest position possible, moved to the front of the motor mount. | . ",
     "url": "/vz330_mellow/gantry/printhead#step-5",
     
     "relUrl": "/vz330_mellow/gantry/printhead#step-5"
   },"280": {
     "doc": "4.3 Printhead",
     "title": "Step 6",
-    "content": "Notes . Required . • Box 6 - M3 x 10mm • Box 6 - M3 x ?mm . | Part | Location | . | M3 x 10mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 | . | M3 x ?mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 | . | M3 heat insert Quantity: 2 | self source | . | Fanduct Quantity: 1 | STL’s | . | xx Quantity: 1 | STL’s | . Instructions . | | • Insert the heat insert’s in the back holes of the fanduct | . | | • Screw on the fan duct with the cpap connector to the printhead, with the M3 x 10mm screws. | . | | • Use the printed spacers and the M3 x ??mm screws to secure and stabilize the duct to the printhead. | . ",
+    "content": "Notes . Required . • Box 6 - M3 x 10mm • Box 6 - M3 x ??mm . | Part | Location | . | M3 x 10mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 | . | M3 x ??mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 | . | M3 heat insert Quantity: 2 | self source | . | Fanduct Quantity: 1 | STL’s | . | xx Quantity: 1 | STL’s | . Instructions . | | • Insert the heat insert’s in the back holes of the fanduct | . | | • Screw on the fan duct with the cpap connector to the printhead, with the M3 x 10mm screws. | . | | • Use the printed spacers and the M3 x ??mm screws to secure and stabilize the duct to the printhead. | . ",
     "url": "/vz330_mellow/gantry/printhead#step-6",
     
     "relUrl": "/vz330_mellow/gantry/printhead#step-6"
@@ -1975,7 +1975,7 @@
   },"282": {
     "doc": "4.3 Printhead",
     "title": "Step 8",
-    "content": "Notes . Required . • Box 6 - M3 x ??mm • Box 6 - M3 x ??mm . | . | Part | Location | . | M3 x ??mm (ultra low profile ) Quantity: 2 | Layer: 3 Box: VZ330 Box 6 | . | M3 x ??mm (ultra low profile ) Quantity: 4 | Layer: 3 Box: VZ330 Box 6 | . | PFTE Tube (22mm) Quantity: 1 | self source | . | Goliath Hotend Quantity: 1 | Layer: ?? | . | Adapter plate Quantity: 1 | Layer: ?? | . Instructions . | | • Attache the adapter plate to the goliath hotendend with the M3 x ?? mm screws. | . | | • Slide on the printed fanholder to the goliath hotend • Insert the 22mm pfte tube into the goliath on top • Screw on the goliath to the printhead with the M3 x 6mm | . ",
+    "content": "Notes . Required . • Box 6 - M3 x ??mm • Box 6 - M3 x ??mm • Box C . | . | Part | Location | . | M3 x ??mm (ultra low profile ) Quantity: 2 | Layer: 3 Box: VZ330 Box 6 | . | M3 x ??mm (ultra low profile ) Quantity: 4 | Layer: 3 Box: VZ330 Box 6 | . | PFTE Tube (22mm) Quantity: 1 | self source | . | Goliath Hotend Quantity: 1 | Layer: 3 Box: VZ330 Box C | . | Adapter plate Quantity: 1 | Layer: 3 Box: VZ330 Box C | . Instructions . | | • Attache the adapter plate to the goliath hotendend with the M3 x ?? mm screws. | . | | • Slide on the printed fanholder to the goliath hotend • Insert the 22mm pfte tube into the goliath on top • Screw on the goliath to the printhead with the M3 x 6mm | . ",
     "url": "/vz330_mellow/gantry/printhead#step-8",
     
     "relUrl": "/vz330_mellow/gantry/printhead#step-8"
@@ -2101,7 +2101,7 @@
   },"300": {
     "doc": "3.3 Top rod mounts",
     "title": "Part’s",
-    "content": "| Part | Location | Info | . | M4 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 4/16 |   | . | M4 x 20mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 8/16 |   | . | M4 t-nut Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 |   | . | Top rod mount Quantity: 4 | Layer: 1 | | . ",
+    "content": "| Part | Location | Info | . | M4 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 |   | . | M4 x 20mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 |   | . | M4 t-nut Quantity: 4 | Layer: 3 Box: VZ330 Box 6 |   | . | Top rod mount Quantity: 4 | Layer: 1 | | . ",
     "url": "/vz330_mellow/z_assembly/top_rod_mounts#parts",
     
     "relUrl": "/vz330_mellow/z_assembly/top_rod_mounts#parts"
@@ -2115,14 +2115,14 @@
   },"302": {
     "doc": "3.3 Top rod mounts",
     "title": "Step 1",
-    "content": "Notes . Required . • Box 6 - M4 - 8/16 . | . | Part | Location | . | Top rod mount Quantity: 4 | Layer: 1 | . | M4 x 20mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 8/16 | . Instructions . | | • Screw in the M4 x 20mm screw to all Top rod mounts | . ",
+    "content": "Notes . Required . • Box 6 - M4 - 8/16 . | . | Part | Location | . | Top rod mount Quantity: 4 | Layer: 1 | . | M4 x 20mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 | . Instructions . | | • Screw in the M4 x 20mm screw to all Top rod mounts | . ",
     "url": "/vz330_mellow/z_assembly/top_rod_mounts#step-1",
     
     "relUrl": "/vz330_mellow/z_assembly/top_rod_mounts#step-1"
   },"303": {
     "doc": "3.3 Top rod mounts",
     "title": "Step 2",
-    "content": "Notes . Required . • Box 6 - M4 - 4/16 • Box 6 - M4 - 2/16 . | . | Part | Location | . | Top rod mount Quantity: 4 | Layer: 1 | . | M4 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 4/16 | . | M4 t-nut Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . Instructions . | | • Screw in the M4 x 10mm screw with the t-nut to all top rod mounts | . ",
+    "content": "Notes . Required . • Box 6 - M4 x 10mm • Box 6 - M4 t-nut . | . | Part | Location | . | Top rod mount Quantity: 4 | Layer: 1 | . | M4 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 4/16 | . | M4 t-nut Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . Instructions . | | • Screw in the M4 x 10mm screw with the t-nut to all top rod mounts | . ",
     "url": "/vz330_mellow/z_assembly/top_rod_mounts#step-2",
     
     "relUrl": "/vz330_mellow/z_assembly/top_rod_mounts#step-2"
@@ -2325,7 +2325,7 @@
   },"332": {
     "doc": "3.4 Z-Motor bracket",
     "title": "Part’s",
-    "content": "| Part | Location | Info | . | M3 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 16/16 |   | . | M4 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 |   | . | M4 t-nut Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 |   | . | GT2 20 teeth Quantity: 1 | Layer: 1 | | . | NEMA 17 stepper Quantity: 1 | Layer: 1 |   | . | Motor mount plate Quantity: 1 | Layer: 1 | | . | Extrutsion mount plate Quantity: 1 | Layer: 1 | | . ",
+    "content": "| Part | Location | Info | . | M3 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 |   | . | M4 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 |   | . | M4 t-nut Quantity: 2 | Layer: 3 Box: VZ330 Box 6 |   | . | GT2 20 teeth Quantity: 1 | Layer: 1 | | . | NEMA 17 stepper Quantity: 1 | Layer: 1 |   | . | Motor mount plate Quantity: 1 | Layer: 1 | | . | Extrutsion mount plate Quantity: 1 | Layer: 1 | | . ",
     "url": "/vz330_mellow/z_assembly/z_motor#parts",
     
     "relUrl": "/vz330_mellow/z_assembly/z_motor#parts"
@@ -2346,14 +2346,14 @@
   },"335": {
     "doc": "3.4 Z-Motor bracket",
     "title": "Step 2",
-    "content": "Notes . Required . • Box 6 - M3 - 16/16 . | . | Part | Location | . | NEMA 17 motor Quantity: 1 | Layer: 1 | . | Motor mount plate Quantity: 1 | Layer: 1 | . | M3 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 16/16 | . Instructions . | | • Attach the NEMA 17 motor to the motor mount plate with the four M3 x 10mm screws • Take care that the motor cable points to the back ( the side with the slides in the plate) | . ",
+    "content": "Notes . Required . • Box 6 - M3 x 10mm . | . | Part | Location | . | NEMA 17 motor Quantity: 1 | Layer: 1 | . | Motor mount plate Quantity: 1 | Layer: 1 | . | M3 x 10mm Quantity: 4 | Layer: 3 Box: VZ330 Box 6 Bag: M3 Bagnumber: 16/16 | . Instructions . | | • Attach the NEMA 17 motor to the motor mount plate with the four M3 x 10mm screws • Take care that the motor cable points to the back ( the side with the slides in the plate) | . ",
     "url": "/vz330_mellow/z_assembly/z_motor#step-2",
     
     "relUrl": "/vz330_mellow/z_assembly/z_motor#step-2"
   },"336": {
     "doc": "3.4 Z-Motor bracket",
     "title": "Step 3",
-    "content": "Notes . Required . • Box 6 - M4 - 14/16 • Box 6 - M4 - 2/16 . | . | Part | Location | . | Extrutsion mount plate Quantity: 1 | Layer: 1 | . | M4 x 10mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 | . | M4 t-nut Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . Instructions . | | • Attach the M4 x 10 mm screw and the M4 t-nut to the plate | . ",
+    "content": "Notes . Required . • Box 6 - M4 x 10mm • Box 6 - M4 t-nut . | . | Part | Location | . | Extrutsion mount plate Quantity: 1 | Layer: 1 | . | M4 x 10mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 | . | M4 t-nut Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 2/16 | . Instructions . | | • Attach the M4 x 10 mm screw and the M4 t-nut to the plate | . ",
     "url": "/vz330_mellow/z_assembly/z_motor#step-3",
     
     "relUrl": "/vz330_mellow/z_assembly/z_motor#step-3"
@@ -2367,7 +2367,7 @@
   },"338": {
     "doc": "3.4 Z-Motor bracket",
     "title": "Step 5",
-    "content": "Notes . Required . • Box 6 - M4 - 14/16 . | . | Part | Location | . | Assembled motor mount Quantity: 1 | Part from step 2 | . | M4 x 10mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 | . Instructions . | | • Put the assembled mount on the extrusion plate and screw in the M4 x 10mm screws slightly | . Step 6 . | Put on the z-belt and tighten the belt by pulling the motor back and fixate it with the slightly screwed in M4 x 10mm screws. | Loose the GT2 grub screws and align the belt that it is horizontal and tighten the grub screws on the flat spots of the motor after. | . ",
+    "content": "Notes . Required . • Box 6 - M4 x 10mm . | . | Part | Location | . | Assembled motor mount Quantity: 1 | Part from step 2 | . | M4 x 10mm Quantity: 2 | Layer: 3 Box: VZ330 Box 6 Bag: M4 Bagnumber: 14/16 | . Instructions . | | • Put the assembled mount on the extrusion plate and screw in the M4 x 10mm screws slightly | . Step 6 . | Put on the z-belt and tighten the belt by pulling the motor back and fixate it with the slightly screwed in M4 x 10mm screws. | Loose the GT2 grub screws and align the belt that it is horizontal and tighten the grub screws on the flat spots of the motor after. | . ",
     "url": "/vz330_mellow/z_assembly/z_motor#step-5",
     
     "relUrl": "/vz330_mellow/z_assembly/z_motor#step-5"

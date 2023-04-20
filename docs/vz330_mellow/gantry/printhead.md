@@ -43,12 +43,13 @@ permalink: /vz330_mellow/gantry/printhead
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M3 x 6mm
+> &#8226; Box 6 - M3 x 6mm <br>
+> &#8226; Box C
 
 | Part | Location
 |:-|:-|
 | M3 x 6mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
-| Back part of printhead | **Layer**: xx |
+| Back part of printhead | **Layer**: 3 <br> **Box**: VZ330 Box C |
 | Cable Holder | [STLs](#stls) |
 | Printhead cable holder | [STLs](#stls) |
 
@@ -70,16 +71,17 @@ permalink: /vz330_mellow/gantry/printhead
 > Required
 >
 > &#8226; Box 6 - M3 x 6mm <br>
-> &#8226; Box 6 - M3 x 5mm
+> &#8226; Box 6 - M3 x 5mm <br>
+> &#8226; Box C
 
 | Part | Location
 |:-|:-|
 | M3 x 6mm <br> Quantity: 8 | **Layer**: 3 <br> **Box**: VZ330 Box 6|
 | M3 x 5mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 | Part from step 1 | [Part from step 1](#step-1) |
-| Top plate | xx |
-| Bottom plate | xx |
-| Side pieces | xx |
+| Top plate | **Layer**: 3 <br> **Box**: VZ330 Box C |
+| Bottom plate | **Layer**: 3 <br> **Box**: VZ330 Box C |
+| Side pieces | **Layer**: 3 <br> **Box**: VZ330 Box C |
 
 <br>
 
@@ -136,7 +138,7 @@ permalink: /vz330_mellow/gantry/printhead
 | M3 x 6mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 | M3 nut <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 | Part from step 3 | [Part from step 3](#step-3) |
-| Fan holder | xx |
+| Fan holder | [STL](#stls) |
 
 <br>
 
@@ -154,11 +156,11 @@ permalink: /vz330_mellow/gantry/printhead
 {: .highlight }
 > Required
 >
-> &#8226; Box x
+> &#8226; Box 2
 
 | Part | Location
 |:-|:-|
-| GT2 belt <br> Quantity: 1 | xx |
+| GT2 belt <br> Quantity: 1 | **Layer**: 1 <br> **Box**: VZ330 Box 2 |
 | Belt clips <br> Quantity: 2 | [STL](#stls) |
 
 <br>
@@ -185,12 +187,12 @@ permalink: /vz330_mellow/gantry/printhead
 > Required
 >
 > &#8226; Box 6 - M3 x 10mm <br>
-> &#8226; Box 6 - M3 x ?mm
+> &#8226; Box 6 - M3 x ??mm
 
 | Part | Location |
 |:-|:-|
 | M3 x 10mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
-| M3 x ?mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| M3 x ??mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 | M3 heat insert <br> Quantity: 2 | self source |
 | Fanduct <br> Quantity: 1 | [STL's](#stls) |
 | xx <br> Quantity: 1 | [STL's](#stls) |
@@ -245,7 +247,8 @@ permalink: /vz330_mellow/gantry/printhead
 > Required
 >
 > &#8226; Box 6 - M3 x ??mm <br>
-> &#8226; Box 6 - M3 x ??mm
+> &#8226; Box 6 - M3 x ??mm <br>
+> &#8226; Box C
 
 |:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8.png) |
@@ -255,8 +258,8 @@ permalink: /vz330_mellow/gantry/printhead
 | M3 x ??mm (ultra low profile ) <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 | M3 x ??mm (ultra low profile ) <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 | PFTE Tube (22mm) <br> Quantity: 1 | self source |
-| Goliath Hotend <br> Quantity: 1 | **Layer**: ?? |
-| Adapter plate <br> Quantity: 1 | **Layer**: ?? |
+| Goliath Hotend <br> Quantity: 1 | **Layer**: 3 <br> **Box**: VZ330 Box C |
+| Adapter plate <br> Quantity: 1 | **Layer**: 3 <br> **Box**: VZ330 Box C |
 
 <br>
 

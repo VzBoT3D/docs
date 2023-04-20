@@ -21,13 +21,13 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 
 | Part | Location | Info |
 |:-------------|:------------------|
-| M2 x 10mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M2 <br> **Bagnumber**: 2/5 |  |
-| M3 x 6mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 14/16 |  |
-| M3 x 8mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 9/16 |  |
-| M3 x 10mm <br> Quantity: 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 4/16 |  |
-| M3 x 45mm <br> Quantity: 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 8/16 |  |
-| M3 nut <br> Quantity: 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 12/16 |  |
-| M3 t-nut <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 1/16 |  |
+| M2 x 10mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M3 x 6mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M3 x 8mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M3 x 10mm <br> Quantity: 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M3 x 45mm <br> Quantity: 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M3 nut <br> Quantity: 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M3 t-nut <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
 | Microswitch <br> Quantity: 1 | **Layer**: 2 <br> **Box**: VZ330 Box 2 | ![part](../../assets/images/manual/vz330_mellow/z_assembly/bed_additions/parts/microswitch.png) |
 | Endstop holder <br> Quantity: 1 | **Layer**: 2 <br> **Box**: VZ330 Box 2 | ![part](../../assets/images/manual/vz330_mellow/z_assembly/bed_additions/parts/endstop.png) |
 | Z-chain holder <br> Quantity: 1 | **Layer**: 2 <br> **Box**: VZ330 Box 2 | ![part](../../assets/images/manual/vz330_mellow/z_assembly/bed_additions/parts/z_chain-holder.png) |
@@ -43,7 +43,7 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M3 - 4/16 <br>
+> &#8226; Box 6 - M3 x 10mm <br>
 > &#8226; Box 2
 
 |:-|
@@ -71,7 +71,7 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M2 - 2/5 <br>
+> &#8226; Box 6 - M2 x 10mm <br>
 > &#8226; Box 2
 
 |:-|
@@ -79,7 +79,7 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 
 | Part | Location |
 |:-|:-|
-| M2 x 10mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M2 <br> **Bagnumber**: 2/5 |
+| M2 x 10mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6  |
 | Endstop holder <br> Quantitiy: 1 | [From step 1](#step-1) |
 | Microswitch <br> Quantity: 1 | **Box**: VZ330 Box 2 |
 
@@ -98,16 +98,16 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M3 - 8/16 <br>
-> &#8226; Box 6 - M3 - 12/16
+> &#8226; Box 6 - M3 x 45mm <br>
+> &#8226; Box 6 - M3 nut
 
 |:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_additions/step3.png) |
 
 | Part | Location |
 |:-|:-|
-| M3 x 45mm <br> Quantity: 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 8/16 |
-| M3 nut <br> Quantitiy: 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 12/16 |
+| M3 x 45mm <br> Quantity: 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| M3 nut <br> Quantitiy: 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 
 <br>
 
@@ -126,8 +126,8 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M3 - 14/16 <br>
-> &#8226; Box 6 - M3 - 9/16 <br>
+> &#8226; Box 6 - M3 x 6mm <br>
+> &#8226; Box 6 - M3 x 8mm <br>
 > &#8226; Box 2
 
 |:-|
@@ -135,8 +135,8 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 
 | Part | Location |
 |:-|:-|
-| M3 x 6mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 14/16 |
-| M3 x 8mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 9/16 |
+| M3 x 6mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| M3 x 8mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6  |
 | Chain holder <br> Quantity: 1 | **Layer**: 2 <br> **Box**: VZ330 Box 2 |
 
 <br>
