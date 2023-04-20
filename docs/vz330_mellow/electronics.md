@@ -20,8 +20,8 @@ We trust everyone to use their own best judgement when wiring their printer, we 
 # Table of content
 
 1. [Wiring diagram](./electronics/diagram)
-2. [Mellow Super8 v1.3](./electronics/super_mellow)
-3. [Layout](./electronics/layout)
+2. [Layout](./electronics/layout)
+3. [Mellow Super8 v1.3](./electronics/super_mellow)
 4. [Firmware](./electronics/firmware)
 5. [Printer config](./electronics/config)
 6. [Display](./electronics/display)
