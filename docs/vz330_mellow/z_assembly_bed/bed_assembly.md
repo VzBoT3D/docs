@@ -120,10 +120,13 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 
 <br>
 
+{: .important }
+> Pay attention when you assemble the bed the hole with the thread needs to point to the front right.
+
 ### Instructions
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step3_part1.png) | &#8226; Slide the assembled bed bracket onto the rod's <br> &#8226; Screw in the leadscrew to the assembled oldham coupler |
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step3_part1.png) | &#8226; The part with the threaded hole needs to point to the front right <br> &#8226; Slide the assembled bed bracket onto the rod's <br> &#8226; Screw in the leadscrew to the assembled oldham coupler |
 {: .instructiontable}
 
 <br>
