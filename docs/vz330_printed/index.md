@@ -14,3 +14,5 @@ speed, moderately sized 3D-printer, based on the TronXY XS5(A) CoreXY frame, but
 easily adapted for other 2020 aluminium extrusion frames. The design is built around the
 popular TronXY XS5(A) but is not restricted to this size, the frame can be scaled
 according to the individual needs of the builder.
+
+A web model of the printer can be found [here](https://a360.co/3zy0yob) to assist with assembly

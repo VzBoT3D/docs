@@ -31,12 +31,41 @@ td {
   img {
     width: auto;
     height: auto;
+    object-fit: scale-down;
+  }
+  br {
+    display: block;
+    margin: 10px 0;
+    content: " ";
   }
   width: auto;
   height: auto;
+}
+
+thead th {
+  background: #575555;
 }
 
 body {
 	font-family: Helvetica;
 	font-size: 13px;
 }
+
+.instructiontable {
+  table {
+    border: none;
+  }
+  td {
+    width: 70%;
+  }
+}
+.commandtable {
+  table {
+    border: none;
+  }
+  td { 
+    background-color: #3d4345;
+  }
+}
+
+

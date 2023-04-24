@@ -9,36 +9,116 @@ has_children: false
 permalink: /vz330_mellow/z_assembly/top_rod_mounts
 ---
 
-# 3.3 Top rod mounts
-
-## Overview
+<br>
 
 ![Overview](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/overview.png)
 
-## BOM
+<br>
+<br>
 
-| Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
-| M4 10mm           | 4 | -  |
-| M4 20mm | 4   | -  |
-| M4 t-nut | 4 | - |
+# Part's
 
-![Details](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/details.png)
+| Part | Location | Info |
+|:-------------|:------------------|
+| M4 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M4 x 20mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M4 t-nut  <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| Top rod mount <br> Quantity: 4 | **Layer**: 1 | ![part](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/parts/top_rod_mount.png) |
 
-### Step 1
+# Assembly
 
-**Important: When mounting the top rod's make sure the top rod with the extra hole for the z switch is in the back**
+## Step 1
 
-Mount the 10mm M4 screws and t-nuts to all top rod mounts and loosely turn in the 20mm M4 screws in the clamping mechanism.
+### Notes
 
-![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/step1.png)
+{: .highlight }
+> Required
+>
+> &#8226; Box 6 - M4 - 8/16
 
-### Step 2
+|:-|
+| ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/step1.png) |
 
-Mount all top rod mounts to the rod first. Make sure the rod mount with the extra hole (for the Z limit switch) is in the back right of the printer like shown below. Finally tighten the rod holders to the frame with the pre-inserted M4 hardware.
+| Part | Location |
+|:-|:-|
+| Top rod mount <br> Quantity: 4 | **Layer**: 1 |
+| M4 x 20mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 
-![Step 2](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/step2.png)
+<br>
 
-### Step 3
+### Instructions
 
-After installing check the movement of the bed assembly by turning the leadscrews. This should operate smoothly. If not, place the bed assembly in the top most position, untighten all top rod holders and retighten to align the rods.
+|:-|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/step1_part1.png) | &#8226; Screw in the M4 x 20mm screw to all Top rod mounts |
+{: .instructiontable}
+
+<br>
+
+## Step 2
+
+### Notes
+
+{: .highlight }
+> Required
+>
+> &#8226; Box 6 - M4 x 10mm <br>
+> &#8226; Box 6 - M4 t-nut
+
+|:-|
+| ![Step 2](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/step2.png) |
+
+| Part | Location |
+|:-|:-|
+| Top rod mount <br> Quantity: 4 | **Layer**: 1 |
+| M4 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 4/16 |
+| M4 t-nut <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |
+
+<br>
+
+### Instructions
+
+|:-|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/step2_part1.png) | &#8226; Screw in the M4 x 10mm screw with the t-nut to all top rod mounts |
+{: .instructiontable}
+
+<br>
+
+## Step 3 ( For all four mounts )
+
+### Notes
+
+|:-|
+| ![Step 3](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/step3.png) |
+
+| Part | Location |
+|:-|:-|
+| Top rod mount <br> Quantity: 4 | [Part from step 2](#step-2) |
+
+<br>
+
+### Instructions
+
+|:-|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/step3_part1.png) | &#8226; But the top rod mounts over the rod <br> &#8226; Attach the top part to the extrusion &#8226; Tighten the M4x20mm screw |
+{: .instructiontable}
+
+<br>
+
+## Step 4 ( For all four mounts )
+
+### Notes
+
+|:-|
+| ![Step 3](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/step4.png) |
+
+| Part | Location |
+|:-|:-|
+| Top rod mounts <br> Quantity: 4 | [Part from step 2](#step-2) |
+
+<br>
+
+### Instructions
+
+|:-|:-|
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/top_rod_mounts/step4_part1.png) | &#8226; Now that the top rod mounts are mounted to the extrusion tighten the M4 x 20mm screws to secure the rods to the mounts |
+{: .instructiontable}

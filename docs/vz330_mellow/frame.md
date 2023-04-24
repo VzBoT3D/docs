@@ -8,27 +8,35 @@ has_children: false
 permalink: /vz330_mellow/frame
 ---
 
-# 2. Frame
-
-![Frame](../assets/images/manual/vz330_mellow/frame/overview.png)
-
-## Part's
-
-| Material        | Quantity          | Notes |
-| ![2040](../assets/images/manual/vz330_mellow/frame/parts/2040_extrusion.png) | 4 | 2040 extrusion (530mm) |
-| ![2020 530mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_530mm.png) | 2 | 2020 extrusion (530mm) with two holes |
-| ![2020 460mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_460mm.png) | 2 | 2020 extrusion (460mm) with two holes |
-| Picture | 1 | Preassembled Gantry | 
-| ![2020 Corners](../assets/images/manual/vz330_mellow/frame/parts/corner.png) | 6 | optional | 
-| Picture | 16 | M5 x 25mm - ( VZ330 Box 6 / Bag M5 / Bagnumber 4/16 ) |
-| ![M4 tnut](../assets/images/manual/vz330_mellow/frame/parts/m4_tnut.png) | 10 | M4 t-nut ( VZ330 Box 6 / Bag M4 / Bagnumber 2/16 ) |
-| Picture | 8 | M4 x 10mm ( VZ330 Box 6 / Bag M4 / Bagnumber 4/16 ) |
-| ![M4 screw](../assets/images/manual/vz330_mellow/frame/parts/m4_10mm_screw.png) | 2 | M4 x 10mm ( VZ330 Box 6 / Bag M4 / Bagnumber 14/16 ) |
-
-## STL's
 <br>
 
-**You can click on the object you wanna print on the plate and the corresponding STL will open up.**
+|:-|
+| ![Frame](../assets/images/manual/vz330_mellow/frame/overview.png) |
+
+<br>
+<br>
+
+# Parts
+
+<br>
+
+| Part | Location | Info |
+|:-|:-|:-|
+| 2040 extrusion (530) <br> Quantity: 4 | **Layer**: 2 | ![2040](../assets/images/manual/vz330_mellow/frame/parts/2040_extrusion.png) |
+| 2020 extrusion (530mm) with two holes <br> Quantity: 2 | **Layer**: 2 | ![2020 530mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_530mm.png) |
+| 2020 extrusion (460mm) with two holes <br> Quantity: 2 | **Layer**: 2 | ![2020 460mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_460mm.png) |
+| Preasembled gantry <br> Quantity: 1 | **Layer**: 1 |  |
+| 2020 Corner brackets <br> Quantity: 1 | optional ( self sourced )|  |
+| M5 x 25mm <br> Quantity: 16 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M4 t-nut <br> Quantity: 10 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M4 x 10mm <br> Quantity: 8 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+
+# STLs
+
+<br>
+
+{: .highlight }
+> You can click on the object you wanna print on the plate and the corresponding STL will open up.
 
 <br>
 <div>
@@ -41,158 +49,338 @@ permalink: /vz330_mellow/frame
   </map>
 </div>
 
-## Assembly
+# Tips and Tricks
 
-**Imoportant on the extrusions is a side with a "bigger" hole this is where the head of the bolt should go through!**
+|:-|
+| [![Squaring a frame](../assets/images/manual/vz330_mellow/frame/frame_video.png)](https://www.youtube.com/embed/GSg7RDLgYV0 "Squaring a frame") |
 
-### Step 1
-
-<br>
-<br>
-
-| | |
-|-|-|
-| ![Step 1](../assets/images/manual/vz330_mellow/frame/step1.png) | 1) 2040 extrusion (530mm) <br> 2) 2020 extrusion (530mm) <br> 3) 2020 extrusion (460mm) <br> 4) 2 x M5 25mm |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part1.png) | 1) Align the extrusions flush |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part2.png) | 1) Tighten the 2020 extrusion's to the 2040 extrusion |
+# Assembly
 
 <br>
-<br>
 
-### Step 2
+## Step 1
 
-<br>
-<br>
+### Notes
 
-| | |
-|-|-|
-| ![Step 1](../assets/images/manual/vz330_mellow/frame/step2.png) | 1) 2040 extrusion (530mm) <br> 2) 2020 extrusion (530mm) <br> 3) 2020 extrusion (460mm) <br> 4) 2 x M5 25mm |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_part1.png) | 1) Align the extrusions flush |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_part2.png) | 1) Tighten the 2020 extrusion's to the 2040 extrusion |
+|:-|
+| ![Step 1](../assets/images/manual/vz330_mellow/frame/step1.png) |
 
-<br>
-<br>
-
-### Step 3
+| Part | Location |
+|:-|:-|
+| 2040 extrusion ( 530 mm ) <br> Quantity: 1 | **Layer**: 2 |
+| 2020 extrusion ( 530mm ) with two holes <br> Quantity: 1 | **Layer**: 2 |
+| 2020 extrusion ( 460 mm ) with two holes <br> Quantity: 1 | **Layer**: 2 |
 
 <br>
-<br>
 
-| | |
-|-|-|
-| ![Step 1](../assets/images/manual/vz330_mellow/frame/step3.png) | 1) 2040 extrusion (530mm) <br> 2) Assembly from Step 1 and 2 <br> 3) 2 x M5 25mm |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step3_part1.png) | 1) Align the extrusions flush with the both 2020 extrusion's |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part2.png) | 1) Tighten the 2020 extrusion's to the 2040 extrusion |
+### Instructions
 
-<br>
-<br>
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part1.png) | &#8226; Align the extrusions flush |
+{: .instructiontable}
 
-### Step 4
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part2.png) | &#8226; Tighten the 2020 extrusion's to the 2040 extrusion |
+{: .instructiontable}
 
 <br>
-<br>
 
-| | |
-|-|-|
-| ![Step 1](../assets/images/manual/vz330_mellow/frame/step4.png) | 1) 2040 extrusion (530mm) <br> 2) Assembly from Step 3 <br> 3) 2 x M5 25mm |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step4_part1.png) | 1) Align the extrusions flush with the both 2020 extrusion's |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step4_part2.png) | 1) Tighten the 2020 extrusion's to the 2040 extrusion |
+## Step 2
 
-<br>
-<br>
+### Notes
 
-### Step 5
+{: .highlight }
+> Required 
+>
+> &#8226; Box 6 - M5 x 25mm
 
-<br>
-<br>
+|:-|
+| ![Step 1](../assets/images/manual/vz330_mellow/frame/step2.png) |
 
-| | |
-|-|-|
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part1_1.png) <br> ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part1.png) | 1) Remove red marked screw <br> 2) Losen blue screw <br> 3) Slide assembly to the left <br> 4) Remove printed 2040 extrusion |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part2_1.png) <br> ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part2.png) | 1) Remove red marked screw <br> 2) Losen blue screw <br> 3) Slide assembly to the right <br> 4) Remove printed 2040 extrusion |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part3.png) | 1) Remove selected part from assembly |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part4.png) | 1) Remove printed 2040 extrusion part from the assembly |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part5.png) | 1) Put preassembled assembly on the frame <br> 2) Loosen all screws on the back motor mounts <br> 3) Align extrusions <br> 4) Screw down M5 x 25mm screws <br> 5) Tighten screws on the motor mount again |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part6.png) | 1) Add screw + t-nut to the bottom part of the idler on the left and right side.
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part7.png) | 1) Put second part on the frame <br> 2) Align extrusions <br> 3) Screw down M5x25mm screws |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part8.png) | 1) Insert M4 Screw + t-nut in the upper part on the right / left side <br> 2) Tighten the front motor mounts  |
+| Part | Location |
+|:-|:-|
+| 2040 extrusion ( 530mm ) <br> Quantity: 1 | **Layer**: 2 |
+| 2020 extrusion ( 530mm ) with two holes <br> Quantity: 1 | **Layer**: 2 |
+| 2020 extrusion ( 460mm ) with two holes <br> Quantity: 1 | **Layer**: 2 |
+| M5 x 25mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 
 <br>
-<br>
 
-### Step 6 ( optional )
+### Instructions
 
-<br>
-<br>
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_part1.png) | &#8226; Align the extrusions flush |
+{: .instructiontable}
 
-| | |
-|-|-|
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step6_part1.png) | 1) 6 x 2020 corner brackets <br> 2) 12 x M4 x 10mm <br> 3) 12 x M4 t-nut <br> 4) Insert screws and add t-nut |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step6_part2.png) | 1) Attach corner brackets to the frame, at the shown locations
 
-<br>
-<br>
-
-### Step 7
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step2_part2.png) | &#8226; Tighten the 2020 extrusion's to the 2040 extrusion |
+{: .instructiontable}
 
 <br>
-<br>
 
-| | |
-|-|-|
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step7.png) | 1) Meassure from corner to corner ( yellow and red line ) <br> 2) The distance should be the same for the red and the yellow line. <br> 3) Do this for all side's of the printer |
+## Step 3
 
-<br>
-<br>
+### Notes
 
-### Step 8
+{: .highlight }
+> Required
+>
+> &#8226; Box 6 - M5 x 25mm
 
-<br>
-<br>
+|:-|
+| ![Step 1](../assets/images/manual/vz330_mellow/frame/step3.png) |
 
-| | |
-|-|-|
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step8_part1.png) | 1) 2 x frame bracers <br> 2) 4 x M4 x 10mm ( Bagnumber 4/16 ) <br> 3) 4 x M4 t-nut (Bagnumber 2/16 ) <br> 4) Insert screws and add t-nut for both parts |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step8_part2.png) | 1) Attach frame bracers to the frame in the front left and right
-
-<br>
-<br>
-
-### Step 9
+| Part | Location |
+|:-|:-|
+| 2040 extrusion ( 530mm ) <br> Quantity: 1 | **Layer**: 2 |
+| Assembly from Step 1 / 2 <br> Quantity: 1 | [Part from step 2](#step-2) |
+| M5 x 25mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 
 <br>
-<br>
 
-| | |
-|-|-|
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step9_part1.png) | 1) 2 x handles <br> 2) 4 x M4 x 10mm ( Bagnumber 4/16 ) <br> 3) 4 x M4 t-nut (Bagnumber 2/16 ) <br> 4) Insert screws and add t-nut for both parts | |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step9_part2.png) | 1) Attach handles to the left and right side of the frame and center them |
+### Instructions
 
-<br>
-<br>
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step3_part1.png) | &#8226; Align the extrusions flush with the both 2020 extrusion's |
+{: .instructiontable}
 
-### Step 10
 
-<br>
-<br>
-
-| | |
-|-|-|
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step10_part1.png) | 1) 1 x cable holder <br> 2) 4 x M4 x 10mm ( Bagnumber 4/16 ) <br> 3) 4 x M4 t-nut (Bagnumber 2/16 ) <br> 4) Insert screws and add t-nut |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step10_part2.png) | 1) Attach cable holder to the back of the frame and center it. |
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step1_part2.png) | &#8226; Tighten the 2020 extrusion's to the 2040 extrusion |
+{: .instructiontable}
 
 <br>
+
+## Step 4
+
+### Notes
+
+{: .highlight }
+> Required
+>
+> &#8226; Box 6 - M5 x 25mm
+
+|:-|
+| ![Step 1](../assets/images/manual/vz330_mellow/frame/step4.png) |
+
+| Part | Location |
+|:-|:-|
+| 2040 extrusion (530mm) <br> Quantity: 1 | **Layer**: 2 |
+| Assembly from Step 3 <br> Quantity: 1 | [Part from step 3](#step-3) |
+| M5 x 25mm <br> Quantity: 1 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+
 <br>
 
-### Step 11
+### Instructions
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step4_part1.png) | &#8226; Align the extrusions flush with the both 2020 extrusion's |
+{: .instructiontable}
+
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step4_part2.png) | &#8226; Tighten the 2020 extrusion's to the 2040 extrusion |
+{: .instructiontable}
 
 <br>
+
+## Step 5
+
+### Notes
+
+| Part | Location |
+|:-|:-|
+| Preasembled gantry <br> Quantity: 1 | **Layer**: 1 |
+
 <br>
 
-| | |
-|-|-|
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step11_part1.png) | 1) 8x 2020 printed endpart's <br> 2) Insert all 8 endpart's at the shown location. |
-| ![Mount](../assets/images/manual/vz330_mellow/frame/step11_part2.png) | 1) Put in the endpart's
+### Instructions
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part1_1.png) <br> ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part1.png) | &#8226; Remove red marked screw <br> &#8226; Losen blue screw <br> &#8226; Slide assembly to the left <br> &#8226; Remove the printed 2040 extrusion |
+{: .instructiontable}
+
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part2_1.png) <br> ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part2.png) | &#8226; Remove red marked screw <br> &#8226; Losen blue screw <br> &#8226; Slide assembly to the right <br> &#8226; Remove the printed 2040 extrusion |
+{: .instructiontable}
+
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part3.png) | &#8226; Remove selected part from assembly |
+{: .instructiontable}
+
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part4.png) | &#8226; Remove printed 2040 extrusion part from the assembly |
+{: .instructiontable}
+
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part5.png) | &#8226; Put preassembled assembly on the frame <br> &#8226; Loosen all screws on the back motor mounts <br> &#8226; Align extrusions <br> &#8226; Screw down M5 x 25mm screws <br> &#8226; Tighten screws on the motor mount again |
+{: .instructiontable}
+
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part6.png) | &#8226; Add screw + t-nut to the bottom part of the idler on the left and right side.
+{: .instructiontable}
+
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part7.png) | &#8226; Put second part on the frame <br> &#8226; Align extrusions <br> &#8226; Screw down M5x25mm screws |
+{: .instructiontable}
+
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step5_part8.png) | &#8226; Insert M4 Screw + t-nut in the upper part on the right / left side <br> &#8226; Tighten the front motor mounts  |
+{: .instructiontable}
 
 <br>
+
+## Step 6 ( optional )
+
+### Notes
+
+| Part | Location |
+|:-|:-|
+| 2020 corner brackets <br> Quantity: 6 | - |
+| M4 x 10mm <br> Quantity: 12 | - |
+| M4 t-nut <br> Quantity: 12 | - |
+
 <br>
+
+### Instructions
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step6_part1.png) | &#8226; Insert screws and add t-nut |
+{: .instructiontable}
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step6_part2.png) | &#8226; Attach corner brackets to the frame, at the shown locations
+{: .instructiontable}
+
+<br>
+
+## Step 7
+
+### Instructions
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step7.png) | &#8226; Meassure from corner to corner ( yellow and red line ) <br> &#8226; The distance should be the same for the red and the yellow line. <br> &#8226; Do this for all side's of the printer |
+{: .instructiontable}
+
+<br>
+
+## Step 8
+
+### Notes
+
+{: .highlight }
+> Required
+>
+> &#8226; Box 6 - M4 x 10mm <br>
+> &#8226; Box 6 - M4 t-nut
+
+| Part | Location |
+|:-|:-|
+| M4 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| M4 t-nut <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| Printed frame bracers <br> Quantity: 2 | [STLs](#stls) |
+
+<br>
+
+### Instructions
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step8_part1.png) | &#8226; Insert screws and add t-nut for both parts |
+{: .instructiontable}
+
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step8_part2.png) | &#8226; Attach frame bracers to the frame in the front left and right
+{: .instructiontable}
+
+<br>
+
+## Step 9
+
+### Notes
+
+{: .highlight }
+> Required 
+>
+> &#8226; Box 6 - M4 x 10mm <br>
+> &#8226; Box 6 - M4 t-nut
+
+| Part | Location |
+|:-|:-|
+| M4 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| M4 t-nut <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| Printed handles <br> Quantity: 2 | [STLs](#stls) |
+
+<br>
+
+### Instructions 
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step9_part1.png) | &#8226; Insert screws and add t-nut for both parts |
+{: .instructiontable}
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step9_part2.png) | &#8226; Attach handles to the left and right side of the frame and center them |
+{: .instructiontable}
+
+<br>
+
+## Step 10
+
+### Notes
+
+{: .highlight }
+> Required
+>
+> &#8226; Box 6 - M4 x 10mm <br>
+> &#8226; Box 6 - M4 t-nut
+
+| Part | Location |
+|:-|:-|
+| M4 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| M4 t-nut <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| Printed cable holder <br> Quantity: 2 | [STLs](#stls) |
+
+<br>
+
+### Instructions 
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step10_part1.png) | &#8226; Insert screws and add t-nut |
+{: .instructiontable}
+
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step10_part2.png) | &#8226; Attach cable holder to the back of the frame and center it. |
+{: .instructiontable}
+
+<br>
+
+## Step 11
+
+### Notes
+
+| Part | Location |
+|:-|:-|
+| Printed endpart's <br> Quantity: 8 | [STLs](#stls) |
+
+<br>
+
+### Instructions
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step11_part1.png) | &#8226; Insert all 8 endpart's at the shown location. |
+{: .instructiontable}
+
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/frame/step11_part2.png) | &#8226; Put in the endpart's
+{: .instructiontable}
