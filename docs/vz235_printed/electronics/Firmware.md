@@ -28,7 +28,7 @@ Next select 3D Printing
 
 ![3dPrinting](../../assets/images/manual/vz235_printed/electronics/Firmware/3DPrinting.PNG)
 
-And Select Mainsail OS. and choose the 32Bit version.
+And Select Mainsail OS. and choose the 64Bit version.
 
 ![Mainsail](../../assets/images/manual/vz235_printed/electronics/Firmware/Mainsail.PNG)
 
