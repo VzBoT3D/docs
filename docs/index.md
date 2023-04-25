@@ -28,9 +28,9 @@ table, th, td {
 | | |
 |-|-|
 | **VzBot 330 - Printed Version** | **VzBot 330 - Mellow Kit** |
-| [![VzBot 330 - Printed Version](./assets/images/manual/vz235_printed/printed_preview.png)](./vz330_printed) | [![VzBot 330 - Mellow Kit](./assets/images/manual/vz330_mellow/overview.png)](./vz330_mellow) |
+| [![VzBot 330 - Printed Version](./assets/images/manual/vz235_printed/printed_preview.jpg)](./vz330_printed) | [![VzBot 330 - Mellow Kit](./assets/images/manual/vz330_mellow/overview.png)](./vz330_mellow) |
 
 | | |
 |-|-|
 | **VzBot 235 - Printed Version** | **VzBot 235 - Aluminium Version** |
-| [![VzBot 235 - Printed Version](./assets/images/manual/vz235_printed/printed_preview.jpg)](./vz235_printed) | [![VzBot 235 - Aluminium Version](./assets/images/manual/vz235_alu/alu_preview.png)](./vz235_alu) |
+| [![VzBot 235 - Printed Version](./assets/images/manual/vz235_printed/printed_preview.png)](./vz235_printed) | [![VzBot 235 - Aluminium Version](./assets/images/manual/vz235_alu/alu_preview.png)](./vz235_alu) |
