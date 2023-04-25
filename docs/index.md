@@ -33,4 +33,4 @@ table, th, td {
 | | |
 |-|-|
 | **VzBot 235 - Printed Version** | **VzBot 235 - Aluminium Version** |
-| [![VzBot 235 - Printed Version](./assets/images/manual/vz235_printed/printed_preview.png)](./vz235_printed) | [![VzBot 235 - Aluminium Version](./assets/images/manual/vz235_alu/alu_preview.png)](./vz235_alu) |
+| [![VzBot 235 - Printed Version](./assets/images/manual/vz235_printed/printed_preview.jpg)](./vz235_printed) | [![VzBot 235 - Aluminium Version](./assets/images/manual/vz235_alu/alu_preview.png)](./vz235_alu) |
