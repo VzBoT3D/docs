@@ -6,7 +6,7 @@ grand_parent: VzBoT235 - Printed Version
 has_toc: false
 nav_order: 4
 has_children: false
-permalink: /vz235_printed/electronics/Firmware
+permalink: /vz235_printed/electronics/Printer_Config
 ---
 
 # 6.4 Setting up the Printer.cfg
