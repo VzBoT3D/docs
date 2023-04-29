@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6.4 Firmware Setup
+title: 6.4 Printer Config
 parent: 6. Electronics
 grand_parent: VzBoT235 - Printed Version
 has_toc: false
