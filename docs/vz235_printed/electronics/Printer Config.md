@@ -13,8 +13,8 @@ permalink: /vz235_printed/electronics/Firmware
 
 Now comes the fun part of the setup. Configuring your printer.cfg.
 
-We're gonna start with this basic start config file for you guys to use.
-![printer.cfg](../../assets/images/manual/vz235_printed/electronics/Printer_config/printer.cfg)
+We're gonna start with this basic start config file for you guys to use:
+[printer.cfg](../../assets/images/manual/vz235_printed/electronics/Printer_config/printer.cfg)
 
 In order to use the Exlcude object command in your Mainsail or Fluid we're also gonna need this file: [Exclude_Object.cfg](../../assets/images/manual/vz235_printed/electronics/Printer_config/Exclude_Object.cfg)
 
