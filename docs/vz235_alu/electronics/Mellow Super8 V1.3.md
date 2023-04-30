@@ -2,11 +2,11 @@
 layout: default
 title: 6.2 Mellow Super8 v1.3
 parent: 6. Electronics
-grand_parent: VzBoT330 - Mellow Kit
+grand_parent: VzBoT235 - Aluminium Version
 has_toc: false
 nav_order: 2
 has_children: false
-permalink: /vz330_mellow/electronics/super_mellow
+permalink: /vz235_alu/electronics/super_mellow
 ---
 
 # 6.2 Mellow Super8 V1.3
