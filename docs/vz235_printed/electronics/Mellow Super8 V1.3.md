@@ -16,6 +16,7 @@ Here's A detailed guide on how to install the Mellow Super8 V1.3 with Mellow 516
 
 
 ![Openbox](../../assets/images/manual/vz235_printed/electronics/DSC06306.JPG)
+{: .smallpictures}
 
 <br>
 What's in the boxes
