@@ -1,3 +1,14 @@
+---
+layout: default
+title: EzVz Providers
+grand_parent:  EzVz
+has_toc: false
+nav_order: 3
+has_children: false
+permalink: /ezvz/providers
+---
+
+
 # EzVz Providers
 
 First of all congratulations for becoming part of the EzVz Providers Program.
