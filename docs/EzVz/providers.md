@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EzVz Providers
+title: Providers
 parent: EzVz
 has_toc: false
 nav_order: 3
@@ -51,14 +51,3 @@ After an order has been finished, the buyer has the option to rate their experie
 All ratings are stored in our database. As soon as a provider accepts an order and it goes into negotiation state, a summary of all ratings is provided for the buyer in form of 1-5 Stars.
 
 If for any reason a provider should cancel an order after both parties have agreed on a deal, the cancellation will also be stored in our database and marked in the rating of the supplier as a finishing rate. This is to protect buyers from providers which are not able to provide consistently.
-
-## Rules
-
-As a provider you have to follow a certain given set of rules.
-
-1. Only accept orders you are able to finish in the near future.
-2. Don't accept an order if you are not honestly interested in finishing it.
-3. Only use filaments which are authorized by the VzBoT Team.
-4. Use the prices we determined on the kits.
-5. If for any reason there should be an issue with the buyer, let the VzBoT team know, instead of trying to handle it by yourself.
-6. Make sure all your parts that you send match your usual EzVz quality.
