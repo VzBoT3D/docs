@@ -77,6 +77,7 @@ permalink: /vz330_mellow/panels_part1
 ## Step 3
 
 ### Notes
+
 | Part | Location |
 |:-|:-|
 | M4 sliding t-nut <br> Quantity: x | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
