@@ -8,15 +8,15 @@ has_children: false
 permalink: /vz330_mellow/fume_extractor
 ---
 
-# 6. Fume extractor
-
-## Overview
-![Overview](../assets/images/manual/vz330_mellow/fume/overview.png)
 <br>
 
-The VzBot fume extractor is an optional piece of hardware but highly recommended! This device gets rid of VOC’s (volatile organic compounds) and nasty smells that come from printing ABS filament.
+|:-|
+| ![Overview](../assets/images/manual/vz330_mellow/fume/overview.png) |
 
-## BOM
+<br>
+<br>
+
+## Parts
 
 | Material        | Quantity          | Notes |
 |:-------------|:------------------|:------|
@@ -29,8 +29,6 @@ The VzBot fume extractor is an optional piece of hardware but highly recommended
 | Activated carbon filter (self-cut) | 1 | - |
 
 ## STL's
-![Details](../assets/images/manual/vz330_mellow/fume/details.png)
-<br>
 
 | File name | Amount to print | Note |
 |-----------|-----------------|------|
@@ -41,7 +39,12 @@ The VzBot fume extractor is an optional piece of hardware but highly recommended
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Exhaust%20filter%20-%20Fume%20extractor/Exhaust%20filter%20housing/STLs/exhaust%20middle%20cover%2010mm%20Hepa%20filter.stl" target="_blank">HEPA holder 10mm</a> | 1 | Print if your HEPA is 10mm "strong" |
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Exhaust cover</a> | 1 |
 
-### Step 1
+<br>
+
+## Step 1
+
+### Notes
+
 Start by inserting all the M4 and M3 nuts into the exhaust cover like shown below
 <br>
 
