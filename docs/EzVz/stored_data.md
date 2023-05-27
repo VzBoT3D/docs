@@ -42,12 +42,4 @@ Providers are saved with their application. If an application is declined the pr
 
 ## Rating
 
-Every rating of an finished order is stored in our database. The rating is anonymous and will only be connected to the supplier.
-
-You can view all of your ratings (as provider) with the following command:
-
-```TODO```
-
-## Data removal
-
-Due to the amount of work required to remove specific data, data removal is not supported at this current point.
+Every rating of an finished order is stored in our database. The rating is not directly shared with the provider, but the order id is saved with the rating. Only the VzBoT team can see the all ratings, providers are only able to see their average rating.

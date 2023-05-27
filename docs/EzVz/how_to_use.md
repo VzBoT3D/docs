@@ -35,9 +35,9 @@ Everything from this point is meant to be executed in the discord client.
 1. Head over to the EzVz-Info category and go into the #order channel. From the order-panel you can select which kits you would like to order.
 <img src="../assets/images//ezvz/ezvz_order_panel.png" width=400>
 
-2. After selecting the kits close the selection and a new menu will pop up.
+1. After selecting the kits close the selection and a new menu will pop up.
    Fill out the data as needed.
 <img src="../assets/images//ezvz/ezvz_order_modal.png" width=400>
 
-3. Head over to the newly created channel. And now its time to wait, until a provider accepts your order.
-4. TODO
+1. Head over to the newly created channel. And now its time to wait, until a provider accepts your order.
+2. TODO
