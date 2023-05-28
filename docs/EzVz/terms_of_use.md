@@ -16,7 +16,7 @@ Welcome to EzVz, a 3D-printing service ("Service") provided by EzVz ("we," "us,"
 
 ## Acceptance of Terms
 
-1. By accessing or using the Service, you affirm that you have read, understood, and agree to be bound by these Terms. If you do not agree with any provision of these Terms, please do not access or use the Service.
+1. By accessing or using the Service, you affirm that you have read, understood, and agree to be bound by these Terms as well as our rules. If you do not agree with any provision of these Terms, please do not access or use the Service.
 
 ## Description of the Service
 
@@ -52,7 +52,9 @@ Welcome to EzVz, a 3D-printing service ("Service") provided by EzVz ("we," "us,"
 7. To the extent permitted by applicable law, we shall not be liable for any direct, indirect, incidental, consequential, or exemplary damages arising out of or in connection with the use of the Service. This limitation of liability applies regardless of the cause of action, whether in contract, tort, or otherwise, even if we have been advised of the possibility of such damages.
 
 ## Indemnification
+
 8. You agree to indemnify, defend, and hold us harmless from any claims, liabilities, damages, losses, costs, or expenses, including reasonable attorneys' fees, arising out of or in connection with your use of the Service, your breach of these Terms, or your violation of any rights of another party.
 
 ## Modifications to the Terms
+
 9. We reserve the right to modify these Terms at any time. Any changes will be effective immediately
