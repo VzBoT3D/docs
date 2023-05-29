@@ -38,14 +38,14 @@ A list of important and useful comands can be found here
 ![Orders](../assets/images/ezvz/Providers_Orders/Orders.png)
 
 2. If you press a order you'll see the parts required by the user and what material/color and where they're located. If you have that and are willing to print it press the Accept button.
-![Accept](../assets/images/ezvz/Providers_Orders/Accept Order.png)
+![Accept](../assets/images/ezvz/Providers_Orders/Accept%20Order.png)
 
 3. Once you've accepted the order the Buyer will also get a notification off this and you can start discussing Shipping costs and the price for the parts.
-![Orderaccepted](../assets/images/ezvz//Providers_Orders/Order accepted.png)
+![Orderaccepted](../assets/images/ezvz/Providers_Orders/Order%20accepted.png)
 ![Negotiation](../assets/images/ezvz/Providers_Orders/Negotiations.png)
 
 4. If both of you agree on the Price and timeframe just scroll up a bit and press the Deal button. If you can't agree on the button press the No Deal button and the order will go back to open for another Provider to Accept it.
-![deal](../assets/images/ezvz/Providers_Orders/Dealbutton.pgn)
+![deal](../assets/images/ezvz/Providers_Orders/Dealbutton.png)
 
 5. Once you both press Deal the channel goes into the waiting for shipment stage. Here you can still talk and keep the Buyer updated on his order.
 ![Waitingforshipment](../assets/images/ezvz/Providers_Orders/Shipment_Wait.png)
