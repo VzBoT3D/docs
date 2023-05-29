@@ -19,3 +19,13 @@ At the current point the following brands for the given filament type are allowe
 | ezPC          | 3DXtech                                                                                                |   280°C           |
 | PC CF         | Prusament, 3DXtech                                                                                     |   295°C           |
 | PPS CF        | Luvocom, Essentium                                                                                     |   350°C           |
+
+
+# Print Settings
+|Print Settings| Amount|
+|---|---|
+|Line width | 0.4mm|
+|Infill|42% |
+| Top Layers| 4 |
+| Bottom Layers| 4 |
+| Walls | 4  
