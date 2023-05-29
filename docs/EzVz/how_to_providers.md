@@ -11,6 +11,8 @@ permalink: /ezvz/how_to_providers
 
 # Step by Step Tutorial - Provider
 
+**Everything from this point is meant to be executed in the discord client.**
+
 # Commands
 
 A list of important and useful comands can be found here
@@ -19,10 +21,6 @@ A list of important and useful comands can be found here
 | ------------------- | ------------------------------------------------------------------ |
 | ```/ezvz edit```    | Edits your provided information, such as filaments and printers.   |
 | ```/ezvz preview``` | Previews your current information panel as a customer would see it |
-
-</br>
-
-**Everything from this point is meant to be executed in the discord client.**
 
 # Applying
 
