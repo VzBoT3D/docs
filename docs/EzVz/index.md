@@ -13,9 +13,11 @@ permalink: /EzVz
 
 [How it works](https://docs.vzbot.org/ezvz/how_to)
 
-[How to use - Customer](https://docs.vzbot.org/ezvz/how_to#step-by-step-tutorial---customer)
+[How to use - Customer](https://docs.vzbot.org//ezvz/how_to_customers)
 
-[How to use - Provider](https://docs.vzbot.org/ezvz/how_to#step-by-step-tutorial---customer)
+[How to use - Provider](https://docs.vzbot.org//ezvz/how_to_providers)
+
+[FAQ]()
 
 ## Provider Information
 

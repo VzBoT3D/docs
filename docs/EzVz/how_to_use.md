@@ -28,29 +28,18 @@ After sending your order, the order goes trough certain steps:
 5. If both parties agree on a deal the printing state begins. The provider has now time to print the parts and start shipping them.
 6. As soon as the buyer receives the part, he can close the order and rate the provider.
 
-## Step by Step Tutorial - Customer
 
-Everything from this point is meant to be executed in the discord client.
+## FAQ
 
-1. Head over to the EzVz-Info category and go into the #order channel. From the order-panel you can select which kits you would like to order.
-<img src="../assets/images//ezvz/ezvz_order_panel.png" width=400>
+### How does payment work?
 
-2. After selecting the kits close the selection and a new menu will pop up.
-   Fill out the data as needed.
-<img src="../assets/images//ezvz/ezvz_order_modal.png" width=400>
+Payment is handled trough the customer and provider parties. The VzBoT team does not handle any payment, nor is responsible for them.
 
-3. Head over to the newly created channel. And now its time to wait, until a provider accepts your order.
+### What happens if i get scammed?
 
-<img src="../assets/images//ezvz/ezvz_order_channel_link.png" width=400>
+If you get scammed as a customer, for example not receiving your parts after paying, please contact the VzBoT team and we will try to find a solution. 
+If a customers scams you as a provider, by not paying after shipping, please also contact the VzBoT team.
 
+### What happens if a provider revokes my order?
 
-4. In here you will see the main ordering panel. This allows you to perform certain actions on the order, as well as to see the current status. The message is pinned so you can easily get back to it later. 
-
-<img src="../assets/images//ezvz/ezvz_order_panel_channel.png" width=400>
-
-You can ignore the accept button. This button is only for interested providers who want to accept this order and negotiate with you. With the cancel button you can cancel the order. All details will then be deleted.
-
-5. Now its waiting time. Wait until somebody accepts your order to get to the next step.
-6. As soon as somebody accept your order you will get the following message:
-
-<img src="../assets/images//ezvz/ezvz_order_supplier_found.png" width=400>
+If a provider should revoke your order, so after accepting the deal canceling it, it will be marked inside of his provider profile and be visible for other customers.
