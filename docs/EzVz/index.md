@@ -17,7 +17,7 @@ permalink: /EzVz
 
 [How to use - Provider](https://docs.vzbot.org//ezvz/how_to_providers)
 
-[FAQ]()
+[FAQ](https://docs.vzbot.org/ezvz/how_to#faq)
 
 ## Provider Information
 
