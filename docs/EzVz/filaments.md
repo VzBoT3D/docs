@@ -20,6 +20,12 @@ At the current point the following brands for the given filament type are allowe
 | PC CF         | Prusament, 3DXtech                                                                                     |   295°C           |
 | PPS CF        | Luvocom, Essentium                                                                                     |   350°C           |
 
+# Banned brands/Fillament.
+
+|Fillament| Brand|
+|---------|------|
+|ABS +    | Esun |
+|PA       | Any  |
 
 # Print Settings
 |Print Settings| Amount|
