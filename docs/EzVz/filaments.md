@@ -28,10 +28,11 @@ At the current point the following brands for the given filament type are allowe
 |PA       | Any  |
 
 # Print Settings
-|Print Settings| Amount|
-|---|---|
-|Line width | 0.4mm|
-|Infill|42% |
-| Top Layers| 4 |
-| Bottom Layers| 4 |
-| Walls | 4  
+
+|Print Settings | Amount |
+|---------------|--------|
+| Line width    | 0.4mm  |
+| Infill        |42%     |
+| Top Layers    | 4      |
+| Bottom Layers | 4      |
+| Walls         | 4      | 
