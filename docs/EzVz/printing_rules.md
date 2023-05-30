@@ -2,6 +2,7 @@
 layout: default
 title: Printing Rules
 has_toc: false
+parent: EzVz
 nav_order: 7
 has_children: true
 permalink: /EzVz/print_rules
