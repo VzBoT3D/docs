@@ -16,7 +16,7 @@ You can see the allowed filaments and the required print settings [here](https:/
 ## Forbidden Filaments
 
 Filaments which include glitter or cf filaments are not allowed for the application because they can hide printing artifacts.
-**These are only forbidden when applying, later in while processing orders these kind of filaments are allows
+**These are only forbidden when applying, later in while processing orders these kind of filaments are allowed**
 
 ## Pictures
 
