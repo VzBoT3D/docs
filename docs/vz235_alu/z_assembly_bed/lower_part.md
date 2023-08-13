@@ -33,7 +33,7 @@ permalink: /vz235_alu/z_assembly/lower_part
 
 | File name | Amount to print |
 |-----------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Z alignment tool</a> | 2 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Tools/Z%20allignment%20tool%2010mm%20rod%20VZ235%20VZ%20printhead.stl" target="_blank">Z alignment tool</a> | 2 |
 
 
 ### Step 1
