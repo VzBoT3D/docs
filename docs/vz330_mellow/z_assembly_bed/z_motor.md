@@ -75,7 +75,7 @@ permalink: /vz330_mellow/z_assembly/z_motor
 ### Instructions
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step2_part1.png) | &#8226; Attach the NEMA 17 motor to the motor mount plate with the four M3 x 10mm screws <br> &#8226; Take care that the motor cable points to the back ( the side with the slides in the plate) |
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step2_part1.png) | &#8226; Attach the NEMA 17 motor to the motor mount plate with the four M3 x 10mm screws. The chamfered side of the plate goes to the motor. <br> &#8226; Take care that the motor cable points to the back ( the side with the slides in the plate). |
 {: .instructiontable}
 
 <br>
