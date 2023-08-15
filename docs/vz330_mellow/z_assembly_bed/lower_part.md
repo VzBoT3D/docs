@@ -146,7 +146,7 @@ permalink: /vz330_mellow/z_assembly/lower_part
 | Part | Location |
 |:-|:-|
 | Lower leadscrew mount <br> Quantity: 2 | **Layer**: 1 |
-| M4 x 12mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 13/16 |
+| M4 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 13/16 |
 | M4 t-nut <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |
 
 <br>
@@ -159,7 +159,7 @@ permalink: /vz330_mellow/z_assembly/lower_part
 
 
 |:-|:-|
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step3_part2.png) | &#8226; Insert lower leadscrew mount to bottom extrusion <br> &#8226; Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount <br> &#8226; We will align the parts in **Step 5** |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step3_part2.png) | &#8226; Insert lower leadscrew mount to bottom extrusion <br> &#8226; Tighten the M4 x 10mm screw loosly, and center the lower leadscrew mount <br> &#8226; We will align the parts in **Step 5** |
 {: .instructiontable}
 
 <br>
