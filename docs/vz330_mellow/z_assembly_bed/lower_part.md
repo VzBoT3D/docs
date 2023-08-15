@@ -185,7 +185,7 @@ permalink: /vz330_mellow/z_assembly/lower_part
 ### Instructions
 
 |:-|:-|
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step4_part1.png) | &#8226; Insert upper leadscrew mount to single z bracket <br> &#8226; Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount <br> &#8226; Use a drill bit or a similar tool (with 8mm diameter), put it through the two bearing's and prealign the two mounts <br> &#8226; We will align the parts in **Step 5** |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step4_part1.png) | &#8226; Insert upper leadscrew mount to single z bracket <br> &#8226; Tighten the M4 x 12mm screw loosly, and center the lower leadscrew mount <br> &#8226; Use the leadscrews or a drill bit/similar tool (with 8mm diameter), put it through the two bearing's and prealign the two mounts <br> &#8226; We will align the parts in **Step 5** |
 
 <br>
 
