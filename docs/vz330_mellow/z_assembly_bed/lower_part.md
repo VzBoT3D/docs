@@ -137,7 +137,7 @@ permalink: /vz330_mellow/z_assembly/lower_part
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M4 x 12mm <br>
+> &#8226; Box 6 - M4 x 10mm <br>
 > &#8226; Box 6 - M4 t-nut 
 
 |:-|
