@@ -96,7 +96,7 @@ permalink: /vz330_mellow/z_assembly/bed_assembly
 ### Instructions
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step2_part1.png) | &#8226; Attach the part of the oldham coupler to the center hole <br> &#8226; Fixate it with the M3 x 8mm screw |
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_assembly/step2_part1.png) | &#8226; Attach the part of the oldham coupler to the center hole <br> &#8226; Fixate it with the M3 x 10mm screw |
 {: .instructiontable}
 
 
