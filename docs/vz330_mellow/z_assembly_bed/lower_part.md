@@ -115,7 +115,7 @@ permalink: /vz330_mellow/z_assembly/lower_part
 
 
 |:-|:-|
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part2.png) | &#8226; Attach M4 x 12mm + t-nut to the z bracket <br> &#8226; **Tip:** screw in two screws for now in the two holes and the rollin t-nuts so they move with the part if you move it around. |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part2.png) | &#8226; Attach M4 x 12mm + t-nut to the z bracket <br> &#8226; **Tip:**Drop in the plate and add in the two screws for now in the two holes in the middle for the rollin t-nuts so they move with the part if you move it around. |
 {: .instructiontable}
 
 
