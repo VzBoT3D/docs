@@ -125,7 +125,7 @@ permalink: /vz330_mellow/z_assembly/lower_part
 
 
 |:-|:-|
-| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part4.png) | &#8226; Align the front rod with the z-alignment tool <br> &#8226; tighten the M4 x 12mm screws, when it's aligned |
+| ![Mount](../../assets/images/manual/vz330_mellow/z_assembly/lower_part/step2_part4.png) | &#8226; Align the front rod with the z-alignment tool. Use M4x10 and t-nuts for the tool. <br> &#8226; tighten the M4 x 12mm screws, when it's aligned |
 {: .instructiontable}
 
 <br>
