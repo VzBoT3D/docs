@@ -22,7 +22,9 @@ permalink: /vz330_mellow/z_assembly/z_motor
 |:-------------|:------------------|
 | M3 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
 | M4 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
-| M4 t-nut <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M4 x 12mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M4 Washer <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
+| M4 t-nut <br> Quantity: 2  | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
 | GT2 20 teeth <br> Quantity: 1 | **Layer**: 1 | ![parts](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/parts/gt2_20.png) |
 | NEMA 17 stepper <br> Quantity: 1 | **Layer**: 1 |  |
 | Motor mount plate <br> Quantity: 1 | **Layer**: 1 | ![parts](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/parts/motor_plate.png) |
@@ -137,7 +139,8 @@ permalink: /vz330_mellow/z_assembly/z_motor
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M4 x 10mm
+> &#8226; Box 6 - M4 x 12mm <br>
+> &#8226; Box 6 - M4 Washers
 
 |:-|
 | ![Step 5](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step5.png) |
@@ -145,19 +148,20 @@ permalink: /vz330_mellow/z_assembly/z_motor
 | Part | Location |
 |:-|:-|
 | Assembled motor mount <br> Quantity: 1 | [Part from step 2](#step-2) |
-| M4 x 10mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 |
+| M4 x 12mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 |
+| M4 Washers <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
 
 <br>
 
 ### Instructions
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step5_part1.png) | &#8226; Put the assembled mount on the extrusion plate and screw in the M4 x 10mm screws slightly |
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step5_part1.png) | &#8226; Put the assembled mount on the extrusion plate and screw in the M4 x 12mm screws slightly |
 {: .instructiontable}
 
 <br>
 
 ### Step 6
 
-- Put on the z-belt and tighten the belt by pulling the motor back and fixate it with the slightly screwed in M4 x 10mm screws.
+- Put on the z-belt and tighten the belt by pulling the motor back and fixate it with the slightly screwed in M4 x 12mm screws.
 - Loose the GT2 grub screws and align the belt that it is horizontal and tighten the grub screws on the flat spots of the motor after.
