@@ -268,7 +268,8 @@ From the large plug on the bottom left we only need the Grey wire so the second 
 
 First of we're gonna be putting the TMC2209's on the Motherboard if you haven't already done this. Make sure port 0 and 1 are set to UART with the correct jumpers. and plugin the 2209's. Make sure you plug them in the correct orientation. The part with the pins on the side of the 2209 sits on the outside of the board. and the text on the 2209 is on the inside of the board. like shown Bellow.
 
-![2209](../../assets/images/manual/vz235_printed/electronics/2209.jpg)
+![2209](../../assets/images/manual/vz235_printed/electronics/2209.jpg)<br>
+
 ![board Closeup](../../assets/images/manual/vz235_printed/electronics/Board_Setup.jpg)
 {: .smallpictures }
 
@@ -293,6 +294,7 @@ Again measure the continuity of the motors and put your first pair in B2 and B1 
 Repeat this for the X1 in slot DRIVER5,Y in slot DRIVER4,Y1 in slot DRIVER3.
 
 ![51602](../../assets/images/manual/vz235_printed/electronics/51602.jpg)
+
 ![AWD setup](../../assets/images/manual/vz235_printed/electronics/AWD.png)
 {: .smallpictures }
 

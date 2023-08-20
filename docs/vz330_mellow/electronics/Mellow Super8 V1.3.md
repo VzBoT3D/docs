@@ -71,12 +71,10 @@ Here's a view of the board with all the plugs still not filled. It's important t
 For SPI you need to put bridges on the front 2 rows of pins. These are used for the 5160's
 
 ![SPI](../../assets/images/manual/vz235_printed/electronics/SPI.PNG)
-{: .smallpictures }
 
 For UART you need to put the bridge on the second pin from the left and then bridge the front and middle row. These are for the 2209's.
 
 ![UART](../../assets/images/manual/vz235_printed/electronics/UART.PNG)
-{: .smallpictures }
 
 Next step is to populate all the driver slots that you're gonna use. Here's a example for a AWD setup on 5160's and Z and E on 2209's.
 
@@ -88,7 +86,7 @@ Next step is to populate all the driver slots that you're gonna use. Here's a ex
 We start off by putting the Heatsinks on the 5160's. If you don't do this they will go into overtemp error.
 
 ![Clean 5160](../../assets/images/manual/vz235_printed/electronics/DSC06360.JPG)
-{: .smallpictures }
+{: .smallpictures }<br>
 ![5160 Cooled](../../assets/images/manual/vz235_printed/electronics/DSC06363.JPG)
 {: .smallpictures }
 
@@ -268,7 +266,8 @@ From the large plug on the bottom left we only need the Grey wire so the second 
 
 First of we're gonna be putting the TMC2209's on the Motherboard if you haven't already done this. Make sure port 0 and 1 are set to UART with the correct jumpers. and plugin the 2209's. Make sure you plug them in the correct orientation. The part with the pins on the side of the 2209 sits on the outside of the board. and the text on the 2209 is on the inside of the board. like shown Bellow.
 
-![2209](../../assets/images/manual/vz235_printed/electronics/2209.jpg)
+![2209](../../assets/images/manual/vz235_printed/electronics/2209.jpg)<br>
+
 ![board Closeup](../../assets/images/manual/vz235_printed/electronics/Board_Setup.jpg)
 {: .smallpictures }
 
@@ -293,6 +292,7 @@ Again measure the continuity of the motors and put your first pair in B2 and B1 
 Repeat this for the X1 in slot DRIVER5,Y in slot DRIVER4,Y1 in slot DRIVER3.
 
 ![51602](../../assets/images/manual/vz235_printed/electronics/51602.jpg)
+
 ![AWD setup](../../assets\images\manual\vz330_mellow\electronics\AWD_330.png)
 {: .smallpictures}
 
