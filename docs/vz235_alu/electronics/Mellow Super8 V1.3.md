@@ -217,13 +217,12 @@ Here's a quick overview of how a final setup could look depending on the options
 Here's a pinout for the Motherboard. We're gonna be using this to find where we need to plug in things.
 
 ![Pinout](../../assets/images/manual/vz235_printed/electronics/Pinout.png)
-{: .smallpictures }
 
 
 And a closeup of the more important section we're gonna be talking about next.
 
 ![Pinout2](../../assets/images/manual/vz235_printed/electronics/Pinout2.png)
-{: .smallpictures }
+
 
 
 Your Bed thermistor get's plugged into the ADC5 port. This is just above the Heat2 port and is a Yellow plug on the Motherboard. We need to use the top 2 pins in our connector. so PC1 and -.
@@ -262,16 +261,14 @@ For powering the CPAP we hookup the Plug on the controlboard's bottom right Dire
 From the large plug on the bottom left we only need the Grey wire so the second from left. This wire get's plugged into port PF8 on the Motherboard. 
 
 ![CPAP](../../assets/images/manual/vz235_printed/electronics/CPAP.png)
-{: .smallpictures }
 ![Pinout](../../assets/images/manual/vz235_printed/electronics/CPAP_Hookup.png)
-{: .smallpictures }
+
 
 # Connecting the Motors.
 
 First of we're gonna be putting the TMC2209's on the Motherboard if you haven't already done this. Make sure port 0 and 1 are set to UART with the correct jumpers. and plugin the 2209's. Make sure you plug them in the correct orientation. The part with the pins on the side of the 2209 sits on the outside of the board. and the text on the 2209 is on the inside of the board. like shown Bellow.
 
 ![2209](../../assets/images/manual/vz235_printed/electronics/2209.jpg)
-{: .smallpictures }
 ![board Closeup](../../assets/images/manual/vz235_printed/electronics/Board_Setup.jpg)
 {: .smallpictures }
 
@@ -284,7 +281,7 @@ The wires have to make a Pair and you can check that with a Multimeter. put it o
 Repeat this for your Z motor on DRIVER1
 
 ![PinoutEZ](../../assets/images/manual/vz235_printed/electronics/Pinout_motors.png)
-{: .smallpictures }
+
 
 # 5160 motor setup
 Next up we're going to be wiring up the motors to the 5160's.
@@ -296,7 +293,6 @@ Again measure the continuity of the motors and put your first pair in B2 and B1 
 Repeat this for the X1 in slot DRIVER5,Y in slot DRIVER4,Y1 in slot DRIVER3.
 
 ![51602](../../assets/images/manual/vz235_printed/electronics/51602.jpg)
-{: .smallpictures }
 ![AWD setup](../../assets/images/manual/vz235_printed/electronics/AWD.png)
 {: .smallpictures }
 

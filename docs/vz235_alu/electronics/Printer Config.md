@@ -55,11 +55,11 @@ Next up we're gonna check if the motors move and if they move to the correct sid
 We're gonna do this with the Stepper_buzz command ```STEPPER_BUZZ stepper=stepper_```<br>
 
 ![Stepper_Buzz](../../assets/images/manual/vz235_printed/electronics/Printer_config/Stepper_Buzz.PNG)
-{: .smallpictures }
+
 
 When the steppers move X and X1 should move to the same side. This is the same with Y and Y1. If this is not the case we need to add a ! at the dir pin like so:<br>
-![Stepper_Buzz](../../assets/images/manual/vz235_printed/electronics/Printer_config/Dir_Pin.PNG)
-{: .smallpictures }
+![Dir_PIN](../../assets/images/manual/vz235_printed/electronics/Printer_config/Dir_Pin.PNG)
+
 
 When we've made sure that the steppers move to the correct sides we're gonna see if they home to the correct spots.
 
