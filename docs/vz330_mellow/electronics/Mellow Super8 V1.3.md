@@ -294,7 +294,6 @@ Repeat this for the X1 in slot DRIVER5,Y in slot DRIVER4,Y1 in slot DRIVER3.
 ![51602](../../assets/images/manual/vz235_printed/electronics/51602.jpg)
 
 ![AWD setup](../../assets\images\manual\vz330_mellow\electronics\AWD_330.png)
-{: .smallpictures}
 
 # Powering the Pi
 Next we're hooking up the power to the Pi.
