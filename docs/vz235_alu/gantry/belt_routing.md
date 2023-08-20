@@ -27,4 +27,8 @@ permalink: /vz235_alu/gantry/belt_routing
 
 ## Printhead belt routing:
 
-TODO
+|:-|:-|
+| [![belt](../../assets/images/manual/vz330_mellow/gantry/printhead/step5.png)](https://www.youtube.com/embed/Ibi27Toh-pg "Apply belt") | &#8226; Make sure the motor's in the front are in the loosest position possible, moved to the back of the motor mount. |
+{: .instructiontable}
+
+<br>
