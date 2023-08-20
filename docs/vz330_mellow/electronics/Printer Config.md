@@ -28,7 +28,6 @@ And to make our Start and End of the print a bit easier to use we also have a fi
 Put all of those files in your Machine tab of Mainsail like this:
 
 ![Machine](../../assets/images/manual/vz235_printed/electronics/Printer_config/Machine.PNG)
-{: .smallpictures }
 
 
 # Serial time
@@ -42,12 +41,10 @@ Once it's all powered on open Putty Login and type in this command.
 This will give you the serial you need to put in your Printer.cfg to make sure they can talk to eachother.
 
 ![stm32](../../assets/images/manual/vz235_printed/electronics/Firmware/serial.PNG)
-{: .smallpictures }
 
 Put the serial here:
 
 ![Serial](../../assets/images/manual/vz235_printed/electronics/Printer_config/Serial.PNG)
-{: .smallpictures }
 
 # Motor Movements.
 

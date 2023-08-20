@@ -170,7 +170,7 @@ Plug in a wire to the -V side of the Wago and run it to your 5160. Put it in the
 Now do this for all your 5160's like you see down below. That's all the wiring you have to do for 48V.
 
 ![5160_48V_complete](../../assets/images/manual/vz235_printed/electronics/5160_48V_Complete.jpeg)
-{: .smallpictures }
+
 
 One last IMPORTANT step to do is to link your 24V - to your 48V -. Like you see Below i used a piece of wire to connect my 24V Negative Wago to my 48V Negative Wago. 
 
