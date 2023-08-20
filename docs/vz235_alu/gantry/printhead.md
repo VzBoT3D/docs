@@ -96,7 +96,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 {: .warning }
 > Important
 >
-> The spacer need to be installed like shown in the picture, be careful otherwise the belt routing will not work.
+> The front need to be installed like shown in the picture, be careful otherwise the belt routing will not work.
 
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step2.png) | &#8226; Screw on the top plate to the carriage with the four M3 x 5mm screws <br> &#8226; Install the back part from step 1 to the top plate with the two M3 x 6mm screws <br> &#8226; Install the front spacers with two M3 x 6mm screws <br> &#8226; Install the bottom plate to the assembly with four M3 x 6mm screws.
@@ -124,7 +124,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 ### Instructions
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step3.png) | &#8226; Screw on the printhead cable holder with two M3 x 6mm screws <br> &#8226; Attach the printed cable holder to the top with two M3 x 6mm screws.
+| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step3.png) | &#8226; Screw on the endstop  with two M2 x 8mm screws <br> &#8226; Attach the Endstop holder to the top with two M3 x 6mm screws.
 {: .instructiontable}
 
 <br>
