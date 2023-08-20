@@ -107,6 +107,11 @@ Use both with a 128KiB bootloader Offset. And a 25MHz Crystal Like this.
 ![H723](../../assets/images/manual/vz235_printed/electronics/Firmware/H723.PNG)
 ![H743](../../assets/images/manual/vz235_printed/electronics/Firmware/H743.PNG)
 
+For CPAP we need to change the on/off settings of pin PF8 so we have to put that into the GPIO settings. Press spacebar on GPIO pins and put in !PF8 and press enter.
+
+![PF8](../../assets/images/manual/vz235_printed/electronics/Firmware/PF8.PNG)
+
+
 Now you simply Press: Q and hit Y for Yes save configuration.
 
 ![Save](../../assets/images/manual/vz235_printed/electronics/Firmware/save.PNG)

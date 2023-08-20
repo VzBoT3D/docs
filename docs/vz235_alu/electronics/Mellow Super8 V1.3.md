@@ -70,17 +70,17 @@ Here's a view of the board with all the plugs still not filled. It's important t
 
 For SPI you need to put bridges on the front 2 rows of pins. These are used for the 5160's
 
-![SPI](../../assets/images/manual/vz235_printed/electronics/DSC06346.JPG)
+![SPI](../../assets/images/manual/vz235_printed/electronics/SPI.PNG)
 {: .smallpictures }
 
 For UART you need to put the bridge on the second pin from the left and then bridge the front and middle row. These are for the 2209's.
 
-![UART](../../assets/images/manual/vz235_printed/electronics/DSC06348.JPG)
+![UART](../../assets/images/manual/vz235_printed/electronics/UART.PNG)
 {: .smallpictures }
 
 Next step is to populate all the driver slots that you're gonna use. Here's a example for a AWD setup on 5160's and Z and E on 2209's.
 
-![Filled Board](../../assets/images/manual/vz235_printed/electronics/DSC06351.jpg)
+![Filled Board](../../assets/images/manual/vz235_printed/electronics/XYZ_final.jpg)
 {: .smallpictures }
 
 # installing the 5160's.
@@ -123,11 +123,10 @@ The bridges are to be inserte Left to right. The Top row is 5V. Middle row is 12
 Now we know how the board works a bit we can start setting it up on the machine. Mount the PSU's and Board on the back of the printer in the order you prefer or how it's layed out for the Kit.
 
 # choosing a layout
-Here is the layout i went with for my machine. it's good to put everything on the machine and check how it looks and is to work on before wiring everything up.
+Here is the layout For the Mellow Vz235 kit. It's important to check if everything fits where you want before attaching it.
 
-Left is the 24V PSU next to it is the 48V PSU and then the Motherboard and 5160's.
-Bellow that there's a bit of open space for some Wago mounts wich you'll see later then some distribution blocks i use for my AC side. My 2 SSR's a 5V PSU and the Pi is hidden to the right of the 5V PSU.
-![Back Layout](../../assets/images/manual/vz235_printed/electronics/Back_Overview.jpeg)
+Left is the 24V psu and to the right side is the 48V psu. This is because only the 5160's need 48V so we make the path to them the shortest by having the 48V PSU to the side of them.<br>
+![Back Layout](../../assets/images/manual/vz235_printed/electronics/Stock_Electronics_Layout.PNG)
 {: .smallpictures }
 
 # Plugging in the 5160's
@@ -169,7 +168,8 @@ The SSR will also get a AC line put in on the other side. like shown Bellow. tha
 
 # Plugging in the 24V side.
 
-Your Motherboard only get's 24V this is the beauty of the External 5160's you don't need to run 48V to your motherboard lowering the risk of damaging your motherboard when you have a issue with your 5160's.
+{: .highlight }
+> &#8226; Your Motherboard only get's 24V this is the beauty of the External 5160's you don't need to run 48V to your motherboard lowering the risk of damaging your motherboard when you have a issue with your 5160's.
 
 Here you can see the first Wago blocks i used for my 24V + and - the PSU has a wire from the +V to the top Wago and -V has a wire running to the Bottom Wago block. This way you can have more outputs for your PSU.
 
@@ -202,7 +202,7 @@ One last IMPORTANT step to do is to link your 24V - to your 48V -. Like you see 
 
 If you forget this step you can have issue's with your 5160's once we try to start using them.
 
-![Negative Link](../../assets/images/manual/vz235_printed/electronics/Negative_Link.jpeg)
+![Negative Link](../../assets/images/manual/vz235_printed/electronics/Negative_Link.jpg)
 {: .smallpictures }
 
 # Plugging everything into the board
@@ -231,6 +231,9 @@ Your Bed thermistor get's plugged into the ADC5 port. This is just above the Hea
 your Hotend Heater will be connected to Heat0. It doesn't matter in what order you plug in your heater wires.
 
 # Fans
+ 
+ {: .highlight }
+> &#8226; Make sure you set the correct Voltage for your Fans using the 5V , 12V , 24V jumpers.
 
 Your Hotend Fan get's connected to fan port FAN0. which is the first plug after the heaters on the edge of the board. 
 
@@ -256,11 +259,11 @@ To hookup CPAP we need to use the pictures below.
 
 For powering the CPAP we hookup the Plug on the controlboard's bottom right Directly to the 24V of your PSU. So Black goes to Negative 24V and Red goes to Positive 24V.
 
-From the large plug on the bottom left we only need the Grey wire so the second from left. This wire get's plugged into port GPIO26 on the Raspberry Pi. That's the second from the bottom left pin on the Pi. you can do this by crimping a JST-XH 2pin plug on the end of the grey wire. This is the same type of plug used on your Motherboard.
+From the large plug on the bottom left we only need the Grey wire so the second from left. This wire get's plugged into port PF8 on the Motherboard. 
 
 ![CPAP](../../assets/images/manual/vz235_printed/electronics/CPAP.png)
 {: .smallpictures }
-![Pi Pinout](../../assets/images/manual/vz235_printed/electronics/Raspberry-GPIO.jpg)
+![Pinout](../../assets/images/manual/vz235_printed/electronics/CPAP_Hookup.png)
 {: .smallpictures }
 
 # Connecting the Motors.
