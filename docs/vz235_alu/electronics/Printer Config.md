@@ -98,4 +98,4 @@ Once all this is done you should be able to start your first print and make a vi
 
 
 {: .highlight }
-> &#8226; Make sure to go to your start up routine first and check your Z-offset like you would with any other machine. The VzBot uses a Physical Z endstop switch and Bed leveling knobs. You should only have to dial those in once and it won't change after that.
+> &#8226; Make sure to go through your start up routine first and check your Z-offset like you would with any other machine. The VzBot uses a Physical Z endstop switch and Bed leveling knobs. You should only have to dial those in once and it won't change after that.
