@@ -58,6 +58,7 @@ We're gonna do this with the Stepper_buzz command ```STEPPER_BUZZ stepper=steppe
 
 
 When the steppers move X and X1 should move to the same side. This is the same with Y and Y1. If this is not the case we need to add a ! at the dir pin like so:<br>
+
 ![Dir_PIN](../../assets/images/manual/vz235_printed/electronics/Printer_config/Dir_Pin.PNG)
 
 
