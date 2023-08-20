@@ -14,7 +14,6 @@ permalink: /vz235_alu/gantry/printhead
 In this section we'll assemble the Toolhead for the VzBot.
 
 {: .highlight }
-> Required
 > &#8226; Use Loctite Purple 222/221 for the bolts in the toolhead.
 
 <br>
