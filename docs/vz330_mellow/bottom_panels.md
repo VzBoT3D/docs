@@ -8,17 +8,17 @@ has_children: false
 permalink: /vz330_mellow/panels_part1
 ---
 
-<br>
+<br/>
 
 |:-|
 | ![Overview](../assets/images/manual/vz330_mellow/panels_1/overview.png) |
 
-<br>
-<br>
+<br/>
+<br/>
 
 ## Parts
 
-<br>
+<br/>
 
 | Material        | Quantity          | Notes |
 |:-------------|:------------------|:------|
@@ -38,7 +38,7 @@ permalink: /vz330_mellow/panels_part1
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/Feet/STL/foot.stl" target="_blank">VzBoT Foot</a> | 4 |
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/Feet/STL/Spacer.stl" target="_blank">Foot scalable spacer (optional)</a> | 4 |
 
-<br>
+<br/>
 
 ## Step 1
 
@@ -46,15 +46,15 @@ permalink: /vz330_mellow/panels_part1
 
 | Part | Location |
 |:-|:-|
-| M4 sliding t-nut <br> Quantity: x | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
-| M4 x 10mm <br> Quantity: x | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| M4 sliding t-nut <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
+| M4 x 10mm <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
 
 ### Instructions
 
 |:-|:-|
-| ![Step 1](../assets/images/manual/vz330_mellow/panels_1/step_1.png) | &#8226; Mount the PSU to the backplate first <br> &#8226; Insert sliding t-nuts <br> &#8226; Align them with the holes of the panel <br> &#8226; Start screwing the panel down from the middle to the outside holes.
+| ![Step 1](../assets/images/manual/vz330_mellow/panels_1/step_1.png) | &#8226; Mount the PSU to the backplate first <br/> &#8226; Insert sliding t-nuts <br/> &#8226; Align them with the holes of the panel <br/> &#8226; Start screwing the panel down from the middle to the outside holes.
 
-<br>
+<br/>
 
 ## Step 2
 
@@ -62,17 +62,17 @@ permalink: /vz330_mellow/panels_part1
 
 | Part | Location |
 |:-|:-|
-| Rubber feet <br> Quantity: 4 | - |
-| M5 x xx <br> Quantity: x | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| Rubber feet <br/> Quantity: 4 | - |
+| M5 x xx <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
 
-<br>
+<br/>
 
 ### Instructions
 
 |:-|:-|
-| ![Step 2](../assets/images/manual/vz330_mellow/panels_1/step_2.png) | &#8226; Insert all hardware in the printed feet <br> &#8226; The rubber feet should stick out 1-2 mm ( scale the spacer accordingly )  |
+| ![Step 2](../assets/images/manual/vz330_mellow/panels_1/step_2.png) | &#8226; Insert all hardware in the printed feet <br/> &#8226; The rubber feet should stick out 1-2 mm ( scale the spacer accordingly )  |
 
-<br>
+<br/>
 
 ## Step 3
 
@@ -80,13 +80,13 @@ permalink: /vz330_mellow/panels_part1
 
 | Part | Location |
 |:-|:-|
-| M4 sliding t-nut <br> Quantity: x | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
-| M4 x 10mm <br> Quantity: x | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
-| M5 x xx <br> Quantity: x | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| M4 sliding t-nut <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
+| M4 x 10mm <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
+| M5 x xx <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
 
-<br>
+<br/>
 
 ### Instructions
 
 |:-|:-|
-| ![Step 3](../assets/images/manual/vz330_mellow/panels_1/step_3.png) | &#8226; Insert all M4 sliding t-nuts in the frame and align them with the holes of the plate <br> &#8226; Mount plate and feet to the frame.
+| ![Step 3](../assets/images/manual/vz330_mellow/panels_1/step_3.png) | &#8226; Insert all M4 sliding t-nuts in the frame and align them with the holes of the plate <br/> &#8226; Mount plate and feet to the frame.

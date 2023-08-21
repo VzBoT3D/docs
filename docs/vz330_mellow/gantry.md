@@ -8,7 +8,7 @@ has_children: true
 permalink: /vz330_mellow/gantry
 ---
 
-<br>
+<br/>
 
 |:-|
 | ![Overview](../assets/images/manual/vz330_mellow/gantry/overview.png) |   
@@ -16,7 +16,7 @@ permalink: /vz330_mellow/gantry
 
 **Gantry comes pre-assembled with printed parts in PLA that are for transportation only. It should not be used on the printer. You can easily replace the parts without disassembling the whole thing.**
 
-<br>
+<br/>
 
 # Table of content
 

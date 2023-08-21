@@ -48,20 +48,20 @@ Put the serial here:
 
 # Motor Movements.
 
-Next up we're gonna check if the motors move and if they move to the correct side.<br>
-We're gonna do this with the Stepper_buzz command ```STEPPER_BUZZ stepper=stepper_```<br>
+Next up we're gonna check if the motors move and if they move to the correct side.<br/>
+We're gonna do this with the Stepper_buzz command ```STEPPER_BUZZ stepper=stepper_```<br/>
 
 ![Stepper_Buzz](../../assets/images/manual/vz235_printed/electronics/Printer_config/Stepper_Buzz.PNG)
 
 
-When the steppers move X and X1 should move to the same side. This is the same with Y and Y1. If this is not the case we need to add a ! at the dir pin like so:<br>
+When the steppers move X and X1 should move to the same side. This is the same with Y and Y1. If this is not the case we need to add a ! at the dir pin like so:<br/>
 
 ![Dir_PIN](../../assets/images/manual/vz235_printed/electronics/Printer_config/Dir_Pin.PNG)
 
 
 When we've made sure that the steppers move to the correct sides we're gonna see if they home to the correct spots.
 
-Send a ```G28 X``` and check if X moves to the Left. If this is not the case we're going have to play with the Dir_Pin.<br>
+Send a ```G28 X``` and check if X moves to the Left. If this is not the case we're going have to play with the Dir_Pin.<br/>
 
 Go to your printer.cfg and check what the Dir_Pin is for X,X1,Y,Y1. And note this down somewhere.
 
@@ -70,17 +70,17 @@ Go to your printer.cfg and check what the Dir_Pin is for X,X1,Y,Y1. And note thi
 
 X moves to the wrong side:
 
-If there's no ! at the X Dir_Pin add this there and home X again.<br>
-Still wrong also change Y's Dir_Pin and home X again.<br>
-Still wrong Change X Dir_Pin again but leave Y's and Home X again.<br>
+If there's no ! at the X Dir_Pin add this there and home X again.<br/>
+Still wrong also change Y's Dir_Pin and home X again.<br/>
+Still wrong Change X Dir_Pin again but leave Y's and Home X again.<br/>
 
 
 To make it a bit easier i always make a list for myself like shown below. that way i can keep track of what i've already tried. the ! standing for the changed Dir_Pin. If you try all these 4 options one of them should be correct. If not you have put the wrong motor on the drivers so you have to go back to that step and make sure those are correct.
 
-X! Y<br>
-X! Y!<Br>
-X Y!<BR>
-X Y<br>
+X! Y<br/>
+X! Y!<br/>
+X Y!<br/>
+X Y<br/>
 
 # Fans and other Accessories
 

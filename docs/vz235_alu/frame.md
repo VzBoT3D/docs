@@ -13,8 +13,8 @@ permalink: /vz235_alu/frame
 ## Overview
 
 ![Frame](../assets/images/manual/vz235_printed/frame/overview.png)
-<br>
-<br>
+<br/>
+<br/>
 
 The frame is assembled through a combination of blind joints, corner brackets and blind corner brackets. The corner brackets are to help stiffen up the frame and are optional, though we highly recommend using them on every possible corner for best results.
 
@@ -32,9 +32,9 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 | 2020 corner joints           | 18 | -  |
 | 2020 blind corner joints           | 4 | -  |
   
-<br>
+<br/>
 ![Frame colored](../assets/images/manual/vz235_printed/frame/frame_colored.png)
- <br>
+ <br/>
 
 ## STL's
 
@@ -52,20 +52,20 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 ### Step 1
 
 To start you are going to build the 2 sides of your frame. Make sure you do your building on a nice flat surface. You will lay your frame half down with the included printed alignment tools for the y gantry extrusions and hand tighten all blind joints.
-<br>
-<br>
+<br/>
+<br/>
 
 ![Frame side](../assets/images/manual/vz235_printed/frame/frame_side.png)
-<br>
-<br>
+<br/>
+<br/>
 
 After hand tightening you can start tightening everything down properly. Make sure every corner is exactly 90 degrees. Moreover, make sure the Y gantry extrusion is parallel to the upper and lower extrusion of the frame half. The Y gantry extrusion is the only extrusion that can’t use a 2020 corner joint bracket, it is stabilized by the motormount so there is no need for extra reinforcement.
-<br>
-<br>
+<br/>
+<br/>
 
 ![Frame brackets](../assets/images/manual/vz235_printed/frame/frame_sides.png)
-<br>
-<br>
+<br/>
+<br/>
 
 Once you are done with one half repeat for the other half. Check the two halves by laying them on top of each other with all corners exactly in the same spot and check the y gantry extrusions for the two halves whether they are parallel to each other. They need to be parallel for the printer to operate smoothly.
 
@@ -75,22 +75,22 @@ Once you are done with one half repeat for the other half. Check the two halves 
 ### Step 2
 
 The bottom, top and upright extrusions in the front of the frame all have printed nut inserts inserted. 2 in the top for the door latches, 2 in the bottom for the lower latches and 1 in upright for the motor mounts to attach to. Insert the M4 nuts into the M4 inserts and push them in the uprights on the frame half. Next insert the 2x5mm magnets and the m3 nut into the frame part of the magnetic door latches and put 2 in the front lower and 2 in the front upper extrusion as shown in the picture before assembling the final part of the frame.
-<br>
-<br>
+<br/>
+<br/>
 
 ![Frame inserts](../assets/images/manual/vz235_printed/frame/frame_inserts.png)
-<br>
-<br>
+<br/>
+<br/>
 
 ### Step 3
 
 Attach the extrusions to connect the two halves of the frame. Make sure to put the part you are assembling on the flat surface and afterwards check the frame on squareness.
-<br>
-<br>
+<br/>
+<br/>
 
 ![Frame inserts](../assets/images/manual/vz235_printed/frame/frame_complete.png)
-<br>
-<br>
+<br/>
+<br/>
 
 ### Step 4
 

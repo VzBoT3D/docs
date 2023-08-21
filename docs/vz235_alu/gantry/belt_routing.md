@@ -12,18 +12,18 @@ permalink: /vz235_alu/gantry/belt_routing
 # 3.5 Belt routing and tensioning (AWD & 2WD)
 
 ## 2WD:
-<br>
+<br/>
 
 ![Belt routing 2WD](../../assets/images/manual/vz235_printed/gantry/belt_2wd.png)
 
-<br>
+<br/>
 
 ## AWD:
-<br>
+<br/>
 
 ![Belt routing AWD](../../assets/images/manual/vz235_printed/gantry/belt_awd.png)
 
-<br>
+<br/>
 
 ## Printhead belt routing:
 
@@ -31,4 +31,4 @@ permalink: /vz235_alu/gantry/belt_routing
 | [![belt](../../assets/images/manual/vz330_mellow/gantry/printhead/step5.png)](https://www.youtube.com/embed/Ibi27Toh-pg "Apply belt") | &#8226; Make sure the motor's in the front are in the loosest position possible, moved to the back of the motor mount. |
 {: .instructiontable}
 
-<br>
+<br/>

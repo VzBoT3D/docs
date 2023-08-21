@@ -46,39 +46,39 @@ permalink: /vz235_printed/gantry/front_motor
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Hinge/motor reinforcement</a> | Left + Right |
 
 ### Step 1
-<br>
+<br/>
 
 ![Motor tensioner](../../assets/images/manual/vz235_printed/gantry/motor_tensioner.png)
-<br>
+<br/>
 First attach the printed tensioner to the motor like shown above
 
 ### Step 2
-<br>
+<br/>
 
 ![Lower mount](../../assets/images/manual/vz235_printed/gantry/motor_lower_mount.png)
-<br>
+<br/>
 Then attach the lower bracket of the motor mount to the frame
 
 ### Step 3
 Insert the M4 nut in the upper half of the motor mount and attach it on top of the lower mount and to the frame with M4 T-nuts. Don’t forget to tighten the two halves to the frame by screwing down the 40mm M4 into the printed M4 holder you inserted when assembling the frame.
 
-<br>
+<br/>
 
 ![Upper mount](../../assets/images/manual/vz235_printed/gantry/motor_upper_mount.png)
-<br>
+<br/>
 
 ### Step 4
-<br>
+<br/>
 
 ![Complete mount](../../assets/images/manual/vz235_printed/gantry/motor_complete_mount.png)
-<br>
+<br/>
 Attach the lowest part of the tensioner and motor, screw down the M4 in which the tensioner slides until it is snug, but the tensioner can still slide smoothly.
 
 ### Step 5
-<br>
+<br/>
 
 ![Frame mount](../../assets/images/manual/vz235_printed/gantry/motor_frame_mount.png)
-<br>
+<br/>
 
 Finally attach the small side panel piece and attach the front brace/integrated hinge and tensioner knob. The hinge and door assembly can also be installed now but for ease of working it is best to leave it off for now.
 

@@ -13,7 +13,7 @@ permalink: /vz235_alu/top_cover/latches
 
 ## Overview
 ![Overview](../../assets/images/manual/vz235_printed/top_cover/top_cover_overview.png)
-<br>
+<br/>
 
 ## BOM
 
@@ -28,7 +28,7 @@ permalink: /vz235_alu/top_cover/latches
 
 ## STL's
 ![Detail](../../assets/images/manual/vz235_printed/top_cover/top_cover_detail.png)
-<br>
+<br/>
 
 | File name | Amount to print |
 |-----------|-----------------|

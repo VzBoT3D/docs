@@ -12,7 +12,7 @@ permalink: /vz235_printed/gantry/rear_idler_2wd
 # 3.2(A) Rear idler 2WD
 
 ## Overview
-<br>
+<br/>
 
 ![Gantry overview](../../assets/images/manual/vz235_printed/gantry/gantry_overview.png)
 
@@ -39,12 +39,12 @@ permalink: /vz235_printed/gantry/rear_idler_2wd
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Pulley mount right top</a> | 1 |
 
 ### Step 1
-<br>
+<br/>
 
 ![Rear mount detail](../../assets/images/manual/vz235_printed/gantry/rear_mount.png)
 
 Attach the bottom half of the idler to the frame, insert the pulleys and hardware to the upper part and mate together.
-<br>
+<br/>
 TODO maybe a bit more details on how to assemble the idlers and stuff! :)
 
 ### Step 2

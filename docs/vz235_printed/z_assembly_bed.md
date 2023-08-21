@@ -12,8 +12,8 @@ permalink: /vz235_printed/z_assembly
 
 ## Overview
 ![Z Overview](../assets/images/manual/vz235_printed/z_assembly/overview.png)
-<br>
-<br>
+<br/>
+<br/>
 
 The proper alignment procedure of the VZ235 is the same as on the VZ330 only difference is the length of the alignment tools. Make sure to check out the YouTube video explaining how to align your Z-assembly, so it is both smooth and lines up with the possible travel of the printhead.
 ### Video tutorial
@@ -78,11 +78,11 @@ The proper alignment procedure of the VZ235 is the same as on the VZ330 only dif
 ### Step 1
 
 First assemble your bed assembly, make sure the bed frame is on a flat surface when assembling. Insert the linear bearings in their brackets and attach them to the bed frame. Do make sure the brackets are on the most outer position of the frame like shown below and that they are flat with the frame. Do not attach the printer bed to the frame yet.
-<br>
-<br>
+<br/>
+<br/>
 
 ![Bed Frame](../assets/images/manual/vz235_printed/z_assembly/bed_frame.png)
-<br>
+<br/>
 
 ### Step 2
 
@@ -91,11 +91,11 @@ Attach all rod holders finger tight (upper & lower) to the frame, don’t worry 
 ### Step 3
 
 With the assembly in place attach the two alignment tools like shown below and tighten
-<br>
-<br>
+<br/>
+<br/>
 
 ![Alignment](../assets/images/manual/vz235_printed/z_assembly/alignment.png)
-<br>
+<br/>
 
 ### Step 4
 
@@ -108,18 +108,18 @@ Now put the bed in the highest position and tighten the clamps for the upper rod
 ### Step 6
 
 Insert the bearings in the leadscrew brackets (press fit) and attach the brackets like shown below. Don’t forget to put the belt around the pulley before assembling the top part of the bracket.
-<br>
-<br>
+<br/>
+<br/>
 
 ![Leadscrew](../assets/images/manual/vz235_printed/z_assembly/leadscrew.png)
-<br>
+<br/>
 
 Then attach the leadscrew support with the oldham couplers and leadscrew nut to the bed frame and assemble the parts loosely.
-<br>
-<br>
+<br/>
+<br/>
 
 ![Leadscrew attach](../assets/images/manual/vz235_printed/z_assembly/leadscrew_attach.png)
-<br>
+<br/>
 
 ### Step 7
 
@@ -128,11 +128,11 @@ To align the parts, measure the bracket is nicely in between the rod holders mea
 ### Step 8
 
 Attach the single motor mount like shown below
-<br>
-<br>
+<br/>
+<br/>
 
 ![Single motor](../assets/images/manual/vz235_printed/z_assembly/single_motor.png)
-<br>
+<br/>
 
 The top M3 screws are 30mm and lock the sliding mechanism in place. They also serve as reinforcement of the mount. Also attach the motor pulley and belt on the motor.
 
@@ -143,11 +143,11 @@ To synchronize the leadscrews, turn out the grub screws on the 40t pulleys and g
 ### Step 10
 
 Assemble the z switch and make sure when the bed rises the switch is triggered by the screw to avoid a bed crash at the first homing sequence.
-<br>
-<br>
+<br/>
+<br/>
 
 ![Endstop](../assets/images/manual/vz235_printed/z_assembly/endstop.png)
-<br>
+<br/>
 
 ### Step 11
 

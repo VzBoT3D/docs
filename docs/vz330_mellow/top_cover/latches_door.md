@@ -13,7 +13,7 @@ permalink: /vz330_mellow/top_cover/door
 
 ## Overview
 ![Overview](../../assets/images/manual/vz330_mellow/top_cover/latches/overview.png)
-<br>
+<br/>
 
 ## BOM
 
@@ -26,7 +26,7 @@ permalink: /vz330_mellow/top_cover/door
 
 ## STL's
 ![Detail](../../assets/images/manual/vz330_mellow/top_cover/latches/details.png)
-<br>
+<br/>
 
 | File name | Amount to print |
 |-----------|-----------------|
@@ -43,7 +43,7 @@ Insert the M3 nuts in the latches
 
 ### Step 3
 Screw the latches to the door panels using the M3 buttonheads
-<br>
+<br/>
 
 ![Mounted](../../assets/images/manual/vz330_mellow/top_cover/latches/step3.png)
 

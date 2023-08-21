@@ -18,15 +18,15 @@ Here's A detailed guide on how to install the Mellow Super8 V1.3 with Mellow 516
 ![Openbox](../../assets/images/manual/vz235_printed/electronics/DSC06306.JPG)
 
 
-<br>
+<br/>
 What's in the boxes
-<br>
-<br>
+<br/>
+<br/>
 
 ![Contents](../../assets/images/manual/vz235_printed/electronics/DSC06320.JPG)
 ![Contents1](../../assets/images/manual/vz235_printed/electronics/DSC06321.JPG)
 ![Contents2](../../assets/images/manual/vz235_printed/electronics/DSC06358.JPG)
-<br>
+<br/>
 
 Overview of the board.
 
@@ -52,7 +52,7 @@ Insert the mosfets into the holes the direction they face doesn't matter.
 # Driver setup
 
 Now we're done with that we're going to the plugs for the driver ports. We're gonna install the bridges for SPI and UART.
-<br>
+<br/>
 
 Here's a view of the board with all the plugs still not filled. It's important to not put bridges on the ports you're not gonna use.
 
@@ -105,7 +105,7 @@ Now we know how the board works a bit we can start setting it up on the machine.
 # choosing a layout
 Here is the layout For the Mellow Vz235 kit. It's important to check if everything fits where you want before attaching it.
 
-Left is the 24V psu and to the right side is the 48V psu. This is because only the 5160's need 48V so we make the path to them the shortest by having the 48V PSU to the side of them.<br>
+Left is the 24V psu and to the right side is the 48V psu. This is because only the 5160's need 48V so we make the path to them the shortest by having the 48V PSU to the side of them.<br/>
 ![Back Layout](../../assets/images/manual/vz235_printed/electronics/Stock_Electronics_Layout.PNG)
 
 # Plugging in the 5160's
@@ -161,7 +161,7 @@ If using Wago's you run a +V line to the top Wago and a -V to the Bottom Wago. F
 ![48V setup](../../assets/images/manual/vz235_printed/electronics/48V_Setup.jpeg)
 
 
-Plug in a Wire to the +V side of the wago and run it to your 5160. Put it in the Bottom slot like shown in the picture below.<br>
+Plug in a Wire to the +V side of the wago and run it to your 5160. Put it in the Bottom slot like shown in the picture below.<br/>
 Plug in a wire to the -V side of the Wago and run it to your 5160. Put it in the second slot of the 5160 like shown below.
 
 ![5160_48V](../../assets/images/manual/vz235_printed/electronics/5160_48V.jpeg)
@@ -240,7 +240,7 @@ From the large plug on the bottom left we only need the Grey wire so the second 
 
 First of we're gonna be putting the TMC2209's on the Motherboard if you haven't already done this. Make sure port 0 and 1 are set to UART with the correct jumpers. and plugin the 2209's. Make sure you plug them in the correct orientation. The part with the pins on the side of the 2209 sits on the outside of the board. and the text on the 2209 is on the inside of the board. like shown Bellow.
 
-![2209](../../assets/images/manual/vz235_printed/electronics/2209.jpg)<br>
+![2209](../../assets/images/manual/vz235_printed/electronics/2209.jpg)<br/>
 
 ![board Closeup](../../assets/images/manual/vz235_printed/electronics/Board_Setup.jpg)
 

@@ -13,7 +13,7 @@ permalink: /vz330_mellow/top_cover/top
 
 ## Overview
 ![Overview](../../assets/images/manual/vz330_mellow/top_cover/top/overview.png)
-<br>
+<br/>
 
 ## BOM
 
@@ -26,7 +26,7 @@ permalink: /vz330_mellow/top_cover/top
 
 ## STL's
 ![Detail](../../assets/images/manual/vz330_mellow/top_cover/top/details.png)
-<br>
+<br/>
 
 | File name | Amount to print |
 |-----------|-----------------|

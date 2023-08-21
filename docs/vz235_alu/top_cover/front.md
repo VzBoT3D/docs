@@ -13,7 +13,7 @@ permalink: /vz235_alu/top_cover/front
 
 ## Overview
 ![Overview](../../assets/images/manual/vz235_printed/top_cover/latches_overview.png)
-<br>
+<br/>
 
 ## BOM
 
@@ -26,7 +26,7 @@ permalink: /vz235_alu/top_cover/front
 
 ## STL's
 ![Detail](../../assets/images/manual/vz235_printed/top_cover/latches_detail.png)
-<br>
+<br/>
 
 | File name | Amount to print |
 |-----------|-----------------|
@@ -44,7 +44,7 @@ Insert the M3 nuts in the latches
 
 ### Step 3
 Screw the latches to the door panels using the M3 buttonheads
-<br>
+<br/>
 
 ![Mounted](../../assets/images/manual/vz235_printed/top_cover/latches_mounted.png)
 

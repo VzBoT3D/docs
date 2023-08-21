@@ -50,15 +50,15 @@ permalink: /vz235_alu/gantry/rear_motors
 Mount the motor to the bottom plate with the M3 screws ( 3 needed )
 
 ### Step 2
-Mount the bottom assembly ( left & right) to the frame with the rear extrusion<br><br>
+Mount the bottom assembly ( left & right) to the frame with the rear extrusion<br/><br/>
 ![Step 2](../../assets/images/manual/vz235_alu/gantry/rear_motors/step2.png)
 
 ### Step 3
-Mount the pulleys with their respective spacers and hardware like shown below. Mind that the bottom spacer for the toothed idler pulley has a smaller inside diameter then the top one for the smooth idler.<br>
+Mount the pulleys with their respective spacers and hardware like shown below. Mind that the bottom spacer for the toothed idler pulley has a smaller inside diameter then the top one for the smooth idler.<br/>
 
-*when getting the top plate in position with all hardware it is recommended to either have the printed parts printed with some excess first layer squish or put some thicker grease between the last spacer and the shoulder bolt to keep the assembly together before mounting.*<br><br>
+*when getting the top plate in position with all hardware it is recommended to either have the printed parts printed with some excess first layer squish or put some thicker grease between the last spacer and the shoulder bolt to keep the assembly together before mounting.*<br/><br/>
 ![Step 3](../../assets/images/manual/vz235_alu/gantry/rear_motors/step3.png)
 
 ### Step 4
-Secure the top plate with the M4 screws to the frame.<br><br>
+Secure the top plate with the M4 screws to the frame.<br/><br/>
 ![Step 4](../../assets/images/manual/vz235_alu/gantry/rear_motors/step4.png)

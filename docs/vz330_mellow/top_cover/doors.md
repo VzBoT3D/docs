@@ -13,7 +13,7 @@ permalink: /vz330_mellow/top_cover/front
 
 ## Overview
 ![Overview](../../assets/images/manual/vz330_mellow/top_cover/doors/overview.png)
-<br>
+<br/>
 
 ## BOM
 
@@ -38,6 +38,6 @@ Mount the hinges to their respective panel.
 
 ### Step 2
 Put the door panels in position and insert the 40mm M4
-<br>
+<br/>
 
 ![Doors](../../assets/images/manual/vz330_mellow/top_cover/doors/step2.png)

@@ -13,7 +13,7 @@ permalink: /vz235_alu/top_cover/hinges
 
 ## Overview
 ![Overview](../../assets/images/manual/vz235_printed/top_cover/door_hinges.png)
-<br>
+<br/>
 
 ## BOM
 
@@ -36,6 +36,6 @@ Mount the hinges to their respective panel.
 
 ### Step 2
 Put the door panels in position and insert the 40mm M4
-<br>
+<br/>
 
 ![Doors](../../assets/images/manual/vz235_printed/top_cover/doors.png)

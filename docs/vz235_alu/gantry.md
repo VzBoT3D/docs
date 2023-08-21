@@ -13,7 +13,7 @@ permalink: /vz235_alu/gantry
 ## Overview
 
 ![Overview](../assets/images/manual/vz235_alu/gantry/overview.png)
-<br>
+<br/>
 
 Video with instructions can be found here [<img src="../assets/images/manual/vz235_alu/gantry/Gantry-video.jpg">](https://youtu.be/lP59PClF_PU/)
 

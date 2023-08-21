@@ -39,7 +39,7 @@ permalink: /vz235_alu/z_assembly/bed_assembly
 
 ### Step 1
 
-Mount the LMK10LUU using the M4 10mm hardware to the bed frame. Then mount the Oldham couplers with the leadscrew nuts together with M3 10mm and the M3 nut and mount that assembly to the bed frame using M3 hardware.<br>
+Mount the LMK10LUU using the M4 10mm hardware to the bed frame. Then mount the Oldham couplers with the leadscrew nuts together with M3 10mm and the M3 nut and mount that assembly to the bed frame using M3 hardware.<br/>
 Afterwards place the bed assembly in the rods and the leadscrew.
 
 ![Bed mount](../../assets/images/manual/vz235_alu/z_assembly/bed_assembly/mount.png)
