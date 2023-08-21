@@ -12,7 +12,7 @@ permalink: /vz330_mellow/top_cover/door
 # 9.3 Front door latches
 
 ## Overview
-![Overview](/assets/images/manual/vz330_mellow/top_cover/latches/overview.png)
+![Overview](../../assets/images/manual/vz330_mellow/top_cover/latches/overview.png)
 <br/>
 
 ## BOM
@@ -25,7 +25,7 @@ permalink: /vz330_mellow/top_cover/door
 | 2x5mm magnet | 8 |
 
 ## STL's
-![Detail](/assets/images/manual/vz330_mellow/top_cover/latches/details.png)
+![Detail](../../assets/images/manual/vz330_mellow/top_cover/latches/details.png)
 <br/>
 
 | File name | Amount to print |
@@ -45,7 +45,7 @@ Insert the M3 nuts in the latches
 Screw the latches to the door panels using the M3 buttonheads
 <br/>
 
-![Mounted](/assets/images/manual/vz330_mellow/top_cover/latches/step3.png)
+![Mounted](../../assets/images/manual/vz330_mellow/top_cover/latches/step3.png)
 
 ### Step 4
 Untighten the set screws in the frame side latches and line them up with the latches, then to lock them tighten the M3 screw.

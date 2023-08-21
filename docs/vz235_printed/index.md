@@ -9,7 +9,7 @@ permalink: /vz235_printed
 
 # VzBoT235 - Printed Version Version
 
-![Overview](/assets/images/manual/vz235_printed/printed_preview.png)
+![Overview](../assets/images/manual/vz235_printed/printed_preview.png)
 <br/>
 <br/>
 

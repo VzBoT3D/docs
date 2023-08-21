@@ -13,7 +13,7 @@ permalink: /vz235_printed/gantry/rear_idler_awd
 
 ## BOM
 
-![Rear mount detail](/assets/images/manual/vz235_printed/gantry/rear_mount_detail_2.png)
+![Rear mount detail](../../assets/images/manual/vz235_printed/gantry/rear_mount_detail_2.png)
 
 <br/>
 
@@ -43,7 +43,7 @@ permalink: /vz235_printed/gantry/rear_idler_awd
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Pulley mount right top (M3/M4)</a> | 1 |
 
 ### Step 1
-![Rear lower part](/assets/images/manual/vz235_printed/gantry/rear_lower_part.png)
+![Rear lower part](../../assets/images/manual/vz235_printed/gantry/rear_lower_part.png)
 
 Insert the M3 nut as shown by the arrow in the picture below (left and right):
 
@@ -53,7 +53,7 @@ Insert the M4 nuts in the pulley mount bottom (left and right) part and install 
 ### Step 3
 Install all hardware on the lower idlers (left and right) and attach the 2020 extrusion connecting the two idlers/motor mounts.
 
-![Rear lower part](/assets/images/manual/vz235_printed/gantry/rear_lower_awd.png)
+![Rear lower part](../../assets/images/manual/vz235_printed/gantry/rear_lower_awd.png)
 
 ### Step 4
 Install the assembly in the frame
@@ -61,4 +61,4 @@ Install the assembly in the frame
 ### Step 5
 Insert all hardware in the top pulley mounts, including idlers and shoulder bolts and attach them to their respective lower half.
 
-![Rear lower part](/assets/images/manual/vz235_printed/gantry/gantry_awd.png)
+![Rear lower part](../../assets/images/manual/vz235_printed/gantry/gantry_awd.png)

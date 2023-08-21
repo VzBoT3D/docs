@@ -12,7 +12,7 @@ permalink: /vz235_printed/top_cover/latches
 # 8.1 top cover & latches
 
 ## Overview
-![Overview](/assets/images/manual/vz235_printed/top_cover/top_cover_overview.png)
+![Overview](../../assets/images/manual/vz235_printed/top_cover/top_cover_overview.png)
 <br/>
 
 ## BOM
@@ -27,7 +27,7 @@ permalink: /vz235_printed/top_cover/latches
 | 395X405X3 mm acrylic panel | 1 | Refer to the .step file for placement of the cutouts |
 
 ## STL's
-![Detail](/assets/images/manual/vz235_printed/top_cover/top_cover_detail.png)
+![Detail](../../assets/images/manual/vz235_printed/top_cover/top_cover_detail.png)
 <br/>
 
 | File name | Amount to print |

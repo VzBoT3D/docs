@@ -14,20 +14,20 @@ permalink: /vz235_printed/electronics/Printer_Config
 Now comes the fun part of the setup. Configuring your printer.cfg.
 
 We're gonna start with this basic start config file for you guys to use:
-[Printer.cfg](/assets/images/manual/vz235_printed/electronics/Printer_config/printer.cfg)
+[Printer.cfg](../../assets/images/manual/vz235_printed/electronics/Printer_config/printer.cfg)
 
-In order to use the Exlcude object command in your Mainsail or Fluid we're also gonna need this file: [Exclude_Object.cfg](/assets/images/manual/vz235_printed/electronics/Printer_config/Exclude_Object.cfg)
+In order to use the Exlcude object command in your Mainsail or Fluid we're also gonna need this file: [Exclude_Object.cfg](../../assets/images/manual/vz235_printed/electronics/Printer_config/Exclude_Object.cfg)
 
-To make our life a bit easier we're gonna use some Macro's that are in this file: [Macro.cfg](/assets/images/manual/vz235_printed/electronics/Printer_config/Macro.cfg)
+To make our life a bit easier we're gonna use some Macro's that are in this file: [Macro.cfg](../../assets/images/manual/vz235_printed/electronics/Printer_config/Macro.cfg)
 
-To be able to do some test to find our Max speed and Accel we also have a nice script for that :[Speed.cfg](/assets/images/manual/vz235_printed/electronics/Printer_config/Speed.cfg)
+To be able to do some test to find our Max speed and Accel we also have a nice script for that :[Speed.cfg](../../assets/images/manual/vz235_printed/electronics/Printer_config/Speed.cfg)
 
 
-And to make our Start and End of the print a bit easier to use we also have a file for that. [Start_Stop.cfg](/assets/images/manual/vz235_printed/electronics/Printer_config/Start_Stop.cfg)
+And to make our Start and End of the print a bit easier to use we also have a file for that. [Start_Stop.cfg](../../assets/images/manual/vz235_printed/electronics/Printer_config/Start_Stop.cfg)
 
 Put all of those files in your Machine tab of Mainsail like this:
 
-![Machine](/assets/images/manual/vz235_printed/electronics/Printer_config/Machine.PNG)
+![Machine](../../assets/images/manual/vz235_printed/electronics/Printer_config/Machine.PNG)
 
 
 
@@ -41,12 +41,12 @@ Once it's all powered on open Putty Login and type in this command.
 
 This will give you the serial you need to put in your Printer.cfg to make sure they can talk to eachother.
 
-![stm32](/assets/images/manual/vz235_printed/electronics/Firmware/serial.PNG)
+![stm32](../../assets/images/manual/vz235_printed/electronics/Firmware/serial.PNG)
 
 
 Put the serial here:
 
-![Serial](/assets/images/manual/vz235_printed/electronics/Printer_config/Serial.PNG)
+![Serial](../../assets/images/manual/vz235_printed/electronics/Printer_config/Serial.PNG)
 
 
 # Motor Movements.
@@ -54,12 +54,12 @@ Put the serial here:
 Next up we're gonna check if the motors move and if they move to the correct side.<br/>
 We're gonna do this with the Stepper_buzz command ```STEPPER_BUZZ stepper=stepper_```<br/>
 
-![Stepper_Buzz](/assets/images/manual/vz235_printed/electronics/Printer_config/Stepper_Buzz.PNG)
+![Stepper_Buzz](../../assets/images/manual/vz235_printed/electronics/Printer_config/Stepper_Buzz.PNG)
 
 
 When the steppers move X and X1 should move to the same side. This is the same with Y and Y1. If this is not the case we need to add a ! at the dir pin like so:<br/>
 
-![Dir_PIN](/assets/images/manual/vz235_printed/electronics/Printer_config/Dir_Pin.PNG)
+![Dir_PIN](../../assets/images/manual/vz235_printed/electronics/Printer_config/Dir_Pin.PNG)
 
 
 When we've made sure that the steppers move to the correct sides we're gonna see if they home to the correct spots.
@@ -89,7 +89,7 @@ X Y<br/>
 
 The last step is to test all your fans and see if these work correctly. to Enable / Disable these you can look in your Macro section of Mainsail. Here you'll see all buttons of the things you have setup in your Printer.cfg so RSCS, Exhaust, LED etc.
 
-![Macro](/assets/images/manual/vz235_printed/electronics/Printer_config/Macro.PNG)
+![Macro](../../assets/images/manual/vz235_printed/electronics/Printer_config/Macro.PNG)
 
 
 # Time to print and get your Serial Number.

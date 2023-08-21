@@ -11,7 +11,7 @@ permalink: /vz235_printed/fume_extractor
 # 5. Fume extractor
 
 ## Overview
-![Overview](/assets/images/manual/vz235_printed/fume/overview.png)
+![Overview](../assets/images/manual/vz235_printed/fume/overview.png)
 <br/>
 
 The VzBot fume extractor is an optional piece of hardware but highly recommended! This device gets rid of VOC’s (volatile organic compounds) and nasty smells that come from printing ABS filament.
@@ -29,7 +29,7 @@ The VzBot fume extractor is an optional piece of hardware but highly recommended
 | Activated carbon filter (self-cut) | 1 | - |
 
 ## STL's
-![Details](/assets/images/manual/vz235_printed/fume/details.png)
+![Details](../assets/images/manual/vz235_printed/fume/details.png)
 <br/>
 
 | File name | Amount to print |
@@ -45,16 +45,16 @@ The VzBot fume extractor is an optional piece of hardware but highly recommended
 Start by inserting all the M4 and M3 nuts into the exhaust cover like shown below
 <br/>
 
-![Inserts](/assets/images/manual/vz235_printed/fume/inserts.png)
+![Inserts](../assets/images/manual/vz235_printed/fume/inserts.png)
 
 ### Step 2
 Next put the two fans in the exhaust fan housing, put the fan cover on the back panel and mount the exhaust housing, exhaust cover and fans with the M4 hardware.
 <br/>
 
-![Mount](/assets/images/manual/vz235_printed/fume/mount.png)
+![Mount](../assets/images/manual/vz235_printed/fume/mount.png)
 
 ### Step 3
 Lastly Insert you HEPA filter and activated carbon filter in the HEPA_holder and screw onto the main fume extractor housing. The activated carbon filter
 br>
 
-![Filter](/assets/images/manual/vz235_printed/fume/filter.png)
+![Filter](../assets/images/manual/vz235_printed/fume/filter.png)

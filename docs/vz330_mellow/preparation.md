@@ -10,7 +10,7 @@ permalink: /vz330_mellow/preparation
 
 <br/>
 
-![Overview](/assets/images/manual/vz330_mellow/overview.png)
+![Overview](../assets/images/manual/vz330_mellow/overview.png)
 
 ## Tools
 

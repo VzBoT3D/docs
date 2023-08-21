@@ -11,7 +11,7 @@ permalink: /vz330_mellow/fume_extractor
 <br/>
 
 |:-|
-| ![Overview](/assets/images/manual/vz330_mellow/fume/overview.png) |
+| ![Overview](../assets/images/manual/vz330_mellow/fume/overview.png) |
 
 <br/>
 <br/>
@@ -48,13 +48,13 @@ permalink: /vz330_mellow/fume_extractor
 Start by inserting all the M4 and M3 nuts into the exhaust cover like shown below
 <br/>
 
-![Step 1](/assets/images/manual/vz330_mellow/fume/step1.png)
+![Step 1](../assets/images/manual/vz330_mellow/fume/step1.png)
 
 ### Step 2
 Next put the two fans in the exhaust fan housing, put the fan cover on the back panel and mount the exhaust housing, exhaust cover and fans with the M4 hardware.
 <br/>
 
-![Step 2](/assets/images/manual/vz330_mellow/fume/step2.png)
+![Step 2](../assets/images/manual/vz330_mellow/fume/step2.png)
 
 ### Step 3
 Lastly Insert you HEPA filter and activated carbon filter in the HEPA_holder and screw onto the main fume extractor housing. The activated carbon filter

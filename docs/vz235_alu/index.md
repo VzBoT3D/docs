@@ -9,7 +9,7 @@ permalink: /vz235_alu
 
 # VzBoT235 - Aluminium Version
 
-![Overview](/assets/images/manual/vz235_alu/alu_preview.png)
+![Overview](../assets/images/manual/vz235_alu/alu_preview.png)
 <br/>
 <br/>
 

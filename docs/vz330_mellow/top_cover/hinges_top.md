@@ -12,7 +12,7 @@ permalink: /vz330_mellow/top_cover/top
 # 9.1 Top Cover hinges
 
 ## Overview
-![Overview](/assets/images/manual/vz330_mellow/top_cover/top/overview.png)
+![Overview](../../assets/images/manual/vz330_mellow/top_cover/top/overview.png)
 <br/>
 
 ## BOM
@@ -25,7 +25,7 @@ permalink: /vz330_mellow/top_cover/top
 | M4 t-nut | 10 | - |
 
 ## STL's
-![Detail](/assets/images/manual/vz330_mellow/top_cover/top/details.png)
+![Detail](../../assets/images/manual/vz330_mellow/top_cover/top/details.png)
 <br/>
 
 | File name | Amount to print |

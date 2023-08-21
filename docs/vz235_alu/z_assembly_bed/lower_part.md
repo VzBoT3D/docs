@@ -13,7 +13,7 @@ permalink: /vz235_alu/z_assembly/lower_part
 
 ## Overview
 
-![Z Overview](/assets/images/manual/vz235_alu/z_assembly/lower_part/overview.png)
+![Z Overview](../../assets/images/manual/vz235_alu/z_assembly/lower_part/overview.png)
 
 ## BOM
 
@@ -40,19 +40,19 @@ permalink: /vz235_alu/z_assembly/lower_part
 
 Mount the top bracket with the 12mm M4 hardware to the frame loosely. Then mount the sliding rods with 12mm M4 screws and align the assembly to the frame using the printed “Z assembly alignment tool”. Be sure to secure all hardware. Be sure to either insert 2 T-nuts underneath the center two holes for the top leadscrew bracket or immediately mount the top bracket.
 
-![Lower bracket](/assets/images/manual/vz235_alu/z_assembly/lower_part/lower_bracket.png)
+![Lower bracket](../../assets/images/manual/vz235_alu/z_assembly/lower_part/lower_bracket.png)
 
 ### Step 2
 
 Mount the lower leadscrew bracket, using 2x 10mm M4 screws, loosely to the frame approximately in the correct position relative to the top bracket.
 
-![Lower bracket lead](/assets/images/manual/vz235_alu/z_assembly/lower_part/lower_bracket_lead.png)
+![Lower bracket lead](../../assets/images/manual/vz235_alu/z_assembly/lower_part/lower_bracket_lead.png)
 
 ### Step 3
 
 Mount the top leadscrew bracket to the assembly using 12mm M4 screws (skip when done in step one). Insert the pulley with the closed belt and insert the leadscrew. Then tighten the grub screws on the pulley. Lastly while making sure the leadscrew is perfectly straight up tighten the screws on the upper and lower leadscrew brackets. This can be checked by measuring the distance on both sides between the leadscrew (top position) and the 10mm Rods.
 
-![Upper bracket lead](/assets/images/manual/vz235_alu/z_assembly/lower_part/upper_bracket_lead.png)
+![Upper bracket lead](../../assets/images/manual/vz235_alu/z_assembly/lower_part/upper_bracket_lead.png)
 
 ### Step 4
 

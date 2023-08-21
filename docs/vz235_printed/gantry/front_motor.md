@@ -13,11 +13,11 @@ permalink: /vz235_printed/gantry/front_motor
 
 ## Overview
 
-![Motor mount](/assets/images/manual/vz235_printed/gantry/motor_mount.png)
+![Motor mount](../../assets/images/manual/vz235_printed/gantry/motor_mount.png)
 
 ## BOM
 
-![Motor mount explosion](/assets/images/manual/vz235_printed/gantry/motor_mount_detail.png)
+![Motor mount explosion](../../assets/images/manual/vz235_printed/gantry/motor_mount_detail.png)
 
 | Material        | Quantity          | Notes |
 |:-------------|:------------------|:------|
@@ -48,14 +48,14 @@ permalink: /vz235_printed/gantry/front_motor
 ### Step 1
 <br/>
 
-![Motor tensioner](/assets/images/manual/vz235_printed/gantry/motor_tensioner.png)
+![Motor tensioner](../../assets/images/manual/vz235_printed/gantry/motor_tensioner.png)
 <br/>
 First attach the printed tensioner to the motor like shown above
 
 ### Step 2
 <br/>
 
-![Lower mount](/assets/images/manual/vz235_printed/gantry/motor_lower_mount.png)
+![Lower mount](../../assets/images/manual/vz235_printed/gantry/motor_lower_mount.png)
 <br/>
 Then attach the lower bracket of the motor mount to the frame
 
@@ -64,20 +64,20 @@ Insert the M4 nut in the upper half of the motor mount and attach it on top of t
 
 <br/>
 
-![Upper mount](/assets/images/manual/vz235_printed/gantry/motor_upper_mount.png)
+![Upper mount](../../assets/images/manual/vz235_printed/gantry/motor_upper_mount.png)
 <br/>
 
 ### Step 4
 <br/>
 
-![Complete mount](/assets/images/manual/vz235_printed/gantry/motor_complete_mount.png)
+![Complete mount](../../assets/images/manual/vz235_printed/gantry/motor_complete_mount.png)
 <br/>
 Attach the lowest part of the tensioner and motor, screw down the M4 in which the tensioner slides until it is snug, but the tensioner can still slide smoothly.
 
 ### Step 5
 <br/>
 
-![Frame mount](/assets/images/manual/vz235_printed/gantry/motor_frame_mount.png)
+![Frame mount](../../assets/images/manual/vz235_printed/gantry/motor_frame_mount.png)
 <br/>
 
 Finally attach the small side panel piece and attach the front brace/integrated hinge and tensioner knob. The hinge and door assembly can also be installed now but for ease of working it is best to leave it off for now.

@@ -11,7 +11,7 @@ permalink: /vz235_alu/z_assembly
 # 2. Z - Assembly & Bed
 
 ## Overview
-![Z Overview](/assets/images/manual/vz235_alu/z_assembly/overview.png)
+![Z Overview](../assets/images/manual/vz235_alu/z_assembly/overview.png)
 <br/>
 <br/>
 

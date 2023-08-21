@@ -11,7 +11,7 @@ permalink: /vz330_mellow/rscs
 # 8. Side panels + RSCS
 
 ## Overview
-![Overview](/assets/images/manual/vz330_mellow/rscs/overview.png)
+![Overview](../assets/images/manual/vz330_mellow/rscs/overview.png)
 <br/>
 
 RSCS short for remote static cooling is an optional extra pair of cooling fans which help cool the entire print when doing unicorn speeds! RSCS is mounted to the acrylic panels and this version fits in very tight to the Z-assembly.
@@ -44,7 +44,7 @@ RSCS short for remote static cooling is an optional extra pair of cooling fans w
 Use the M3 hardware to put the RSCS together like shown below. If the assembly won’t fit through between the 2 Z-rods. Unscrew the top part and put this on after assembly.
 <br/>
 
-![Step 1](/assets/images/manual/vz330_mellow/rscs/overview.png)
+![Step 1](../assets/images/manual/vz330_mellow/rscs/overview.png)
 
 ### Step 2
 Mount the RSCS to the panel. When drilling the holes make sure the duct is approximately 5mm above the Z-rods.
@@ -53,12 +53,12 @@ Mount the RSCS to the panel. When drilling the holes make sure the duct is appro
 Insert the M3 hardware in the side and front (narrow) panel using the available trim pieces like shown below. When everything lines up screw everything down starting with the bolts in the middle outward.
 <br/>
 
-![Step 3](/assets/images/manual/vz330_mellow/rscs/overview2.png)
+![Step 3](../assets/images/manual/vz330_mellow/rscs/overview2.png)
 
 ### Step 3 (a)
 Insert the latch mounts in the front and bottom extrusion of the front.
 
-![Step 3](/assets/images/manual/vz330_mellow/rscs/step3.png)
+![Step 3](../assets/images/manual/vz330_mellow/rscs/step3.png)
 
 ### Step 4
 When adjusting the slider of the rscs take care that the top of the rscs is approximatly 3-4mm above the bed when z is fully homed.
@@ -66,4 +66,4 @@ When adjusting the slider of the rscs take care that the top of the rscs is appr
 ### Step 5
 When the panel with the rscs is mounted apply the Trim pieces like shown in the image below.
 
-![Step 3](/assets/images/manual/vz330_mellow/rscs/step5.png)
+![Step 3](../assets/images/manual/vz330_mellow/rscs/step5.png)
