@@ -28,7 +28,7 @@ table, th, td {
 | | |
 |-|-|
 | **VzBot 330 - Printed Version** | **VzBot 330 - Mellow Kit** |
-| [![VzBot 330 - Printed Version](./assets/images/manual/vz235_printed/printed_preview.jpg)](./vz330_printed) | [![VzBot 330 - Mellow Kit](./assets/images/manual/vz330_mellow/overview.png)](./vz330_mellow) |
+| [![VzBot 330 - Printed Version](./assets/images/manual/vz330_printed/printed_preview.jpg)](./vz330_printed) | [![VzBot 330 - Mellow Kit](./assets/images/manual/vz330_mellow/overview.png)](./vz330_mellow) |
 
 | | |
 |-|-|
