@@ -11,14 +11,14 @@ permalink: /vz235_printed/z_assembly
 # 2. Z - Assembly & Bed
 
 ## Overview
-![Z Overview](../assets/images/manual/vz235_printed/z_assembly/overview.png)
+![Z Overview](/assets/images/manual/vz235_printed/z_assembly/overview.png)
 <br/>
 <br/>
 
 The proper alignment procedure of the VZ235 is the same as on the VZ330 only difference is the length of the alignment tools. Make sure to check out the YouTube video explaining how to align your Z-assembly, so it is both smooth and lines up with the possible travel of the printhead.
 ### Video tutorial
 
-[![Z Overview](../assets/images/manual/vz235_printed/z_assembly/z_assembly_video.png)](https://www.youtube.com/watch?v=JvF-UNoDB_I "Z Overview")
+[![Z Overview](/assets/images/manual/vz235_printed/z_assembly/z_assembly_video.png)](https://www.youtube.com/watch?v=JvF-UNoDB_I "Z Overview")
 
 ## BOM
 
@@ -81,7 +81,7 @@ First assemble your bed assembly, make sure the bed frame is on a flat surface w
 <br/>
 <br/>
 
-![Bed Frame](../assets/images/manual/vz235_printed/z_assembly/bed_frame.png)
+![Bed Frame](/assets/images/manual/vz235_printed/z_assembly/bed_frame.png)
 <br/>
 
 ### Step 2
@@ -94,7 +94,7 @@ With the assembly in place attach the two alignment tools like shown below and t
 <br/>
 <br/>
 
-![Alignment](../assets/images/manual/vz235_printed/z_assembly/alignment.png)
+![Alignment](/assets/images/manual/vz235_printed/z_assembly/alignment.png)
 <br/>
 
 ### Step 4
@@ -111,14 +111,14 @@ Insert the bearings in the leadscrew brackets (press fit) and attach the bracket
 <br/>
 <br/>
 
-![Leadscrew](../assets/images/manual/vz235_printed/z_assembly/leadscrew.png)
+![Leadscrew](/assets/images/manual/vz235_printed/z_assembly/leadscrew.png)
 <br/>
 
 Then attach the leadscrew support with the oldham couplers and leadscrew nut to the bed frame and assemble the parts loosely.
 <br/>
 <br/>
 
-![Leadscrew attach](../assets/images/manual/vz235_printed/z_assembly/leadscrew_attach.png)
+![Leadscrew attach](/assets/images/manual/vz235_printed/z_assembly/leadscrew_attach.png)
 <br/>
 
 ### Step 7
@@ -131,7 +131,7 @@ Attach the single motor mount like shown below
 <br/>
 <br/>
 
-![Single motor](../assets/images/manual/vz235_printed/z_assembly/single_motor.png)
+![Single motor](/assets/images/manual/vz235_printed/z_assembly/single_motor.png)
 <br/>
 
 The top M3 screws are 30mm and lock the sliding mechanism in place. They also serve as reinforcement of the mount. Also attach the motor pulley and belt on the motor.
@@ -146,7 +146,7 @@ Assemble the z switch and make sure when the bed rises the switch is triggered b
 <br/>
 <br/>
 
-![Endstop](../assets/images/manual/vz235_printed/z_assembly/endstop.png)
+![Endstop](/assets/images/manual/vz235_printed/z_assembly/endstop.png)
 <br/>
 
 ### Step 11

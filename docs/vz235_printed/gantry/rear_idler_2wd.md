@@ -14,11 +14,11 @@ permalink: /vz235_printed/gantry/rear_idler_2wd
 ## Overview
 <br/>
 
-![Gantry overview](../../assets/images/manual/vz235_printed/gantry/gantry_overview.png)
+![Gantry overview](/assets/images/manual/vz235_printed/gantry/gantry_overview.png)
 
 ## BOM
 
-![Rear mount detail](../../assets/images/manual/vz235_printed/gantry/rear_mount_detail.png)
+![Rear mount detail](/assets/images/manual/vz235_printed/gantry/rear_mount_detail.png)
 
 | Material        | Quantity          | Notes |
 |:-------------|:------------------|:------|
@@ -41,7 +41,7 @@ permalink: /vz235_printed/gantry/rear_idler_2wd
 ### Step 1
 <br/>
 
-![Rear mount detail](../../assets/images/manual/vz235_printed/gantry/rear_mount.png)
+![Rear mount detail](/assets/images/manual/vz235_printed/gantry/rear_mount.png)
 
 Attach the bottom half of the idler to the frame, insert the pulleys and hardware to the upper part and mate together.
 <br/>

@@ -13,7 +13,7 @@ permalink: /vz235_alu/z_assembly/bed_assembly
 
 ## Overview
 
-![Bed Overview](../../assets/images/manual/vz235_alu/z_assembly/bed_assembly/overview.png)
+![Bed Overview](/assets/images/manual/vz235_alu/z_assembly/bed_assembly/overview.png)
 
 ## BOM
 
@@ -42,7 +42,7 @@ permalink: /vz235_alu/z_assembly/bed_assembly
 Mount the LMK10LUU using the M4 10mm hardware to the bed frame. Then mount the Oldham couplers with the leadscrew nuts together with M3 10mm and the M3 nut and mount that assembly to the bed frame using M3 hardware.<br/>
 Afterwards place the bed assembly in the rods and the leadscrew.
 
-![Bed mount](../../assets/images/manual/vz235_alu/z_assembly/bed_assembly/mount.png)
+![Bed mount](/assets/images/manual/vz235_alu/z_assembly/bed_assembly/mount.png)
 
 ### Step 2
 
@@ -52,4 +52,4 @@ Place the bed assembly in the rods and leadscre
 
 Mount the bed plate to the bed frame using the 50mm countersunk M3 screws, put a Spring or a silicon dumper on each corner of the bed before attaching the screw and the bed level knob to it. Then give every knob a small "torque" so you can later level your bed propperly. When using a cast aluminum bed make sure it is well prepped before mounting. It is recommended to always be safe and inform yourself properly on how to apply a AC silicon heating pad.
 
-![Bed plate](../../assets/images/manual/vz235_alu/z_assembly/bed_assembly/plate.png)
+![Bed plate](/assets/images/manual/vz235_alu/z_assembly/bed_assembly/plate.png)

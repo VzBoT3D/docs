@@ -11,7 +11,7 @@ permalink: /vz330_mellow/panels_part1
 <br/>
 
 |:-|
-| ![Overview](../assets/images/manual/vz330_mellow/panels_1/overview.png) |
+| ![Overview](/assets/images/manual/vz330_mellow/panels_1/overview.png) |
 
 <br/>
 <br/>
@@ -52,7 +52,7 @@ permalink: /vz330_mellow/panels_part1
 ### Instructions
 
 |:-|:-|
-| ![Step 1](../assets/images/manual/vz330_mellow/panels_1/step_1.png) | &#8226; Mount the PSU to the backplate first <br/> &#8226; Insert sliding t-nuts <br/> &#8226; Align them with the holes of the panel <br/> &#8226; Start screwing the panel down from the middle to the outside holes.
+| ![Step 1](/assets/images/manual/vz330_mellow/panels_1/step_1.png) | &#8226; Mount the PSU to the backplate first <br/> &#8226; Insert sliding t-nuts <br/> &#8226; Align them with the holes of the panel <br/> &#8226; Start screwing the panel down from the middle to the outside holes.
 
 <br/>
 
@@ -70,7 +70,7 @@ permalink: /vz330_mellow/panels_part1
 ### Instructions
 
 |:-|:-|
-| ![Step 2](../assets/images/manual/vz330_mellow/panels_1/step_2.png) | &#8226; Insert all hardware in the printed feet <br/> &#8226; The rubber feet should stick out 1-2 mm ( scale the spacer accordingly )  |
+| ![Step 2](/assets/images/manual/vz330_mellow/panels_1/step_2.png) | &#8226; Insert all hardware in the printed feet <br/> &#8226; The rubber feet should stick out 1-2 mm ( scale the spacer accordingly )  |
 
 <br/>
 
@@ -89,4 +89,4 @@ permalink: /vz330_mellow/panels_part1
 ### Instructions
 
 |:-|:-|
-| ![Step 3](../assets/images/manual/vz330_mellow/panels_1/step_3.png) | &#8226; Insert all M4 sliding t-nuts in the frame and align them with the holes of the plate <br/> &#8226; Mount plate and feet to the frame.
+| ![Step 3](/assets/images/manual/vz330_mellow/panels_1/step_3.png) | &#8226; Insert all M4 sliding t-nuts in the frame and align them with the holes of the plate <br/> &#8226; Mount plate and feet to the frame.

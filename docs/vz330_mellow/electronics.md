@@ -11,7 +11,7 @@ permalink: /vz330_mellow/electronics
 <br/>
 
 |:-|
-| ![Overview](../assets/images/manual/vz330_mellow/electronics/overview.png) |
+| ![Overview](/assets/images/manual/vz330_mellow/electronics/overview.png) |
 
 
 This is a general overview of the parts recommended for a VzBoT build. Everyone is free to use their own choice of parts. STL-files for other screens etc are not natively provided and may be found in the community mod section on GitHub and Discord.

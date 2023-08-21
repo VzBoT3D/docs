@@ -12,7 +12,7 @@ permalink: /vz235_printed/top_cover/hinges
 # 8.2 Front doors hinges & doors
 
 ## Overview
-![Overview](../../assets/images/manual/vz235_printed/top_cover/door_hinges.png)
+![Overview](/assets/images/manual/vz235_printed/top_cover/door_hinges.png)
 <br/>
 
 ## BOM
@@ -38,4 +38,4 @@ Mount the hinges to their respective panel.
 Put the door panels in position and insert the 40mm M4
 <br/>
 
-![Doors](../../assets/images/manual/vz235_printed/top_cover/doors.png)
+![Doors](/assets/images/manual/vz235_printed/top_cover/doors.png)

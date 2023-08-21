@@ -18,7 +18,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 
 <br/>
 
-![Overview](../../assets/images/manual/vz330_mellow/gantry/printhead/overview.png)
+![Overview](/assets/images/manual/vz330_mellow/gantry/printhead/overview.png)
 
 # Parts
 
@@ -65,7 +65,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 ### Instructions
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step1.png) | &#8226; Screw on the printhead cable holder with two M3 x 6mm screws <br/> &#8226; Attach the printed cable holder to the top with two M3 x 6mm screws.
+| ![Part 1](/assets/images/manual/vz330_mellow/gantry/printhead/step1.png) | &#8226; Screw on the printhead cable holder with two M3 x 6mm screws <br/> &#8226; Attach the printed cable holder to the top with two M3 x 6mm screws.
 {: .instructiontable}
 
 <br/>
@@ -99,7 +99,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 > The front need to be installed like shown in the picture, be careful otherwise the belt routing will not work.
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step2.png) | &#8226; Screw on the top plate to the carriage with the four M3 x 5mm screws <br/> &#8226; Install the back part from step 1 to the top plate with the two M3 x 6mm screws <br/> &#8226; Install the front spacers with two M3 x 6mm screws <br/> &#8226; Install the bottom plate to the assembly with four M3 x 6mm screws.
+| ![Part 1](/assets/images/manual/vz330_mellow/gantry/printhead/step2.png) | &#8226; Screw on the top plate to the carriage with the four M3 x 5mm screws <br/> &#8226; Install the back part from step 1 to the top plate with the two M3 x 6mm screws <br/> &#8226; Install the front spacers with two M3 x 6mm screws <br/> &#8226; Install the bottom plate to the assembly with four M3 x 6mm screws.
 {: .instructiontable}
 
 <br/>
@@ -124,7 +124,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 ### Instructions
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step3.png) | &#8226; Screw on the endstop  with two M2 x 8mm screws <br/> &#8226; Attach the Endstop holder to the top with two M3 x 6mm screws.
+| ![Part 1](/assets/images/manual/vz330_mellow/gantry/printhead/step3.png) | &#8226; Screw on the endstop  with two M2 x 8mm screws <br/> &#8226; Attach the Endstop holder to the top with two M3 x 6mm screws.
 {: .instructiontable}
 
 <br/>
@@ -151,7 +151,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 ### Instructions
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step4.png) | &#8226; Screw on the printhead fan holder to the assembly with two M3 x 6mm screws and M3 nuts.
+| ![Part 1](/assets/images/manual/vz330_mellow/gantry/printhead/step4.png) | &#8226; Screw on the printhead fan holder to the assembly with two M3 x 6mm screws and M3 nuts.
 {: .instructiontable}
 
 
@@ -165,7 +165,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 
 
 |:-|:-|
-| [![belt](../../assets/images/manual/vz330_mellow/gantry/printhead/step5.png)](https://www.youtube.com/embed/Ibi27Toh-pg "Apply belt") | &#8226; Make sure the motor's in the front are in the loosest position possible, moved to the back of the motor mount. Do one belth path first then leave a bit extra and cut it then do the other. | 
+| [![belt](/assets/images/manual/vz330_mellow/gantry/printhead/step5.png)](https://www.youtube.com/embed/Ibi27Toh-pg "Apply belt") | &#8226; Make sure the motor's in the front are in the loosest position possible, moved to the back of the motor mount. Do one belth path first then leave a bit extra and cut it then do the other. | 
 {: .instructiontable}
 
 <br/>
@@ -193,15 +193,15 @@ In this section we'll assemble the Toolhead for the VzBot.
 ### Instructions
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step6_part1.png)  | &#8226; Insert the heat insert's in the back holes of the fanduct |
+| ![Part 1](/assets/images/manual/vz330_mellow/gantry/printhead/step6_part1.png)  | &#8226; Insert the heat insert's in the back holes of the fanduct |
 {: .instructiontable}
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step6_part3.png)  | &#8226; Screw on the fan duct with the cpap connector to the printhead, with the M3 x 10mm screws. |
+| ![Part 1](/assets/images/manual/vz330_mellow/gantry/printhead/step6_part3.png)  | &#8226; Screw on the fan duct with the cpap connector to the printhead, with the M3 x 10mm screws. |
 {: .instructiontable}
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step6_part2.png)  | &#8226; Use the printed spacers and the M3 x ??mm screws to secure and stabilize the duct to the printhead. |
+| ![Part 1](/assets/images/manual/vz330_mellow/gantry/printhead/step6_part2.png)  | &#8226; Use the printed spacers and the M3 x ??mm screws to secure and stabilize the duct to the printhead. |
 {: .instructiontable}
 
 ## Step 7
@@ -214,7 +214,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 > &#8226;  M3 x 6mm
 
 |:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step7.png) |
+| ![Part 1](/assets/images/manual/vz330_mellow/gantry/printhead/step7.png) |
 
 | Part | Location |
 |:-|:-|
@@ -225,7 +225,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 ### Instructions
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step7_part1.png)  | &#8226; Attach the preassembled extruder to the printhead with the M3 x 5mm ( ultra low profile ) screws |
+| ![Part 1](/assets/images/manual/vz330_mellow/gantry/printhead/step7_part1.png)  | &#8226; Attach the preassembled extruder to the printhead with the M3 x 5mm ( ultra low profile ) screws |
 {: .instructiontable}
 
 <br/>
@@ -241,7 +241,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 > &#8226;  M3 x ??mm <br/>
 
 |:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8.png) |
+| ![Part 1](/assets/images/manual/vz330_mellow/gantry/printhead/step8.png) |
 
 | Part | Location |
 |:-|:-|
@@ -256,11 +256,11 @@ In this section we'll assemble the Toolhead for the VzBot.
 ### Instructions
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8_part1.png)  | &#8226; Attache the adapter plate to the goliath hotendend with the M3 x ?? mm screws. |
+| ![Part 1](/assets/images/manual/vz330_mellow/gantry/printhead/step8_part1.png)  | &#8226; Attache the adapter plate to the goliath hotendend with the M3 x ?? mm screws. |
 {: .instructiontable}
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8_part2.png)  | &#8226; Slide on the printed fanholder to the goliath hotend  <br/> &#8226; Insert the 22mm pfte tube into the goliath on top <br/> &#8226; Screw on the goliath to the printhead with the M3 x 6mm |
+| ![Part 1](/assets/images/manual/vz330_mellow/gantry/printhead/step8_part2.png)  | &#8226; Slide on the printed fanholder to the goliath hotend  <br/> &#8226; Insert the 22mm pfte tube into the goliath on top <br/> &#8226; Screw on the goliath to the printhead with the M3 x 6mm |
 {: .instructiontable}
 
 <br/>

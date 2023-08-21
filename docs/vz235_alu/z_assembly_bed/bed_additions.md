@@ -13,7 +13,7 @@ permalink: /vz235_alu/z_assembly/bed_additions
 
 ## Overview
 
-![Overview](../../assets/images/manual/vz235_alu/z_assembly/bed_additions/overview.png)
+![Overview](/assets/images/manual/vz235_alu/z_assembly/bed_additions/overview.png)
 
 ## BOM
 
@@ -37,10 +37,10 @@ permalink: /vz235_alu/z_assembly/bed_additions
 
 Mount the printed chain mount to the bed frame using 2x10mm M3 screws. Then mount the cable chain using 10mm M3 screws and nuts like shown below.
 
-![Step 1](../../assets/images/manual/vz235_alu/z_assembly/bed_additions/step1.png)
+![Step 1](/assets/images/manual/vz235_alu/z_assembly/bed_additions/step1.png)
 
 ### Step 2
 
 Mount the microswitch to the printed adapter using M2 screws. Then mount the assembly to the top rod holder using the 8mm M3. Finally screw in the 50mm M3 screw and nut like shown below. After setting the correct Z-height using the adjustment screw use the M3 nut to lock the screw in place in order to make sure the screw doesn't drift off position.
 
-![Step 2](../../assets/images/manual/vz235_alu/z_assembly/bed_additions/step2.png)
+![Step 2](/assets/images/manual/vz235_alu/z_assembly/bed_additions/step2.png)

@@ -12,7 +12,7 @@ permalink: /vz235_alu/frame
 
 ## Overview
 
-![Frame](../assets/images/manual/vz235_printed/frame/overview.png)
+![Frame](/assets/images/manual/vz235_printed/frame/overview.png)
 <br/>
 <br/>
 
@@ -33,7 +33,7 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 | 2020 blind corner joints           | 4 | -  |
   
 <br/>
-![Frame colored](../assets/images/manual/vz235_printed/frame/frame_colored.png)
+![Frame colored](/assets/images/manual/vz235_printed/frame/frame_colored.png)
  <br/>
 
 ## STL's
@@ -55,7 +55,7 @@ To start you are going to build the 2 sides of your frame. Make sure you do your
 <br/>
 <br/>
 
-![Frame side](../assets/images/manual/vz235_printed/frame/frame_side.png)
+![Frame side](/assets/images/manual/vz235_printed/frame/frame_side.png)
 <br/>
 <br/>
 
@@ -63,7 +63,7 @@ After hand tightening you can start tightening everything down properly. Make su
 <br/>
 <br/>
 
-![Frame brackets](../assets/images/manual/vz235_printed/frame/frame_sides.png)
+![Frame brackets](/assets/images/manual/vz235_printed/frame/frame_sides.png)
 <br/>
 <br/>
 
@@ -78,7 +78,7 @@ The bottom, top and upright extrusions in the front of the frame all have printe
 <br/>
 <br/>
 
-![Frame inserts](../assets/images/manual/vz235_printed/frame/frame_inserts.png)
+![Frame inserts](/assets/images/manual/vz235_printed/frame/frame_inserts.png)
 <br/>
 <br/>
 
@@ -88,7 +88,7 @@ Attach the extrusions to connect the two halves of the frame. Make sure to put t
 <br/>
 <br/>
 
-![Frame inserts](../assets/images/manual/vz235_printed/frame/frame_complete.png)
+![Frame inserts](/assets/images/manual/vz235_printed/frame/frame_complete.png)
 <br/>
 <br/>
 

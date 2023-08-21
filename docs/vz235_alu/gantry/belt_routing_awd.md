@@ -24,8 +24,8 @@ In the sample pinter.cfg file there is a macro included that enables all XY moto
 
 ## Videos
 
-[![Build tensioning](../../assets/images/manual/vz235_printed/gantry/belt_tentioning_video.png)](https://www.youtube.com/watch?v=qNMXW6MUV5E&t=401s "Build tensioning")
+[![Build tensioning](/assets/images/manual/vz235_printed/gantry/belt_tentioning_video.png)](https://www.youtube.com/watch?v=qNMXW6MUV5E&t=401s "Build tensioning")
 <br/>
 <br/>
 
-[![Build routing](../../assets/images/manual/vz235_printed/gantry/belt_routing_video.png)](https://www.youtube.com/watch?v=Ibi27Toh-pg&t=2s "Build routing")
+[![Build routing](/assets/images/manual/vz235_printed/gantry/belt_routing_video.png)](https://www.youtube.com/watch?v=Ibi27Toh-pg&t=2s "Build routing")
