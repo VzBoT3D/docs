@@ -2,7 +2,7 @@ title: "VzBoT Documentation"
 tagline: Documentation for VzBoT 3D-printers
 description: VzBoT Official Documentation
 logo: "/assets/images/logo.png"
-baseurl: ""
+baseurl: "/vzbot3d-docs"
 markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
 color_scheme: "vzbot"
