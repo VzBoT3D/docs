@@ -59,10 +59,11 @@ Screw the standoff in the middle plate using 2x10mm countersunk M3, and attach t
 
 ![Step 3.1](../../assets/images/manual/vz235_alu/gantry/front_motors/step3.1.png)
 
-Lock the standoff in place using the 40mm M4 and the printed hammer nut (or a spring loaded M4 T-nut) that is installed during frame assembly.<br><br>
+Lock the standoff in place using the 40mm M4 and a spring loaded M4 T-nut (One could use a normal hammer M4 t-nut too. If so then it might be easier to pre-install the t-nut at step 3, or you could try to slide it in from under using a small tool to hold it in place while your screw the M4 bolt).<br><br>
 ![Step 3.2](../../assets/images/manual/vz235_alu/gantry/front_motors/step3.2.png)
 
 ![Step 3](../../assets/images/manual/vz235_alu/gantry/front_motors/step3.png)
+
 ### Step 4
 
 Attach the top plate using the 2x12mm M4 and T-nuts to the frame and screw in the 2 x 12mm M3 into the printed standoff.<br><br>
