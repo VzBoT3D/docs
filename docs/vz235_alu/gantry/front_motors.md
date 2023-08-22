@@ -46,7 +46,7 @@ permalink: /vz235_alu/gantry/front_motors
 ### Step 1
 
 ![Step 1](../../assets/images/manual/vz235_alu/gantry/front_motors/step1.png)
-<br>Insert the 4 M3 nuts and single M4 nut in the printed standoff motor anchor as shown above.
+Insert the 4 M3 nuts and single M4 nut in the printed standoff motor anchor as shown above.<br><br>
 
 ### Step 2
 
