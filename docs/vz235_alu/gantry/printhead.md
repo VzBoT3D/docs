@@ -129,7 +129,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 | Belts <br/> Quantity: 2 | **Layer**:  <br/> **Box**: accesesories |
 
 |:-|:-|
-| [![belt](../../assets/images/manual/vz330_mellow/gantry/printhead/step5.png)](https://www.youtube.com/embed/Ibi27Toh-pg "Apply belt") | &#8226; Make sure the motor's in the front are in the loosest position possible, moved to the back of the motor mount. Do one belth path first then leave a bit extra and cut it then do the other. |
+| [![belt](../../assets/images/manual/vz330_mellow/gantry/printhead/step5.png)](https://www.youtube.com/embed/Ibi27Toh-pg "Apply belt") | &#8226; Make sure the motor's in the front are in the loosest position possible, moved to the back of the motor mount. Do one belth path first then leave a bit extra and cut it then do the other. Check the instructions [here](https://github.com/VzBoT3D/Vz-Printhead-CNC/tree/main/Instructions) for more details on the Vz235 belts in step 5 | 
 {: .instructiontable}
 
 ### Step 6
@@ -204,3 +204,5 @@ In this section we'll assemble the Toolhead for the VzBot.
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8_part2.png)  | &#8226; Slide on the printed fanholder to the goliath hotend  <br/> &#8226; Insert the 22mm pfte tube into the goliath on top <br/> &#8226; Screw on the goliath to the printhead with the M3 x 6mm |
 {: .instructiontable}
+
+<br>
