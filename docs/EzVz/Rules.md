@@ -15,7 +15,7 @@ To make EzVz work for everybody we have defined a common rule set among buyers a
 ## General
 
 1. Be nice to providers and customers. Any kind of disrespect, insulting or similar will lead to a ban from EzVz.
-2. Dont misuse the system.
+2. Don't misuse the system.
 3. Before creating a new order, or applying as an provider, be sure to read the how-tos of EzVz and make sure that you have understood the system.
 
 ## Providers
@@ -33,6 +33,6 @@ As a provider you have to follow a certain given set of rules:
 
 As a buyer you need to follow a certain given set of rules:
 
-1. Only create orders which should be completed by an provider. Dont create orders for fun
+1. Only create orders which should be completed by an provider. Dont create orders for fun.
 2. Use correct information on your orders.
 3. If any problems in the process occurs, reach out to the VzBoT team.

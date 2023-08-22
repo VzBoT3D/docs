@@ -11,11 +11,12 @@ permalink: /EzVz/print_rules
 # Print Rules for Application
 
 When applying you need to print a [VzCube](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Print%20Test/VzCube.stl) and show us the pictures of all 6 sides.
+
 You can see the allowed filaments and the required print settings [here](https://docs.vzbot.org/ezvz/filaments).
 
 ## Forbidden Filaments
 
-Filaments which include glitter or cf filaments are not allowed for the application because they can hide printing artifacts.
+Filaments which include glitter or cf filaments are not allowed for the application because they can hide printing artifacts.  
 **These are only forbidden when applying, later in while processing orders these kind of filaments are allowed**
 
 ## Pictures

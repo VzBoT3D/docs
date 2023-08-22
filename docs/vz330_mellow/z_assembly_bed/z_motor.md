@@ -9,26 +9,26 @@ has_children: false
 permalink: /vz330_mellow/z_assembly/z_motor
 ---
 
-<br>
+<br/>
 
 ![Z-Motor overview](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/overview.png)
 
-<br>
-<br>
+<br/>
+<br/>
 
 # Part's
 
 | Part | Location | Info |
 |:-------------|:------------------|
-| M3 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
-| M4 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
-| M4 x 12mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
-| M4 Washer <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
-| M4 t-nut <br> Quantity: 2  | **Layer**: 3 <br> **Box**: VZ330 Box 6 |  |
-| GT2 20 teeth <br> Quantity: 1 | **Layer**: 1 | ![parts](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/parts/gt2_20.png) |
-| NEMA 17 stepper <br> Quantity: 1 | **Layer**: 1 |  |
-| Motor mount plate <br> Quantity: 1 | **Layer**: 1 | ![parts](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/parts/motor_plate.png) |
-| Extrutsion mount plate <br> Quantity: 1 | **Layer**: 1 | ![parts](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/parts/extrusion_mount.png) |
+| M3 x 10mm <br/> Quantity: 4 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |  |
+| M4 x 10mm <br/> Quantity: 4 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |  |
+| M4 x 12mm <br/> Quantity: 4 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |  |
+| M4 Washer <br/> Quantity: 2 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |  |
+| M4 t-nut <br/> Quantity: 2  | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |  |
+| GT2 20 teeth <br/> Quantity: 1 | **Layer**: 1 | ![parts](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/parts/gt2_20.png) |
+| NEMA 17 stepper <br/> Quantity: 1 | **Layer**: 1 |  |
+| Motor mount plate <br/> Quantity: 1 | **Layer**: 1 | ![parts](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/parts/motor_plate.png) |
+| Extrutsion mount plate <br/> Quantity: 1 | **Layer**: 1 | ![parts](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/parts/extrusion_mount.png) |
 
 # Assembly
 
@@ -41,10 +41,10 @@ permalink: /vz330_mellow/z_assembly/z_motor
 
 | Part | Location |
 |:-|:-|
-| NEMA 17 motor <br> Quantity: 1 | **Layer**: 1 |
-| GT2 20 teeth idler <br> Quantity: 1 | **Layer**: 1 |
+| NEMA 17 motor <br/> Quantity: 1 | **Layer**: 1 |
+| GT2 20 teeth idler <br/> Quantity: 1 | **Layer**: 1 |
 
-<br>
+<br/>
 
 ### Instructions
 
@@ -52,7 +52,7 @@ permalink: /vz330_mellow/z_assembly/z_motor
 | ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step1_part1.png) | &#8226; Attach the GT2 idler to the motor shaft of the nema 17 motor ( we will align it later ) |
 {: .instructiontable}
 
-<br>
+<br/>
 
 ## Step 2
 
@@ -68,19 +68,19 @@ permalink: /vz330_mellow/z_assembly/z_motor
 
 | Part | Location |
 |:-|:-|
-| NEMA 17 motor <br> Quantity: 1 | **Layer**: 1 |
-| Motor mount plate<br> Quantity: 1 | **Layer**: 1 |
-| M3 x 10mm <br> Quantity: 4 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M3 <br> **Bagnumber**: 16/16 |
+| NEMA 17 motor <br/> Quantity: 1 | **Layer**: 1 |
+| Motor mount plate<br/> Quantity: 1 | **Layer**: 1 |
+| M3 x 10mm <br/> Quantity: 4 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 <br/> **Bag**: M3 <br/> **Bagnumber**: 16/16 |
 
-<br>
+<br/>
 
 ### Instructions
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step2_part1.png) | &#8226; Attach the NEMA 17 motor to the motor mount plate with the four M3 x 10mm screws. The chamfered side of the plate goes to the motor. <br> &#8226; Take care that the motor cable points to the back ( the side with the slides in the plate). |
+| ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step2_part1.png) | &#8226; Attach the NEMA 17 motor to the motor mount plate with the four M3 x 10mm screws. The chamfered side of the plate goes to the motor. <br/> &#8226; Take care that the motor cable points to the back ( the side with the slides in the plate). |
 {: .instructiontable}
 
-<br>
+<br/>
 
 ## Step 3
 
@@ -89,7 +89,7 @@ permalink: /vz330_mellow/z_assembly/z_motor
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M4 x 10mm <br>
+> &#8226; Box 6 - M4 x 10mm <br/>
 > &#8226; Box 6 - M4 t-nut
 
 |:-|
@@ -97,11 +97,11 @@ permalink: /vz330_mellow/z_assembly/z_motor
 
 | Part | Location |
 |:-|:-|
-| Extrutsion mount plate <br> Quantity: 1 | **Layer**: 1 | 
-| M4 x 10mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 |
-| M4 t-nut <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 2/16 |
+| Extrutsion mount plate <br/> Quantity: 1 | **Layer**: 1 | 
+| M4 x 10mm <br/> Quantity: 2 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 <br/> **Bag**: M4 <br/> **Bagnumber**: 14/16 |
+| M4 t-nut <br/> Quantity: 2 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 <br/> **Bag**: M4 <br/> **Bagnumber**: 2/16 |
 
-<br>
+<br/>
 
 ### Instructions
 
@@ -109,7 +109,7 @@ permalink: /vz330_mellow/z_assembly/z_motor
 | ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step3_part1.png) | &#8226; Attach the M4 x 10 mm screw and the M4 t-nut to the plate |
 {: .instructiontable}
 
-<br>
+<br/>
 
 ## Step 4
 
@@ -120,9 +120,9 @@ permalink: /vz330_mellow/z_assembly/z_motor
 
 | Part | Location |
 |:-|:-|
-| Extrusion mount plate <br> Quantity: 1 | **Layer**: 1 |
+| Extrusion mount plate <br/> Quantity: 1 | **Layer**: 1 |
 
-<br>
+<br/>
 
 ### Instructions
 
@@ -130,7 +130,7 @@ permalink: /vz330_mellow/z_assembly/z_motor
 | ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step4_part1.png) | &#8226; Attach the extrusion mount plate to the frame ( take care it's in the middle of the back extrusion ) |
 {: .instructiontable}
 
-<br>
+<br/>
 
 ## Step 5
 
@@ -139,7 +139,7 @@ permalink: /vz330_mellow/z_assembly/z_motor
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M4 x 12mm <br>
+> &#8226; Box 6 - M4 x 12mm <br/>
 > &#8226; Box 6 - M4 Washers
 
 |:-|
@@ -147,11 +147,11 @@ permalink: /vz330_mellow/z_assembly/z_motor
 
 | Part | Location |
 |:-|:-|
-| Assembled motor mount <br> Quantity: 1 | [Part from step 2](#step-2) |
-| M4 x 12mm <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 <br> **Bag**: M4 <br> **Bagnumber**: 14/16 |
-| M4 Washers <br> Quantity: 2 | **Layer**: 3 <br> **Box**: VZ330 Box 6 |
+| Assembled motor mount <br/> Quantity: 1 | [Part from step 2](#step-2) |
+| M4 x 12mm <br/> Quantity: 2 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 <br/> **Bag**: M4 <br/> **Bagnumber**: 14/16 |
+| M4 Washers <br/> Quantity: 2 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
 
-<br>
+<br/>
 
 ### Instructions
 
@@ -159,7 +159,7 @@ permalink: /vz330_mellow/z_assembly/z_motor
 | ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/z_motor/step5_part1.png) | &#8226; Put the assembled mount on the extrusion plate and screw in the M4 x 12mm screws slightly |
 {: .instructiontable}
 
-<br>
+<br/>
 
 ### Step 6
 

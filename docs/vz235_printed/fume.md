@@ -12,7 +12,7 @@ permalink: /vz235_printed/fume_extractor
 
 ## Overview
 ![Overview](../assets/images/manual/vz235_printed/fume/overview.png)
-<br>
+<br/>
 
 The VzBot fume extractor is an optional piece of hardware but highly recommended! This device gets rid of VOC’s (volatile organic compounds) and nasty smells that come from printing ABS filament.
 
@@ -30,7 +30,7 @@ The VzBot fume extractor is an optional piece of hardware but highly recommended
 
 ## STL's
 ![Details](../assets/images/manual/vz235_printed/fume/details.png)
-<br>
+<br/>
 
 | File name | Amount to print |
 |-----------|-----------------|
@@ -43,13 +43,13 @@ The VzBot fume extractor is an optional piece of hardware but highly recommended
 
 ### Step 1
 Start by inserting all the M4 and M3 nuts into the exhaust cover like shown below
-<br>
+<br/>
 
 ![Inserts](../assets/images/manual/vz235_printed/fume/inserts.png)
 
 ### Step 2
 Next put the two fans in the exhaust fan housing, put the fan cover on the back panel and mount the exhaust housing, exhaust cover and fans with the M4 hardware.
-<br>
+<br/>
 
 ![Mount](../assets/images/manual/vz235_printed/fume/mount.png)
 

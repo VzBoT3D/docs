@@ -15,7 +15,7 @@ permalink: /vz235_printed/gantry/rear_idler_awd
 
 ![Rear mount detail](../../assets/images/manual/vz235_printed/gantry/rear_mount_detail_2.png)
 
-<br>
+<br/>
 
 | Material        | Quantity          | Notes |
 |:-------------|:------------------|:------|

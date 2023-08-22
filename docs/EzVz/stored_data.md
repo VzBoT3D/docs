@@ -10,7 +10,7 @@ permalink: /ezvz/data
 
 # Your personal data
 
-To make EzVz work it is necassery for us to store certain data about orders. This data will only be used to make EzVz work better and provide a better experience for the user, and not in any commercial way. 
+To make EzVz work it is necassery for us to store certain data about orders. This data will only be used to make EzVz work better and provide a better experience for the user, and not in any commercial way.
 
 ## Orders
 
@@ -26,7 +26,7 @@ The data stored to an order are the following:
 - Filament
 - Ordered Kits
 
-Orders are stored after they have been completed. 
+Orders are stored after they have been completed.
 
 ## Providers
 

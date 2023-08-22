@@ -18,10 +18,10 @@ Here's A detailed guide on how to install the Mellow Super8 V1.3 with Mellow 516
 ![Openbox](../../assets/images/manual/vz235_printed/electronics/DSC06306.JPG)
 
 
-<br>
+<br/>
 What's in the boxes
-<br>
-<br>
+<br/>
+<br/>
 
 ![Contents](../../assets/images/manual/vz235_printed/electronics/DSC06320.JPG)
 
@@ -29,7 +29,7 @@ What's in the boxes
 
 ![Contents2](../../assets/images/manual/vz235_printed/electronics/DSC06358.JPG)
 
-<br>
+<br/>
 
 Overview of the board.
 
@@ -61,7 +61,7 @@ Insert the mosfets into the holes the direction they face doesn't matter.
 # Driver setup
 
 Now we're done with that we're going to the plugs for the driver ports. We're gonna install the bridges for SPI and UART.
-<br>
+<br/>
 
 Here's a view of the board with all the plugs still not filled. It's important to not put bridges on the ports you're not gonna use.
 
