@@ -12,18 +12,18 @@ permalink: /vz235_printed/gantry/belt_routing
 # 3.5 Belt routing and tensioning (AWD & 2WD)
 
 ## 2WD:
-<br>
+<br/>
 
 ![Belt routing 2WD](../../assets/images/manual/vz235_printed/gantry/belt_2wd.png)
 
-<br>
+<br/>
 
 ## AWD:
-<br>
+<br/>
 
 ![Belt routing AWD](../../assets/images/manual/vz235_printed/gantry/belt_awd.png)
 
-<br>
+<br/>
 
 ## Printhead belt routing:
 

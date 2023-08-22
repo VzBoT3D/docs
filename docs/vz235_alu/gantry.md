@@ -13,9 +13,7 @@ permalink: /vz235_alu/gantry
 ## Overview
 
 ![Overview](../assets/images/manual/vz235_alu/gantry/overview.png)
-<br>
 
-Video with instructions can be found here [<img src="../assets/images/manual/vz235_alu/gantry/Gantry-video.jpg">](https://youtu.be/lP59PClF_PU/)
-
+Video with instructions can be found here [![Youtube video](../assets/images/manual/vz235_alu/gantry/Gantry-video.jpg)](https://youtu.be/lP59PClF_PU/)
 
 The Gantry is configurable for an AWD version and a 2WD version. The only difference between the two configurations is the rear idler mounts. On AWD they have an additional Nema 17 integrated in the design.

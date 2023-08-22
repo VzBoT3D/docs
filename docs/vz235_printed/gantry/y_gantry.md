@@ -17,7 +17,7 @@ permalink: /vz235_printed/gantry/y_gantry
 
 ![Y gantry detail](../../assets/images/manual/vz235_printed/gantry/y_gantry_details.png)
 
-<br>
+<br/>
 
 | Material        | Quantity          | Notes |
 |:-------------|:------------------|:------|
@@ -59,7 +59,7 @@ Mount the lower half of the printed Y gantry pieces to their MGN12 cart with the
 
 ### Step 3
 To drill the holes in your CF-tube you’ll need to measure out where all holes will need, to do this the following is recommended: put a piece of painter’s tape on the tube, put the MGN9 on the tube with the alignment tools and have it centered. use a pencil to mark out all the holes you want to use. Put the CF-tube in your gantry and mark the holes for the tube to connect to the Y gantry, you will only need the 30mm M3 screws to secure the tube, the holes in the side are for 2020 extrusions.
-<br><br>
+<br/><br/>
 !warning! drilling and sawing carbon fiber is very hazardous, if you don’t buy the predrilled tube from mellow or the aluminum tube from F3D’s shop be careful. Wear protection and drill in wet surfaces!
 
 ### Step 4

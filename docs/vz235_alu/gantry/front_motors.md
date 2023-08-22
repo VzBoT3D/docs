@@ -17,35 +17,36 @@ permalink: /vz235_alu/gantry/front_motors
 
 ## BOM
 
-| Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
-| M3 6mm           | 4 | - |
-| M3 10mm ( countersunk ) | 4 | - |
-| M3 12mm | 4 | - |
-| M3 35mm | 4 | - |
-| M4 8mm ( countersunk ) | 2 | - |
-| M4 10mm | 4 | - |
-| M4 12mm | 8 | - |
-| M4 30mm ( set screw ) | 2 | - |
-| M4 40mm ( socket head) | 4 | - |
-| M4 t-nut | 8 | - |
-| M3 nut | 8 | - |
-| M4 nut | 10 | also for hinges |
-| 4mm ID washer | 2 | - |
-| NEMA 17 stepper | 2 | - |
-| GT2 20 teeth | 2 | - |
+| Material                | Quantity | Notes           |
+| ----------------------- | -------- | --------------- |
+| M3 6mm                  | 4        |                 |
+| M3 10mm ( countersunk ) | 4        |                 |
+| M3 12mm                 | 4        |                 |
+| M3 35mm                 | 4        |                 |
+| M4 8mm ( countersunk )  | 2        |                 |
+| M4 10mm                 | 4        |                 |
+| M4 12mm                 | 8        |                 |
+| M4 30mm ( set screw )   | 2        |                 |
+| M4 40mm ( socket head)  | 4        |                 |
+| M4 t-nut                | 8        |                 |
+| M3 nut                  | 8        |                 |
+| M4 nut                  | 10       | also for hinges |
+| 4mm ID washer           | 2        |                 |
+| NEMA 17 stepper         | 2        |                 |
+| GT2 20 teeth            | 2        |                 |
 
 ![Details](../../assets/images/manual/vz235_alu/gantry/front_motors/details.png)
 
 ## STL's
 
 | File name | Amount to print |
-|-----------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">TODO</a> | 3 |
+| --------- | --------------- |
+| [TODO][]  | 3               |
 
 ### Step 1
 
 ![Step 1](../../assets/images/manual/vz235_alu/gantry/front_motors/step1.png)
+
 Insert the 4 M3 nuts and single M4 nut in the printed standoff motor anchor as shown above.<br><br>
 
 ### Step 2
@@ -54,6 +55,7 @@ Attach the stepper motor to the bottom motor plate with 2 6mm M3 screws. And ins
 ![Step 2](../../assets/images/manual/vz235_alu/gantry/front_motors/step2.png)
 
 ### Step 3
+
 
 Screw the standoff in the middle plate using 2x10mm countersunk M3, and attach the plate to the frame using one 12mm button head M4 + M4 washer and a 8mm countersunk M4 plus 2 M4 T-nuts. (Leave the 12mm M4 bolts+washer loose for now. At this point only 8mm countersunk should be tighten). <br><br> 
 
@@ -81,3 +83,4 @@ Screw in the 30mm M4 set screw into the bottom tensioner. The tensioner plate an
 
 ### Step 7
 Repeat **Step 1 - 6** for the other side of the printer.
+

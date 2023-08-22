@@ -1,0 +1,1365 @@
+<!DOCTYPE html><html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body>
+<a name=1></a><img src="./images/-1_1.jpg"/><br/>
+<img src="./images/-1_2.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+MANUAL&#160;VZ-330&#160;&#160;<br/>
+&#160;<br/>1&#160;<br/>&#160;<br/>
+<hr/>
+<a name=2></a><img src="./images/-2_1.jpg"/><br/>
+<img src="./images/-2_2.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+About&#160;<br/>VZ&#160;330&#160;is&#160;the&#160;original&#160;VzBoT&#160;printer&#160;and&#160;has&#160;been&#160;in&#160;development&#160;since&#160;2020.&#160;It&#160;is&#160;a&#160;High&#160;<br/>speed,&#160;moderately&#160;sized&#160;3D-printer,&#160;based&#160;on&#160;the&#160;TronXY&#160;XS5(A)&#160;CoreXY&#160;frame,&#160;but&#160;can&#160;be&#160;<br/>easily&#160;adapted&#160;for&#160;other&#160;2020&#160;aluminum&#160;extrusion&#160;frames.&#160;The&#160;design&#160;is&#160;built&#160;around&#160;the&#160;<br/>popular&#160;TronXY&#160;XS5(A)&#160;but&#160;is&#160;not&#160;limited&#160;to&#160;this&#160;size,&#160;the&#160;frame&#160;can&#160;be&#160;scaled&#160;up&#160;or&#160;down&#160;<br/>to&#160;suit&#160;your&#160;own&#160;needs.&#160;&#160;<br/>
+As&#160;this&#160;printer&#160;was&#160;built&#160;from&#160;modifying&#160;the&#160;TronXY&#160;you&#160;can&#160;do&#160;the&#160;same&#160;working&#160;on&#160;part&#160;<br/>by&#160;part&#160;and&#160;skipping&#160;around&#160;the&#160;guide&#160;or&#160;work&#160;through&#160;the&#160;guide&#160;and&#160;start&#160;from&#160;scratch.&#160;<br/>The&#160;entire&#160;z&#160;assembly&#160;is&#160;interchangeable,&#160;same&#160;for&#160;the&#160;partial&#160;printed&#160;printhead&#160;<br/>(exception&#160;for&#160;the&#160;front&#160;and&#160;back&#160;plate),&#160;y&#160;gantry&#160;idlers&#160;and&#160;all&#160;the&#160;smaller&#160;parts&#160;like&#160;the&#160;<br/>feet&#160;and&#160;braces.&#160;This&#160;is&#160;all&#160;aimed&#160;to&#160;make&#160;your&#160;experience&#160;as&#160;customizable&#160;as&#160;possible&#160;to&#160;<br/>truly&#160;make&#160;the&#160;printer&#160;yours.&#160;<br/>
+A&#160;resent&#160;development&#160;is&#160;the&#160;fact&#160;that&#160;our&#160;friends&#160;over&#160;at&#160;mellow&#160;and&#160;f3d&#160;have&#160;started&#160;<br/>building&#160;specialized&#160;parts&#160;for&#160;VzBoT&#160;to&#160;replace&#160;3d&#160;printed&#160;parts.&#160;This&#160;guide&#160;will&#160;try&#160;to&#160;show&#160;<br/>you&#160;how&#160;to&#160;build&#160;in&#160;both&#160;cases.&#160;<br/>
+It&#160;is&#160;recommended&#160;to&#160;use&#160;the&#160;provided&#160;.step&#160;files&#160;while&#160;assembling.&#160;This&#160;manual&#160;only&#160;<br/>covers&#160;the&#160;most&#160;critical&#160;parts&#160;of&#160;the&#160;build&#160;at&#160;this&#160;moment.&#160;For&#160;using&#160;the&#160;.step&#160;files&#160;as&#160;part&#160;<br/>of&#160;the&#160;build&#160;we&#160;recommend&#160;the&#160;free&#160;version&#160;of&#160;Autodesk&#160;Fusion360,&#160;it&#160;is&#160;not&#160;hard&#160;to&#160;use&#160;<br/>and&#160;look&#160;around&#160;in&#160;the&#160;files,&#160;so&#160;even&#160;people&#160;without&#160;prior&#160;experience&#160;can&#160;do&#160;this!&#160;<br/>
+&#160;<br/>
+&#160;<br/>2&#160;<br/>&#160;<br/>
+<hr/>
+<a name=3></a><img src="./images/-3_1.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+*Disclaimer:&#160;VzBoT&#160;is&#160;an&#160;opensource&#160;passion&#160;project,&#160;this&#160;manual&#160;is&#160;not&#160;definitive,&#160;and&#160;we&#160;<br/>try&#160;to&#160;make&#160;it&#160;as&#160;polished&#160;as&#160;possible.&#160;Fortunately,&#160;we&#160;all&#160;make&#160;errors&#160;so&#160;use&#160;common&#160;<br/>sense&#160;when&#160;following&#160;this&#160;guide.&#160;If&#160;you&#160;have&#160;any&#160;questions&#160;fortunately&#160;for&#160;you,&#160;we&#160;have&#160;a&#160;<br/>active&#160;discord&#160;full&#160;of&#160;incredibly&#160;knowledgeable&#160;people:&#160;https://discord.gg/auJrs8suVk&#160;<br/>
+Print&#160;settings:&#160;<br/>We&#160;recommend&#160;printing&#160;all&#160;parts&#160;in&#160;ABS,&#160;ASA&#160;or&#160;similar&#160;material&#160;to&#160;be&#160;able&#160;to&#160;withstand&#160;<br/>the&#160;high&#160;heat&#160;environment&#160;in&#160;the&#160;printer&#160;enclosure.&#160;&#160;<br/>
+Print&#160;settings&#160;should&#160;always&#160;be&#160;tuned&#160;for&#160;your&#160;own&#160;material&#160;and&#160;tested&#160;for&#160;decent&#160;strength&#160;<br/>and&#160;layer&#160;adhesion.&#160;&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+<i><b>We&#160;recommend&#160;the&#160;following&#160;settings:&#160;</b>&#160;</i><br/>
+Layer&#160;height:&#160;0.2mm&#160;<br/>
+Layer&#160;with:&#160;0.4&#160;to&#160;0.6&#160;mm&#160;<br/>
+Number&#160;of&#160;walls:&#160;4&#160;&#160;<br/>
+Infill&#160;percentage:&#160;20%&#160;to&#160;25&#160;%&#160;(For&#160;moving&#160;parts&#160;you&#160;can&#160;decrease&#160;this&#160;to&#160;15&#160;to&#160;20&#160;%)&#160;<br/>
+Top/bottom&#160;layers:&#160;5&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+<b>VISIT&#160;GITHUB&#160;for&#160;additional&#160;information&#160;</b><br/>
+Visual&#160;instructions,&#160;BOM,&#160;and&#160;STLS&#160;for&#160;all&#160;of&#160;the&#160;prints&#160;in&#160;this&#160;guide&#160;can&#160;be&#160;found&#160;on&#160;the&#160;<br/>GitHub:<a href="https://github.com/VzBoT3D/VzBoT-Vz330/tree/master/Assemblies%20BOM%20and%20STL">&#160;VzBoT-Vz330/Assemblies&#160;BOM&#160;and&#160;STL&#160;&#160;&#160;</a>&#160;<br/>
+&#160;<br/>
+General&#160;order&#160;of&#160;building:&#160;<br/>We&#160;recommend&#160;following&#160;this&#160;order&#160;of&#160;building&#160;the&#160;printer&#160;if&#160;building&#160;from&#160;scratch:&#160;<br/>
+1.&#160;&#160;Frame&#160;<br/>2.&#160;&#160;Z&#160;assembly&#160;+&#160;Bed&#160;<br/>3.&#160;&#160;Gantry&#160;+&#160;printhead&#160;<br/>4.&#160;&#160;Bottom&#160;and&#160;rear&#160;panels&#160;<br/>5.&#160;&#160;Fume&#160;extractor&#160;<br/>6.&#160;&#160;Electronics&#160;+&#160;wiring&#160;+&#160;firmware&#160;<br/>7.&#160;&#160;First&#160;moves&#160;and&#160;checks&#160;<br/>8.&#160;&#160;Enclosure&#160;panels&#160;+&#160;(RSCS)&#160;<br/>9.&#160;&#160;Trim&#160;pieces&#160;<br/>
+We&#160;recommend&#160;following&#160;this&#160;order&#160;of&#160;building&#160;the&#160;printer&#160;if&#160;upgrading&#160;from&#160;a&#160;TronXY&#160;:&#160;<br/>
+1.&#160;&#160;Gantry&#160;+&#160;printhead&#160;<br/>
+&#160;<br/>3&#160;<br/>&#160;<br/>
+<hr/>
+<a name=4></a><img src="./images/-4_1.jpg"/><br/>
+<img src="./images/-4_2.jpg"/><br/>
+<img src="./images/-4_3.png"/><br/>
+&#160;<br/>
+2.&#160;&#160;Bottom&#160;and&#160;rear&#160;panels&#160;<br/>3.&#160;&#160;Z&#160;assembly&#160;+&#160;Bed&#160;<br/>4.&#160;&#160;Fume&#160;extractor&#160;<br/>5.&#160;&#160;Electronics&#160;+&#160;wiring&#160;+&#160;firmware&#160;upgrades&#160;<br/>6.&#160;&#160;Enclosure&#160;panels&#160;+&#160;(RSCS)&#160;<br/>7.&#160;&#160;Trim&#160;pieces&#160;<br/>
+&#160;<br/>
+1.&#160;Frame:&#160;&#160;<br/>
+&#160;<br/>
+Overview:&#160;<br/>
+&#160;<br/>
+The&#160;frame&#160;is&#160;assembled&#160;through&#160;a&#160;combination&#160;of&#160;blind&#160;joints&#160;and&#160;corner&#160;brackets.&#160;The&#160;<br/>corner&#160;brackets&#160;are&#160;to&#160;help&#160;stiffen&#160;up&#160;the&#160;frame&#160;and&#160;are&#160;optional,&#160;though&#160;we&#160;highly&#160;<br/>recommend&#160;using&#160;them&#160;on&#160;every&#160;possible&#160;corner&#160;for&#160;best&#160;results.&#160;<br/>
+&#160;&#160;<br/>
+How&#160;to&#160;assemble&#160;a&#160;blind&#160;corner&#160;Joint:&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Useful&#160;links&#160;about&#160;the&#160;assembly&#160;of&#160;blind&#160;joints:&#160;<br/>
+&#160;<br/>4&#160;<br/>&#160;<br/>
+<hr/>
+<a name=5></a><img src="./images/-5_1.jpg"/><br/>
+<img src="./images/-5_2.png"/><br/>
+&#160;<br/>
+<a href="https://www.youtube.com/watch?v=2dvbn0rWA60">https://www.youtube.com/watch?v=2dvbn0rWA60&#160;</a><br/>
+<a href="https://www.youtube.com/watch?v=ueniUWrUcjE">https://www.youtube.com/watch?v=ueniUWrUcjE&#160;</a><br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Bom:&#160;<br/>
+Material&#160;<br/>
+Quantity&#160;<br/>
+Notes&#160;<br/>
+M6/M5&#160;10mm&#160;buttonhead&#160;<br/>
+16&#160;<br/>
+Depending&#160;on&#160;the&#160;type&#160;of&#160;<br/>
+2020&#160;you&#160;use&#160;you&#160;need&#160;M5&#160;<br/>or&#160;M6&#160;screws&#160;<br/>
+530mm&#160;2020&#160;extrusions&#160;<br/>
+4&#160;<br/>
+Yellow&#160;<br/>
+460mm&#160;2020&#160;extrusions&#160;<br/>
+6&#160;<br/>
+Red&#160;<br/>
+530mm&#160;2040&#160;extrusions&#160;&#160;<br/>
+4&#160;<br/>
+Blue&#160;(all&#160;ends&#160;need&#160;to&#160;be&#160;<br/>tapped&#160;<br/>
+2020&#160;corner&#160;joints&#160;<br/>
+8&#160;<br/>
+&#160;<br/>
+M4&#160;T&#160;nuts&#160;<br/>
+10&#160;<br/>
+&#160;<br/>
+M4&#160;10mm&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+M4&#160;15/16mm&#160;<br/>
+8&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>5&#160;<br/>&#160;<br/>
+<hr/>
+<a name=6></a><img src="./images/-6_1.jpg"/><br/>
+<img src="./images/-6_2.png"/><br/>
+&#160;<br/>
+&#160;<br/>STL&#160;files:&#160;&#160;<br/>
+File&#160;name&#160;<br/>
+Amount&#160;to&#160;print&#160;<br/>
+Brace&#160;<br/>
+2x&#160;<br/>
+Handle&#160;<br/>
+2x&#160;<br/>
+Cable&#160;holder&#160;<br/>
+1x&#160;<br/>
+&#160;<br/>
+Step&#160;1:&#160;<br/>
+To&#160;start&#160;you&#160;are&#160;going&#160;to&#160;build&#160;the&#160;2&#160;sides&#160;of&#160;your&#160;frame.&#160;Make&#160;sure&#160;you&#160;do&#160;your&#160;building&#160;on&#160;<br/>a&#160;nice&#160;flat&#160;surface&#160;(a&#160;stone&#160;surface&#160;is&#160;ideal&#160;if&#160;you&#160;have&#160;one&#160;available&#160;or&#160;maybe&#160;a&#160;kitchen&#160;<br/>counter.&#160;Make&#160;sure&#160;everything&#160;is&#160;as&#160;square&#160;as&#160;possible&#160;before&#160;tightening&#160;the&#160;corners.&#160;For&#160;<br/>more&#160;detail&#160;on&#160;blind&#160;joints&#160;look&#160;at&#160;the&#160;videos&#160;above.&#160;Add&#160;the&#160;optional&#160;corner&#160;braces&#160;on&#160;the&#160;<br/>bottom&#160;now.&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>6&#160;<br/>&#160;<br/>
+<hr/>
+<a name=7></a><img src="./images/-7_1.jpg"/><br/>
+<img src="./images/-7_2.jpg"/><br/>
+&#160;<br/>
+After&#160;hand&#160;tightening&#160;you&#160;can&#160;start&#160;tightening&#160;everything&#160;down&#160;properly.&#160;Make&#160;sure&#160;every&#160;<br/>corner&#160;is&#160;exactly&#160;90&#160;degrees.&#160;Now&#160;you&#160;need&#160;to&#160;repeat&#160;this&#160;step&#160;a&#160;second&#160;time&#160;for&#160;the&#160;other&#160;<br/>side&#160;of&#160;the&#160;frame.&#160;<br/>
+Check&#160;the&#160;two&#160;halves&#160;by&#160;laying&#160;them&#160;on&#160;top&#160;of&#160;eachother&#160;with&#160;all&#160;corners&#160;exactly&#160;in&#160;the&#160;<br/>same&#160;spot&#160;and&#160;check&#160;that&#160;every&#160;thing&#160;is&#160;parallel&#160;to&#160;between&#160;them.&#160;They&#160;need&#160;to&#160;be&#160;<br/>parallel&#160;for&#160;the&#160;printer&#160;to&#160;operate&#160;smoothly.&#160;&#160;<br/>
+&#160;<br/>
+Step&#160;2:&#160;<br/>
+Attach&#160;the&#160;red&#160;extrusions&#160;to&#160;one&#160;side&#160;of&#160;the&#160;frame&#160;and&#160;loosely&#160;attach&#160;them&#160;you&#160;should&#160;have&#160;<br/>a&#160;upside&#160;down&#160;table&#160;now&#160;like&#160;this.&#160;<br/>
+&#160;<br/>
+Step&#160;3:&#160;<br/>
+And&#160;the&#160;final&#160;side&#160;to&#160;the&#160;frame&#160;and&#160;check&#160;that&#160;everything&#160;is&#160;square&#160;one&#160;final&#160;time&#160;before&#160;<br/>properly&#160;tightening&#160;the&#160;frame.&#160;It&#160;should&#160;look&#160;something&#160;like&#160;this.&#160;<br/>
+&#160;<br/>7&#160;<br/>&#160;<br/>
+<hr/>
+<a name=8></a><img src="./images/-8_1.jpg"/><br/>
+<img src="./images/-8_2.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;4:&#160;<br/>
+Attach&#160;all&#160;corner&#160;joints&#160;and&#160;check&#160;if&#160;your&#160;frame&#160;is&#160;square&#160;and&#160;strong.&#160;Now&#160;you&#160;can&#160;add&#160;the&#160;<br/>handles,&#160;brackets&#160;and&#160;cable&#160;holder.&#160;<br/>
+&#160;<br/>8&#160;<br/>&#160;<br/>
+<hr/>
+<a name=9></a><img src="./images/-9_1.jpg"/><br/>
+<img src="./images/-9_2.png"/><br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Congrats&#160;you&#160;have&#160;successfully&#160;built&#160;the&#160;frame&#160;to&#160;you&#160;VzBoT.&#160;This&#160;is&#160;the&#160;start&#160;of&#160;something&#160;<br/>truly&#160;impressive.&#160;This&#160;is&#160;like&#160;the&#160;foundation&#160;to&#160;your&#160;printer&#160;and&#160;is&#160;really&#160;important&#160;that&#160;it&#160;is&#160;<br/>built&#160;correctly.&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+2.&#160;Z&#160;Assembly&#160;+&#160;Bed&#160;<br/>
+&#160;<br/>
+&#160;<br/>9&#160;<br/>&#160;<br/>
+<hr/>
+<a name=10></a><img src="./images/-10_1.jpg"/><br/>
+<img src="./images/-10_2.jpg"/><br/>
+&#160;<br/>
+Overview:&#160;<br/>&#160;<br/>
+&#160;<br/>
+The&#160;alignment&#160;procedure&#160;of&#160;the&#160;VZ330&#160;is&#160;crucial.&#160;Make&#160;sure&#160;to&#160;check&#160;out&#160;the&#160;YouTube&#160;<br/>video&#160;explaining&#160;how&#160;to&#160;align&#160;your&#160;Z-assembly,&#160;so&#160;it&#160;is&#160;both&#160;smooth&#160;and&#160;lines&#160;up&#160;with&#160;the&#160;<br/>possible&#160;travel&#160;of&#160;the&#160;printhead.&#160;<br/>
+Assembly&#160;instructions:<a href="https://youtu.be/JvF-UNoDB_I">&#160;https://youtu.be/JvF-UNoDB_I&#160;</a><br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Bom:&#160;&#160;<br/>
+Material&#160;<br/>
+Quantity&#160;<br/>
+Notes&#160;<br/>
+10mm&#160;M4&#160;<br/>
+47&#160;<br/>
+&#160;<br/>
+T-nut&#160;M4&#160;<br/>
+47&#160;<br/>
+&#160;<br/>
+&#160;<br/>10&#160;<br/>&#160;<br/>
+<hr/>
+<a name=11></a><img src="./images/-11_1.jpg"/><br/>
+&#160;<br/>
+15mm&#160;M3&#160;<br/>
+24&#160;<br/>
+&#160;<br/>
+20mm&#160;M3&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+M3&#160;nut&#160;<br/>
+28&#160;<br/>
+&#160;<br/>
+608-2rs&#160;bearing&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+500mm&#160;leadscrew&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+Gt2&#160;40t&#160;8mm&#160;pulley&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+Nema&#160;17&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+Gt2&#160;20T&#160;pulley&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+M3&#160;t&#160;nut&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+M3&#160;30mm&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+500mm&#160;10mm&#160;smooth&#160;rod&#160;<br/>
+4&#160;<br/>
+Optional&#160;size,&#160;also&#160;supports&#160;<br/>
+8&#160;and&#160;12mm&#160;as&#160;found&#160;on&#160;<br/>VZ330&#160;<br/>
+Lmu10luu&#160;bearing&#160;<br/>
+4&#160;<br/>
+^^^^&#160;<br/>
+Leadscrew&#160;nut&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+M5/M6&#160;20mm&#160;<br/>
+2&#160;<br/>
+Depending&#160;on&#160;extrusion&#160;<br/>type&#160;<br/>
+Bed&#160;springs&#160;<br/>
+6&#160;<br/>
+&#160;<br/>
+30mm&#160;M3&#160;countersunk&#160;&#160;<br/>
+7&#160;<br/>
+&#160;<br/>
+M3&#160;wing&#160;nuts&#160;<br/>
+7&#160;<br/>
+&#160;<br/>
+M4&#160;8mm&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+390mm&#160;2020&#160;extrusion&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+260mm&#160;2020&#160;extrusion&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+2020&#160;corner&#160;bracket&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+M5&#160;10mm&#160;/8mm&#160;&#160;<br/>
+8&#160;<br/>
+Depending&#160;on&#160;the&#160;2020&#160;<br/>corner&#160;bracket&#160;<br/>
+TronXY&#160;/&#160;machined&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+aluminum&#160;bed&#160;<br/>1100mm&#160;looped&#160;belt&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+Microswitch&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+M3&#160;6mm&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+Oldham&#160;coupler&#160;<br/>
+2&#160;<br/>
+Metal&#160;parts&#160;made&#160;by&#160;mellow&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+STL&#160;files:&#160;<br/>
+File&#160;name&#160;<br/>
+Amount&#160;to&#160;print&#160;<br/>
+Z&#160;lower&#160;rod&#160;mount&#160;main&#160;<br/>
+4&#160;<br/>
+Z&#160;lower&#160;rod&#160;mount&#160;clamp&#160;<br/>
+4&#160;<br/>
+&#160;<br/>11&#160;<br/>&#160;<br/>
+<hr/>
+<a name=12></a><img src="./images/-12_1.jpg"/><br/>
+<img src="./images/-12_2.jpg"/><br/>
+<img src="./images/-12_3.jpg"/><br/>
+&#160;<br/>
+Z&#160;upper&#160;rod&#160;mount&#160;main&#160;<br/>
+4&#160;<br/>
+Z&#160;upper&#160;rod&#160;mount&#160;clamp&#160;<br/>
+4&#160;<br/>
+Single&#160;z&#160;motor&#160;bracket&#160;upper&#160;<br/>
+1&#160;<br/>
+Single&#160;z&#160;motor&#160;bracket&#160;lower&#160;<br/>
+1&#160;<br/>
+Lead&#160;screw&#160;upper&#160;bracket&#160;<br/>
+2&#160;<br/>
+Lead&#160;screw&#160;lower&#160;bracket&#160;<br/>
+2&#160;<br/>
+Limit&#160;switch&#160;mount&#160;(found&#160;in&#160;electronic&#160;<br/>
+1&#160;<br/>
+section&#160;<br/>Z&#160;height&#160;adjustement&#160;screw&#160;mount&#160;<br/>
+1&#160;<br/>
+Z&#160;chain&#160;mount&#160;<br/>
+1&#160;<br/>
+Bearing&#160;mount&#160;<br/>
+4&#160;<br/>
+Lead&#160;screw&#160;support&#160;<br/>
+2&#160;<br/>
+Oldham&#160;coupler&#160;(all&#160;parts)&#160;<br/>
+2&#160;<br/>
+Bed&#160;M3&#160;support&#160;<br/>
+6&#160;<br/>
+Bed&#160;alignment&#160;tool&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;1:&#160;&#160;<br/>
+First&#160;assemble&#160;your&#160;bed&#160;assembly,&#160;make&#160;sure&#160;the&#160;bed&#160;frame&#160;is&#160;on&#160;a&#160;flat&#160;surface&#160;when&#160;<br/>assembling.&#160;It&#160;does&#160;take&#160;some&#160;time&#160;to&#160;get&#160;all&#160;of&#160;these&#160;aligned&#160;and&#160;square.&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>12&#160;<br/>&#160;<br/>
+<hr/>
+<a name=13></a><img src="./images/-13_1.jpg"/><br/>
+<img src="./images/-13_2.jpg"/><br/>
+<img src="./images/-13_3.jpg"/><br/>
+<img src="./images/-13_4.jpg"/><br/>
+&#160;<br/>
+Next&#160;you&#160;need&#160;to&#160;insert&#160;the&#160;linear&#160;bearings&#160;in&#160;their&#160;brackets&#160;and&#160;attach&#160;them&#160;to&#160;the&#160;bed&#160;<br/>frame.&#160;It&#160;is&#160;important&#160;that&#160;the&#160;brackets&#160;line&#160;up&#160;with&#160;the&#160;inside&#160;extrusion.&#160;&#160;&#160;<br/>
+&#160;<br/>
+Do&#160;not&#160;attach&#160;the&#160;printer&#160;bed&#160;to&#160;the&#160;frame&#160;yet!&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;2:&#160;<br/>
+Attach&#160;all&#160;rod&#160;holders&#160;finger&#160;tight&#160;(upper&#160;&amp;&#160;lower)&#160;to&#160;the&#160;frame,&#160;don’t&#160;worry&#160;about&#160;the&#160;<br/>position&#160;just&#160;yet.&#160;You&#160;want&#160;to&#160;be&#160;able&#160;to&#160;shift&#160;them&#160;around.&#160;Then&#160;insert&#160;the&#160;rods&#160;into&#160;the&#160;<br/>bearings&#160;and&#160;attach&#160;the&#160;bed&#160;frame&#160;with&#160;the&#160;rods&#160;to&#160;the&#160;respective&#160;rod&#160;holders.&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;3:&#160;<br/>
+&#160;<br/>13&#160;<br/>&#160;<br/>
+<hr/>
+<a name=14></a><img src="./images/-14_1.jpg"/><br/>
+<img src="./images/-14_2.jpg"/><br/>
+<img src="./images/-14_3.jpg"/><br/>
+&#160;<br/>
+With&#160;the&#160;assembly&#160;in&#160;place&#160;attach&#160;the&#160;two&#160;alignment&#160;tools&#160;like&#160;shown&#160;below&#160;one&#160;near&#160;the&#160;<br/>bottom,&#160;the&#160;other&#160;near&#160;the&#160;top&#160;and&#160;tighten&#160;the&#160;clamps&#160;of&#160;the&#160;rod&#160;brackets&#160;in&#160;one&#160;of&#160;the&#160;<br/>front&#160;corners.&#160;Repeat&#160;for&#160;the&#160;other&#160;side.&#160;<br/>
+&#160;<br/>
+Step&#160;4:&#160;<br/>
+Once&#160;you&#160;aligned&#160;the&#160;front&#160;corners&#160;you&#160;are&#160;going&#160;to&#160;put&#160;the&#160;bed&#160;in&#160;the&#160;lowest&#160;position&#160;and&#160;<br/>wiggle&#160;the&#160;bed&#160;around.&#160;Try&#160;to&#160;get&#160;the&#160;rod&#160;pretty&#160;nice&#160;and&#160;vertical&#160;to&#160;the&#160;frame&#160;and&#160;tighten&#160;<br/>the&#160;rear&#160;bottom&#160;rod&#160;holders&#160;and&#160;tighten&#160;them&#160;to&#160;the&#160;frame.&#160;&#160;<br/>
+Step&#160;5:&#160;<br/>
+Now&#160;put&#160;the&#160;bed&#160;in&#160;the&#160;highest&#160;position&#160;and&#160;tighten&#160;the&#160;clamps&#160;for&#160;the&#160;upper&#160;rods&#160;and&#160;<br/>tighten&#160;the&#160;brackets&#160;to&#160;the&#160;frame.&#160;To&#160;keep&#160;the&#160;bed&#160;up&#160;you&#160;can&#160;use&#160;zip&#160;ties&#160;or&#160;ask&#160;someone&#160;<br/>to&#160;help.&#160;<br/>
+Step&#160;6:&#160;&#160;<br/>
+Insert&#160;the&#160;bearings&#160;in&#160;the&#160;leadscrew&#160;brackets&#160;(press&#160;fit)&#160;and&#160;attach&#160;the&#160;brackets&#160;like&#160;shown&#160;<br/>below.&#160;Don’t&#160;forget&#160;to&#160;put&#160;the&#160;belt&#160;around&#160;the&#160;pulley&#160;before&#160;assembling&#160;the&#160;top&#160;part&#160;of&#160;the&#160;<br/>bracket.&#160;<br/>
+&#160;<br/>
+&#160;<br/>14&#160;<br/>&#160;<br/>
+<hr/>
+<a name=15></a><img src="./images/-15_1.jpg"/><br/>
+<img src="./images/-15_2.jpg"/><br/>
+<img src="./images/-15_3.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Then&#160;attach&#160;the&#160;leadscrew&#160;support&#160;with&#160;the&#160;oldham&#160;couplers&#160;and&#160;leadscrew&#160;nut&#160;to&#160;the&#160;bed&#160;<br/>frame&#160;and&#160;assemble&#160;the&#160;parts&#160;loosely.&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;7:&#160;&#160;<br/>
+To&#160;align&#160;the&#160;parts,&#160;measure&#160;the&#160;bracket&#160;is&#160;nicely&#160;in&#160;between&#160;the&#160;rod&#160;holders&#160;measure&#160;the&#160;<br/>distance&#160;and&#160;get&#160;it&#160;approximately&#160;centered.&#160;Turn&#160;the&#160;leadscrew&#160;a&#160;bit&#160;to&#160;help&#160;it&#160;self-align&#160;<br/>the&#160;upper&#160;leadscrew&#160;support&#160;on&#160;the&#160;bed&#160;and&#160;tighten&#160;the&#160;parts.&#160;The&#160;leadscrew&#160;should&#160;be&#160;<br/>nice&#160;and&#160;vertical.&#160;To&#160;check&#160;you&#160;can&#160;put&#160;the&#160;bed&#160;in&#160;the&#160;highest&#160;position&#160;and&#160;measure&#160;the&#160;<br/>distances&#160;between&#160;the&#160;leadscrew&#160;and&#160;z&#160;rod.&#160;The&#160;leadscrew&#160;should&#160;now&#160;be&#160;centered&#160;<br/>between&#160;both&#160;z&#160;rods.&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>15&#160;<br/>&#160;<br/>
+<hr/>
+<a name=16></a><img src="./images/-16_1.jpg"/><br/>
+<img src="./images/-16_2.jpg"/><br/>
+<img src="./images/-16_3.jpg"/><br/>
+<img src="./images/-16_4.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;8:&#160;<br/>
+Attach&#160;the&#160;single&#160;motor&#160;mount&#160;like&#160;shown&#160;below&#160;&#160;<br/>
+&#160;<br/>
+The&#160;top&#160;M3&#160;screws&#160;are&#160;30mm&#160;and&#160;lock&#160;the&#160;sliding&#160;mechanism&#160;in&#160;place.&#160;They&#160;also&#160;serve&#160;as&#160;<br/>reinforcement&#160;of&#160;the&#160;mount.&#160;Also&#160;attach&#160;the&#160;motor&#160;pulley&#160;and&#160;belt&#160;on&#160;the&#160;motor.&#160;<br/>
+Step&#160;9:&#160;<br/>
+To&#160;synchronize&#160;the&#160;leadscrews,&#160;turn&#160;out&#160;the&#160;grub&#160;screws&#160;on&#160;the&#160;40t&#160;pulleys&#160;and&#160;get&#160;the&#160;bed&#160;<br/>in&#160;the&#160;top&#160;position.&#160;Then&#160;retighten&#160;the&#160;grubscrews&#160;<br/>
+&#160;<br/>
+Step&#160;10:&#160;&#160;<br/>
+Assemble&#160;the&#160;z&#160;switch&#160;and&#160;make&#160;sure&#160;when&#160;the&#160;bed&#160;rises&#160;the&#160;switch&#160;is&#160;triggered&#160;by&#160;the&#160;<br/>screw&#160;to&#160;avoid&#160;a&#160;bed&#160;crash&#160;at&#160;the&#160;first&#160;homing&#160;sequence.&#160;<br/>
+&#160;<br/>
+&#160;<br/>16&#160;<br/>&#160;<br/>
+<hr/>
+<a name=17></a><img src="./images/-17_1.jpg"/><br/>
+<img src="./images/-17_2.png"/><br/>
+<img src="./images/-17_3.jpg"/><br/>
+<img src="./images/-17_4.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;11:&#160;<br/>
+Install&#160;the&#160;bed&#160;M3&#160;supports,&#160;attach&#160;the&#160;bed&#160;with&#160;the&#160;countersunk&#160;M3’s&#160;and&#160;bed&#160;springs.&#160;If&#160;<br/>you&#160;are&#160;using&#160;a&#160;milled&#160;aluminum&#160;bed&#160;refer&#160;to&#160;the&#160;electronics/wiring&#160;section&#160;on&#160;how&#160;to&#160;<br/>properly&#160;assemble&#160;the&#160;silicone&#160;heater&#160;pad.&#160;<br/>
+&#160;<br/>
+Step&#160;12:&#160;<br/>
+Finally,&#160;you&#160;can&#160;add&#160;the&#160;drag&#160;chain&#160;mount&#160;to&#160;the&#160;back&#160;corner&#160;and&#160;your&#160;done!&#160;<br/>
+&#160;<br/>
+It&#160;should&#160;look&#160;something&#160;like&#160;this.&#160;<br/>
+&#160;<br/>
+&#160;<br/>17&#160;<br/>&#160;<br/>
+<hr/>
+<a name=18></a><img src="./images/-18_1.jpg"/><br/>
+<img src="./images/-18_2.jpg"/><br/>
+<img class="xflip" src="./images/-18_3.jpg"/><br/>
+&#160;<br/>
+3.&#160;Gantry&#160;<br/>
+Overview:&#160;<br/>&#160;<br/>
+&#160;<br/>
+The&#160;Gantry&#160;is&#160;configurable&#160;for&#160;an&#160;aluminum&#160;version&#160;and&#160;3d&#160;printed&#160;version.&#160;The&#160;only&#160;<br/>difference&#160;between&#160;the&#160;two&#160;configurations&#160;is&#160;the&#160;material.&#160;Construction&#160;stays&#160;the&#160;same&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+3.1&#160;Motor&#160;mounts&#160;+&#160;integrated&#160;hinges&#160;<br/>&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>18&#160;<br/>&#160;<br/>
+<hr/>
+<a name=19></a><img src="./images/-19_1.jpg"/><br/>
+<img class="yflip" src="./images/-19_2.jpg"/><br/>
+&#160;<br/>
+Bom:&#160;<br/>
+Material&#160;<br/>
+Quantity&#160;<br/>
+Notes&#160;<br/>
+Nema&#160;17&#160;motor&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+GT&#160;2&#160;20&#160;tooth&#160;pulley&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+M4&#160;Nut&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+M4&#160;nylon&#160;lock&#160;nut&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+M4&#160;x&#160;12&#160;mm&#160;washer&#160;(flat)&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+M4&#160;x&#160;10mm&#160;bolt&#160;<br/>
+16&#160;<br/>
+&#160;<br/>
+M4&#160;x&#160;25&#160;or&#160;30&#160;set&#160;screw&#160;<br/>
+2&#160;<br/>
+Bolt&#160;can&#160;be&#160;used&#160;<br/>
+M4&#160;8mm&#160;flat&#160;head&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+M4&#160;T&#160;nut&#160;<br/>
+14&#160;<br/>
+&#160;<br/>
+M3&#160;6mm&#160;flat&#160;head&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+M3&#160;35mm&#160;bolt&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+STL&#160;files:&#160;<br/>
+File&#160;name&#160;<br/>
+Amount&#160;to&#160;print&#160;<br/>
+Motor&#160;mount&#160;Top&#160;<br/>
+Left&#160;+&#160;Right&#160;<br/>
+Motor&#160;mount&#160;Middle&#160;<br/>
+Left&#160;+&#160;Right&#160;<br/>
+Motor&#160;mount&#160;Bottom&#160;<br/>
+Left&#160;+&#160;Right&#160;<br/>
+Tensioner&#160;knob&#160;<br/>
+2&#160;<br/>
+Knob&#160;Cap&#160;<br/>
+2&#160;<br/>
+Rear&#160;frame&#160;brace&#160;or&#160;brackets&#160;from&#160;<br/>
+Left&#160;+&#160;Right&#160;<br/>
+enclosure&#160;build&#160;<br/>
+&#160;<br/>&#160;<br/>19&#160;<br/>&#160;<br/>
+<hr/>
+<a name=20></a><img src="./images/-20_1.jpg"/><br/>
+<img src="./images/-20_2.jpg"/><br/>
+<img src="./images/-20_3.jpg"/><br/>
+&#160;<br/>
+Step&#160;1:&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+First&#160;attach&#160;the&#160;printed&#160;tensioner&#160;to&#160;the&#160;motor&#160;like&#160;shown&#160;above&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;2:&#160;<br/>
+&#160;<br/>
+Then&#160;attach&#160;the&#160;lower&#160;bracket&#160;of&#160;the&#160;motor&#160;mount&#160;to&#160;the&#160;frame.&#160;<br/>
+Step&#160;3:&#160;<br/>
+Insert&#160;the&#160;M4&#160;nut&#160;in&#160;the&#160;upper&#160;half&#160;of&#160;the&#160;motor&#160;mount&#160;and&#160;attach&#160;it&#160;on&#160;top&#160;of&#160;the&#160;lower&#160;<br/>mount&#160;and&#160;to&#160;the&#160;frame&#160;with&#160;M4&#160;T-nuts.&#160;Don’t&#160;forget&#160;to&#160;tighten&#160;the&#160;two&#160;halves&#160;to&#160;the&#160;<br/>frame&#160;by&#160;screwing&#160;down&#160;the&#160;40mm&#160;M4&#160;into&#160;the&#160;printed&#160;M4&#160;holder&#160;you&#160;inserted&#160;when&#160;<br/>assembling&#160;the&#160;frame.&#160;<br/>
+&#160;<br/>20&#160;<br/>&#160;<br/>
+<hr/>
+<a name=21></a><img src="./images/-21_1.jpg"/><br/>
+<img src="./images/-21_2.jpg"/><br/>
+<img src="./images/-21_3.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;4:&#160;<br/>
+&#160;<br/>
+Attach&#160;the&#160;lowest&#160;part&#160;of&#160;the&#160;tensioner&#160;and&#160;motor,&#160;screw&#160;down&#160;the&#160;M4&#160;in&#160;which&#160;the&#160;<br/>tensioner&#160;slides&#160;until&#160;it&#160;is&#160;snug,&#160;but&#160;the&#160;tensioner&#160;can&#160;still&#160;slide&#160;smoothly.&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>21&#160;<br/>&#160;<br/>
+<hr/>
+<a name=22></a><img src="./images/-22_1.jpg"/><br/>
+<img src="./images/-22_2.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;5:&#160;&#160;<br/>
+&#160;<br/>
+Finally&#160;attach&#160;the&#160;small&#160;side&#160;panel&#160;piece&#160;and&#160;attach&#160;the&#160;front&#160;brace/integrated&#160;hinge&#160;and&#160;<br/>tensioner&#160;knob.&#160;The&#160;hinge&#160;and&#160;door&#160;assembly&#160;can&#160;also&#160;be&#160;installed&#160;now&#160;but&#160;for&#160;ease&#160;of&#160;<br/>working&#160;it&#160;is&#160;best&#160;to&#160;leave&#160;it&#160;off&#160;for&#160;now.&#160;<br/>
+&#160;<br/>
+Step&#160;6:&#160;<br/>
+Repeat&#160;for&#160;the&#160;other&#160;side.&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>22&#160;<br/>&#160;<br/>
+<hr/>
+<a name=23></a><img src="./images/-23_1.jpg"/><br/>
+<img src="./images/-23_2.png"/><br/>
+<img src="./images/-23_3.jpg"/><br/>
+&#160;<br/>
+3.2A&#160;Front&#160;idlers&#160;<br/>&#160;<br/>
+&#160;<br/>
+Bom:&#160;<br/>
+Material&#160;<br/>
+Quantity&#160;<br/>
+Notes&#160;<br/>
+M4&#160;10mm&#160;bolts&#160;<br/>
+10&#160;<br/>
+&#160;<br/>
+M4&#160;t&#160;nuts&#160;<br/>
+10&#160;<br/>
+&#160;<br/>
+M3&#160;30mm&#160;bolt&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+M5&#160;30mm&#160;bolt&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+20&#160;tooth&#160;GT2&#160;pulley&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+STL&#160;files:&#160;<br/>
+File&#160;name&#160;<br/>
+Amount&#160;to&#160;print&#160;<br/>
+Front&#160;Idlers&#160;Mount&#160;Left&#160;BOTTOM&#160;<br/>
+1&#160;<br/>
+Front&#160;Idlers&#160;Mount&#160;Left&#160;TOP&#160;<br/>
+1&#160;<br/>
+Front&#160;Idlers&#160;Mount&#160;Right&#160;BOTTOM&#160;<br/>
+1&#160;<br/>
+Front&#160;Idlers&#160;Mount&#160;Right&#160;TOP&#160;<br/>
+1&#160;<br/>
+&#160;<br/>23&#160;<br/>&#160;<br/>
+<hr/>
+<a name=24></a><img src="./images/-24_1.jpg"/><br/>
+<img src="./images/-24_2.jpg"/><br/>
+&#160;<br/>
+3.3&#160;Printhead&#160;(printed)&#160;<br/>
+&#160;&#160;<br/>
+&#160;<br/>
+The&#160;VzBoT&#160;printhead&#160;is&#160;based&#160;of&#160;EVA.&#160;The&#160;main&#160;difference&#160;is&#160;that&#160;both&#160;VZ235&#160;and&#160;VZ330&#160;<br/>utilize&#160;tensioners&#160;on&#160;the&#160;motor&#160;mounts,&#160;making&#160;the&#160;tensioner&#160;on&#160;the&#160;back&#160;of&#160;the&#160;printhead&#160;<br/>obsolete.&#160;As&#160;such&#160;the&#160;VzBoT&#160;EVA&#160;uses&#160;different&#160;front&#160;and&#160;back&#160;faces&#160;to&#160;keep&#160;weight&#160;low.&#160;<br/>Still&#160;the&#160;printhead&#160;can&#160;be&#160;used&#160;with&#160;the&#160;original&#160;EVA&#160;configurations&#160;for&#160;the&#160;extruder,&#160;fan&#160;<br/>duct&#160;and&#160;hotend&#160;options&#160;from&#160;EVA&#160;2.3&#160;and&#160;2.4&#160;to&#160;support&#160;all&#160;popular&#160;configurations.&#160;EVA&#160;is&#160;<br/>by&#160;default&#160;used&#160;with&#160;mgn12&#160;rails,&#160;VzBoT&#160;is&#160;by&#160;default&#160;mgn9&#160;so&#160;make&#160;sure&#160;you&#160;use&#160;a&#160;top&#160;<br/>part&#160;that&#160;also&#160;suits&#160;the&#160;mgn9&#160;block.&#160;<br/>
+Beware!&#160;VZ235&#160;and&#160;VZ330&#160;have&#160;a&#160;different&#160;belt&#160;path&#160;in&#160;regard&#160;to&#160;the&#160;printhead&#160;so&#160;the&#160;back&#160;<br/>and&#160;front&#160;plate&#160;for&#160;the&#160;printhead&#160;are&#160;not&#160;the&#160;same,&#160;use&#160;the&#160;one&#160;found&#160;in&#160;the&#160;VZ330&#160;<br/>repository.&#160;<br/>
+Also&#160;don’t&#160;forget&#160;to&#160;check&#160;the&#160;community&#160;mods&#160;section&#160;on&#160;GitHub&#160;and&#160;Discord&#160;to&#160;find&#160;more&#160;<br/>hotend&#160;and&#160;extruder&#160;configurations!&#160;<br/>
+Links:<a href="https://main.eva-3d.page/">&#160;https://main.eva-3d.page/&#160;</a><br/>
+<a href="https://miragec79.github.io/HextrudORT/">https://miragec79.github.io/HextrudORT/&#160;</a><br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>24&#160;<br/>&#160;<br/>
+<hr/>
+<a name=25></a><img src="./images/-25_1.jpg"/><br/>
+<img src="./images/-25_2.jpg"/><br/>
+&#160;<br/>
+3.4&#160;Y-gantry&#160;rails,&#160;X-gantry&#160;and&#160;idlers&#160;<br/>&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Bom:&#160;<br/>
+Material&#160;<br/>
+Quantity&#160;<br/>
+Notes&#160;<br/>
+MGN12H&#160;400mm&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+MGN9H&#160;400mm&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+CF&#160;square&#160;tube/aluminum&#160;<br/>
+1&#160;<br/>
+2020&#160;extrusion&#160;will&#160;also&#160;fit&#160;<br/>
+tube&#160;<br/>
+but&#160;is&#160;not&#160;recommended&#160;<br/>
+due&#160;to&#160;its&#160;excessive&#160;weight&#160;<br/>
+GT2&#160;Smooth&#160;idler&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+GT2&#160;toothed&#160;idler&#160;&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+M3&#160;8mm&#160;<br/>
+20&#160;(or&#160;more&#160;depending&#160;on&#160;<br/>
+&#160;<br/>
+how&#160;much&#160;you&#160;use&#160;to&#160;secure&#160;<br/>the&#160;MGN12&#160;&amp;&#160;MGN9)&#160;<br/>
+M3&#160;T-nut&#160;<br/>
+12&#160;<br/>
+&#160;<br/>
+M3&#160;nut&#160;<br/>
+12&#160;<br/>
+&#160;<br/>
+M3&#160;10mm&#160;<br/>
+8&#160;<br/>
+&#160;<br/>
+M3&#160;30mm&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+M5&#160;30mm&#160;[titanium]&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+M5&#160;nut&#160;[self-locking]&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>25&#160;<br/>&#160;<br/>
+<hr/>
+<a name=26></a><img src="./images/-26_1.jpg"/><br/>
+<img src="./images/-26_2.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+STL&#160;files:&#160;<br/>
+File&#160;name&#160;<br/>
+Amount&#160;to&#160;print&#160;<br/>
+MGN12&#160;alignment&#160;tool&#160;<br/>
+4&#160;<br/>
+MGN9&#160;alignment&#160;tool&#160;<br/>
+4&#160;<br/>
+Y&#160;gantry&#160;printed&#160;bottom&#160;<br/>
+2&#160;<br/>
+Y&#160;gantry&#160;printed&#160;top&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>26&#160;<br/>&#160;<br/>
+<hr/>
+<a name=27></a><img src="./images/-27_1.jpg"/><br/>
+<img src="./images/-27_2.png"/><br/>
+<img src="./images/-27_3.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;1:&#160;&#160;<br/>
+Using&#160;the&#160;alignment&#160;tool,&#160;mount&#160;the&#160;MGN12&#160;to&#160;the&#160;frame&#160;like&#160;shown&#160;below:&#160;<br/>
+&#160;<br/>
+Use&#160;the&#160;8mm&#160;M3&#160;screws&#160;and&#160;T-nuts.&#160;You&#160;don’t&#160;need&#160;to&#160;fill&#160;all&#160;holes,&#160;but&#160;any&#160;other&#160;hole&#160;is&#160;<br/>fine.&#160;Make&#160;sure&#160;they&#160;are&#160;perfectly&#160;centered&#160;to&#160;the&#160;2020&#160;extrusion&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>27&#160;<br/>&#160;<br/>
+<hr/>
+<a name=28></a><img src="./images/-28_1.jpg"/><br/>
+<img src="./images/-28_2.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;2:&#160;&#160;<br/>
+Mount&#160;the&#160;lower&#160;half&#160;of&#160;the&#160;printed&#160;Y&#160;gantry&#160;pieces&#160;to&#160;their&#160;MGN12&#160;cart&#160;with&#160;the&#160;10mm&#160;M3&#160;<br/>screws.&#160;Make&#160;sure&#160;the&#160;y&#160;gantry&#160;piece&#160;is&#160;parallel&#160;to&#160;the&#160;linear&#160;rail&#160;on&#160;both&#160;sides,&#160;you&#160;can&#160;use&#160;<br/>a&#160;small&#160;spirit&#160;level&#160;to&#160;achieve&#160;this.&#160;<br/>
+&#160;&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;3:&#160;<br/>
+To&#160;drill&#160;the&#160;holes&#160;in&#160;your&#160;CF-tube&#160;you’ll&#160;need&#160;to&#160;measure&#160;out&#160;where&#160;all&#160;holes&#160;will&#160;need,&#160;to&#160;<br/>do&#160;this&#160;the&#160;following&#160;is&#160;recommended:&#160;put&#160;a&#160;piece&#160;of&#160;painter’s&#160;tape&#160;on&#160;the&#160;tube,&#160;put&#160;the&#160;<br/>MGN9&#160;on&#160;the&#160;tube&#160;with&#160;the&#160;alignment&#160;tools&#160;and&#160;have&#160;it&#160;centered.&#160;use&#160;a&#160;pencil&#160;to&#160;mark&#160;out&#160;<br/>all&#160;the&#160;holes&#160;you&#160;want&#160;to&#160;use.&#160;Put&#160;the&#160;CF-tube&#160;in&#160;your&#160;gantry&#160;and&#160;mark&#160;the&#160;holes&#160;for&#160;the&#160;<br/>tube&#160;to&#160;connect&#160;to&#160;the&#160;Y&#160;gantry,&#160;you&#160;will&#160;only&#160;need&#160;the&#160;30mm&#160;M3&#160;screws&#160;to&#160;secure&#160;the&#160;<br/>tube,&#160;the&#160;holes&#160;in&#160;the&#160;side&#160;are&#160;for&#160;2020&#160;extrusions.&#160;(&#160;Alternately&#160;you&#160;could&#160;just&#160;buy&#160;the&#160;<br/>mellow/F3d&#160;precut&#160;version).&#160;<br/>
+!warning!&#160;drilling&#160;and&#160;sawing&#160;carbon&#160;fiber&#160;is&#160;very&#160;hazardous,&#160;if&#160;you&#160;don’t&#160;buy&#160;the&#160;predrilled&#160;<br/>tube&#160;from&#160;mellow&#160;or&#160;the&#160;aluminum&#160;tube&#160;from&#160;F3D’s&#160;shop&#160;be&#160;careful.&#160;Wear&#160;protection&#160;and&#160;<br/>drill&#160;in&#160;wet&#160;surfaces!&#160;&#160;<br/>
+(Please&#160;note&#160;that&#160;CF&#160;tubes&#160;dimensions&#160;can&#160;vary&#160;a&#160;bit&#160;and&#160;are&#160;not&#160;always&#160;exactly&#160;at&#160;20mm.&#160;<br/>On&#160;the&#160;printed&#160;Y&#160;gantry,&#160;one&#160;may&#160;have&#160;to&#160;file&#160;down&#160;the&#160;printed&#160;parts&#160;a&#160;bit&#160;to&#160;fit&#160;the&#160;tube.&#160;<br/>If&#160;you&#160;use&#160;the&#160;aluminum&#160;Y&#160;gantry&#160;part,&#160;the&#160;spacing&#160;for&#160;the&#160;tube&#160;is&#160;21mm&#160;to&#160;allow&#160;room&#160;for&#160;<br/>different&#160;CF&#160;tube&#160;size.&#160;Depending&#160;on&#160;the&#160;dimensions&#160;of&#160;your&#160;CF&#160;tube,&#160;you&#160;will&#160;have&#160;to&#160;print&#160;<br/>spacers&#160;to&#160;compensate.&#160;Please&#160;refer&#160;to<a href="https://github.com/VzBoT3D/VzBoT-Vz330/tree/master/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry">&#160;https://github.com/VzBoT3D/VzBoT-<br/>Vz330/tree/master/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%<br/>20Gantry&#160;</a>)&#160;<br/>
+&#160;<br/>28&#160;<br/>&#160;<br/>
+<hr/>
+<a name=29></a><img src="./images/-29_1.jpg"/><br/>
+<img src="./images/-29_2.jpg"/><br/>
+<img src="./images/-29_3.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;4:&#160;<br/>
+Mount&#160;the&#160;rail&#160;on&#160;the&#160;CF-tube&#160;using&#160;the&#160;alignment&#160;tools&#160;and&#160;the&#160;8mm&#160;M3&#160;screws,&#160;use&#160;the&#160;<br/>M3&#160;insert&#160;piece&#160;to&#160;hold&#160;the&#160;M3&#160;nuts&#160;and&#160;remove&#160;this&#160;printed&#160;holder&#160;after&#160;mounting.&#160;<br/>
+&#160;<br/>
+Step&#160;5:&#160;<br/>
+Insert&#160;the&#160;endcaps&#160;in&#160;the&#160;CF-tube&#160;and&#160;put&#160;the&#160;tube&#160;in&#160;the&#160;Y&#160;gantry&#160;brackets,&#160;add&#160;the&#160;top&#160;<br/>part&#160;of&#160;the&#160;Y&#160;gantry&#160;and&#160;their&#160;corresponding&#160;hardware.&#160;Don’t&#160;forget&#160;to&#160;add&#160;the&#160;printed&#160;X&#160;<br/>end&#160;stop&#160;part&#160;on&#160;top&#160;of&#160;the&#160;left&#160;Y&#160;gantry.&#160;Keep&#160;all&#160;hardware&#160;on&#160;this&#160;point&#160;finger&#160;tight.&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;6:&#160;<br/>
+Insert&#160;the&#160;idlers&#160;and&#160;M5&#160;bolts&#160;and&#160;nuts&#160;to&#160;secure,&#160;again&#160;only&#160;finger&#160;tight&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>29&#160;<br/>&#160;<br/>
+<hr/>
+<a name=30></a><img src="./images/-30_1.jpg"/><br/>
+<img src="./images/-30_2.jpg"/><br/>
+&#160;<br/>
+Step&#160;7:&#160;<br/>
+Put&#160;the&#160;x&#160;gantry&#160;against&#160;the&#160;front&#160;idlers&#160;and&#160;tighten&#160;the&#160;Y&#160;gantry&#160;M3&#160;hardware&#160;that&#160;hold&#160;<br/>the&#160;CF-tube&#160;in&#160;place.&#160;Then&#160;tighten&#160;the&#160;M5&#160;hardware&#160;that&#160;hold&#160;the&#160;idlers,&#160;now&#160;your&#160;X&#160;gantry&#160;<br/>should&#160;be&#160;parallel&#160;to&#160;your&#160;rear&#160;extrusion.&#160;Measure&#160;with&#160;calipers&#160;to&#160;verify.&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+3.5&#160;Belt&#160;routing&#160;and&#160;tensioning&#160;&#160;<br/>&#160;<br/>
+Vz330&#160;belt&#160;routes:&#160;<br/>&#160;&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>&#160;<br/>
+&#160;<br/>30&#160;<br/>&#160;<br/>
+<hr/>
+<a name=31></a><img src="./images/-31_1.jpg"/><br/>
+<img src="./images/-31_2.png"/><br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+<b>Printhead&#160;belt&#160;routing:&#160;&#160;<br/></b>&#160;<br/>
+&#160;<br/>
+On&#160;the&#160;printhead’s&#160;front&#160;the&#160;belts&#160;are&#160;held&#160;in&#160;with&#160;printed&#160;clamps&#160;and&#160;M3&#160;hardware.&#160;On&#160;<br/>the&#160;backside&#160;you&#160;need&#160;to&#160;use&#160;either&#160;tie&#160;wraps&#160;or&#160;Vz&#160;Belt&#160;clips.&#160;(Unless&#160;you&#160;use&#160;EVA&#160;with&#160;<br/>tensioner&#160;on&#160;the&#160;back)&#160;<br/>
+&#160;<br/>
+&#160;<br/>31&#160;<br/>&#160;<br/>
+<hr/>
+<a name=32></a><img src="./images/-32_1.jpg"/><br/>
+<img src="./images/-32_2.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+For&#160;the&#160;aluminum&#160;VzBoT&#160;printhead&#160;as&#160;found&#160;o<a href="https://f3d-racing-fdm.myshopify.com/">n&#160;https://f3d-racing-fdm.myshopify.com/&#160;</a>it&#160;<br/>is&#160;the&#160;same&#160;process.&#160;Refer&#160;to&#160;this&#160;guid<a href="https://github.com/VzBoT3D/VzBoT-Vz330/tree/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-CF/MGN9%20version">e:&#160;https://github.com/VzBoT3D/VzBoT-<br/>Vz330/tree/master/Assemblies%20BOM%20and%20STL/PrintHeads/Vz-Print%20Head%20Alu-<br/>CF/MGN9%20version&#160;</a>&#160;&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Links:&#160;<br/>VEZ3D&#160;belt&#160;tensioning:<a href="https://www.youtube.com/watch?v=qNMXW6MUV5E&t=401s">&#160;https://www.youtube.com/watch?v=qNMXW6MUV5E&amp;t=401s&#160;</a><br/>
+VEZ3D&#160;belt&#160;routing:<a href="https://www.youtube.com/watch?v=Ibi27Toh-pg&t=2s">&#160;https://www.youtube.com/watch?v=Ibi27Toh-pg&amp;t=2s&#160;</a><br/>
+3.&#160;6&#160;Y&#160;end&#160;stop-switch&#160;mount&#160;<br/>&#160;<br/>
+&#160;<br/>32&#160;<br/>&#160;<br/>
+<hr/>
+<a name=33></a><img src="./images/-33_1.jpg"/><br/>
+<img src="./images/-33_2.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Bom:&#160;<br/>
+Material&#160;<br/>
+Quantity&#160;<br/>
+Notes&#160;<br/>
+Microswitch&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+M2&#160;10mm&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+M4&#160;8mm&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+M4&#160;T-nut&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+STL&#160;files:&#160;<br/>
+File&#160;name&#160;<br/>
+Amount&#160;to&#160;print&#160;<br/>
+Y&#160;switch&#160;mount&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>33&#160;<br/>&#160;<br/>
+<hr/>
+<a name=34></a><img src="./images/-34_1.jpg"/><br/>
+<img src="./images/-34_2.jpg"/><br/>
+&#160;<br/>
+4.&#160;&#160;Bottom&#160;and&#160;rear&#160;panels&#160;<br/>&#160;<br/>
+Overview:&#160;<br/>
+&#160;<br/>
+A&#160;full&#160;panel&#160;kit&#160;is&#160;available&#160;at&#160;F3D-racing’s&#160;shop.&#160;We&#160;recommend&#160;getting&#160;that&#160;over&#160;drilling&#160;<br/>the&#160;holes&#160;by&#160;hand&#160;because&#160;it&#160;is&#160;really&#160;difficult&#160;to&#160;get&#160;all&#160;holes&#160;in&#160;exactly&#160;the&#160;right&#160;position.&#160;<br/>If&#160;you&#160;want&#160;to&#160;drill&#160;the&#160;holes&#160;yourself,&#160;it&#160;is&#160;recommended&#160;to&#160;use&#160;the&#160;CAD&#160;as&#160;reference.&#160;&#160;<br/>
+Bom:&#160;<br/>
+Material&#160;<br/>
+Quantity&#160;<br/>
+Notes&#160;<br/>
+M4/M3&#160;6-8mm&#160;&#160;<br/>
+20*&#160;<br/>
+Depending&#160;on&#160;the&#160;number&#160;<br/>of&#160;screws&#160;you&#160;use&#160;to&#160;secure&#160;<br/>
+your&#160;panels.&#160;Optionally&#160;you&#160;<br/>use&#160;the&#160;included&#160;enclosure&#160;<br/>
+trim&#160;pieces&#160;which&#160;are&#160;<br/>meant&#160;to&#160;use&#160;M3&#160;hardware&#160;<br/>
+M4&#160;T-nuts&#160;<br/>
+24*&#160;<br/>
+*&#160;<br/>
+M4&#160;20mm&#160;<br/>
+8&#160;<br/>
+&#160;<br/>
+M5/M6&#160;25mm&#160;<br/>
+4&#160;<br/>
+Depending&#160;on&#160;the&#160;extrusion&#160;<br/>
+type&#160;<br/>
+Rubber&#160;foot&#160;&#160;<br/>
+4&#160;<br/>
+As&#160;found&#160;on&#160;most&#160;printers&#160;<br/>
+like&#160;Tronxy&#160;X5SA&#160;or&#160;Creality&#160;<br/>Ender&#160;5(plus)&#160;<br/>
+Wood&#160;screws&#160;<br/>
+8&#160;<br/>
+Optional,&#160;to&#160;screw&#160;the&#160;<br/>printer&#160;down&#160;to&#160;a&#160;surface&#160;<br/>
+570x500x3&#160;mm&#160;aluminum&#160;<br/>
+1&#160;<br/>
+Optionally&#160;thickness,&#160;<br/>
+plate&#160;<br/>
+1.5mm&#160;also&#160;possible&#160;<br/>
+530x500x3&#160;mm&#160;aluminum&#160;<br/>
+1&#160;<br/>
+Optionally&#160;thickness,&#160;<br/>
+plate&#160;<br/>
+1.5mm&#160;also&#160;possible&#160;<br/>
+&#160;<br/>
+STL&#160;files:&#160;<br/>
+File&#160;name&#160;<br/>
+Amount&#160;to&#160;print&#160;<br/>
+VzBoT&#160;Foot&#160;<br/>
+4&#160;<br/>
+Foot&#160;scalable&#160;spacer&#160;(optional)&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>34&#160;<br/>&#160;<br/>
+<hr/>
+<a name=35></a><img src="./images/-35_1.jpg"/><br/>
+<img src="./images/-35_2.png"/><br/>
+&#160;<br/>
+Step&#160;1:&#160;&#160;<br/>
+Mount&#160;all&#160;hardware&#160;in&#160;the&#160;backpanel&#160;and&#160;put&#160;the&#160;panel&#160;on&#160;the&#160;frame.&#160;It&#160;is&#160;easiest&#160;to&#160;start&#160;<br/>tightening&#160;starting&#160;in&#160;the&#160;middle&#160;of&#160;each&#160;side&#160;and&#160;work&#160;your&#160;way&#160;outwards&#160;to&#160;prevent&#160;the&#160;<br/>panel&#160;from&#160;bulging.&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>35&#160;<br/>&#160;<br/>
+<hr/>
+<a name=36></a><img src="./images/-36_1.jpg"/><br/>
+<img src="./images/-36_2.jpg"/><br/>
+<img src="./images/-36_3.png"/><br/>
+&#160;<br/>
+Step&#160;2:&#160;&#160;<br/>
+Insert&#160;all&#160;hardware&#160;in&#160;the&#160;printed&#160;feet&#160;and&#160;mount&#160;the&#160;rubber&#160;feet&#160;inside.&#160;When&#160;scaling&#160;the&#160;<br/>printed&#160;spacer&#160;make&#160;sure&#160;to&#160;get&#160;it&#160;to&#160;the&#160;height&#160;your&#160;rubber&#160;feet&#160;sticks&#160;out&#160;about&#160;1-2mm&#160;<br/>out&#160;of&#160;the&#160;printed&#160;feet.&#160;Wood&#160;screws&#160;are&#160;optional&#160;<br/>
+&#160;<br/>
+Step&#160;3:&#160;&#160;<br/>
+Mount&#160;the&#160;feet&#160;and&#160;all&#160;hardware&#160;to&#160;the&#160;bottom&#160;panel.&#160;Next&#160;up&#160;mount&#160;the&#160;bottom&#160;panel&#160;to&#160;<br/>the&#160;frame.&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>36&#160;<br/>&#160;<br/>
+<hr/>
+<a name=37></a><img src="./images/-37_1.jpg"/><br/>
+<img src="./images/-37_2.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+5.&#160;fume&#160;extractor&#160;<br/>&#160;<br/>
+Overview:&#160;<br/>&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+The&#160;VzBot&#160;fume&#160;extractor&#160;is&#160;an&#160;optional&#160;piece&#160;of&#160;hardware&#160;but&#160;highly&#160;recommended!&#160;This&#160;<br/>device&#160;gets&#160;rid&#160;of&#160;VOC’s&#160;(volatile&#160;organic&#160;compounds)&#160;and&#160;nasty&#160;smells&#160;that&#160;come&#160;from&#160;<br/>printing&#160;ABS&#160;filament.&#160;&#160;<br/>
+Bom:&#160;&#160;<br/>
+Material&#160;<br/>
+Quantity&#160;<br/>
+Notes&#160;<br/>
+M4&#160;50mm&#160;(button&#160;head)&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+M3&#160;25mm&#160;(button&#160;head)&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+M4&#160;nut&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+M3&#160;nut&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+120x120x38mm&#160;fan&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+HEPA&#160;filter&#160;(self-cut)&#160;<br/>
+1&#160;<br/>
+Available&#160;for&#160;kitchen&#160;<br/>
+applications&#160;<br/>
+Activated&#160;carbon&#160;filter&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+(self-cut)&#160;<br/>
+&#160;<br/>37&#160;<br/>&#160;<br/>
+<hr/>
+<a name=38></a><img src="./images/-38_1.jpg"/><br/>
+<img src="./images/-38_2.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+STL&#160;files:&#160;<br/>
+File&#160;name&#160;<br/>
+Amount&#160;to&#160;print&#160;<br/>
+TPU&#160;grommet&#160;[optional]&#160;<br/>
+1&#160;<br/>
+Fan&#160;guard&#160;<br/>
+1&#160;<br/>
+Fan&#160;guard&#160;insert&#160;<br/>
+1&#160;<br/>
+Exhaust&#160;fan&#160;housing&#160;<br/>
+1&#160;<br/>
+HEPA&#160;holder&#160;<br/>
+1&#160;<br/>
+Exhaust&#160;cover&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>&#160;<br/>38&#160;<br/>&#160;<br/>
+<hr/>
+<a name=39></a><img src="./images/-39_1.jpg"/><br/>
+<img src="./images/-39_2.png"/><br/>
+<img src="./images/-39_3.jpg"/><br/>
+&#160;<br/>
+Step&#160;1:&#160;&#160;<br/>
+Start&#160;by&#160;inserting&#160;all&#160;the&#160;M4&#160;and&#160;M3&#160;nuts&#160;into&#160;the&#160;exhaust&#160;cover&#160;like&#160;shown&#160;below;&#160;<br/>
+&#160;<br/>
+Step&#160;2:&#160;<br/>
+Next&#160;put&#160;the&#160;fan&#160;in&#160;the&#160;exhaust&#160;fan&#160;housing,&#160;put&#160;the&#160;fan&#160;cover&#160;on&#160;the&#160;back&#160;panel&#160;and&#160;<br/>mount&#160;the&#160;exhaust&#160;housing,&#160;exhaust&#160;cover&#160;and&#160;fans&#160;with&#160;the&#160;M4&#160;hardware.&#160;<br/>
+&#160;<br/>
+Step&#160;3:&#160;<br/>
+Lastly&#160;Insert&#160;you&#160;HEPA&#160;filter&#160;and&#160;activated&#160;carbon&#160;filter&#160;in&#160;the&#160;HEPA_holder&#160;and&#160;screw&#160;onto&#160;<br/>the&#160;main&#160;fume&#160;extractor&#160;housing.&#160;The&#160;activated&#160;carbon&#160;filter&#160;&#160;<br/>
+&#160;<br/>39&#160;<br/>&#160;<br/>
+<hr/>
+<a name=40></a><img src="./images/-40_1.jpg"/><br/>
+<img src="./images/-40_2.jpg"/><br/>
+&#160;<br/>
+&#160;&#160;<br/>
+6.&#160;Electronics&#160;+&#160;wiring&#160;+&#160;firmware&#160;<br/>&#160;<br/>
+Overview:&#160;<br/>This&#160;is&#160;a&#160;general&#160;overview&#160;of&#160;the&#160;parts&#160;recommended&#160;for&#160;a&#160;VzBoT&#160;build.&#160;Everyone&#160;is&#160;free&#160;to&#160;<br/>use&#160;their&#160;own&#160;choice&#160;of&#160;parts.&#160;STL-files&#160;for&#160;other&#160;screens&#160;etc&#160;are&#160;not&#160;natively&#160;provided&#160;and&#160;<br/>may&#160;be&#160;found&#160;in&#160;the&#160;community&#160;mod&#160;section&#160;on&#160;GitHub&#160;and&#160;Discord.&#160;&#160;<br/>
+We&#160;trust&#160;everyone&#160;to&#160;use&#160;their&#160;own&#160;best&#160;judgement&#160;when&#160;wiring&#160;their&#160;printer,&#160;we&#160;do&#160;not&#160;<br/>recommend&#160;to&#160;do&#160;this&#160;without&#160;professional&#160;help&#160;if&#160;you&#160;are&#160;inexperienced&#160;in&#160;electronics.&#160;<br/>
+&#160;<br/>
+Bom:&#160;<br/>
+Material&#160;<br/>
+Quantity&#160;<br/>
+Notes&#160;<br/>
+LED&#160;strip&#160;310mm&#160;<br/>
+3&#160;<br/>
+&#160;<br/>
+mainboard&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+BTT&#160;Pi&#160;TFT50&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+PSU&#160;24V&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+PSU&#160;48V&#160;<br/>
+1&#160;<br/>
+Optional&#160;<br/>
+Wires&#160;&#160;<br/>
+N.A.&#160;<br/>
+Choose&#160;a&#160;correct&#160;wire&#160;gauge&#160;<br/>
+according&#160;to&#160;the&#160;current&#160;&#160;<br/>
+C14&#160;power&#160;switch&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+Power&#160;chord&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+STL&#160;files:&#160;<br/>
+File&#160;name&#160;<br/>
+Amount&#160;to&#160;print&#160;<br/>
+LED&#160;strip&#160;bracket&#160;[print&#160;in&#160;vase&#160;mode]&#160;<br/>
+3&#160;&#160;<br/>
+Power&#160;switch&#160;bracket&#160;<br/>
+1&#160;<br/>
+Front&#160;screen&#160;cover&#160;<br/>
+1&#160;<br/>
+Rear&#160;screen&#160;cover&#160;<br/>
+1&#160;<br/>
+Screen&#160;mount&#160;<br/>
+1&#160;<br/>
+Door&#160;stopper&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>40&#160;<br/>&#160;<br/>
+<hr/>
+<a name=41></a><img src="./images/-41_1.jpg"/><br/>
+<img src="./images/-41_2.png"/><br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+7.&#160;Side&#160;panels&#160;+&#160;RSCS&#160;<br/>&#160;<br/>
+Overview:&#160;<br/>
+&#160;<br/>
+RSCS&#160;short&#160;for&#160;remote&#160;static&#160;cooling&#160;is&#160;an&#160;optional&#160;extra&#160;pair&#160;of&#160;cooling&#160;fans&#160;which&#160;help&#160;<br/>cool&#160;the&#160;entire&#160;print&#160;when&#160;doing&#160;unicorn&#160;speeds!&#160;RSCS&#160;is&#160;mounted&#160;to&#160;the&#160;acrylic&#160;panels&#160;and&#160;<br/>this&#160;version&#160;fits&#160;in&#160;very&#160;tight&#160;to&#160;the&#160;Z-assembly.&#160;To&#160;ensure&#160;its&#160;proper&#160;fitment&#160;it&#160;is&#160;<br/>recommended&#160;to&#160;check&#160;the&#160;CAD&#160;for&#160;accurate&#160;measurements&#160;on&#160;the&#160;hole&#160;positions.&#160;&#160;<br/>
+Bom:&#160;<br/>
+Material&#160;<br/>
+Quantity&#160;<br/>
+Notes&#160;<br/>
+120mm&#160;radial&#160;fan&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+M3&#160;8mm&#160;<br/>
+12&#160;<br/>
+&#160;<br/>
+M4&#160;self&#160;tapping&#160;screw&#160;<br/>
+2&#160;<br/>
+Screw&#160;duct&#160;to&#160;fan&#160;(top&#160;<br/>screw)&#160;<br/>
+M5&#160;self&#160;tapping&#160;screw&#160;<br/>
+2&#160;<br/>
+Screw&#160;duct&#160;to&#160;fan&#160;(bottom&#160;<br/>screw)&#160;<br/>
+M4&#160;10mm&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+M3&#160;nut&#160;<br/>
+12&#160;<br/>
+&#160;<br/>
+&#160;<br/>41&#160;<br/>&#160;<br/>
+<hr/>
+<a name=42></a><img src="./images/-42_1.jpg"/><br/>
+<img src="./images/-42_2.png"/><br/>
+&#160;<br/>
+M4&#160;nut&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+STL&#160;files:&#160;&#160;<br/>
+File&#160;name&#160;<br/>
+Amount&#160;to&#160;print&#160;<br/>
+Top-duct&#160;<br/>
+2&#160;<br/>
+MiddleLow-duct&#160;<br/>
+2&#160;<br/>
+MiddleLow&#160;duct&#160;<br/>
+2&#160;<br/>
+LowerDuct&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;1:&#160;Use&#160;the&#160;M3&#160;hardware&#160;to&#160;put&#160;the&#160;RSCS&#160;together&#160;like&#160;shown&#160;below.&#160;If&#160;the&#160;assembly&#160;<br/>won’t&#160;fit&#160;through&#160;between&#160;the&#160;2&#160;Z-rods.&#160;Unscrew&#160;the&#160;top&#160;part&#160;and&#160;put&#160;this&#160;on&#160;after&#160;<br/>assembly.&#160;Screw&#160;duct&#160;to&#160;120mm&#160;fan&#160;using&#160;self&#160;tapping&#160;screws&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;2:&#160;&#160;<br/>&#160;<br/>42&#160;<br/>&#160;<br/>
+<hr/>
+<a name=43></a><img src="./images/-43_1.jpg"/><br/>
+<img src="./images/-43_2.jpg"/><br/>
+<img src="./images/-43_3.png"/><br/>
+&#160;<br/>
+Mount&#160;the&#160;RSCS&#160;to&#160;the&#160;panel.&#160;When&#160;drilling&#160;the&#160;holes&#160;make&#160;sure&#160;the&#160;duct&#160;is&#160;approximately&#160;<br/>3-4&#160;mm&#160;above&#160;the&#160;bed&#160;when&#160;the&#160;Z&#160;is&#160;fully&#160;homed.&#160;&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>43&#160;<br/>&#160;<br/>
+<hr/>
+<a name=44></a><img src="./images/-44_1.jpg"/><br/>
+<img src="./images/-44_2.png"/><br/>
+&#160;<br/>
+Step&#160;3:&#160;&#160;&#160;<br/>
+Insert&#160;the&#160;M3&#160;hardware&#160;in&#160;the&#160;side&#160;and&#160;front&#160;(narrow)&#160;panel&#160;using&#160;the&#160;available&#160;trim&#160;pieces&#160;<br/>like&#160;shown&#160;below.&#160;When&#160;everything&#160;lines&#160;up&#160;screw&#160;everything&#160;down&#160;starting&#160;with&#160;the&#160;bolts&#160;<br/>in&#160;the&#160;middle&#160;outward.&#160;Using&#160;spring&#160;loaded&#160;tnuts&#160;is&#160;highly&#160;recommended,&#160;so&#160;they&#160;stay&#160;in&#160;<br/>place&#160;and&#160;will&#160;not&#160;fall&#160;when&#160;assembling&#160;them.<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>44&#160;<br/>&#160;<br/>
+<hr/>
+<a name=45></a><img src="./images/-45_1.jpg"/><br/>
+<img src="./images/-45_2.jpg"/><br/>
+&#160;<br/>
+8.&#160;top&#160;cover&#160;and&#160;doors&#160;panels&#160;<br/>&#160;<br/>
+Overview:&#160;<br/>&#160;<br/>
+8.1&#160;top&#160;cover&#160;&amp;&#160;latches&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Bom:&#160;<br/>
+Material&#160;<br/>
+Quantity&#160;<br/>
+Notes&#160;<br/>
+5mm&#160;X&#160;50mm&#160;shaft&#160;<br/>
+2&#160;<br/>
+&#160;<br/>
+M4&#160;14mm&#160;or&#160;15mm&#160;&#160;<br/>
+8&#160;<br/>
+&#160;<br/>
+M4&#160;12mm&#160;<br/>
+2&#160;<br/>
+The&#160;2&#160;top&#160;ones&#160;<br/>
+M4&#160;T-nut&#160;<br/>
+10&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>45&#160;<br/>&#160;<br/>
+<hr/>
+<a name=46></a><img src="./images/-46_1.jpg"/><br/>
+<img src="./images/-46_2.jpg"/><br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>STL&#160;files:&#160;<br/>
+File&#160;name&#160;<br/>
+Amount&#160;to&#160;print&#160;<br/>
+Left&#160;top&#160;<br/>
+1&#160;<br/>
+Left&#160;middle&#160;<br/>
+1&#160;<br/>
+Left&#160;bottom&#160;<br/>
+1&#160;<br/>
+Right&#160;top&#160;<br/>
+1&#160;<br/>
+Right&#160;middle&#160;<br/>
+1&#160;<br/>
+Right&#160;bottom&#160;<br/>
+1&#160;<br/>
+&#160;<br/>
+Step&#160;1:&#160;<br/>
+Attach&#160;both&#160;top&#160;parts&#160;to&#160;the&#160;enclosure&#160;lid&#160;if&#160;using&#160;F3ds&#160;kit&#160;there&#160;should&#160;be&#160;pre-drilled&#160;<br/>holes.&#160;<br/>
+&#160;<br/>
+Step&#160;2:&#160;<br/>
+Attach&#160;bottom&#160;part&#160;loosely.&#160;<br/>
+&#160;<br/>
+Step&#160;3:&#160;<br/>
+Connect&#160;the&#160;middle&#160;part&#160;on&#160;both&#160;sides&#160;to&#160;your&#160;lid&#160;with&#160;the&#160;5mm&#160;shaft.&#160;<br/>
+&#160;<br/>
+Step&#160;4:&#160;<br/>
+Place&#160;the&#160;lid&#160;on&#160;top&#160;of&#160;your&#160;VzBoT&#160;and&#160;slot&#160;the&#160;middle&#160;pieces&#160;in&#160;to&#160;the&#160;bottom&#160;parts&#160;and&#160;<br/>finally&#160;tighten&#160;the&#160;bottom&#160;part.&#160;<br/>
+&#160;<br/>46&#160;<br/>&#160;<br/>
+<hr/>
+<a name=47></a><img src="./images/-47_1.jpg"/><br/>
+<img src="./images/-47_2.jpg"/><br/>
+&#160;<br/>
+8.2&#160;front&#160;doors&#160;hinges&#160;&#160;<br/>
+&#160;<br/>
+Bom:&#160;<br/>
+Material&#160;<br/>
+Quantity&#160;<br/>
+Notes&#160;<br/>
+M4&#160;50mm/4x50mm&#160;shaft&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+M4&#160;10mm&#160;<br/>
+16&#160;<br/>
+&#160;<br/>
+M4&#160;tnut&#160;<br/>
+16&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+STL&#160;files:&#160;<br/>
+File&#160;name&#160;<br/>
+Amount&#160;to&#160;print&#160;<br/>
+Front&#160;door&#160;hinge&#160;part1&#160;<br/>
+4&#160;<br/>
+Front&#160;door&#160;hinge&#160;part2&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>47&#160;<br/>&#160;<br/>
+<hr/>
+<a name=48></a><img src="./images/-48_1.jpg"/><br/>
+<img src="./images/-48_2.png"/><br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;1:&#160;&#160;<br/>
+Mount&#160;the&#160;hinges&#160;to&#160;their&#160;respective&#160;panel.&#160;&#160;<br/>
+&#160;<br/>
+Step&#160;2:&#160;<br/>
+Put&#160;the&#160;door&#160;panels&#160;in&#160;position&#160;and&#160;insert&#160;the&#160;40mm&#160;M4&#160;&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>48&#160;<br/>&#160;<br/>
+<hr/>
+<a name=49></a><img src="./images/-49_1.jpg"/><br/>
+<img src="./images/-49_2.jpg"/><br/>
+<img src="./images/-49_3.jpg"/><br/>
+&#160;<br/>
+8.3&#160;Front&#160;door&#160;latches&#160;<br/>&#160;<br/>
+IMPORTANT&#160;NOTE:&#160;Make&#160;sure&#160;to&#160;insert&#160;the&#160;frame&#160;piece&#160;before&#160;putting&#160;the&#160;side&#160;panels&#160;on!&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Bom:&#160;<br/>
+Material&#160;<br/>
+Quantity&#160;<br/>
+Notes&#160;<br/>
+M3&#160;6mm&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+M3&#160;10mm&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+M3&#160;nut&#160;<br/>
+8&#160;<br/>
+&#160;<br/>
+2x5mm&#160;magnet&#160;<br/>
+8&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>49&#160;<br/>&#160;<br/>
+<hr/>
+<a name=50></a><img src="./images/-50_1.jpg"/><br/>
+<img src="./images/-50_2.jpg"/><br/>
+&#160;<br/>
+STL&#160;files:&#160;&#160;<br/>
+File&#160;name&#160;<br/>
+Amount&#160;to&#160;print&#160;<br/>
+Latch&#160;LD&#160;<br/>
+1&#160;<br/>
+Latch&#160;RD&#160;<br/>
+1&#160;<br/>
+Latch&#160;UL&#160;<br/>
+1&#160;<br/>
+Latch&#160;UR&#160;<br/>
+1&#160;<br/>
+Latch&#160;frame&#160;side&#160;<br/>
+4&#160;<br/>
+&#160;<br/>
+Step&#160;1:&#160;<br/>
+Insert&#160;the&#160;2x5mm&#160;magnet&#160;in&#160;the&#160;latches,&#160;they&#160;are&#160;press&#160;fit.&#160;If&#160;not&#160;tight&#160;use&#160;super&#160;glue&#160;to&#160;<br/>hold&#160;them&#160;in.&#160;<br/>
+&#160;<br/>
+Step&#160;2:&#160;<br/>
+Insert&#160;the&#160;M3&#160;nuts&#160;in&#160;the&#160;latches&#160;<br/>
+&#160;<br/>
+Step&#160;3:&#160;<br/>
+Screw&#160;the&#160;latches&#160;to&#160;the&#160;door&#160;panels&#160;using&#160;the&#160;M3&#160;buttonheads&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+Step&#160;4:&#160;<br/>
+Untighten&#160;the&#160;set&#160;screws&#160;in&#160;the&#160;frame&#160;side&#160;latches&#160;and&#160;line&#160;them&#160;up&#160;with&#160;the&#160;latches,&#160;then&#160;<br/>to&#160;lock&#160;them&#160;tighten&#160;the&#160;M3&#160;screw.&#160;<br/>
+&#160;&#160;<br/>
+&#160;<br/>
+<i>&#160;</i><br/>
+&#160;<br/>50&#160;<br/>&#160;<br/>
+<hr/>
+<a name=51></a><img src="./images/-51_1.jpg"/><br/>
+<img src="./images/-51_2.jpg"/><br/>
+<img src="./images/-51_3.png"/><br/>
+<img src="./images/-51_4.png"/><br/>
+<img src="./images/-51_5.png"/><br/>
+&#160;<br/>
+<i><b>Designed&#160;and&#160;developed&#160;by:&#160;</b></i><br/>
+<i>VzBoT&#160;Team&#160;</i><br/>
+<i>&#160;</i><br/>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<a href="https://discord.gg/qmMeD6Vt3W">&#160;https://discord.gg/qmMeD6Vt3W&#160;</a><br/>
+&#160;<br/>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<a href="https://www.facebook.com/groups/4098868770205560/">&#160;https://www.facebook.com/groups/4098868770205560/&#160;</a><br/>
+&#160;<br/>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<br/>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<a href="https://github.com/VzBoT3D">&#160;https://github.com/VzBoT3D&#160;</a><br/>
+&#160;&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>51&#160;<br/>&#160;<br/>
+<hr/>
+</body>
+</html>

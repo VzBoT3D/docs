@@ -12,7 +12,7 @@ permalink: /vz330_mellow/rscs
 
 ## Overview
 ![Overview](../assets/images/manual/vz330_mellow/rscs/overview.png)
-<br>
+<br/>
 
 RSCS short for remote static cooling is an optional extra pair of cooling fans which help cool the entire print when doing unicorn speeds! RSCS is mounted to the acrylic panels and this version fits in very tight to the Z-assembly.
 
@@ -42,7 +42,7 @@ RSCS short for remote static cooling is an optional extra pair of cooling fans w
 
 ### Step 1
 Use the M3 hardware to put the RSCS together like shown below. If the assembly won’t fit through between the 2 Z-rods. Unscrew the top part and put this on after assembly.
-<br>
+<br/>
 
 ![Step 1](../assets/images/manual/vz330_mellow/rscs/overview.png)
 
@@ -51,7 +51,7 @@ Mount the RSCS to the panel. When drilling the holes make sure the duct is appro
 
 ### Step 3
 Insert the M3 hardware in the side and front (narrow) panel using the available trim pieces like shown below. When everything lines up screw everything down starting with the bolts in the middle outward.
-<br>
+<br/>
 
 ![Step 3](../assets/images/manual/vz330_mellow/rscs/overview2.png)
 

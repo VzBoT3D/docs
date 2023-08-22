@@ -8,7 +8,7 @@ has_children: true
 permalink: /vz330_mellow/electronics
 ---
 
-<br>
+<br/>
 
 |:-|
 | ![Overview](../assets/images/manual/vz330_mellow/electronics/overview.png) |

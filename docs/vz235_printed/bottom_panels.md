@@ -12,7 +12,7 @@ permalink: /vz235_printed/panels_part1
 
 ## Overview
 ![Overview](../assets/images/manual/vz235_printed/panels_1/overview.png)
-<br>
+<br/>
 A full panel kit is available at F3D-racing’s shop. We recommend getting that over drilling the holes by hand because it is really difficult to get all holes in exactly the right position. If you want to drill the holes yourself, it is recommended to use the CAD as reference. For the AWD variant, the rear panel must have cutouts at the idler/ motor mount as shown above. These are to reach the motor pulley to be able to synchronize the motors!
 
 ## BOM
@@ -37,19 +37,19 @@ A full panel kit is available at F3D-racing’s shop. We recommend getting that 
 
 ### Step 1
 Mount all hardware in the backpanel and put the panel on the frame. It is easiest to start tightening starting in the middle of each side and work your way outwards to prevent the panel from bulging.
-<br>
+<br/>
 
 ![Step 1](../assets/images/manual/vz235_printed/panels_1/step_1.png)
 
 
 ### Step 2
 Insert all hardware in the printed feet and mount the rubber feet inside. When scaling the printed spacer make sure to get it to the height your rubber feet sticks out about 1-2mm out of the printed feet.
-<br>
+<br/>
 
 ![Step 2](../assets/images/manual/vz235_printed/panels_1/step_2.png)
 
 ### Step 3
 Mount the feet and all hardware to the bottom panel. Next up mount the bottom panel to the frame.
-<br>
+<br/>
 
 ![Step 3](../assets/images/manual/vz235_printed/panels_1/step_3.png)

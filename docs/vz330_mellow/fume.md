@@ -8,13 +8,13 @@ has_children: false
 permalink: /vz330_mellow/fume_extractor
 ---
 
-<br>
+<br/>
 
 |:-|
 | ![Overview](../assets/images/manual/vz330_mellow/fume/overview.png) |
 
-<br>
-<br>
+<br/>
+<br/>
 
 ## Parts
 
@@ -39,20 +39,20 @@ permalink: /vz330_mellow/fume_extractor
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Exhaust%20filter%20-%20Fume%20extractor/Exhaust%20filter%20housing/STLs/exhaust%20middle%20cover%2010mm%20Hepa%20filter.stl" target="_blank">HEPA holder 10mm</a> | 1 | Print if your HEPA is 10mm "strong" |
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Exhaust cover</a> | 1 |
 
-<br>
+<br/>
 
 ## Step 1
 
 ### Notes
 
 Start by inserting all the M4 and M3 nuts into the exhaust cover like shown below
-<br>
+<br/>
 
 ![Step 1](../assets/images/manual/vz330_mellow/fume/step1.png)
 
 ### Step 2
 Next put the two fans in the exhaust fan housing, put the fan cover on the back panel and mount the exhaust housing, exhaust cover and fans with the M4 hardware.
-<br>
+<br/>
 
 ![Step 2](../assets/images/manual/vz330_mellow/fume/step2.png)
 
