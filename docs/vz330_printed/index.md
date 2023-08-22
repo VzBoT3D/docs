@@ -26,6 +26,11 @@ For instructions on how to print the required printed parts, please see the gene
 
 When building the VzBoT 330, please refer to the order of assembly and the instructions that are aimed at your specific type of build. They differ slightly for the purpose of easing the assembly process.
 
+It is recommended to use the provided .step files while assembling. This manual only 
+covers the most critical parts of the build at this moment. For using the .step files as part 
+of the build we recommend the free version of Autodesk Fusion360, it is not hard to use 
+and look around in the files, so even people without prior experience can do this! 
+
 ### From scratch
 
 We recommend following this order of building the printer if building from scratch: 
@@ -51,3 +56,10 @@ These differ only slightly from the [From scratch instructions](#from-scratch)
 6. [Electronics, wiring and firmware](./electronics)
 7. [Side panels and RSCS](./rscs)
 8. [Top cover, doors and trims](./top_cover)
+
+
+## Disclaimer
+
+VzBoT is an open source passion project. This manual is not definitive, and we try to keep it up-to-date as often as possible. As errors are always possible, please use your personal judgement to keep yourself from doing things that could be ill-advised.
+
+If you have any questions, please join our Discord community.
