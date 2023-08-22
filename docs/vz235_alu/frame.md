@@ -74,11 +74,12 @@ Once you are done with one half repeat for the other half. Check the two halves 
 
 ### Step 2
 
-The bottom, top and upright extrusions in the front of the frame all have printed nut inserts inserted. 2 in the top for the door latches, 2 in the bottom for the lower latches and 1 in upright for the motor mounts to attach to. Insert the M4 nuts into the M4 inserts and push them in the uprights on the frame half. Next insert the 2x5mm magnets and the m3 nut into the frame part of the magnetic door latches and put 2 in the front lower and 2 in the front upper extrusion as shown in the picture before assembling the final part of the frame.
+Front Door latch magnetic inserts. (Please skip this step, if you prefer to use the locking latches found [here](https://github.com/VzBoT3D/VzBoT-Vz235/tree/main/Assemblies%20&%20STL/Enclosure/Front%20door%20latches/Locking%20latch)
+The bottom, top and upright extrusions in the front of the frame all have printed nut inserts inserted. 2 in the top for the door latches, 2 in the bottom for the lower latches  Next insert the 2x5mm magnets and the m3 nut into the frame part of the magnetic door latches and put 2 in the front lower and 2 in the front upper extrusion as shown in the picture before assembling the final part of the frame.
 <br>
 <br>
 
-![Frame inserts](../assets/images/manual/vz235_printed/frame/frame_inserts.png)
+![Frame inserts](../assets/images/manual/vz235_alu/frame/frame_inserts.png)
 <br>
 <br>
 
