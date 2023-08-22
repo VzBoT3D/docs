@@ -65,17 +65,17 @@ Lock the standoff in place using the 40mm M4 and the printed hammer nut (or a sp
 ![Step 3](../../assets/images/manual/vz235_alu/gantry/front_motors/step3.png)
 ### Step 4
 
-Attach the top plate using the 12mm M4 and T-nuts to the frame and screw in the 12mm M3 into the printed standoff.<br><br>
+Attach the top plate using the 2x12mm M4 and T-nuts to the frame and screw in the 2 x 12mm M3 into the printed standoff.<br><br>
 ![Step 4](../../assets/images/manual/vz235_alu/gantry/front_motors/step4.png)
 
 ### Step 5
 
-Insert the final standoffs and insert the 35mm M3, slide in the motor with its plate and tighten the M3 screws finger tight.<br><br>
+Insert the final standoffs and insert the 35mm M3, slide in the motor with its plate and tighten the M3 screws finger tight.(You might have to give the under M4 bolt + washer a bit more loose if you can't slide it in)<br><br>
 ![Step 5](../../assets/images/manual/vz235_alu/gantry/front_motors/step5.png)
 
 ### Step 6
 
-Screw in the M4 set screw into the bottom tensioner, the M4 nut should be pressed into the tensioning knob. The tensioner plate can be installed when the enclosure panels are on the printer.<br><br>
+Screw in the 30mm M4 set screw into the bottom tensioner. The tensioner plate and knob will be installed later when the enclosure panels are on the printer.<br><br>
 ![Step 6](../../assets/images/manual/vz235_alu/gantry/front_motors/step6.png)
 
 ### Step 7
