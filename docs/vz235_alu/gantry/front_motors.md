@@ -50,7 +50,7 @@ Insert the 4 M3 nuts and single M4 nut in the printed standoff motor anchor as s
 
 ### Step 2
 
-Attach the stepper motor to the bottom motor plate with 2 6mm M3 screws.<br><br>
+Attach the stepper motor to the bottom motor plate with 2 6mm M3 screws. And insert the Gt2 20t pulley loose on the motor shaft, and upside down for the left motor mount (as shown below), and normal upright for the right side. You will tight the pulley set screws later.<br><br>
 ![Step 2](../../assets/images/manual/vz235_alu/gantry/front_motors/step2.png)
 
 ### Step 3
