@@ -52,5 +52,5 @@ All ratings are stored in our database. As soon as a provider accepts an order a
 
 If for any reason a provider should cancel an order after both parties have agreed on a deal, the cancellation will also be stored in our database and marked in the rating of the supplier as a finishing rate. This is to protect buyers from providers which are not able to provide consistently.
 
-To get an overview of your average rating you can use: 
+To get an overview of your average rating you can use:  
 ```/ezvz preview```
