@@ -255,8 +255,8 @@ permalink: /vz330_mellow/gantry/printhead
 
 | Part | Location |
 |:-|:-|
-| M3 x ??mm (ultra low profile ) <br/> Quantity: 2 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
-| M3 x ??mm (ultra low profile ) <br/> Quantity: 4 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
+| M2.5 x 5mm (ultra low profile ) <br/> Quantity: 2 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
+| M3 x 6mm (ultra low profile ) <br/> Quantity: 4 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
 | PFTE Tube (22mm) <br/> Quantity: 1 | self source |
 | Goliath Hotend <br/> Quantity: 1 | **Layer**: 3 <br/> **Box**: VZ330 Box C |
 | Adapter plate <br/> Quantity: 1 | **Layer**: 3 <br/> **Box**: VZ330 Box C |
@@ -266,7 +266,7 @@ permalink: /vz330_mellow/gantry/printhead
 ### Instructions
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8_part1.png)  | &#8226; Attache the adapter plate to the goliath hotendend with the M3 x ?? mm screws. |
+| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8_part1.png)  | &#8226; Attache the adapter plate to the goliath hotendend with the M2.5 x 5mm ?? mm screws. |
 {: .instructiontable}
 
 |:-|:-|
