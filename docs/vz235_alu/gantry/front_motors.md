@@ -46,7 +46,7 @@ permalink: /vz235_alu/gantry/front_motors
 ### Step 1
 
 ![Step 1](../../assets/images/manual/vz235_alu/gantry/front_motors/step1.png)
-<br>Insert the 4 M3 nuts and single M4 nut in the printed standoff motor anchor as shown above.
+Insert the 4 M3 nuts and single M4 nut in the printed standoff motor anchor as shown above.<br><br>
 
 ### Step 2
 
@@ -55,13 +55,14 @@ Attach the stepper motor to the bottom motor plate with 2 6mm M3 screws.<br><br>
 
 ### Step 3
 
-Screw the standoff in the middle plate using 2x10mm countersunk M3, and attach the plate to the frame using one 12mm M4 + M4 washer and a 8mm countersunk M4 plus 2 M4 T-nuts. (Leave the 12mm M4 bolts+washer loose for now. At this point only 8mm countersunk should be tighten). <br><br> 
-![Step 3](../../assets/images/manual/vz235_alu/gantry/front_motors/step3.png)
+Screw the standoff in the middle plate using 2x10mm countersunk M3, and attach the plate to the frame using one 12mm button head M4 + M4 washer and a 8mm countersunk M4 plus 2 M4 T-nuts. (Leave the 12mm M4 bolts+washer loose for now. At this point only 8mm countersunk should be tighten). <br><br> 
+
 ![Step 3.1](../../assets/images/manual/vz235_alu/gantry/front_motors/step3.1.png)
 
 Lock the standoff in place using the 40mm M4 and the printed hammer nut (or a spring loaded M4 T-nut) that is installed during frame assembly.<br><br>
 ![Step 3.2](../../assets/images/manual/vz235_alu/gantry/front_motors/step3.2.png)
 
+![Step 3](../../assets/images/manual/vz235_alu/gantry/front_motors/step3.png)
 ### Step 4
 
 Attach the top plate using the 12mm M4 and T-nuts to the frame and screw in the 12mm M3 into the printed standoff.<br><br>
