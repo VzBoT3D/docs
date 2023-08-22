@@ -8,6 +8,7 @@ nav_order: 5
 has_children: false
 permalink: /vz235_alu/gantry/y_gantry
 ---
+
 # 3.4 Y-gantry rails, X-gantry and idlers
 
 ## Overview
