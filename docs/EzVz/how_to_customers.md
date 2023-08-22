@@ -10,18 +10,18 @@ permalink: /ezvz/how_to_customers
 
 # Step by Step Tutorial - Customer
 
-Everything from this point is meant to be executed in the discord client.
+All the following steps should be performed in your Discord client.
 
-1. Head over to the EzVz-Info category and go into the #order channel. From the order-panel you can select which kits you would like to order.
+1. Head over to the EzVz-Info category and go into the #order channel. From the order-panel you can select which kit(s) you would like to order.
 
     ![OrderPanel](../assets/images//ezvz/ezvz_order_panel.png)
 
-2. After selecting the kits close the selection and a new menu will pop up.
+2. After selecting the kit(s) close the selection menu and a new one will pop up.
    Fill out the data as needed.
 
     ![OrderModal](../assets/images//ezvz/ezvz_order_modal.png)
 
-3. Head over to the newly created channel. And now its time to wait, until a provider accepts your order.
+3. Head over to the newly created channel. And now its time to wait until a provider accepts your order.
 
     ![OrderChannel](../assets/images//ezvz/ezvz_order_channel_link.png)
 
@@ -32,22 +32,22 @@ Everything from this point is meant to be executed in the discord client.
     You can ignore the accept button. This button is only for interested providers who want to accept this order and negotiate with you. With the cancel button you can cancel the order. All details will then be deleted.
 
 5. Now its waiting time. Wait until somebody accepts your order to get to the next step.
-6. As soon as somebody accept your order you will get the following message:
+6. As soon as somebody accepts your order you will get the following message:
 
     ![SupplierFound](../assets/images/ezvz/ezvz_order_supplier_found_new.png)
 
-    You can now discusss with the provider further details, such as shipping cost or special wishes. While in this state only you and the provider can see this order, its hidden from the rest of the server.
+    You can now discusss further details with the provider, such as shipping cost or special requests. While in this state only you and the provider can see this order, it's hidden from the rest of the server.
 
-7. When both of you agree on a deal, click the green apply button at the initial order info panel.
+7. When both of you agree on a deal, click the green Accept button under the initial order info panel.
 
     ![OrderDeal](../assets/images/ezvz/ezvz_order_panel_deal.png)
     ![DealAccepted](../assets/images/ezvz/ezvz_order_deal_accepted.png)
 
-8. As soon as both of you have accepted the deal the order will continue to the next step. If one of the parties should decline the deal, the order will go back into the initial state of looking for a provider. The provider is not able to type inside of the channel anymore. The order is visible again for the other providers. Accepting the order will remove the option for you to cancel the order. So be sure that you really want the parts before ordering them. At the order panel a new "Revoke" button will appear. You can ignore this button, it is only usable for the provider.
+8. When both you and the provider have accepted the deal, the order will continue to the next step. If either of you declines the deal, the order will go back into the initial state of looking for a provider. The previous provider will not be able to type in the channel any more. The order will become visible again for other providers. Accepting the order will remove the option for you to cancel it. So be sure that you really want the parts before ordering them. A new "Revoke" button will appear under the order panel. You can ignore this button, it is only usable by the provider.
 
     ![DealFound](../assets/images/ezvz/ezvz_deal_found.png)
 
-9. Now its time for the provider to print you wished parts. You have to wait until the provider ships the parts. When this happens you will be notified inside of the channel.
+9. The provider will now print the parts you requested. When the provider ships the parts, you will be notified in the channel.
 
     ![Shipped](../assets/images/ezvz/ezvz_order_shipped.png)
 
