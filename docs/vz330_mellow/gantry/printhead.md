@@ -268,7 +268,7 @@ permalink: /vz330_mellow/gantry/printhead
 ### NOTE: Before assembling the Goliath hotend to the printhead, make sure you have applied thermal paste between the heatbreak and the heatsink. Also make sure that all screws are tight and that heatbreak is tight on the heatblock. Please refer to this [article](https://github.com/VzBoT3D/Goliath/tree/main/Instructions)
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8_part1.png)  | &#8226; Attache the adapter plate to the goliath hotendend with the M2.5 x 5mm ?? mm screws. |
+| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8_part1.png)  | &#8226; Attache the adapter plate to the goliath hotendend with the M2.5 x 5mm 5 mm screws. |
 {: .instructiontable}
 
 |:-|:-|
