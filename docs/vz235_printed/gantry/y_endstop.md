@@ -13,7 +13,7 @@ permalink: /vz235_printed/gantry/y_endstop
 
 Mounting the Y-axis (mechanical) endstop switch
 
-![Y endstop location point-out](./assets/excerpt_endstop_y.jpg)
+![Y endstop location point-out](../../assets/images/manual/vz235_printed/gantry/excerpt_endstop_y.png)
 
 ## BOM
 
@@ -39,7 +39,7 @@ Mounting the Y-axis (mechanical) endstop switch
 1. Solder the Y-axis endstop wires to the Common and Normally Closed (NC) pins of the microswitch. Use heatshrink to insulate the contacts.  
     *Optionally, remove the middle (NO) contact's pin with flush cutters or sidecutters.*
 
-    ![Soldering the microswitch wires](./assets/endstop_y_wiring.png)
+    ![Soldering the microswitch wires](../../assets/images/manual/vz235_printed/gantry/endstop_y_wiring.png)
 
 2. Mount the D2F switch to the Y-axis endstop bracket using 2 `M2x10mm screws` as such that:
 
@@ -48,10 +48,10 @@ Mounting the Y-axis (mechanical) endstop switch
 
     Or as shown:
 
-    ![Mounting the microswitch to the Y-axis bracket](./assets/endstop_y_screws.png)
+    ![Mounting the microswitch to the Y-axis bracket](../../assets/images/manual/vz235_printed/gantry/endstop_y_screws.png)
 
 3. Mount the assembled Y-axis endstop to the rail using 1 `M4x8mm screw` and 1 `M4 T-nut`.
 
     The Y-axis endstop is mounted front-left, immediately behind the left-side motor mount.
 
-    ![Y endstop location](./assets/endstop_y_location.png)
+    ![Y endstop location](../../assets/images/manual/vz235_printed/gantry/endstop_y_location.png)
