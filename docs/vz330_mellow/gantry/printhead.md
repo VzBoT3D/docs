@@ -9,7 +9,13 @@ has_children: false
 permalink: /vz330_mellow/gantry/printhead
 ---
 
-<br/>
+# 4.3 Printhead
+
+In this section we'll assemble the Toolhead for the VzBot.
+
+{: .highlight }
+> &#8226; Use Loctite Purple 222/221 for the bolts in the toolhead.
+
 
 ![Overview](../../assets/images/manual/vz330_mellow/gantry/printhead/overview.png)
 
@@ -90,10 +96,10 @@ permalink: /vz330_mellow/gantry/printhead
 {: .warning }
 > Important
 >
-> The spacer need to be installed like shown in the picture, be careful otherwise the belt routing will not work.
+> The front arms need to be installed like shown in the picture, be careful otherwise the belt routing will not work.
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step2.png) | &#8226; Screw on the top plate to the carriage with the four M3 x 5mm screws <br/> &#8226; Install the back part from step 1 to the top plate with the two M3 x 6mm screws <br/> &#8226; Install the front spacers with two M3 x 6mm screws <br/> &#8226; Install the bottom plate to the assembly with four M3 x 6mm screws.
+| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step2.png) | &#8226; Screw on the top plate to the MGN carriage with the four M3 x 5mm screws <br/> &#8226; Install the back part from step 1 to the top plate with the two M3 x 6mm screws <br/> &#8226; Install the front spacers with two M3 x 6mm screws <br/> &#8226; Install the bottom plate to the assembly with four M3 x 6mm screws.
 {: .instructiontable}
 
 <br/>
