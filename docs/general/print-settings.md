@@ -23,7 +23,7 @@ Parts such as motor mounts, bed frame braces, etc.
 | Setting                    | Recommended value                                 |
 | -------------------------- | ------------------------------------------------- |
 | Layer height               | **0.2mm**                                         |
-| Layer width                | **0.4-0.6mm**                                     |
+| Line width                 | **0.4-0.6mm**                                     |
 | Outside perimiters (walls) | **4**                                             |
 | Top/bottom layers:         | **5**                                             |
 | Infill                     | **40-50%** cubic, triangular, gyroid or honeycomb |
@@ -35,7 +35,7 @@ Parts such as the carriage and X gantry joint, etc.
 | Setting                    | Recommended value                                 |
 | -------------------------- | ------------------------------------------------- |
 | Layer height               | **0.2mm**                                         |
-| Layer width                | **0.4-0.6mm**                                     |
+| Line width                 | **0.4-0.6mm**                                     |
 | Outside perimiters (walls) | **4**                                             |
 | Top/bottom layers:         | **5**                                             |
 | Infill                     | **30-40%** cubic, triangular, gyroid or honeycomb |
