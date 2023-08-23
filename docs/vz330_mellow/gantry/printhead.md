@@ -187,12 +187,12 @@ permalink: /vz330_mellow/gantry/printhead
 > Required
 >
 > &#8226; Box 6 - M3 x 10mm <br/>
-> &#8226; Box 6 - M3 x ??mm
+> &#8226; Box 6 - M3 x 30mm
 
 | Part | Location |
 |:-|:-|
 | M3 x 10mm <br/> Quantity: 2 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
-| M3 x ??mm <br/> Quantity: 2 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
+| M3 x 30mm <br/> Quantity: 2 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
 | M3 heat insert <br/> Quantity: 2 | self source |
 | Fanduct <br/> Quantity: 1 | [STL's](#stls) |
 | xx <br/> Quantity: 1 | [STL's](#stls) |
@@ -210,7 +210,7 @@ permalink: /vz330_mellow/gantry/printhead
 {: .instructiontable}
 
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step6_part2.png)  | &#8226; Use the printed spacers and the M3 x ??mm screws to secure and stabilize the duct to the printhead. |
+| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step6_part2.png)  | &#8226; Use the printed spacers and the M3 x 30mm screws to secure and stabilize the duct to the printhead. |
 {: .instructiontable}
 
 ## Step 7
@@ -246,8 +246,8 @@ permalink: /vz330_mellow/gantry/printhead
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M3 x ??mm <br/>
-> &#8226; Box 6 - M3 x ??mm <br/>
+> &#8226; Box 6 - M2.5 x 5mm <br/>
+> &#8226; Box 6 - M3 x 6mm <br/>
 > &#8226; Box C
 
 |:-|
@@ -265,8 +265,10 @@ permalink: /vz330_mellow/gantry/printhead
 
 ### Instructions
 
+### NOTE: Before assembling the Goliath hotend to the printhead, make sure you have applied thermal paste between the heatbreak and the heatsink. Also make sure that all screws are tight and that heatbreak is tight on the heatblock. Please refer to this [article](https://github.com/VzBoT3D/Goliath/tree/main/Instructions)
+
 |:-|:-|
-| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8_part1.png)  | &#8226; Attache the adapter plate to the goliath hotendend with the M2.5 x 5mm ?? mm screws. |
+| ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8_part1.png)  | &#8226; Attache the adapter plate to the goliath hotendend with the M2.5 x 5mm 5 mm screws. |
 {: .instructiontable}
 
 |:-|:-|
