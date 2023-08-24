@@ -9,7 +9,7 @@ has_children: false
 permalink: /vz330_mellow/gantry/printhead
 ---
 
-# 4.3 Printhead
+# 3.3 Printhead
 
 In this section we'll assemble the Toolhead for the VzBot.
 
