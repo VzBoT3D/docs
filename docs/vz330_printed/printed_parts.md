@@ -93,12 +93,12 @@ For more detailed print settings & printing information, please see [General - P
 
 | Name                           | Quantity | Weight |
 | ------------------------------ | -------- | ------ |
-| **Single Z-motor setup:**          |
+| **Single Z-motor setup:**      |
 | [Single Z-motor upper bracket] | 1        | ?      |
 | [Single Z-motor Lower bracket] | 1        | ?      |
 | [Z Lead screw lower bracket]   | 2        | ?      |
 | [Z Lead screw upper bracket]   | 2        | ?      |
-| **Dual Z-motor setup:**            |
+| **Dual Z-motor setup:**        |
 | [Dual Z-Motor mount]           | 2        | ?      |
 
 [Dual Z-Motor mount]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Dual%20Motor%20Mount/STLs/Dual%20Motor%20mount.stl
@@ -111,22 +111,22 @@ For more detailed print settings & printing information, please see [General - P
 
 | Name                           | Quantity | Weight |
 | ------------------------------ | -------- | ------ |
-| **8mm rod:**                       |
+| **8mm rod:**                   |
 | [Z upper Rod Mount-8mm]        | 4        | ?      |
 | [Z Lower rod mount-8mm]        | 4        | ?      |
 | [Z upper Rod Mount clamp-8mm]  | 4        | ?      |
 | [Z Lower rod mount clamp-8mm]  | 4        | ?      |
-| **10mm rod:**                      |
+| **10mm rod:**                  |
 | [Z upper Rod Mount-10mm]       | 4        | ?      |
 | [Z Lower rod mount-10mm]       | 4        | ?      |
 | [Z Lower rod mount clamp-10mm] | 4        | ?      |
 | [Z upper Rod Mount clamp-10mm] | 4        | ?      |
-| **12mm rod:**                      |
+| **12mm rod:**                  |
 | [Z upper Rod Mount-12mm]       | 4        | ?      |
 | [Z Lower rod mount-12mm]       | 4        | ?      |
 | [Z upper Rod Mount clamp-12mm] | 4        | ?      |
 | [Z Lower rod mount clamp-12mm] | 4        | ?      |
-| **Other:**                         |
+| **Other:**                     |
 | [Z-upper-Rod-Mount-8mm-525rod] | ?        |        |
 | [Z-Lower-rod-mount-8mm-525rod] | ?        | ?      |
 
