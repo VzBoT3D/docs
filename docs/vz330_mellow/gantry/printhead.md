@@ -23,7 +23,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 
 | Part | Location | Info |
 |:-|:-|:-|
-| M3 x 5mm <br/> Quantity: 4 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 | |
+| M3 x 6mm <br/> Quantity: 4 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 | |
 | TODO | |
 
 # STLs
