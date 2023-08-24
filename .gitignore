@@ -1,3 +1,9 @@
 _site/
+CNAME
+docs/CNAME
+
 .bundle/config
 vendor/bundle/
+
+.vscode/settings.json
+
