@@ -35,17 +35,13 @@ The frame is assembled through a combination of blind joints and corner brackets
 
 ### Printed parts
 
-| Part / file      | Quantity |
-| ---------------- | -------- |
-| [Brace][]        | 2        |
-| [Handle][]       | 2        |
-| [Cable holder][] | 1        |
+| Part / file    | Quantity |
+| -------------- | -------- |
+| [Frame_brace]  | 2        |
+| [Handle]       | 2        |
+| [Cable holder] | 1        |
 
 ![VzBot 330 Frame assembly overview](./images/vz330_frame-assembly.png)
-
-[Brace]:
-[Handle]:
-[Cable holder]:
 
 ## Step 1
 
@@ -80,8 +76,12 @@ Install the handles and the cable holder.
 
 Tighten all joints down and perform one final check of the frame squareness.
 
-Your printer's frame should now look something like this: 
+Your printer's frame should now look something like this:
 
 ![VzBot 330 Frame assembly overview](./images/vz330_frame-assembly.png)
 
-Congratulation! Your base frame is now assembled. This is the start of something truly impressive. The frame is the foundation of everything your printer will be made out of. It's therefor paramount this frame remains square and true. 
+Congratulation! Your base frame is now assembled. This is the start of something truly impressive. The frame is the foundation of everything your printer will be made out of. It's therefor paramount this frame remains square and true.
+
+[Cable holder]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/cable%20holder%20frame%20side.stl
+[Frame_brace]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/Frame_Brace.stl
+[Handle]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/handle.stl
