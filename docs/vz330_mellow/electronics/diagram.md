@@ -12,5 +12,5 @@ permalink: /vz330_mellow/electronics/diagram
 # 6.5 Wiring Diagram
 
 
-![Mainpage](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Wiring%20Diagram/VZBOT%20330%20WIRING%20DIAGRAM%20AWD%20WITH%20CPAP.png
+![Mainpage](https://raw.githubusercontent.com/VzBoT3D/VzBoT-Vz330/master/Wiring%20Diagram/VZBOT%20330%20WIRING%20DIAGRAM%20AWD%20WITH%20CPAP.png
 )
