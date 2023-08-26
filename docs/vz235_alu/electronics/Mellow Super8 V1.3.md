@@ -104,6 +104,12 @@ Here is the layout For the Mellow Vz235 kit. It's important to check if everythi
 Left is the 24V psu and to the right side is the 48V psu. This is because only the 5160's need 48V so we make the path to them the shortest by having the 48V PSU to the side of them.  
 ![Back Layout](../../assets/images/manual/vz235_printed/electronics/Stock_Electronics_Layout.PNG)
 
+## Wiring Diagram
+
+Here's a quick overview where everything will be plugged in and what we all need.
+
+![Wiring Diagram](https://raw.githubusercontent.com/VzBoT3D/VzBoT-Vz235/main/Wiring%20Diagram/FlY%20SUPER%208%20WIRING%20DIAGRAM%20AWD%20WITH%20CPAP.png)
+
 ## Plugging in the 5160's
 
 Now it's time to hookup the 5160's to the Motherboard.
