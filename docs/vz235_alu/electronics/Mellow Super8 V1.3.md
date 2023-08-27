@@ -89,7 +89,8 @@ Next up is to connect the cable between the adapter board and the External 5160.
 Next up we're gonna put the fan ports on the voltage we would like to run them on. You can choose 5V/12V/24V. Each plug has a voltage selection pin grid to the right of it.
 
 ![Empty Voltage ports](../../assets/images/manual/vz235_printed/electronics/DSC06353.JPG)
-The bridges are to be inserte Left to right. The Top row is 5V. Middle row is 12V and the Bottom row is 24V.
+{: .highlight }
+    Here's an example for all 3 Voltages you can pick. The Top row is 5V. Middle row is 12V and the Bottom row is 24V.
 
 ![Filled Voltage Ports](../../assets/images/manual/vz235_printed/electronics/DSC06357.JPG)
 
