@@ -124,7 +124,7 @@ Now we know how the board works a bit we can start setting it up on the machine.
 Here is the layout For the Mellow Vz235 kit. It's important to check if everything fits where you want before attaching it.
 
 Left is the 24V psu and to the right side is the 48V psu. This is because only the 5160's need 48V so we make the path to them the shortest by having the 48V PSU to the side of them.<br/>
-![Back Layout](../../assets\images\manual\vz330_mellow\electronics\Stock_Electronics_Layout_330.PNG)
+![Back Layout](https://user-images.githubusercontent.com/37383368/201693099-e00af1d6-d792-483d-8a11-d176b7b2b062.png)
 
 
 # Plugging in the 5160's
