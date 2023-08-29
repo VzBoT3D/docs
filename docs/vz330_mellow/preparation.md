@@ -14,7 +14,7 @@ permalink: /vz330_mellow/preparation
 
 ## Tools
 
-You will need the following tools to build up your VzBoT330 from a mellow kit:
+You will need the following tools to build up your VzBoT330 from a Mellow kit:
 
 * 1-4mm hex keys
 * A 5.5mm hex socket bit (or pliers to hold a nut in place
@@ -51,8 +51,8 @@ The following parts are included in the kit:
     - NEMA 17 Motor ( LDO )
     - GT2 20teeth idler
     - Stepper motor cable
-    - 4 x Linear Shaft 10mm ( 500 mm )
-    - 2 x Leadscrew 8mm + Nut ( 500 mm )
+    - 4 x Linear Shaft 10mm ( 500mm )
+    - 2 x Leadscrew 8mm + Nut ( 500mm )
     - 4 x Top Rod mounts
     - 4 x LMK10LUU
     - 2 x Upper bracket ( with preinstalled bearing )
@@ -91,26 +91,26 @@ The following parts are included in the kit:
 
 - **VZ330 Box 1**
     - USB Cable
-    - Mellow Super Fly Pro
+    - Mellow Fly Super 8 Pro
     - JST Crimps
     - Jumpers / Fuses / Connectors
 
 - **VZ330 Box 2**
-    - 2 x TMC2209
+    - 2 x TMC2209 stepper drivers
     - Endstop holder z / y
     - Z Chain holder
-    - 4 x Bed - springs
-    - Z Gate belt
+    - 4 x Bed springs
+    - Z Gates GT2 belt loop
     - 3 x Microswitches ( Endstops )
     - 2 x 40 teeth GT Idlers
-    - X/Y Gate belt
+    - X/Y Gates GT2 belt
     - SSR
-    - Main volatage cables ( pre crimped )
+    - Mains voltage cables ( pre-crimped )
     - 4x Rubber feet
 
 - **VZ330 Box 3**
-    - Main Inlet
-    - Power cord
+    - IEC 60320 C14 Mains Inlet
+    - IEC 60320 C13 Power cord
 
 - **VZ330 Box 4**
     - 2 x TMC5160HV
