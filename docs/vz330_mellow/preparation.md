@@ -214,5 +214,5 @@ The following parts are included in the kit:
 The STLs for the printed parts you need to build the kit are linked in the corresponding part of the build manual. <br/>
 They are shown as a build plate, you are able to click every object there and the corresponding <br/>
 You can also grab them as a zipped archive from the [Vz330 repository](https://github.com/VzBoT3D/VzBoT-Vz330/tree/master/Assemblies%20BOM%20and%20STL/Mellow%20kit-All%20STLs).<br/>
-For info on the optimal print settings for VzBot parts, check out the [Printed Parts](./vz330_printed/printed_parts) guide.<br/>
+For info on the optimal print settings for VzBot parts, check out the [Printed Parts](/vz330_printed/printed_parts) guide.<br/>
 STL should open. The actual number you need to print of the part is the same shown in the picture.
