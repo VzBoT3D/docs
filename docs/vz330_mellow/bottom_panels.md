@@ -26,7 +26,6 @@ permalink: /vz330_mellow/panels_part1
 | M4 20mm | 8 | - |
 | M4 25mm | 4 | - |
 | M4 t-nuts | 20*   | - |
-| M5/M6 25mm           | 4      | Depending on the extrusion type |
 | Wood screws | 8 | Optional, to screw the printer down to a surface |
 | 570x500x3mm aluminium | 1 | Optionally thickness, 1.5mm also possible |
 | 530x500x3mm aluminium | 1 | Optionally thickness, 1.5mm also possible |
