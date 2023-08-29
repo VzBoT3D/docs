@@ -28,6 +28,7 @@ Optionally you might want to have the following additional tools ready:
 
 * A drill with a 3mm metal drill bit (if you want to drill holes to mount the DIN rails for the electronics using screws)
 * An M4 tap (if you want to cut threads in those mounting holes)
+* A carpenter's square can come in really handy when squaring the printer frame
 * Haribo bears
 
 ## Content
