@@ -17,7 +17,7 @@ permalink: /vz330_mellow/preparation
 You will need the following tools to build up your VzBoT330 from a Mellow kit:
 
 * 1-4mm hex keys
-* A 5.5mm hex socket bit (or pliers to hold a nut in place
+* 5.5mm and 7mm hex socket bits (or pliers to hold a nut in place)
 * Crimping tools for JST connectors, ferrules and cable lugs
 * A soldering iron
 * 99% isopropyl alcohol for cleaning the linear rails
