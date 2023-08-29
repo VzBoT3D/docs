@@ -82,7 +82,7 @@ permalink: /vz330_mellow/panels_part1
 |:-|:-|
 | M4 sliding t-nut <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
 | M4 x 8mm <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
-| M5 x xx <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
+
 
 <br/>
 
