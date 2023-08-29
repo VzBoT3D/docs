@@ -63,7 +63,7 @@ permalink: /vz330_mellow/panels_part1
 | Part | Location |
 |:-|:-|
 | Rubber feet <br/> Quantity: 4 | - |
-| M5 x xx <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
+| M4 x 20mm <br/> Quantity: 12 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
 
 <br/>
 
