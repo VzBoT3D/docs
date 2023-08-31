@@ -89,7 +89,8 @@ Next up is to connect the cable between the adapter board and the External 5160.
 Next up we're gonna put the fan ports on the voltage we would like to run them on. You can choose 5V/12V/24V. Each plug has a voltage selection pin grid to the right of it.
 
 ![Empty Voltage ports](../../assets/images/manual/vz235_printed/electronics/DSC06353.JPG)
-The bridges are to be inserte Left to right. The Top row is 5V. Middle row is 12V and the Bottom row is 24V.
+{: .highlight }
+    Here's an example for all 3 Voltages you can pick. The Top row is 5V. Middle row is 12V and the Bottom row is 24V.
 
 ![Filled Voltage Ports](../../assets/images/manual/vz235_printed/electronics/DSC06357.JPG)
 
@@ -103,6 +104,12 @@ Here is the layout For the Mellow Vz235 kit. It's important to check if everythi
 
 Left is the 24V psu and to the right side is the 48V psu. This is because only the 5160's need 48V so we make the path to them the shortest by having the 48V PSU to the side of them.  
 ![Back Layout](../../assets/images/manual/vz235_printed/electronics/Stock_Electronics_Layout.PNG)
+
+## Wiring Diagram
+
+Here's a quick overview where everything will be plugged in and what we all need.
+
+![Wiring Diagram](https://raw.githubusercontent.com/VzBoT3D/VzBoT-Vz235/main/Wiring%20Diagram/FlY%20SUPER%208%20WIRING%20DIAGRAM%20AWD%20WITH%20CPAP.png)
 
 ## Plugging in the 5160's
 
@@ -272,4 +279,4 @@ To also be able to connect the Pi to the motherboard for Data we plugin a USB to
 
 Once everything is hooked up it might look something like this:
 
-![end result](../../assets/images/manual/vz235_printed/electronics/DSC06426.JPG)
+![end result](../../assets/images/manual/vz235_printed/electronics/VZ235_Overview.png)

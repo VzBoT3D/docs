@@ -1,15 +1,15 @@
 ---
 layout: default
-title: 4.3 Printhead
-parent: 4. Gantry
+title: 3.3 Printhead
+parent: 3. Gantry
 grand_parent: VzBoT330 - Mellow Kit
 has_toc: false
 nav_order: 4
 has_children: false
-permalink: /vz330_mellow/gantry/printhead
+permalink: /vz235_alu/gantry/printhead
 ---
 
-# 4.3 Printhead
+# 3.3 Printhead
 
 In this section we'll assemble the Toolhead for the VzBot.
 

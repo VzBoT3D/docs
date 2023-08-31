@@ -26,7 +26,6 @@ permalink: /vz330_mellow/panels_part1
 | M4 20mm | 8 | - |
 | M4 25mm | 4 | - |
 | M4 t-nuts | 20*   | - |
-| M5/M6 25mm           | 4      | Depending on the extrusion type |
 | Wood screws | 8 | Optional, to screw the printer down to a surface |
 | 570x500x3mm aluminium | 1 | Optionally thickness, 1.5mm also possible |
 | 530x500x3mm aluminium | 1 | Optionally thickness, 1.5mm also possible |
@@ -47,7 +46,7 @@ permalink: /vz330_mellow/panels_part1
 | Part | Location |
 |:-|:-|
 | M4 sliding t-nut <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
-| M4 x 10mm <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
+| M4 x 8mm <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
 
 ### Instructions
 
@@ -63,7 +62,7 @@ permalink: /vz330_mellow/panels_part1
 | Part | Location |
 |:-|:-|
 | Rubber feet <br/> Quantity: 4 | - |
-| M5 x xx <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
+| M4 x 20mm <br/> Quantity: 12 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
 
 <br/>
 
@@ -81,8 +80,8 @@ permalink: /vz330_mellow/panels_part1
 | Part | Location |
 |:-|:-|
 | M4 sliding t-nut <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
-| M4 x 10mm <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
-| M5 x xx <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
+| M4 x 8mm <br/> Quantity: x | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
+
 
 <br/>
 
