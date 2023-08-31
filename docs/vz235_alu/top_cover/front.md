@@ -30,11 +30,11 @@ permalink: /vz235_alu/top_cover/front
 
 | File name                                                              | Amount to print |
 | ---------------------------------------------------------------------- | --------------- |
-| [Latch LD][]                                                           | 1               |
-| [Latch RD][]                                                           | 1               |
-| [Latch UL][]                                                           | 1               |
-| [Latch UR][]                                                           | 1               |
-| [Latch frame side][] (not needed when done while assembling the frame) | 4               |
+| [Latch Top Left][]                                                     | 1               |
+| [Latch Top Right][]                                                    | 1               |
+| [Latch Bottom Left][]                                                  | 1               |
+| [Latch Bottom Right][]                                                 | 1               |
+| [Latch Mount][] (not needed when done while assembling the frame)      | 4               |
 
 ### Step 1
 
@@ -54,8 +54,8 @@ Screw the latches to the door panels using the M3 buttonheads
 
 Untighten the set screws in the frame side latches and line them up with the latches, then to lock them tighten the M3 screw.
 
-[Latch LD]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Latch RD]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Latch UL]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Latch UR]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Latch frame side]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
+[Latch Top Left]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Front%20door%20latches/Magnetic%20latch/Door%20latch%top%20left.stl
+[Latch Top Right]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Front%20door%20latches/Magnetic%20latch/Door%20latch%20top%20right.stl
+[Latch Bottom Left]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Front%20door%20latches/Magnetic%20latch/Door%20latch%20bottom%20left.stl
+[Latch Bottom Right]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Front%20door%20latches/Magnetic%20latch/Door%20latch%20bottom%20right.stl
+[Latch Mount]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Front%20door%20latches/Magnetic%20latch/Door%20latch%20mount.stl

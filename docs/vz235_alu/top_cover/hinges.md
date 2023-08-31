@@ -28,7 +28,7 @@ permalink: /vz235_alu/top_cover/hinges
 
 | File name            | Amount to print |
 | -------------------- | --------------- |
-| [Hinge door side][]  | 2               |
+| [Hinge door side][]  | 4               |
 | [Hinge frame side][] | 2               |
 
 ### Step 1
@@ -41,5 +41,5 @@ Put the door panels in position and insert the 40mm M4
 
 ![Doors](../../assets/images/manual/vz235_printed/top_cover/doors.png)
 
-[Hinge door side]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Hinge frame side]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
+[Hinge door side]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Hinges%20(lower)/hinges%20%5Blower%5D/door%20side.stl
+[Hinge frame side]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Hinges%20(lower)/hinges%20%5Blower%5D/hinge%20frame%20side.stl
