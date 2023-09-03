@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Print Settings
-parent: General Informations
+parent: Miscellaneous info
 has_toc: false
-nav_order: 0
+nav_order: 1
 has_children: false
-permalink: /general/print-settings
+permalink: /general/misc-info/print-settings
 ---
 
 # Print settings

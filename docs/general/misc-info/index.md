@@ -1,15 +1,13 @@
 ---
 layout: default
-title: General Informations
+title: Miscellaneous info
 has_toc: false
-nav_order: 3
+nav_order: 1
 has_children: true
-permalink: /general
+permalink: /general/misc-info
 ---
 
-# General Informations
-
-Here you can find basic informations around
+# General & Miscellaneous info
 
 * [Print Settings](./general/print-settings)
 * [Video tutorial](./general/video-tutorial)
