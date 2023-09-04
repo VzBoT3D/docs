@@ -18,7 +18,7 @@ frame can be scaled up or down to fit the individual builder's requirements.
 
 This build differs from the [Vz235 - Printed Version](../vz235_printed) just in the part that gantry and z-assembly is replaced by manufactured aluminium pieces.
 
-On how to print the files for this printer please refer to [print settings](../general/print-settings)
+On how to print the files for this printer please refer to [print settings](../general/misc-info/print-settings)
 
 We advice to build the printer in the following order:
 

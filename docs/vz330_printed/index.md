@@ -19,7 +19,7 @@ The original VzBoT 330 was based on the frame of a TronXY X5S(A) printer and has
 
 The printed parts for the VzBoT 330 can be found on the [VzBoT3D / VzBoT-Vz330](hhttps://github.com/VzBoT3D/VzBoT-Vz330/tree/master/Assemblies%20BOM%20and%20STL) GitHub repository. The original (CAD) model files for the VzBoT 330 can be found [here](https://github.com/VzBoT3D/VzBoT-Vz330/tree/master/CAD)
 
-For instructions on how to print the required printed parts, please see the general [print settings](../general/print-settings) guide.
+For instructions on how to print the required printed parts, please see the general [print settings](../general/misc-info/print-settings) guide.
 
 ## Building the printer
 

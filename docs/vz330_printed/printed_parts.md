@@ -22,7 +22,7 @@ The general printing settings recommended for VzBoT-330 parts are as follows:
 | Top/bottom layers:         | **5**                                             |
 | Infill                     | **40-50%** cubic, triangular, gyroid or honeycomb |
 
-For more detailed print settings & printing information, please see [General - Print settings](/general/print-settings.md)
+For more detailed print settings & printing information, please see [General - Print settings](/general/misc-info/print-settings.md)
 
 ## Parts
 
@@ -66,9 +66,7 @@ For more detailed print settings & printing information, please see [General - P
 | [X limit switch stopper] | 1        | 1g     |
 
 <!-- Gantry -->
-[Y gantry tube spacers]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/spacer_alu_Y_gantry_0.5mm.stl
-[CF tube ends]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/X%20Carbon%20fiber%20tube%20%2B%20rail/STLs/cf%20tube%20end.stl
-[X limit switch stopper]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/XendStop.stl
+
 
 ### Motor mounts
 
@@ -86,8 +84,7 @@ For more detailed print settings & printing information, please see [General - P
 | [Z stop switch mount]     | 1        | ?      |
 | [Z stop switch mount AWD] | 1        | ?      |
 
-[Z stop switch mount]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Stop%20switch%20mount/STLs/Z%20stop%20switch%20mount.stl
-[Z stop switch mount AWD]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Stop%20switch%20mount/STLs/Z%20stop%20switch%20mount%20AWD%20version.stl
+
 
 #### Z-motor Mount
 
@@ -101,11 +98,7 @@ For more detailed print settings & printing information, please see [General - P
 | **Dual Z-motor setup:**        |
 | [Dual Z-Motor mount]           | 2        | ?      |
 
-[Dual Z-Motor mount]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Dual%20Motor%20Mount/STLs/Dual%20Motor%20mount.stl
-[Single Z-motor upper bracket]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Single%20Motor%20Mount/STLs/Z%20motor%20upper%20bracket.stl
-[Single Z-motor Lower bracket]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Single%20Motor%20Mount/STLs/Z%20motor%20Lower%20bracket.stl
-[Z Lead screw lower bracket]:https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lead%20screw%20bracket%20-%20Single%20Motor/STLs/Z%20Lead%20screw%20lower%20bracket.stl
-[Z Lead screw upper bracket]:https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lead%20screw%20bracket%20-%20Single%20Motor/STLs/Z%20Lead%20screw%20upper%20bracket.stl
+
 
 #### Z Rod Mount
 
@@ -130,21 +123,9 @@ For more detailed print settings & printing information, please see [General - P
 | [Z-upper-Rod-Mount-8mm-525rod] | ?        |        |
 | [Z-Lower-rod-mount-8mm-525rod] | ?        | ?      |
 
-[Z upper Rod Mount clamp-10mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Upper%20Rod%20Mount/STLs/Z%20upper%20Rod%20Mount%20clamp-10mm.stl
-[Z upper Rod Mount clamp-12mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Upper%20Rod%20Mount/STLs/Z%20upper%20Rod%20Mount%20clamp-12mm.stl
-[Z upper Rod Mount clamp-8mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Upper%20Rod%20Mount/STLs/Z%20upper%20Rod%20Mount%20clamp-8mm.stl
-[Z upper Rod Mount-10mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Upper%20Rod%20Mount/STLs/Z%20upper%20Rod%20Mount-10mm.stl
-[Z upper Rod Mount-12mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Upper%20Rod%20Mount/STLs/Z%20upper%20Rod%20Mount-12mm.stl
-[Z upper Rod Mount-8mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Upper%20Rod%20Mount/STLs/Z%20upper%20Rod%20Mount-8mm.stl
-[Z-upper-Rod-Mount-8mm-525rod]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Upper%20Rod%20Mount/STLs/Z-upper-Rod-Mount-8mm-525rod.stl
 
-[Z Lower rod mount clamp-8mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lower%20Rod%20Mount/STLs/Z%20Lower%20rod%20mount%20clamp-8mm.stl
-[Z Lower rod mount clamp-10mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lower%20Rod%20Mount/STLs/Z%20Lower%20rod%20mount%20clamp-10mm.stl
-[Z Lower rod mount clamp-12mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lower%20Rod%20Mount/STLs/Z%20Lower%20rod%20mount%20clamp-12mm.stl
-[Z Lower rod mount-8mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lower%20Rod%20Mount/STLs/Z%20Lower%20rod%20mount-8mm.stl
-[Z Lower rod mount-10mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lower%20Rod%20Mount/STLs/Z%20Lower%20rod%20mount-10mm.stl
-[Z Lower rod mount-12mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lower%20Rod%20Mount/STLs/Z%20Lower%20rod%20mount-12mm.stl
-[Z-Lower-rod-mount-8mm-525rod]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lower%20Rod%20Mount/STLs/Z-Lower-rod-mount-8mm-525rod.stl
+
+
 
 <!-- Z-axis assembly -->
 
@@ -209,24 +190,11 @@ For more detailed print settings & printing information, please see [General - P
 - [Mellow Kit Vz330 Essential parts]
 
 <!-- RSCS -->
-[Lower]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/RSCS/STLs/Lower.stl
-[Middle Lower]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/RSCS/STLs/Middle%20Lower.stl
-[Middle upper]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/RSCS/STLs/Middle%20upper.stl
-[Top Upper]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/RSCS/STLs/Top-upper.stl
-[Top Lower]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/RSCS/STLs/top%20lower.stl
+
 <!-- Exhaust -->
-[Exhaust fan guard center trim]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Exhaust%20filter%20-%20Fume%20extractor/Exhaust%20fan%20guard/Exaust%20fan%20guard%20center%20trim.stl
-[Exhaust fan guard frame]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Exhaust%20filter%20-%20Fume%20extractor/Exhaust%20fan%20guard/Exaust%20fan%20guard%20frame.stl
-[Exhaust fan housing]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Exhaust%20filter%20-%20Fume%20extractor/Exhaust%20filter%20housing/STLs/Exhaust%20fan%20housing.stl
-[Exhaust middle cover 10mm Hepa filter]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Exhaust%20filter%20-%20Fume%20extractor/Exhaust%20filter%20housing/STLs/exhaust%20middle%20cover%2010mm%20Hepa%20filter.stl
-[Hepa filter Holder]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Exhaust%20filter%20-%20Fume%20extractor/Exhaust%20filter%20housing/STLs/hepa%20holder.stl
+
 <!-- Frame -->
-[Spacer Feet]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/Feet/STL/Spacer.stl
-[Feet]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/Feet/STL/foot.stl
-[2020 Endcap]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/2020%20Endcap.stl
-[Frame_brace]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/Frame_Brace.stl
-[Cable holder frame Side]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/cable%20holder%20frame%20side.stl
-[Handle]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/handle.stl
+
 <!-- Gantry -->
 <!-- Motor mounts -->
 <!-- Z-axis assembly -->
@@ -236,16 +204,59 @@ For more detailed print settings & printing information, please see [General - P
 <!-- Front doors -->
 <!-- Trim pieces -->
 <!-- Miscellaneous -->
-[Grommet_slotted_TPU]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Rear%20pannel%20TPU%20grommet/STLs/grommet_slotted.stl
-[Stepper_Cable_grommet_TPU]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Rear%20pannel%20TPU%20grommet/STLs/stepper_cable_grommet.stl
-[Enclosure recirculation fan]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Recirculation%205015%20fan%20mount/STL/enclosure%20recirculation%20fan.stl
+
 <!-- Tools -->
-[Z alignment tool 10mm Rod]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignment%20Tools/Z%20Alignment%20tool%2010mm%20rod.stl
-[MGN12 alignment Tool]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignment%20Tools/MGN12-alignment%20tool.stl
-[MGN9 alignment tool]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignment%20Tools/MGN9-alignment%20tool.stl
-[X alignment Tool]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignment%20Tools/X%20Alignment%20Tool.stl
+
 
 <!-- Sources -->
-[RSCS 330 EzVz]: https://docs.google.com/spreadsheets/d/1gSywzQIGiydUzJ1vPF0LdUgIQp2TMPd2PXDLmPH5LF0/edit#gid=0
+
+[2020 Endcap]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/2020%20Endcap.stl
+[Cable holder frame Side]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/cable%20holder%20frame%20side.stl
+[CF tube ends]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/X%20Carbon%20fiber%20tube%20%2B%20rail/STLs/cf%20tube%20end.stl
+[Dual Z-Motor mount]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Dual%20Motor%20Mount/STLs/Dual%20Motor%20mount.stl
+[Enclosure recirculation fan]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Recirculation%205015%20fan%20mount/STL/enclosure%20recirculation%20fan.stl
 [Exhaust 330 EzVz]: https://docs.google.com/spreadsheets/d/1ftg2WfqJEuhiZHrEtd71qyUrp9ucPGyxqfzTPQHi_HE/edit#gid=0
+[Exhaust fan guard center trim]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Exhaust%20filter%20-%20Fume%20extractor/Exhaust%20fan%20guard/Exaust%20fan%20guard%20center%20trim.stl
+[Exhaust fan guard frame]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Exhaust%20filter%20-%20Fume%20extractor/Exhaust%20fan%20guard/Exaust%20fan%20guard%20frame.stl
+[Exhaust fan housing]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Exhaust%20filter%20-%20Fume%20extractor/Exhaust%20filter%20housing/STLs/Exhaust%20fan%20housing.stl
+[Exhaust middle cover 10mm Hepa filter]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Exhaust%20filter%20-%20Fume%20extractor/Exhaust%20filter%20housing/STLs/exhaust%20middle%20cover%2010mm%20Hepa%20filter.stl
+[Feet]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/Feet/STL/foot.stl
+[Frame_brace]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/Frame_Brace.stl
+[Grommet_slotted_TPU]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Rear%20pannel%20TPU%20grommet/STLs/grommet_slotted.stl
+[Handle]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/STLs/handle.stl
+[Hepa filter Holder]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Exhaust%20filter%20-%20Fume%20extractor/Exhaust%20filter%20housing/STLs/hepa%20holder.stl
+[Lower]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/RSCS/STLs/Lower.stl
 [Mellow Kit Vz330 Essential parts]: https://docs.google.com/spreadsheets/d/1vADq039lmVrjTJJ5WZPQON17xcEDmcfhD4UitEA06f8/edit#gid=0
+[MGN12 alignment Tool]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignment%20Tools/MGN12-alignment%20tool.stl
+[MGN9 alignment tool]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignment%20Tools/MGN9-alignment%20tool.stl
+[Middle Lower]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/RSCS/STLs/Middle%20Lower.stl
+[Middle upper]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/RSCS/STLs/Middle%20upper.stl
+[RSCS 330 EzVz]: https://docs.google.com/spreadsheets/d/1gSywzQIGiydUzJ1vPF0LdUgIQp2TMPd2PXDLmPH5LF0/edit#gid=0
+[Single Z-motor Lower bracket]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Single%20Motor%20Mount/STLs/Z%20motor%20Lower%20bracket.stl
+[Single Z-motor upper bracket]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Single%20Motor%20Mount/STLs/Z%20motor%20upper%20bracket.stl
+[Spacer Feet]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/Feet/STL/Spacer.stl
+[Stepper_Cable_grommet_TPU]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/enclosure/Rear%20pannel%20TPU%20grommet/STLs/stepper_cable_grommet.stl
+[Top Lower]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/RSCS/STLs/top%20lower.stl
+[Top Upper]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/RSCS/STLs/Top-upper.stl
+[X alignment Tool]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignment%20Tools/X%20Alignment%20Tool.stl
+[X limit switch stopper]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/XendStop.stl
+[Y gantry tube spacers]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/spacer_alu_Y_gantry_0.5mm.stl
+[Z alignment tool 10mm Rod]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignment%20Tools/Z%20Alignment%20tool%2010mm%20rod.stl
+[Z Lead screw lower bracket]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lead%20screw%20bracket%20-%20Single%20Motor/STLs/Z%20Lead%20screw%20lower%20bracket.stl
+[Z Lead screw upper bracket]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lead%20screw%20bracket%20-%20Single%20Motor/STLs/Z%20Lead%20screw%20upper%20bracket.stl
+[Z Lower rod mount clamp-10mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lower%20Rod%20Mount/STLs/Z%20Lower%20rod%20mount%20clamp-10mm.stl
+[Z Lower rod mount clamp-12mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lower%20Rod%20Mount/STLs/Z%20Lower%20rod%20mount%20clamp-12mm.stl
+[Z Lower rod mount clamp-8mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lower%20Rod%20Mount/STLs/Z%20Lower%20rod%20mount%20clamp-8mm.stl
+[Z Lower rod mount-10mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lower%20Rod%20Mount/STLs/Z%20Lower%20rod%20mount-10mm.stl
+[Z Lower rod mount-12mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lower%20Rod%20Mount/STLs/Z%20Lower%20rod%20mount-12mm.stl
+[Z Lower rod mount-8mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lower%20Rod%20Mount/STLs/Z%20Lower%20rod%20mount-8mm.stl
+[Z stop switch mount]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Stop%20switch%20mount/STLs/Z%20stop%20switch%20mount.stl
+[Z stop switch mount AWD]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Stop%20switch%20mount/STLs/Z%20stop%20switch%20mount%20AWD%20version.stl
+[Z upper Rod Mount clamp-10mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Upper%20Rod%20Mount/STLs/Z%20upper%20Rod%20Mount%20clamp-10mm.stl
+[Z upper Rod Mount clamp-12mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Upper%20Rod%20Mount/STLs/Z%20upper%20Rod%20Mount%20clamp-12mm.stl
+[Z upper Rod Mount clamp-8mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Upper%20Rod%20Mount/STLs/Z%20upper%20Rod%20Mount%20clamp-8mm.stl
+[Z upper Rod Mount-10mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Upper%20Rod%20Mount/STLs/Z%20upper%20Rod%20Mount-10mm.stl
+[Z upper Rod Mount-12mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Upper%20Rod%20Mount/STLs/Z%20upper%20Rod%20Mount-12mm.stl
+[Z upper Rod Mount-8mm]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Upper%20Rod%20Mount/STLs/Z%20upper%20Rod%20Mount-8mm.stl
+[Z-Lower-rod-mount-8mm-525rod]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Lower%20Rod%20Mount/STLs/Z-Lower-rod-mount-8mm-525rod.stl
+[Z-upper-Rod-Mount-8mm-525rod]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Z%20assembly/Z%20Upper%20Rod%20Mount/STLs/Z-upper-Rod-Mount-8mm-525rod.stl
