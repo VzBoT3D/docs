@@ -5,6 +5,7 @@ has_toc: false
 nav_order: 1
 has_children: true
 permalink: /vz330_printed/printed_parts/
+parent: VzBoT330 - Printed Version
 ---
 
 # VzBoT-330 Printed parts
