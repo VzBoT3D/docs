@@ -1,1 +1,3 @@
 _site/
+.bundle/config
+vendor/bundle/
