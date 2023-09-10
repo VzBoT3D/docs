@@ -3,7 +3,7 @@ layout: default
 title: Terms of service
 parent: EzVz
 has_toc: false
-nav_order: 3
+nav_order: 5
 has_children: false
 permalink: /ezvz/tos
 ---

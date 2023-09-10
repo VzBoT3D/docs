@@ -8,7 +8,6 @@ has_children: false
 permalink: /ezvz/providers
 ---
 
-
 # EzVz Providers
 
 First of all congratulations for becoming part of the EzVz Providers Program.
