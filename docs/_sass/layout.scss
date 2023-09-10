@@ -89,12 +89,18 @@
     display: block;
   }
 
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
   @include mq(md) {
     display: block;
     padding-top: $sp-8;
     padding-bottom: $gutter-spacing-sm;
     overflow-y: auto;
     flex: 1 1 auto;
+    -ms-overflow-style: none;  /* IE and Edge Hide scrollbar*/
+    scrollbar-width: none;  /* Firefox Hide scrollbar*/
   }
 }
 
