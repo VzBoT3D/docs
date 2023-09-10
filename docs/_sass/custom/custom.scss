@@ -82,3 +82,15 @@
     }
   }
   /***** END Homepage styling*****/
+
+// Hide the side nav scrollbar when the contents overflow it verticallybundler 
+.site-nav {
+  &::-webkit-scrollbar {
+    display: none;
+  }
+  
+  @include mq(md) {
+   -ms-overflow-style: none;  /* IE and Edge Hide scrollbar*/
+    scrollbar-width: none;  /* Firefox Hide scrollbar*/
+  }
+}
