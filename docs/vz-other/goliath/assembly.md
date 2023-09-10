@@ -18,9 +18,9 @@ The Goliath is assembled in roughly this order:
 
 ## Heater wire
 
-The Goliath uses a nichrome heater wire as heater for the hot-end heater block. It is quite stiff but can also be bent to shape as desirable or necessary. In some situations, it may be necessary to tweak the way the wire sits. For that, please see the full Goliath documentation: [Readme - VzBoT3D/Goliath]
+The Goliath uses a nichrome heater wire as heater for the hot-end heater block. It is quite stiff but can also be bent to shape as desirable or necessary. In some situations, it may be necessary to tweak the way the wire sits. For that, please see the full Goliath documentation: [Readme - VzBoT3D/Goliath](https://github.com/VzBoT3D/Goliath/blob/main/README.md)
 
-On the **Vz-Printhead**, you can  send the nichrome wire either to the back under the printhead, or route it to the right or left side in front of the printhead. Routing the wire to the right will keep the "natural" bend of the wire.
+On the **Vz-Printhead**, you can either send the nichrome wire over to the right and to the back under the printhead, or route it to the right or left side in front of the printhead. Routing the wire to the right will keep the "natural" bend of the wire.
 
 ![Goliath heater wire on hot block](../../assets/images/vz-other/goliath/goliath_nichrome-wire.jpg)  
 <small>© @adam_the_dev</small>
@@ -36,7 +36,7 @@ On the **Vz-Printhead**, you can  send the nichrome wire either to the back unde
 
 ## Temperature sensor
 
-The temperature sensor used on the Goliath is usually a PT1000 platinum [resistance thermometer].
+The temperature sensor used on the Goliath is usually a PT1000 platinum [resistance thermometer](https://en.wikipedia.org/wiki/Resistance_thermometer).
 
 The PT1000 temperature sensor is installed in to the side of the Goliath heater block using an M3 screw thread.
 
