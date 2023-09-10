@@ -9,7 +9,7 @@ permalink: /vz330_printed
 
 ## Overview
 
-![Overview](/assets/images/manual/vz330_printed/printed_preview.png)
+![Overview](/assets/images/manual/vz330_printed/printed_preview.jpg)
 
 The VzBoT 330 is the larger brother of the [VzBot 235 - Printed Version](/vz235_printed) / [VzBot 235 - Mellow Kit](/vz235_mellow) 3D-printer.
 

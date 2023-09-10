@@ -1,9 +1,7 @@
 ---
 layout: default
 title: VZ330 Printed Parts
-has_toc: false
-nav_order: 1
-has_children: true
+has_toc: true
 permalink: /vz330_printed/printed_parts/
 parent: VzBoT330 - Printed Version
 ---
