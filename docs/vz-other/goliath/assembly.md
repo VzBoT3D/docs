@@ -48,7 +48,7 @@ The goliath uses V6-style nozzles with an M6 screw thread and has mounting flang
 
 It is recommended to add some **thermal paste** between the heatbreak and heatsink for better heat transfer. Do not use boron nitride as it will dry and make it really hard to remove heatbreak from heatsink.It's good practice to verify the heatbreak is still installed tightly and as specified whilst you are performing maintenance on the hot end. This can prevent future leakages and clogging issues.
 
-**Tightening torque:**
+**Tightening torque:**  
 The heatbreak is installed into the heater block with about 1.0-1.2 Nm (Newtonmeters) of torque.  
 The nozzle is installed into the heater block with about 1.2-1.4 Nm (Newtonmeters) of torque.
 
