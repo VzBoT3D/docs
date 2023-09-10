@@ -18,12 +18,21 @@ The Goliath is assembled in roughly this order:
 
 ## Heater wire
 
-The Goliath uses a nichrome heater wire as heater for the hot-end heater block. It is quite stiff but can also be bent to shape as desirable or necessary. In some situations, it may be necessary to tweak the way the wire sits. For that, please see the full Goliath documentation: [Readme | VzBoT3D/Goliath]
+The Goliath uses a nichrome heater wire as heater for the hot-end heater block. It is quite stiff but can also be bent to shape as desirable or necessary. In some situations, it may be necessary to tweak the way the wire sits. For that, please see the full Goliath documentation: [Readme - VzBoT3D/Goliath]
 
 On the **Vz-Printhead**, you can  send the nichrome wire either to the back under the printhead, or route it to the right or left side in front of the printhead. Routing the wire to the right will keep the "natural" bend of the wire.
 
-![Goliath heater wire on hot block](/assets/images/vz-other/goliath/goliath_nichrome-wire.jpg)
+![Goliath heater wire on hot block](../../assets/images/vz-other/goliath/goliath_nichrome-wire.jpg)  
 <small>© @adam_the_dev</small>
+
+<details>
+    <summary>Example showing heater wire on the right side</summary>
+    <img src="https://user-images.githubusercontent.com/37383368/211330774-17573318-2ac8-4077-9e59-f4db8dd18e41.png"/>
+</details>
+<details>
+    <summary>Example showing heater wire around the back</summary>
+    <img src="https://github.com/VzBoT3D/Goliath/assets/16231288/a2eb4fd7-19bf-4881-a1d7-151410a10f99"/>
+</details>
 
 ## Temperature sensor
 
