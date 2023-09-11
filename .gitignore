@@ -2,8 +2,13 @@ _site/
 CNAME
 docs/CNAME
 
+# Bundler / Ruby
 .bundle/config
 vendor/bundle/
 
+# VSCode user-specific files
 .vscode/settings.json
+
+# MacOS metadata file
+**/.DS_Store 
 

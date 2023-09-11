@@ -1,4 +1,4 @@
-title: "VzBoT Documentation"
+title: VzBoT Documentation
 tagline: Documentation for VzBoT 3D-printers
 description: VzBoT Official Documentation
 logo: "/assets/images/logo.png"
@@ -7,7 +7,11 @@ markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
 color_scheme: "vzbot"
 search_enabled: true
-repository: vethyn/docs
+repository: vzbot3d/docs
+
+plugins:
+  - jekyll-spaceship
+  - jekyll-toc
 
 exclude:
  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
