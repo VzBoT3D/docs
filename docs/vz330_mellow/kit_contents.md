@@ -147,7 +147,7 @@ The following parts are included in the kit:
   | 2/5     | 4        | M2 x 10mm  | Button head screw  |
   | 3/5     | 6        | M2.5 x 5mm | Low profile ?      |
   | 4/5     | 6        | M2.5 x 6mm | Low profile ?      |
-  | 5/5     | 6        | M2.5 x 8mm | Self-tapping screw |
+  | 5/5     | 6        | M2.6 x 8mm | Self-tapping screw |
 
 * **VZ330 - M3 (Bag)**
 
