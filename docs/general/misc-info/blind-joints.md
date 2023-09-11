@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Blind Joints
-parent: General Informations
+parent: Miscellaneous info
 has_toc: false
-nav_order: 2
+nav_order: 3
 has_children: false
-permalink: /general/blind-joints
+permalink: /general/misc-info/blind-joints
 ---
 
 # Blind joints

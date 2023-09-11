@@ -7,11 +7,7 @@ nav_order: 1
     h1, .text-alpha {
     text-align: center !important;
 }
-</style>
 
-# Welcome to the VzBoT documentation
-
-<style>
 table {
     border-collapse: collapse;
     border: none !important;
@@ -25,10 +21,12 @@ table, th, td {
 }
 </style>
 
+# Welcome to the VzBoT documentation
+
 | | |
 |-|-|
 | **VzBot 330 - Printed Version** | **VzBot 330 - Mellow Kit** |
-| [![VzBot 330 - Printed Version](./assets/images/manual/vz330_printed/printed_preview.jpg)](./vz330_printed) | [![VzBot 330 - Mellow Kit](./assets/images/manual/vz330_mellow/overview.png)](./vz330_mellow) |
+| [![VzBot 330 - Printed Version](./assets/images/homepage/vz330_printed.png)](./vz330_printed) | [![VzBot 330 - Mellow Kit](./assets/images/homepage/vz330_mellow.png)](./vz330_mellow) |
 
 | | |
 |-|-|

@@ -18,7 +18,7 @@ relatively small build volume, it has reduced weight and a smaller form factor. 
 is built around the popular Creality Ender 3 bed, but is not limited to this size: the
 frame can be scaled up or down to fit the individual builder's requirements.
 
-On how to print the files for this printer please refer to [print settings](../general/print-settings)
+On how to print the files for this printer please refer to [print settings](../general/misc-info/print-settings)
 <br/>
 <br/>
 

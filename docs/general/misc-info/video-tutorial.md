@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Video tutorial
-parent: General Informations
-nav_order: 1
+parent: Miscellaneous info
+has-toc: false
+nav_order: 2
 has_children: false
-permalink: /general/video-tutorial
+permalink: /general/misc-info/video-tutorial
 ---
 
-# Video tutorial
+# Video tutorials
 
 ## Vz235 Build Part 1: The Frame
 
