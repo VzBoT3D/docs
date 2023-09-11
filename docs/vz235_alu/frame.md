@@ -16,7 +16,7 @@ permalink: /vz235_alu/frame
 
 The frame is assembled through a combination of blind joints, corner brackets and blind corner brackets. The corner brackets are to help stiffen up the frame and are optional, though we highly recommend using them on every possible corner for best results.
 
-For detailed informations on how to assemble blind joints visit this [page](../general/blind-joints)
+For detailed informations on how to assemble blind joints visit this [page](../general/misc-info/blind-joints)
 
 ## BOM
 
@@ -52,7 +52,7 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 
 
 {: .highlight }
-  To see the recommended print settings please refere [here](../general/print-settings).
+  To see the recommended print settings please refere [here](../general/misc-info/print-settings).
 
 ### Step 1
 
@@ -91,10 +91,11 @@ Attach the extrusions to connect the two halves of the frame. Make sure to put t
 
 Attach all corner joints and check if your frame is square and strong. After this checks out attach the handles and the frame is built.
 
-[Brace]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Handle]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/handle.stl
-[Y Alignment Tool]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Tools/vzbot%20y%20gantry%202020%20allignment%20tool%20v1.stl
-[Nut inserts]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Gantry/Motormounts/left%20motormounts/nut%20insert%20for%20motormount.stl
-[Door latch]: https://
+
 =======
 
+[Brace]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
+[Door latch]: https://
+[Handle]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/handle.stl
+[Nut inserts]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Gantry/Motormounts/left%20motormounts/nut%20insert%20for%20motormount.stl
+[Y Alignment Tool]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Tools/vzbot%20y%20gantry%202020%20allignment%20tool%20v1.stl
