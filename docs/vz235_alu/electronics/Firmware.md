@@ -67,15 +67,23 @@ First we're gonna be updating the Pi with some commands. You'll be asked to ente
 
 Enter these 2 commands in the order shown bellow and wait for everything to finish.
 
-```sudo apt-get update```
+```bash
+sudo apt-get update
+```
 
-```sudo apt-get upgrade```
+```bash
+sudo apt-get upgrade
+```
 
 Now that we have a updated Pi it's time to setup the firmware for our Motherboard.
 
-```cd ~/klipper/```
+```bash
+cd ~/klipper/
+```
 
-```make menuconfig```
+```bash
+make menuconfig
+```
 
 You'll be greeted with this beautifull screen.
 
@@ -118,7 +126,9 @@ Now you simply Press: Q and hit Y for Yes save configuration.
 
 Once that is done you simply type this command in putty and it will make the firmware file for you.
 
-```make```
+```bash
+make
+```
 
 Once it's done with compiling the firmware you'll see something like this telling you the file is ready and where it is located.
 
@@ -156,7 +166,9 @@ Now we're gonna make sure the Motherboard can talk to the Pi. Put back the SDCar
 
 Once it's all powered on open Putty Login and type in this command.
 
-```ls /dev/serial/by-id/*```
+```bash
+ls /dev/serial/by-id/*
+```
 
 This will give you the serial you need to put in your Printer.cfg to make sure they can talk to eachother.
 
@@ -166,28 +178,46 @@ This will give you the serial you need to put in your Printer.cfg to make sure t
 
  Next up we're gonna run a few small commands through Putty so we can use the Pi as a secondary MCU to control CPAP.
 
-```cd ~/klipper/```
+```bash
+cd ~/klipper/
+```
 
-```sudo cp ./scripts/klipper-mcu.service /etc/systemd/system/```
+```bash
+sudo cp ./scripts/klipper-mcu.service /etc/systemd/system/
+```
 
-```sudo systemctl enable klipper-mcu.service```
+```bash
+sudo systemctl enable klipper-mcu.service
+```
 
 Next we select the correct MCU for the Pi.
 
-```cd ~/klipper/```
+```bash
+cd ~/klipper/
+```
 
-```make menuconfig```
+```bash
+make menuconfig
+```
 
 In the menu, set "Microcontroller Architecture" to "Linux process," then save and exit.
 
 To build and install the new micro-controller code, run:
 
-```sudo service klipper stop```
+```bash
+sudo service klipper stop
+```
 
-```make flash```
+```bash
+make flash
+```
 
-```sudo service klipper start```
+```bash
+sudo service klipper start
+```
 
 If klippy.log reports a "Permission denied" error when attempting to connect to /tmp/klipper_host_mcu then you need to add your user to the tty group. The following command will add the "pi" user to the tty group:
 
-```sudo usermod -a -G tty pi```
+```bash
+sudo usermod -a -G tty pi
+```

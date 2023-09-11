@@ -17,17 +17,17 @@ permalink: /vz235_alu/z_assembly/top_rod_mounts
 
 ## BOM
 
-| Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
-| M4 10mm           | 4 | -  |
-| M4 20mm | 4   | -  |
-| M4 t-nut | 4 | - |
+| Material | Quantity | Notes |
+|:---------|:---------|:------|
+| M4 10mm  | 4        | -     |
+| M4 20mm  | 4        | -     |
+| M4 t-nut | 4        | -     |
 
 ![Details](../../assets/images/manual/vz235_alu/z_assembly/top_rod_mounts/details.png)
 
 ### Step 1
 
-**Important: When mounting the top rod's make sure the top rod with the extra hole for the z switch is in the back**
+**Important:** When mounting the top rod's make sure the top rod with the extra hole for the z switch is in the back.
 
 Mount the 10mm M4 screws and t-nuts to all top rod mounts and loosely turn in the 20mm M4 screws in the clamping mechanism.
 

@@ -11,4 +11,4 @@ permalink: /general/maintenance
 
 ## Cleaning the printbed
 
-Cleaning the bed can be done in many ways. There are quick methods for inbetween cleaning, as well as extensive cleaning procedures for more grimy or dirty print beds. 
+Cleaning the bed can be done in many ways. There are quick methods for inbetween cleaning, as well as extensive cleaning procedures for more grimy or dirty print beds.

@@ -17,14 +17,14 @@ permalink: /vz235_alu/z_assembly/bed_additions
 
 ## BOM
 
-| Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
-| M2 10mm | 2 | for microswitch |
-| M3 8mm           | 1 | for microswitch  |
-| M3 10mm | 4 | - |
-| M3 40mm | 1 | - |
-| M3 nut | 3 | - |
-| Microswitch | 1 | - |
+| Material    | Quantity | Notes           |
+|:------------|:---------|:----------------|
+| M2 10mm     | 2        | for microswitch |
+| M3 8mm      | 1        | for microswitch |
+| M3 10mm     | 4        | -               |
+| M3 40mm     | 1        | -               |
+| M3 nut      | 3        | -               |
+| Microswitch | 1        | -               |
 
 ## STL's
 

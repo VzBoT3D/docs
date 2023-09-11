@@ -10,8 +10,6 @@ permalink: /vz235_printed
 # VzBoT235 - Printed Version Version
 
 ![Overview](../assets/images/manual/vz235_printed/printed_preview.png)
-<br/>
-<br/>
 
 Vz235 is the smaller brother of the original [VzBot 330 - Printed Version](../vz330_printed) / [VzBot 330 - Mellow Kit](../vz330_mellow) 3D-printer. With its
 relatively small build volume, it has reduced weight and a smaller form factor. The design
@@ -19,8 +17,6 @@ is built around the popular Creality Ender 3 bed, but is not limited to this siz
 frame can be scaled up or down to fit the individual builder's requirements.
 
 On how to print the files for this printer please refer to [print settings](../general/misc-info/print-settings)
-<br/>
-<br/>
 
 We advice to build the printer in the following order:
 

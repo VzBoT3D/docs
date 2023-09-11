@@ -17,14 +17,14 @@ permalink: /vz235_alu/z_assembly/z_motor
 
 ## BOM
 
-| Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
-| M3 10mm           | 6 | -  |
-| M4 10mm | 2 | - |
-| M4 t-nut | 2 | - |
-| M3 washer | 2   | -  |
-| GT2 20 teeth | 1 | - |
-| NEMA 17 stepper | 1 | - |
+| Material        | Quantity | Notes |
+|:----------------|:---------|:------|
+| M3 10mm         | 6        | -     |
+| M4 10mm         | 2        | -     |
+| M4 t-nut        | 2        | -     |
+| M3 washer       | 2        | -     |
+| GT2 20 teeth    | 1        | -     |
+| NEMA 17 stepper | 1        | -     |
 
 ![Z-Motor details](../../assets/images/manual/vz235_alu/z_assembly/z_motor/details.png)
 
