@@ -132,7 +132,7 @@ The following parts are included in the kit:
 
 **VZ330 Box 5:**
 
-**ℹ️ Only present if your kit is AWD**
+**ℹ️ Only present if your kit is AWD!**
 
 * 2x TMC5160HV stepper motor driver board
 * 2x Stepper motor driver board cable

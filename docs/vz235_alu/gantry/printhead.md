@@ -16,17 +16,16 @@ In this section we'll assemble the Toolhead for the VzBot.
 {: .highlight }
 > &#8226; Use Loctite Purple 222/221 for the bolts in the toolhead.
 
-
 ![Overview](../../assets/images/manual/vz330_mellow/gantry/printhead/overview.png)
 
-# Parts
+## Parts
 
 | Part | Location | Info |
 |:-|:-|:-|
 | M3 x 6mm <br/> Quantity: 4 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 | |
 | TODO | |
 
-# STLs
+## STLs
 
 | File name | Amount to print | Note |
 |-----------|-----------------|------|
@@ -40,16 +39,12 @@ In this section we'll assemble the Toolhead for the VzBot.
 | <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/c-clamp.stl" target="_blank">Upper duct cpcp c clamp</a> | 1 | - |
 | <a href="https://github.com/VzBoT3D/Goliath/blob/main/STL/Air%20Cool%20Fan%20duct/Fan%20duct%202510-With%20flange%20for%20Vz-Printhead%20CNC.stl" target="_blank">Goliath 2410 fan duct</a> | 1 | - |
 
-# Assembly
-
 ## Step 1
-
-### Notes
 
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M3 x 6mm <br/>
+> &#8226; Box 6 - M3 x 6mm  
 > &#8226; Box C
 
 | Part | Location
@@ -59,25 +54,17 @@ In this section we'll assemble the Toolhead for the VzBot.
 | Cable Holder | [STLs](#stls) |
 | Printhead cable holder | [STLs](#stls) |
 
-<br/>
-
-### Instructions
-
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step1.png) | &#8226; Screw on the printhead cable holder with two M3 x 6mm screws <br/> &#8226; Attach the printed cable holder to the top with two M3 x 6mm screws.
 {: .instructiontable}
 
-<br/>
-
 ## Step 2
-
-### Notes
 
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M3 x 6mm <br/>
-> &#8226; Box 6 - M3 x 5mm <br/>
+> &#8226; Box 6 - M3 x 6mm  
+> &#8226; Box 6 - M3 x 5mm  
 > &#8226; Box C
 
 | Part | Location
@@ -89,10 +76,6 @@ In this section we'll assemble the Toolhead for the VzBot.
 | Bottom plate | **Layer**: 3 <br/> **Box**: VZ330 Box C |
 | Side pieces | **Layer**: 3 <br/> **Box**: VZ330 Box C |
 
-<br/>
-
-### Instructions
-
 {: .warning }
 > Important
 >
@@ -102,16 +85,12 @@ In this section we'll assemble the Toolhead for the VzBot.
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step2.png) | &#8226; Screw on the top plate to the MGN carriage with the four M3 x 5mm screws <br/> &#8226; Install the back part from step 1 to the top plate with the two M3 x 6mm screws <br/> &#8226; Install the front spacers with two M3 x 6mm screws <br/> &#8226; Install the bottom plate to the assembly with four M3 x 6mm screws.
 {: .instructiontable}
 
-<br/>
-
 ## Step 3
-
-### Notes
 
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M3 x 6mm <br/>
+> &#8226; Box 6 - M3 x 6mm  
 > &#8226; Box 6 - M2 x 8mm
 
 | Part | Location |
@@ -119,24 +98,16 @@ In this section we'll assemble the Toolhead for the VzBot.
 | M3 x 6mm <br/> Quantity: 2 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
 | M2 x 8mm <br/> Quantity: 2 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
 
-<br/>
-
-### Instructions
-
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step3.png) | &#8226; Screw on the printhead cable holder with two M3 x 6mm screws <br/> &#8226; Attach the printed cable holder to the top with two M3 x 6mm screws.
 {: .instructiontable}
 
-<br/>
-
 ## Step 4
-
-### Notes
 
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M3 x 6mm <br/>
+> &#8226; Box 6 - M3 x 6mm  
 > &#8226; Box 6 - M3 t-nut
 
 | Part | Location
@@ -146,14 +117,9 @@ In this section we'll assemble the Toolhead for the VzBot.
 | Part from step 3 | [Part from step 3](#step-3) |
 | Fan holder | [STL](#stls) |
 
-<br/>
-
-### Instructions
-
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step4.png) | &#8226; Screw on the printhead fan holder to the assembly with two M3 x 6mm screws and M3 nuts.
 {: .instructiontable}
-
 
 ### Step 5
 
@@ -172,7 +138,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M3 x 10mm <br/>
+> &#8226; Box 6 - M3 x 10mm  
 > &#8226; Box 6 - M3 x 30mm
 
 | Part | Location |
@@ -182,10 +148,6 @@ In this section we'll assemble the Toolhead for the VzBot.
 | M3 heat insert <br/> Quantity: 2 | self source |
 | Fanduct <br/> Quantity: 1 | [STL's](#stls) |
 | xx <br/> Quantity: 1 | [STL's](#stls) |
-
-<br/>
-
-### Instructions
 
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step6_part1.png)  | &#8226; Insert the heat insert's in the back holes of the fanduct |
@@ -201,8 +163,6 @@ In this section we'll assemble the Toolhead for the VzBot.
 
 ## Step 7
 
-### Notes
-
 {: .highlight }
 > Required
 >
@@ -215,25 +175,17 @@ In this section we'll assemble the Toolhead for the VzBot.
 |:-|:-|
 | M3 x 6mm (ultra low profile ) <br/> Quantity: 2 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
 
-<br/>
-
-### Instructions
-
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step7_part1.png)  | &#8226; Attach the preassembled extruder to the printhead with the M3 x 5mm ( ultra low profile ) screws |
 {: .instructiontable}
 
-<br/>
-
 ## Step 8
-
-### Notes
 
 {: .highlight }
 > Required
 >
-> &#8226; Box 6 - M2.5 x 5mm <br/>
-> &#8226; Box 6 - M3 x 6mm <br/>
+> &#8226; Box 6 - M2.5 x 5mm  
+> &#8226; Box 6 - M3 x 6mm  
 > &#8226; Box C
 
 |:-|
@@ -247,11 +199,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 | Goliath Hotend <br/> Quantity: 1 | **Layer**: 3 <br/> **Box**: VZ330 Box C |
 | Adapter plate <br/> Quantity: 1 | **Layer**: 3 <br/> **Box**: VZ330 Box C |
 
-<br/>
-
-### Instructions
-
-### NOTE: Before assembling the Goliath hotend to the printhead, make sure you have applied thermal paste between the heatbreak and the heatsink. Also make sure that all screws are tight and that heatbreak is tight on the heatblock. Please refer to this [article](https://github.com/VzBoT3D/Goliath/tree/main/Instructions)
+NOTE: Before assembling the Goliath hotend to the printhead, make sure you have applied thermal paste between the heatbreak and the heatsink. Also make sure that all screws are tight and that heatbreak is tight on the heatblock. Please refer to this [article](https://github.com/VzBoT3D/Goliath/tree/main/Instructions)
 
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8_part1.png)  | &#8226; Attache the adapter plate to the goliath hotendend with the M2.5 x 5mm 5 mm screws. |
@@ -260,5 +208,3 @@ In this section we'll assemble the Toolhead for the VzBot.
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8_part2.png)  | &#8226; Slide on the printed fanholder to the goliath hotend  <br/> &#8226; Insert the 22mm pfte tube into the goliath on top <br/> &#8226; Screw on the goliath to the printhead with the M3 x 6mm |
 {: .instructiontable}
-
-<br/>

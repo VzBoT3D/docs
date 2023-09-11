@@ -17,17 +17,17 @@ permalink: /vz235_alu/z_assembly/bed_assembly
 
 ## BOM
 
-| Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
-| M3 8mm           | 16 | -  |
-| M4 8mm | 16   | -  |
-| M3 nut | 4 | - |
-| M3 50mm (countersunk) | 4 | Countersunk for the bed |
-| LMK10LUU | 4 | If you want to use the bought version |
-| LM10LUU | 4 | Use this from the old bed and print holders |
-| Oldham coupler | 2 | Optional but highly advised |
-| Leadscrew nut | 2 | - |
-| Springs / Silicon dumper | 4 | - |
+| Material                 | Quantity | Notes                                       |
+|:-------------------------|:---------|:--------------------------------------------|
+| M3 8mm                   | 16       | -                                           |
+| M4 8mm                   | 16       | -                                           |
+| M3 nut                   | 4        | -                                           |
+| M3 50mm (countersunk)    | 4        | Countersunk for the bed                     |
+| LMK10LUU                 | 4        | If you want to use the bought version       |
+| LM10LUU                  | 4        | Use this from the old bed and print holders |
+| Oldham coupler           | 2        | Optional but highly advised                 |
+| Leadscrew nut            | 2        | -                                           |
+| Springs / Silicon dumper | 4        | -                                           |
 
 ## STL's
 
@@ -39,7 +39,8 @@ permalink: /vz235_alu/z_assembly/bed_assembly
 
 ### Step 1
 
-Mount the LMK10LUU using the M4 10mm hardware to the bed frame. Then mount the Oldham couplers with the leadscrew nuts together with M3 10mm and the M3 nut and mount that assembly to the bed frame using M3 hardware.<br/>
+Mount the LMK10LUU using the M4 10mm hardware to the bed frame. Then mount the Oldham couplers with the leadscrew nuts together with M3 10mm and the M3 nut and mount that assembly to the bed frame using M3 hardware.
+
 Afterwards place the bed assembly in the rods and the leadscrew.
 
 ![Bed mount](../../assets/images/manual/vz235_alu/z_assembly/bed_assembly/mount.png)

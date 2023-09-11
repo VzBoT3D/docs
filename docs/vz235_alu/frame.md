@@ -50,9 +50,8 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Gantry/Motormounts/left%20motormounts/nut%20insert%20for%20motormount.stl" target="_blank">Nut inserts</a> | 2 |
 | [Door latch]() | 4 |
 
-
 {: .highlight }
-  To see the recommended print settings please refere [here](../general/misc-info/print-settings).
+> To see the recommended print settings please refere [here](../general/misc-info/print-settings).
 
 ### Step 1
 
@@ -67,19 +66,16 @@ After hand tightening you can start tightening everything down properly. Make su
 Once you are done with one half repeat for the other half. Check the two halves by laying them on top of each other with all corners exactly in the same spot and check the y gantry extrusions for the two halves whether they are parallel to each other. They need to be parallel for the printer to operate smoothly.
 
 {: .highlight }
-It's important to make sure the y-gantry is the same height.
+> It's important to make sure the y-gantry is the same height.
 
 ### Step 2
 
 The bottom, top and upright extrusions in the front of the frame all have printed nut inserts inserted. 2 in the top for the door latches, 2 in the bottom for the lower latches and 1 in upright for the motor mounts to attach to. Insert the M4 nuts into the M4 inserts and push them in the uprights on the frame half. Next insert the 2x5mm magnets and the m3 nut into the frame part of the magnetic door latches and put 2 in the front lower and 2 in the front upper extrusion as shown in the picture before assembling the final part of the frame.
 
 ![Frame inserts](../assets/images/manual/vz235_printed/frame/frame_inserts.png)
-=======
-Front Door latch magnetic inserts. (Please skip this step, if you prefer to use the locking latches found [here](https://github.com/VzBoT3D/VzBoT-Vz235/tree/main/Assemblies%20&%20STL/Enclosure/Front%20door%20latches/Locking%20latch)
-The bottom, top and upright extrusions in the front of the frame all have printed nut inserts inserted. 2 in the top for the door latches, 2 in the bottom for the lower latches  Next insert the 2x5mm magnets and the m3 nut into the frame part of the magnetic door latches and put 2 in the front lower and 2 in the front upper extrusion as shown in the picture before assembling the final part of the frame.
-<br>
-<br>
 
+Front Door latch magnetic inserts. (Please skip this step if you prefer to use the locking latches found [here](https://github.com/VzBoT3D/VzBoT-Vz235/tree/main/Assemblies%20&%20STL/Enclosure/Front%20door%20latches/Locking%20latch)
+The bottom, top and upright extrusions in the front of the frame all have printed nut inserts inserted. 2 in the top for the door latches, 2 in the bottom for the lower latches  Next insert the 2x5mm magnets and the m3 nut into the frame part of the magnetic door latches and put 2 in the front lower and 2 in the front upper extrusion as shown in the picture before assembling the final part of the frame.
 
 ### Step 3
 
@@ -90,9 +86,6 @@ Attach the extrusions to connect the two halves of the frame. Make sure to put t
 ### Step 4
 
 Attach all corner joints and check if your frame is square and strong. After this checks out attach the handles and the frame is built.
-
-
-=======
 
 [Brace]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
 [Door latch]: https://

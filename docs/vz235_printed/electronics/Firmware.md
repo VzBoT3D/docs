@@ -13,7 +13,8 @@ permalink: /vz235_printed/electronics/Firmware
 
 Time to start flashing our Pi and Motherboard.
 
-# Flashing the Pi.
+## Flashing the Pi
+
 Take your Pi's SDCard and put it in your PC/laptop. Now we're gonna use the program called Raspberry Pi Imager to flash the firmware for it onto our SDCard. You can get it here [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
 
 Once downloaded start the software You'll be greated by this wonder full screen.
@@ -48,7 +49,7 @@ Now you've done that Press the big button saying Write and it's time to wait a b
 
 ![Specific_OS](../../assets/images/manual/vz235_printed/electronics/Firmware/Writing.PNG)
 
-# Installing Klipper.
+## Installing Klipper
 
 Once you've booted up your Pi find the IP adress of it with your Router. This IP will be user specific so we can't help much there.
 
@@ -66,15 +67,23 @@ First we're gonna be updating the Pi with some commands. You'll be asked to ente
 
 Enter these 2 commands in the order shown bellow and wait for everything to finish.
 
-``` sudo apt-get update``` 
+```bash
+sudo apt-get update
+```
 
-``` sudo apt-get upgrade```
+```bash
+sudo apt-get upgrade
+```
 
 Now that we have a updated Pi it's time to setup the firmware for our Motherboard.
 
-```cd ~/klipper/```
+```bash
+cd ~/klipper/
+```
 
-```make menuconfig```
+```bash
+make menuconfig
+```
 
 You'll be greeted with this beautifull screen.
 
@@ -94,7 +103,7 @@ Go down to Micro-controller Architecture and press the spacebar. you'll see a li
 
 Now go down to Processor Model and press space there. We're gonna be selecting the correct MCU we have on our Motherboard.
 
-For the Mellow Super 8 V1.3 we need the STM32F407. 
+For the Mellow Super 8 V1.3 we need the STM32F407.
 
 And we next Select the Bootloader offset to be 32KiB Bootloader like this.
 
@@ -113,13 +122,15 @@ Now you simply Press: Q and hit Y for Yes save configuration.
 
 Once that is done you simply type this command in putty and it will make the firmware file for you.
 
-```make```
+```bash
+make
+```
 
 Once it's done with compiling the firmware you'll see something like this telling you the file is ready and where it is located.
 
 ![firmwaredone](../../assets/images/manual/vz235_printed/electronics/Firmware/firmwaredone.PNG)
 
-# Putting the firmware on the Motherboard.
+## Putting the firmware on the Motherboard
 
 Now we're gonna use are next bit of software called WinSCP from this site [WinSCP](https://winscp.net/eng/download.php).
 
@@ -141,50 +152,68 @@ Now open the SDCard and rename the file from klipper.bin to firmware.bin.
 
 ![Download](../../assets/images/manual/vz235_printed/electronics/Firmware/download.PNG)
 
-
-Now power off your Printer and put in the SDCard with the firmware.bin file. Once you power it back on again and wait a couple of minutes and take out the SDCard and put it in your PC/Laptop. 
+Now power off your Printer and put in the SDCard with the firmware.bin file. Once you power it back on again and wait a couple of minutes and take out the SDCard and put it in your PC/Laptop.
 
 The file should now be named FLY.CUR meaning the board successfully flashed.
 
-# Serial time
+## Serial time
 
 Now we're gonna make sure the Motherboard can talk to the Pi. Put back the SDCard and power up the printer.
 
 Once it's all powered on open Putty Login and type in this command.
 
-```ls /dev/serial/by-id/*```
+```bash
+ls /dev/serial/by-id/*
+```
 
 This will give you the serial you need to put in your Printer.cfg to make sure they can talk to eachother.
 
 ![stm32](../../assets/images/manual/vz235_printed/electronics/Firmware/serial.PNG)
 
- # Pi as secondary MCU
+## Pi as secondary MCU
 
- Next up we're gonna run a few small commands through Putty so we can use the Pi as a secondary MCU to control CPAP.
+Next up we're gonna run a few small commands through Putty so we can use the Pi as a secondary MCU to control CPAP.
 
+```bash
+cd ~/klipper/
+```
 
-```cd ~/klipper/```
+```bash
+sudo cp ./scripts/klipper-mcu.service /etc/systemd/system/
+```
 
-```sudo cp ./scripts/klipper-mcu.service /etc/systemd/system/```
-
-```sudo systemctl enable klipper-mcu.service```
+```bash
+sudo systemctl enable klipper-mcu.service
+```
 
 Next we select the correct MCU for the Pi.
 
-```cd ~/klipper/```
+```bash
+cd ~/klipper/
+```
 
-```make menuconfig```
+```bash
+make menuconfig
+```
 
 In the menu, set "Microcontroller Architecture" to "Linux process," then save and exit.
 
 To build and install the new micro-controller code, run:
 
-```sudo service klipper stop```
+```bash
+sudo service klipper stop
+```
 
-```make flash```
+```bash
+make flash
+```
 
-```sudo service klipper start```
+```bash
+sudo service klipper start
+```
 
 If klippy.log reports a "Permission denied" error when attempting to connect to /tmp/klipper_host_mcu then you need to add your user to the tty group. The following command will add the "pi" user to the tty group:
 
-```sudo usermod -a -G tty pi```
+```bash
+sudo usermod -a -G tty pi
+```

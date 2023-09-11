@@ -17,17 +17,17 @@ permalink: /vz235_alu/z_assembly/lower_part
 
 ## BOM
 
-| Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
-| M4 10mm           | 10 | -  |
-| M4 12mm | 16   | -  |
-| M4 t-nut | 20 | - |
-| 608-2RS bearings | 4 | - |
-| 10mm rods ( 300mm ) | 4 | - |
-| Belt GT2 closed ( 860mm ) | 1 | - |
-| Leadscrew TR8 ( 300 mm ) | 2 | - |
-| GT2 40 teeth | 2 | - |
-| GT2 20 teeth | 1 | - |
+| Material                  | Quantity | Notes |
+|:--------------------------|:---------|:------|
+| M4 10mm                   | 10       | -     |
+| M4 12mm                   | 16       | -     |
+| M4 t-nut                  | 20       | -     |
+| 608-2RS bearings          | 4        | -     |
+| 10mm rods ( 300mm )       | 4        | -     |
+| Belt GT2 closed ( 860mm ) | 1        | -     |
+| Leadscrew TR8 ( 300 mm )  | 2        | -     |
+| GT2 40 teeth              | 2        | -     |
+| GT2 20 teeth              | 1        | -     |
 
 ## STL's
 
