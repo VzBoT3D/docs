@@ -10,7 +10,7 @@ search_enabled: true
 repository: vzbot3d/docs
 
 plugins:
-  - jekyll-spaceship
+ # - jekyll-spaceship
   - jekyll-toc
 
 exclude:
