@@ -24,6 +24,7 @@ permalink: /vz330_mellow/kit_contents
 * Electric drill (or manual, if you're so inclined)
 * 3mm metal drill bit
 * M4x1 metric thread tap
+* M3 heat set insert soldering tip
 * 99% isopropyl alcohol
 * Haribo candies (🍻Josef)
 
@@ -249,6 +250,7 @@ The following parts are included in the kit:
 * 2x Front led bars ([AliExpress 1](https://s.click.aliexpress.com/e/_DcRL3RT))
 * Raspberry Pi 3/4/Zero ([Official distributors](https://www.raspberrypi.com/resellers/))
 * Thermal fuse 125°C ([AliExpress](https://s.click.aliexpress.com/e/_AtAOQN))
+* M3 heat set inserts - short 3x5x4mm ([AliExpress](https://www.aliexpress.com/item/1005004375436005.html))
 
 Source: [VzBoT-330 BOM](https://github.com/VzBoT3D/VzBoT-Vz330/tree/master/BOM)
 
