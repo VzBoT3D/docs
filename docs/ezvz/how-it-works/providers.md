@@ -1,11 +1,8 @@
 ---
 layout: default
 title: Provider guide
-parent: How it works - EzVz
-has_toc: false
-nav_order: 2
-has_children: false
-permalink: /ezvz/how_to/providers
+parent: How it works
+grand_parent: EzVz
 ---
 
 # Step by Step Tutorial - Providers

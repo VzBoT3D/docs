@@ -2,7 +2,7 @@
 layout: default
 title: Vz330 - Mellow Kit
 has_toc: false
-nav_order: 4
+nav_order: 5
 has_children: true
 permalink: /vz330_mellow
 ---
@@ -19,15 +19,6 @@ For guidance on printing the printed parts for this printer, please refer to the
 
 We advice to build the printer in the following order:
 
-<<<<<<< Updated upstream
-0. [Kit contents](/vz330_mellow/kit_contents)
-1. /
-2. [Frame](/vz330_mellow/frame)
-3. [Z-Assembly & Bed](/vz330_mellow/z_assembly)
-4. [X/Y Gantry](/vz330_mellow/gantry)
-5. [Bottom and rear panels](/vz330_mellow/bottom_panels)
-6. [Electronics](/vz330_mellow/electronics)
-=======
 0. [Inspect kit contents](/vz330_mellow/kit_contents)
 1. /
 2. [Build the frame](/vz330_mellow/frame)
@@ -35,7 +26,6 @@ We advice to build the printer in the following order:
 4. [X/Y Gantry](/vz330_mellow/gantry)
 5. [Bottom and rear panels](/vz330_mellow/bottom_panels)
 6. [The electronics](/vz330_mellow/electronics)
->>>>>>> Stashed changes
 7. [Fume extractor](/vz330_mellow/fume_extractor)
 8. [Side panels & RSCS](/vz330_mellow/rscs)
 9. [Top hat and doors](/vz330_mellow/top_cover)

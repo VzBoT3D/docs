@@ -2,7 +2,7 @@
 layout: default
 title: Vz235 - Mellow Kit
 has_toc: false
-nav_order: 6
+nav_order: 7
 has_children: true
 permalink: /vz235_mellow
 redirect_from:
@@ -25,11 +25,11 @@ On how to print the files for this printer please refer to [print settings](../g
 
 We advice to build the printer in the following order:
 
-1. [Frame](./vz235_alu/frame)
-2. [Z - Assembly & Bed](./vz235_alu/z_assembly)
-3. [Gantry](./vz235_alu/gantry)
-4. [Bottom and rear panel](./vz235_alu/bottom_panels)
-5. [Fume extractor](./vz235_alu/fume_extractor)
-6. [Electronics](./vz235_alu/electronics)
-7. [Side panels + RSCS](./vz235_alu/rscs)
-8. [Top cover and doors panel](./vz235_alu/top_cover)
+1. [Frame](/vz235_mellow/frame)
+2. [Z-Assembly & Bed](/vz235_mellow/z_assembly)
+3. [Gantry](/vz235_mellow/gantry)
+4. [Bottom and rear panel](/vz235_mellow/bottom_panels)
+5. [Fume extractor](/vz235_mellow/fume_extractor)
+6. [Electronics](/vz235_mellow/electronics)
+7. [Side panels + RSCS](/vz235_mellow/rscs)
+8. [Top cover and doors panel](/vz235_mellow/top_cover)

@@ -1,11 +1,8 @@
 ---
 layout: default
 title: Customer guide
-parent: How it works - EzVz
-has_toc: false
-nav_order: 1
-has_children: false
-permalink: /ezvz/how_to/customers
+parent: How it works
+grand_parent: EzVz
 ---
 
 # Step by Step Tutorial - Customers
