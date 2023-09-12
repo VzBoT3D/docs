@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3. Gantry
-parent: VzBoT235 - Printed Version
+parent: Vz235 Printed
 has_toc: false
 nav_order: 3
 has_children: true

@@ -2,7 +2,7 @@
 layout: default
 title: 3.2(B) Secondary motor mounts/Idlers (AWD)
 parent: 3. Gantry
-grand_parent: VzBoT235 - Printed Version
+grand_parent: Vz235 Printed
 has_toc: false
 nav_order: 2
 has_children: false

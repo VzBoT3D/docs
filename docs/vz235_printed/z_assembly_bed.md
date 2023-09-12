@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2. Z - Assembly & Bed
-parent: VzBoT235 - Printed Version
+parent: Vz235 Printed
 has_toc: false
 nav_order: 2
 has_children: false
@@ -14,7 +14,7 @@ permalink: /vz235_printed/z_assembly
 
 ![Z Overview](../assets/images/manual/vz235_printed/z_assembly/overview.png)
 
-The proper alignment procedure of the VZ235 is the same as on the VZ330 only difference is the length of the alignment tools. Make sure to check out the YouTube video explaining how to align your Z-assembly, so it is both smooth and lines up with the possible travel of the printhead.
+The proper alignment procedure of the Vz235 is the same as on the Vz330 only difference is the length of the alignment tools. Make sure to check out the YouTube video explaining how to align your Z-assembly, so it is both smooth and lines up with the possible travel of the printhead.
 
 ### Video tutorial
 
@@ -42,7 +42,7 @@ The proper alignment procedure of the VZ235 is the same as on the VZ330 only dif
 | 232mm 2020 extrusion                | 2        | -                                                         |
 | 300mm leadscrew T8                  | 2        | -                                                         |
 | Leadscrew nut                       | 2        | -                                                         |
-| 300mm 10mm smooth rod               | 4        | Optional size, also supports 8 and 12mm as found on VZ330 |
+| 300mm 10mm smooth rod               | 4        | Optional size, also supports 8 and 12mm as found on Vz330|
 | LMU10LUU bearing                    | 4        | -                                                         |
 | 608-2RS bearing                     | 4        | -                                                         |
 | GT2 40T 8mm pulley                  | 2        | -                                                         |

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4. Bottom and rear panels
-parent: VzBoT235 - Aluminium Version
+parent: Vz235 Aluminium
 has_toc: false
 nav_order: 4
 has_children: false
@@ -33,7 +33,7 @@ A full panel kit is available at F3D-racing’s shop. We recommend getting that 
 
 | File name                           | Amount to print |
 | ----------------------------------- | --------------- |
-| [VzBoT Foot][]                      | 4               |
+| [VzBot Foot][]                      | 4               |
 | [Foot scalable spacer][] (optional) | 4               |
 
 ### Step 1
@@ -54,5 +54,5 @@ Mount the feet and all hardware to the bottom panel. Next up mount the bottom pa
 
 ![Step 3](../assets/images/manual/vz235_printed/panels_1/step_3.png)
 
-[VzBoT Foot]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
+[VzBot Foot]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
 [Foot scalable spacer]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl

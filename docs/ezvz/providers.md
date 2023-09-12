@@ -32,7 +32,7 @@ At the current state of EzVz there is no algorithm which determines which provid
 
 ## Payment
 
-The VzBoT team and server is not responsible for the payment process between the provider and buyer. Both parties need to agree on that before an order can be finished. We only provide fixed prices for each kit, calculated using an open calculator.
+The VzBot team and server is not responsible for the payment process between the provider and buyer. Both parties need to agree on that before an order can be finished. We only provide fixed prices for each kit, calculated using an open calculator.
 
 ## Profit
 

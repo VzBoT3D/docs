@@ -1,18 +1,18 @@
 ---
 layout: default
-title: VZ330 Printed Parts
+title: Vz330 Printed Parts
 has_toc: true
 permalink: /vz330_printed/printed_parts/
-parent: VzBoT330 - Printed Version
+parent: Vz330 Printed
 ---
 
-# VzBoT-330 Printed parts
+# VzBot 330 Printed parts
 
 Printed parts parameters such as weight and volume are based on printing settings used for the [EzVz programme](/EzVz/).
 
 ## Printing settings
 
-The general printing settings recommended for VzBoT-330 parts are as follows:
+The general printing settings recommended for VzBot 330 parts are as follows:
 
 | Setting                    | Recommended value                                 |
 | -------------------------- | ------------------------------------------------- |

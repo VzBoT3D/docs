@@ -38,7 +38,7 @@ List of resellers (this will be updated as the Goliath becomes available). Liste
   - [Print3Dshop.org](https://print3dshop.org/)
   - [Provok3D](https://provok3d.com/vzbot-2/?v=0a10a0b3e53b)
 
-### Tips for VzBoT Alu printhead
+### Tips for VzBot Alu printhead
 
 - There are 3 positions you can use for the heatblock since there are 3 screws/standoffs. So you can rotate the heatblock to your need
 - On the Vz-Printhead, you can either send the nichrome wire to the back, under the printhead, or, send it on the right or left side in the front. Sending to the right will keep the "natural" bend of the wire.

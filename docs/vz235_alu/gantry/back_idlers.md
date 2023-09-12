@@ -2,7 +2,7 @@
 layout: default
 title: 3.2(B) 2WD Rear idler mounts
 parent: 3. Gantry
-grand_parent: VzBoT235 - Aluminium Version
+grand_parent: Vz235 Aluminium
 has_toc: false
 nav_order: 3
 has_children: false

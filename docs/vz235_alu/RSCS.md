@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 7. Side panels + RSCS
-parent: VzBoT235 - Aluminium Version
+parent: Vz235 Aluminium
 has_toc: false
 nav_order: 7
 has_children: false

@@ -1,19 +1,19 @@
 ---
 layout: default
-title: VzBoT330 - Mellow Kit
+title: Vz330 Mellow
 has_toc: false
 nav_order: 4
 has_children: true
 permalink: /vz330_mellow
 ---
 
-# VzBoT 330 - Mellow Kit
+# VzBot 330 - Mellow Kit
 
 ![Overview](/assets/images/manual/vz330_mellow/overview.png)
 
-The VzBot-330 is the original VzBoT printer and has been in development since 2020. It is a high speed moderately sized 3D-printer based on parts of the TronXY XS5(A) CoreXY printer.
+The VzBot 330 is the original VzBot printer and has been in development since 2020. It is a high speed moderately sized 3D-printer based on parts of the TronXY XS5(A) CoreXY printer.
 
-While the VzBoT-330 design may be built around the popular TronXY XS5(A), it is not restricted to this size and can be scaled according to the individual needs of the builder.
+While the VzBot 330 design may be built around the popular TronXY XS5(A), it is not restricted to this size and can be scaled according to the individual needs of the builder.
 
 For guidance on printing the printed parts for this printer, please refer to the [print settings guide](/general/misc-info/print-settings).
 

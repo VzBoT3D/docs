@@ -2,7 +2,7 @@
 layout: default
 title: 3.4 Y-gantry rails, X-gantry and idlers
 parent: 3. Gantry
-grand_parent: VzBoT235 - Printed Version
+grand_parent: Vz235 Printed
 has_toc: false
 nav_order: 4
 has_children: false

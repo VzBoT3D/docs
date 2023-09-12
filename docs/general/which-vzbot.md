@@ -4,7 +4,7 @@ There are some subtle differences between the two main printers under the VzBot 
 
 **Vz330:**  
 [Vz330 - CNC Aluminium Mellow kit][Vz330]
-[Vz330 - Printed version (self-sourced)][Vz330_printed]
+[Vz330 Printed (self-sourced)][Vz330_printed]
 
 **Vz235:**  
 [Vz235 - CNC Aluminium Mellow kit Mellow kit][Vz235]

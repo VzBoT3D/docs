@@ -1,13 +1,13 @@
 ---
 layout: default
-title: VzBoT235 - Aluminium Version
+title: Vz235 Aluminium
 has_toc: false
 nav_order: 6
 has_children: true
 permalink: /vz235_alu
 ---
 
-# VzBoT235 - Aluminium Version
+# VzBot 235 - Aluminium Version
 
 ![Overview](../assets/images/manual/vz235_alu/alu_preview.png)
 
@@ -16,7 +16,7 @@ relatively small build volume, it has reduced weight and a smaller form factor. 
 is built around the popular Creality Ender 3 bed, but is not limited to this size: the
 frame can be scaled up or down to fit the individual builder's requirements.
 
-This build differs from the [Vz235 - Printed Version](../vz235_printed) just in the part that gantry and z-assembly is replaced by manufactured aluminium pieces.
+This build differs from the [VzBot 235 - Printed Version](../vz235_printed) just in the part that gantry and z-assembly is replaced by manufactured aluminium pieces.
 
 On how to print the files for this printer please refer to [print settings](../general/misc-info/print-settings)
 

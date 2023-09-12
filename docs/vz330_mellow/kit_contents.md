@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kit contents
-parent: VzBoT330 - Mellow Kit
+parent: Vz330 - Mellow Kit
 has_toc: false
 nav_order: 0
 has_children: false
@@ -250,7 +250,7 @@ The following parts are included in the kit:
 * Raspberry Pi 3/4/Zero ([Official distributors](https://www.raspberrypi.com/resellers/))
 * Thermal fuse 125°C ([AliExpress](https://s.click.aliexpress.com/e/_AtAOQN))
 
-Source: [VzBoT-330 BOM](https://github.com/VzBoT3D/VzBoT-Vz330/tree/master/BOM)
+Source: [VzBot 330 BOM](https://github.com/VzBoT3D/VzBoT-Vz330/tree/master/BOM)
 
 ## STLs
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5. Fume extractor
-parent: VzBoT330 - Printed Version
+parent: Vz330 Printed
 has_toc: false
 nav_order: 5
 has_children: false

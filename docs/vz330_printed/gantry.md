@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3. X/Y Gantry & Print head
-parent: VzBoT330 - Printed Version
+parent: Vz330 Printed
 has_toc: false
 nav_order: 3
 has_children: false

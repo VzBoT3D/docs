@@ -2,7 +2,7 @@
 layout: default
 title: 6.2 Mellow Super8 v1.3
 parent: 6. Electronics
-grand_parent: VzBoT235 - Aluminium Version
+grand_parent: Vz235 Aluminium
 has_toc: false
 nav_order: 2
 has_children: false

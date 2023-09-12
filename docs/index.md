@@ -21,7 +21,7 @@ table, th, td {
 }
 </style>
 
-# Welcome to the VzBoT documentation
+# Welcome to the VzBot documentation
 
 | | |
 |-|-|
@@ -30,5 +30,5 @@ table, th, td {
 
 | | |
 |-|-|
-| **VzBot 235 - Printed Version** | **VzBot 235 - Aluminium Version** |
-| [![VzBot 235 - Printed Version](./assets/images/manual/vz235_printed/printed_preview.png)](./vz235_printed) | [![VzBot 235 - Aluminium Version](./assets/images/manual/vz235_alu/alu_preview.png)](./vz235_alu) |
+| **Vz235 - Printed Version** | **VzBot 235 - Aluminium Version** |
+| [![Vz235 - Printed Version](./assets/images/manual/vz235_printed/printed_preview.png)](./vz235_printed) | [![VzBot 235 - Aluminium Version](./assets/images/manual/vz235_alu/alu_preview.png)](./vz235_alu) |

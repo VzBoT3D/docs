@@ -24,9 +24,9 @@ As a provider you have to follow a certain given set of rules:
 
 1. Only accept orders you are able to finish in the near future.
 2. Don't accept an order if you are not honestly interested in finishing it.
-3. Only use filaments which are authorized by the VzBoT Team.
+3. Only use filaments which are authorized by the VzBot Team.
 4. Use the prices we determined on the kits.
-5. If for any reason there should be an issue with the buyer, let the VzBoT team know, instead of trying to handle it by yourself.
+5. If for any reason there should be an issue with the buyer, let the VzBot team know, instead of trying to handle it by yourself.
 6. Make sure all your parts that you send match your usual EzVz quality.
 
 ## Buyers
@@ -35,4 +35,4 @@ As a buyer you need to follow a certain given set of rules:
 
 1. Only create orders which should be completed by an provider. Dont create orders for fun.
 2. Use correct information on your orders.
-3. If any problems in the process occurs, reach out to the VzBoT team.
+3. If any problems in the process occurs, reach out to the VzBot team.

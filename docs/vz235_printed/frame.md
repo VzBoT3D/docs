@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1. Frame
-parent: VzBoT235 - Printed Version
+parent: Vz235 Printed
 has_toc: false
 nav_order: 1
 has_children: false

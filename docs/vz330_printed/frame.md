@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1. Frame
-parent: VzBoT330 - Printed Version
+parent: Vz330 Printed
 has_toc: false
 nav_order: 1
 has_children: false
@@ -16,7 +16,7 @@ The frame is assembled through a combination of blind joints and corner brackets
 
 ⚠️ Build your printer on a flat, even surface such as a granite countertop or glass table surface. This will help with keeping the frame square and aligned.
 
-![VzBoT 330 Frame overview](./images/vz330_frame-overview.jpg)
+![VzBot 330 Frame overview](./images/vz330_frame-overview.jpg)
 
 ## Parts and materials
 

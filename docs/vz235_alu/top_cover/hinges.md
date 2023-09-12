@@ -2,7 +2,7 @@
 layout: default
 title: 8.2 Front doors hinges & doors
 parent: 8. Top cover and doors panels
-grand_parent: VzBoT235 - Aluminium Version
+grand_parent: Vz235 Aluminium
 has_toc: false
 nav_order: 2
 has_children: false

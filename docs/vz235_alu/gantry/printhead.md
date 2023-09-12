@@ -2,7 +2,7 @@
 layout: default
 title: 3.3 Printhead
 parent: 3. Gantry
-grand_parent: VzBoT330 - Mellow Kit
+grand_parent: Vz330 - Mellow Kit
 has_toc: false
 nav_order: 4
 has_children: false
@@ -22,7 +22,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 
 | Part | Location | Info |
 |:-|:-|:-|
-| M3 x 6mm <br/> Quantity: 4 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 | |
+| M3 x 6mm <br/> Quantity: 4 | **Layer**: 3 <br/> **Box**: VZ 330 Box 6 | |
 | TODO | |
 
 ## STLs

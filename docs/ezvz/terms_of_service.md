@@ -40,7 +40,7 @@ Welcome to EzVz, a 3D-printing service ("Service") provided by EzVz ("we," "us,"
 
     Intellectual Property of the 3D-designs, derived works and printed parts:
 
-    1. Ownership: All content and materials available on the Service, including but not limited to text, graphics, logos, images, and software, are the property of the VzBoT project or its licensors and are protected by intellectual property laws.
+    1. Ownership: All content and materials available on the Service, including but not limited to text, graphics, logos, images, and software, are the property of the VzBot project or its licensors and are protected by intellectual property laws.
     2. License: By using the Service, you are granted a limited, non-exclusive, non-transferable license to access and use the Service for your personal, non-commercial use. You may not modify, reproduce, distribute, or create derivative works based on the Service without our prior written consent.
 
 6. ## Disclaimer of Warranty

@@ -2,7 +2,7 @@
 layout: default
 title: 3.5 Belt routing and tensioning (AWD & 2WD)
 parent: 3. Gantry
-grand_parent: VzBoT235 - Aluminium Version
+grand_parent: Vz235 Aluminium
 has_toc: false
 nav_order: 6
 has_children: false

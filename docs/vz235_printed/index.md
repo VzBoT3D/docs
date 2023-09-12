@@ -1,13 +1,13 @@
 ---
 layout: default
-title: VzBoT235 - Printed Version
+title: Vz235 Printed
 has_toc: false
 nav_order: 5
 has_children: true
 permalink: /vz235_printed
 ---
 
-# VzBoT235 - Printed Version Version
+# VzBot 235 - Printed Version
 
 ![Overview](../assets/images/manual/vz235_printed/printed_preview.png)
 

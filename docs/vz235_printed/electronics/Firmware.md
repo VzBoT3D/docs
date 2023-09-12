@@ -2,7 +2,7 @@
 layout: default
 title: 6.3 Firmware Setup
 parent: 6. Electronics
-grand_parent: VzBoT235 - Printed Version
+grand_parent: Vz235 Printed
 has_toc: false
 nav_order: 3
 has_children: false

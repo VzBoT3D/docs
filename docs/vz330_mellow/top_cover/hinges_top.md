@@ -2,7 +2,7 @@
 layout: default
 title: 9.1 Top Cover hinges
 parent: 9. Top cover and doors panels
-grand_parent: VzBoT330 - Mellow Kit
+grand_parent: Vz330 - Mellow Kit
 has_toc: false
 nav_order: 1
 has_children: false
@@ -51,7 +51,7 @@ Connect the middle part on both sides to your lid with the 5mm shaft.
 
 ### Step 4
 
-Place the lid on top of your VzBoT and slot the middle pieces in to the bottom parts and finally tighten the bottom part
+Place the lid on top of your VzBot and slot the middle pieces in to the bottom parts and finally tighten the bottom part
 
 ### Step 5
 

@@ -14,11 +14,11 @@ Before we show you an in depth tutorial on how to use the EzVz Program, it is ma
 
 Please see the dedicated [Customer guide](/ezvz/how_to/customers) and [Provider guide](/ezvz/how_to/providers) for more in-depth information and guidelines.
 
-The commands and/or bot interactions are all meant to be ran or interacted with from the [#order](https://discordapp.com/channels/829828765512106054/1101218598858543205) channel in the EZVZ ORDERS channels category, to be found in the VzBoT Discord community.
+The commands and/or bot interactions are all meant to be ran or interacted with from the [#order](https://discordapp.com/channels/829828765512106054/1101218598858543205) channel in the EZVZ ORDERS channels category, to be found in the VzBot Discord community.
 
 ## Introduction
 
-EzVz is a programme where customers can order professionally and qualitatively produced printed parts for the VzBoT printers. 
+EzVz is a programme where customers can order professionally and qualitatively produced printed parts for the VzBot printers. 
 
 EzVz utilizes the principle of order picking. This means that customers (also often called buyers) can submit their order to a (semi-)public queue (Discord category called EzVz-Orders) that can be read out by registered EzVz providers.  
 These orders also relay some basic personal information required for providers to complete your order:

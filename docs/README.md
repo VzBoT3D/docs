@@ -1,2 +1,2 @@
 # docs
-VzBoT Documentation
+VzBot Documentation

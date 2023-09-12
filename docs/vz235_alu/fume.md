@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5. Fume extractor
-parent: VzBoT235 - Aluminium Version
+parent: Vz235 Aluminium
 has_toc: false
 nav_order: 5
 has_children: false

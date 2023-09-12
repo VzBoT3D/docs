@@ -2,7 +2,7 @@
 layout: default
 title: 2.4 Z-Motor bracket
 parent: 2. Z - Assembly & Bed
-grand_parent: VzBoT235 - Aluminium Version
+grand_parent: Vz235 Aluminium
 has_toc: false
 nav_order: 4
 has_children: false

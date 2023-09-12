@@ -2,7 +2,7 @@
 layout: default
 title: 3.5 Z-Switch & bed chain
 parent: 3. Z - Assembly & Bed
-grand_parent: VzBoT330 - Mellow Kit
+grand_parent: Vz330 - Mellow Kit
 has_toc: true
 nav_order: 5
 has_children: false
