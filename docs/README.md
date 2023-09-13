@@ -1,2 +1,0 @@
-# docs
-VzBoT Documentation
