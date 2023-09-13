@@ -16,7 +16,7 @@ permalink: /vz235_printed/frame
 
 The frame is assembled through a combination of blind joints, corner brackets and blind corner brackets. The corner brackets are to help stiffen up the frame and are optional, though we highly recommend using them on every possible corner for best results.
 
-For detailed informations on how to assemble blind joints visit this [page](../general/misc-info/blind-joints)
+For detailed informations on how to assemble blind joints visit [this page](/general/misc-info/blind-joints)
 
 ## BOM
 
@@ -44,7 +44,7 @@ For detailed informations on how to assemble blind joints visit this [page](../g
 
 > {: .highlight }
 >
-> To see the recommended print settings please refere [here](../general/misc-info/print-settings).
+> To see the recommended print settings please refer to the [Print Settings guide](/general/misc-info/print-settings).
 
 ### Step 1
 
