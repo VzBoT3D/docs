@@ -14,7 +14,7 @@ permalink: /vz235_mellow/gantry/y_endstop
 Mounting the Y-axis (mechanical) endstop switch
 
 ![Y_Switch_mount](../../../assets/images/manual/vz235_mellow/gantry/Y_endstop_Switch.png)
-![Y_Switch_excerpt](../../../assets/images/manual/vz235_mellow/gantry/escerpt_endstop_y.png)
+![Y_Switch_excerpt](../../../assets/images/manual/vz235_mellow/gantry/excerpt_endstop_y.png)
 
 ## BOM
 

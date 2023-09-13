@@ -181,7 +181,7 @@ Now were going into depth what to plug in where on the Motherboard.
 
 Here's a quick overview of how a final setup could look depending on the options you have on your machine.
 
-![Board Setup](../../assets/images/manual/vz235_printed/electronics/board_setup.jpg)
+![Board Setup](../../assets/images/manual/vz235_printed/electronics/Board_Setup.jpg)
 
 Here's a pinout for the Motherboard. We're gonna be using this to find where we need to plug in things.
 
@@ -279,4 +279,4 @@ To also be able to connect the Pi to the motherboard for Data we plugin a USB to
 
 Once everything is hooked up it might look something like this:
 
-![end result](../../assets/images/manual/vz235_printed/electronics/VZ235_Overview.png)
+![end result](../../assets/images/manual/vz235_printed/electronics/Vz235_Overview)
