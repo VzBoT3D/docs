@@ -1,3 +1,15 @@
 _site/
+CNAME
+docs/CNAME
+
+# Bundler / Ruby / Jekyll
 .bundle/config
 vendor/bundle/
+.sass-cache
+
+# VSCode user-specific files
+.vscode/settings.json
+
+# MacOS metadata file
+**/.DS_Store 
+

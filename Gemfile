@@ -10,8 +10,10 @@ source "https://rubygems.org"
 # Happy Jekylling!
 #gem "jekyll", "~> 3.9.0"
 
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
+# This is the theme.
 gem "just-the-docs"
+
+gem "kramdown-parser-gfm"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -19,12 +21,16 @@ gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
+  #gem "jekyll-feed", "~> 0.6"
   gem "jekyll-remote-theme"
   gem 'jekyll-toc'
+  gem 'jekyll-spaceship'
+  gem 'jekyll_bootstrap5_tabs'
+  gem 'jekyll-redirect-from'
 end
 
 gem "jekyll-include-cache"
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do

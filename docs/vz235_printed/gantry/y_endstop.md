@@ -2,7 +2,7 @@
 layout: default
 title: 3.6 Y-axis endstop mount
 parent: 3. Gantry
-grand_parent: VzBoT235 - Printed Version
+grand_parent: Vz235 - Printed Version
 has_toc: false
 nav_order: 8
 has_children: false
@@ -32,8 +32,6 @@ Mounting the Y-axis (mechanical) endstop switch
 | ----------------- | -------- |
 | [Y Endstop Mount] | 1        |
 
-[Y Endstop Mount]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Gantry/Misc/Y%20switch%20mount.stl
-
 ## Instructions
 
 1. Solder the Y-axis endstop wires to the Common and Normally Closed (NC) pins of the microswitch. Use heatshrink to insulate the contacts.  
@@ -55,3 +53,5 @@ Mounting the Y-axis (mechanical) endstop switch
     The Y-axis endstop is mounted front-left, immediately behind the left-side motor mount.
 
     ![Y endstop location](../../assets/images/manual/vz235_printed/gantry/endstop_y_location.png)
+
+[Y Endstop Mount]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Gantry/Misc/Y%20switch%20mount.stl

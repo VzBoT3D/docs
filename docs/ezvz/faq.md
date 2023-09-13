@@ -2,17 +2,14 @@
 layout: default
 title: FAQ
 parent: EzVz
-has_toc: false
-nav_order: 2
-has_children: false
-permalink: /ezvz/faq
+nav_order: 0
 ---
 
 ## Frequently Asked Questions
 
 ### Where do I create an order?
 
-Orders are handled through an automated system hosted on the VzBoT Community Discord server. Please join the [VzBoT Discord server](https://discord.gg/vzbot) and see the [Customer guide](/ezvz/how_to/customers) for steps on creating an order.
+Orders are handled through an automated system hosted on the VzBoT Community Discord server. Please join the [VzBoT Discord server](https://discord.gg/vzbot) and see the [Customer guide](/ezvz/how-it-works/customers) for steps on creating an order.
 
 ### How does payment work?
 
