@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4. Bottom and rear panels
-parent: VzBoT235 - Aluminium Version
+parent: Vz235 - Aluminium Version
 has_toc: false
 nav_order: 4
 has_children: false

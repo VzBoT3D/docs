@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 6. Electronics
-parent: VzBoT330 - Mellow Kit
+parent: Vz330 - Mellow Kit
 has_toc: false
 nav_order: 6
 has_children: true

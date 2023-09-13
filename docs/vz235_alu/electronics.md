@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 6. Electronics
-parent: VzBoT235 - Aluminium Version
+parent: Vz235 - Aluminium Version
 has_toc: false
 nav_order: 6
 has_children: true

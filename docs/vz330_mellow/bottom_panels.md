@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5. Bottom and rear panels
-parent: VzBoT330 - Mellow Kit
+parent: Vz330 - Mellow Kit
 has_toc: false
 nav_order: 5
 has_children: false

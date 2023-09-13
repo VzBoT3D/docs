@@ -2,7 +2,7 @@
 layout: default
 title: 2.3 Top rod mounts
 parent: 2. Z - Assembly & Bed
-grand_parent: VzBoT235 - Aluminium Version
+grand_parent: Vz235 - Aluminium Version
 has_toc: false
 nav_order: 3
 has_children: false

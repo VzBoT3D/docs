@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VzBoT330 - Printed Version
+title: Vz330 - Printed Version
 has_toc: false
 nav_order: 4
 has_children: true

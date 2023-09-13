@@ -2,7 +2,7 @@
 layout: default
 title: 2.2 Bed Assembly
 parent: 2. Z - Assembly & Bed
-grand_parent: VzBoT235 - Aluminium Version
+grand_parent: Vz235 - Aluminium Version
 has_toc: false
 nav_order: 2
 has_children: false

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VzBoT235 - Aluminium Version
+title: Vz235 - Aluminium Version
 has_toc: false
 nav_order: 6
 has_children: true

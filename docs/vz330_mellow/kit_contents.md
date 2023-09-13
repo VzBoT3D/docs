@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kit contents
-parent: VzBoT330 - Mellow Kit
+parent: Vz330 - Mellow Kit
 has_toc: false
 nav_order: 0
 has_children: false
