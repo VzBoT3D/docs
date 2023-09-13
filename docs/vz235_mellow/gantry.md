@@ -16,6 +16,10 @@ redirect_from:
 
 ![Overview](../../../assets/images/manual/vz235_mellow/gantry/overview.png)
 
-Video with instructions can be found here [![Youtube video](../../../assets/images/manual/vz235_mellow/gantry/Gantry-video.jpg)](https://youtu.be/lP59PClF_PU/)
-
 The Gantry is configurable for an AWD version and a 2WD version. The only difference between the two configurations is the rear idler mounts. On AWD they have an additional Nema 17 integrated in the design.
+
+## Video tutorial
+
+The video tutorial below depicts the AWD configuration, but may still be useful to those building a 2WD kit.
+
+![Vz235 Build Part 3: The Gantry](https://www.youtube.com/embed/lP59PClF_PU)

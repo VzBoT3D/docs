@@ -19,8 +19,7 @@ Before tightening one needs to loosen the set screws on both of the rear motor p
 
 In the sample pinter.cfg file there is a macro included that enables all XY motors for synchronizing the belts. Make sure to have the pulleys and stepper shafts in a good position so they can be reached easily.
 
-## Videos
+## Video guides
 
-[![Build tensioning](../../assets/images/manual/vz235_printed/gantry/belt_tentioning_video.png)](https://www.youtube.com/watch?v=qNMXW6MUV5E&t=401s "Build tensioning")
-
-[![Build routing](../../assets/images/manual/vz235_printed/gantry/belt_routing_video.png)](https://www.youtube.com/watch?v=Ibi27Toh-pg&t=2s "Build routing")
+![Build tensioning](https://www.youtube.com/watch?v=qNMXW6MUV5E&t=401s)
+![Build routing](https://www.youtube.com/watch?v=Ibi27Toh-pg)

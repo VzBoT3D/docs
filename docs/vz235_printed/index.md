@@ -28,3 +28,7 @@ We advice to build the printer in the following order:
 6. [Electronics](./vz235_printed/electronics)
 7. [Side panels + RSCS](./vz235_printed/rscs)
 8. [Top cover and doors panel](./vz235_printed/top_cover)
+
+## Video tutorial
+
+[**Vz235 AWD** by Vez3D](/video-tutorials/vz235-awd/){: .btn .doc-link } 

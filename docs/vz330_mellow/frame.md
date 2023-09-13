@@ -43,8 +43,7 @@ permalink: /vz330_mellow/frame
 
 ## Tips and Tricks
 
-|:-|
-| [![Squaring a frame](../assets/images/manual/vz330_mellow/frame/frame_video.png)](https://www.youtube.com/embed/GSg7RDLgYV0 "Squaring a frame") |
+![Building Your Frame Square and True - Setup for sucess!](https://www.youtube.com/embed/GSg7RDLgYV0)
 
 ## Step 1
 
