@@ -1,10 +1,7 @@
 ---
 layout: default
 title: Maintenance
-has_toc: true
-nav_order: 2
-has_children: false
-permalink: /general/maintenance
+parent: misc-info # temporarily here to clean up the sidebar links
 ---
 
 # Printer maintenance

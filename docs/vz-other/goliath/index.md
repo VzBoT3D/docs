@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Goliath hot-end
+parent: Vz-Other
 has_toc: true
 has_children: true
 permalink: /vz-other/goliath
@@ -12,7 +13,11 @@ The Goliath is a high-flow hot-end designed for high-speed printing.
 
 The mounting pattern for the Goliath matches that of a Dragon hot end, and as such should be compatible with most printers compatible with the Dragon hot end.
 
-[**Goliath** | VzBoT3D/Goliath]
+[**Goliath** \| VzBoT3D/Goliath]
+
+## Assembly
+
+The assembly instructions are in the sidebar, or on [this page](/vz-other/goliath/assembly)
 
 ## Resellers
 
@@ -41,8 +46,6 @@ List of resellers (this will be updated as the Goliath becomes available). Liste
 ### Tips for VzBoT Alu printhead
 
 - There are 3 positions you can use for the heatblock since there are 3 screws/standoffs. So you can rotate the heatblock to your need
-- On the Vz-Printhead, you can either send the nichrome wire to the back, under the printhead, or, send it on the right or left side in the front. Sending to the right will keep the "natural" bend of the wire.
-
 - You can add a heat insulation sleeve if you like to give more protection of the nichrome wire that sticks out:
 - If you run the Vz-Hextrudort CNC version with the Vz-Printhead, the PTFE tube between Goliath and Hextrudort should be 22mm long
 - Make sure everything is tighten properly and once you have it mounted and ready, do 2-3 heat cycle then tight the nozzle to between 1.2-1.4 nm (If you do not have a torque wrench, make sure you do not overtight the nozzle to damage thread on the copper heat block)
@@ -53,6 +56,8 @@ List of resellers (this will be updated as the Goliath becomes available). Liste
 - <https://s.click.aliexpress.com/e/_DnpvQbp>
 
 ### Example showing it on the right side
+
+Please make sure to read the [Assembly instructions](/vz-other/goliath/assembly) before proceeding with any wire management
 
 ![Image](https://user-images.githubusercontent.com/37383368/211330774-17573318-2ac8-4077-9e59-f4db8dd18e41.png)
 
@@ -66,4 +71,4 @@ Example showing it in the back, going under the printhead.
 ![20221107_213040](https://user-images.githubusercontent.com/37383368/207979109-92774b52-75a1-4881-99ba-b982ff06326d.jpg)
 ![20221107_220011](https://user-images.githubusercontent.com/37383368/207979116-aab0bb29-bc96-4824-a3e9-ac4392a51665.jpg)
 
-[**Goliath** | VzBoT3D/Goliath]: (https://github.com/VzBoT3D/Goliath)
+[**Goliath** \| VzBoT3D/Goliath]: (https://github.com/VzBoT3D/Goliath)

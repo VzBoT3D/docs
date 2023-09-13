@@ -2,7 +2,7 @@
 layout: default
 title: Vz235 - Printed Version
 has_toc: false
-nav_order: 5
+nav_order: 6
 has_children: true
 permalink: /vz235_printed
 ---

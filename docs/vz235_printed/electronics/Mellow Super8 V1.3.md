@@ -60,15 +60,17 @@ Here's a view of the board with all the plugs still not filled. It's important t
 
 For SPI you need to put bridges on the front 2 rows of pins. These are used for the 5160's
 
-![SPI](../../assets/images/manual/vz235_printed/electronics/DSC06346.JPG)
+![SPI](../../assets/images/manual/vz235_printed/electronics/SPI.PNG)
+![SPI diagram](../../assets/images/manual/vz235_printed/electronics/3x3pins_SPI.png)
 
 For UART you need to put the bridge on the second pin from the left and then bridge the front and middle row. These are for the 2209's.
 
-![UART](../../assets/images/manual/vz235_printed/electronics/DSC06348.JPG)
+![UART](../../assets/images/manual/vz235_printed/electronics/UART.PNG)
+![SPI diagram](../../assets/images/manual/vz235_printed/electronics/3x3pins_UART.png)
 
 Next step is to populate all the driver slots that you're gonna use. Here's a example for a AWD setup on 5160's and Z and E on 2209's.
 
-![Filled Board](../../assets/images/manual/vz235_printed/electronics/DSC06351.jpg)
+![Filled Board](../../assets/images/manual/vz235_printed/electronics/XX1YY1ZE-annotated-jumpers.jpg)
 
 ## installing the 5160's
 
@@ -108,7 +110,7 @@ Here is the layout i went with for my machine. it's good to put everything on th
 
 Left is the 24V PSU next to it is the 48V PSU and then the Motherboard and 5160's.
 Bellow that there's a bit of open space for some Wago mounts wich you'll see later then some distribution blocks i use for my AC side. My 2 SSR's a 5V PSU and the Pi is hidden to the right of the 5V PSU.
-![Back Layout](../../assets/images/manual/vz235_printed/electronics/Back_Overview.jpeg)
+![Back Layout](../../assets/images/manual/vz235_printed/electronics/Back_Overview.jpg)
 
 ## Plugging in the 5160's
 
@@ -156,23 +158,23 @@ Next up is our 48V lines.
 
 If using Wago's you run a +V line to the top Wago and a -V to the Bottom Wago. From there we can start distributing it to our 5160's.
 
-![48V setup](../../assets/images/manual/vz235_printed/electronics/48V_Setup.jpeg)
+![48V setup](../../assets/images/manual/vz235_printed/electronics/48V_Setup.jpg)
 
 Plug in a Wire to the +V side of the wago and run it to your 5160. Put it in the Bottom slot like shown in the picture below.
 
 Plug in a wire to the -V side of the Wago and run it to your 5160. Put it in the second slot of the 5160 like shown below.
 
-![5160_48V](../../assets/images/manual/vz235_printed/electronics/5160_48V.jpeg)
+![5160_48V](../../assets/images/manual/vz235_printed/electronics/5160_48V.jpg)
 
 Now do this for all your 5160's like you see down below. That's all the wiring you have to do for 48V.
 
-![5160_48V_complete](../../assets/images/manual/vz235_printed/electronics/5160_48V_Complete.jpeg)
+![5160_48V_complete](../../assets/images/manual/vz235_printed/electronics/5160_48V_Complete.jpg)
 
 One last IMPORTANT step to do is to link your 24V - to your 48V -. Like you see Below i used a piece of wire to connect my 24V Negative Wago to my 48V Negative Wago.
 
 If you forget this step you can have issue's with your 5160's once we try to start using them.
 
-![Negative Link](../../assets/images/manual/vz235_printed/electronics/Negative_Link.jpeg)
+![Negative Link](../../assets/images/manual/vz235_printed/electronics/Negative_Link.jpg)
 
 ## Plugging everything into the board
 
@@ -276,4 +278,4 @@ To also be able to connect the Pi to the motherboard for Data we plugin a USB to
 
 Once everything is hooked up it might look something like this
 
-![end result](../../assets/images/manual/vz235_printed/electronics/VZ235_Overview)
+![end result](../../assets/images/manual/vz235_printed/electronics/Vz235_Overview.png)

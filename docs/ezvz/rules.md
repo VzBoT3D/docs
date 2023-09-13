@@ -2,10 +2,6 @@
 layout: default
 title: Rules
 parent: EzVz
-has_toc: false
-nav_order: 3
-has_children: false
-permalink: /ezvz/rules
 ---
 
 # Rules

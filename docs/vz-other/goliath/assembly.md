@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Goliath Assembly & Disassembly
+title: Goliath Assembly
 parent: Goliath hot-end
-has_toc: true
-has_children: false
+grand_parent: Vz-Other
 permalink: /vz-other/goliath/assembly
 ---
 
-# Assembly & disassembly
+# Assembly
 
 The Goliath is assembled in roughly this order:
 

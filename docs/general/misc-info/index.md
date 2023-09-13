@@ -9,6 +9,6 @@ permalink: /general/misc-info
 
 # General & Miscellaneous info
 
-* [Print Settings](./general/misc-info/print-settings)
-* [Video tutorial](./general/misc-info/video-tutorial)
-* [Blind joints](./general/misc-info/blind-joints)
+* [Print Settings](/general/misc-info/print-settings)
+* [Video tutorial](/general/misc-info/video-tutorial)
+* [Blind joints](/general/misc-info/blind-joints)

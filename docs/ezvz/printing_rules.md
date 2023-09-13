@@ -12,7 +12,7 @@ permalink: /ezvz/print_rules
 
 When applying you need to print a [VzCube](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Print%20Test/VzCube.stl) and show us the pictures of all 6 sides.
 
-You can see the allowed filaments and the required print settings [here](https://docs.vzbot.org/ezvz/filaments).
+You can see the allowed filaments and the required print settings [here](/ezvz/filaments).
 
 ## Forbidden Filaments
 

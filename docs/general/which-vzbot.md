@@ -1,3 +1,10 @@
+---
+title: Which VzBot do I want?
+description: A guided choice on which VzBot printer is best for you
+parent: misc-info # temporarily here to clean up the sidebar links
+---
+
+
 # Which VzBot do I want?
 
 There are some subtle differences between the two main printers under the VzBot umbrella. The Vz235 and Vz330 are both very capable printers.
@@ -35,7 +42,7 @@ Pro's and Cons of the Vz235
 * 👎 Large items might **not fit** the print bed
 <!-- Link References -->
 
-[Vz235]: /vz235_alu/
+[Vz235]: /vz235_mellow/
 [Vz235_printed]: /vz235_printed/
 [Vz330]: /vz330_mellow/
 [Vz330_printed]: /vz330_printed/

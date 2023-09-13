@@ -2,10 +2,6 @@
 layout: default
 title: Stored Data
 parent: EzVz
-has_toc: false
-nav_order: 4
-has_children: false
-permalink: /ezvz/data
 ---
 
 # Your personal data
