@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3. Z - Assembly & Bed
-parent: VzBoT330 - Mellow Kit
+parent: Vz330 - Mellow Kit
 has_toc: false
 nav_order: 3
 has_children: true

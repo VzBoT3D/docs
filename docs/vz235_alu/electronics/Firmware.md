@@ -2,7 +2,7 @@
 layout: default
 title: 6.3 Firmware Setup
 parent: 6. Electronics
-grand_parent: VzBoT235 - Aluminium Version
+grand_parent: Vz235 - Aluminium Version
 has_toc: false
 nav_order: 3
 has_children: false

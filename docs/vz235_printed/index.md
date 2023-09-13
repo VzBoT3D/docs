@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VzBoT235 - Printed Version
+title: Vz235 - Printed Version
 has_toc: false
 nav_order: 5
 has_children: true

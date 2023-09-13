@@ -2,7 +2,7 @@
 layout: default
 title: 6.4 Printer Config
 parent: 6. Electronics
-grand_parent: VzBoT235 - Aluminium Version
+grand_parent: Vz235 - Aluminium Version
 has_toc: false
 nav_order: 4
 has_children: false

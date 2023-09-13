@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4. Gantry
-parent: VzBoT330 - Mellow Kit
+parent: Vz330 - Mellow Kit
 has_toc: false
 nav_order: 4
 has_children: true

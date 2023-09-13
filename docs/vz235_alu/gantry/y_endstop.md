@@ -2,7 +2,7 @@
 layout: default
 title: 3.6 Y-axis endstop mount
 parent: 3. Gantry
-grand_parent: VzBoT235 - Aluminium Version
+grand_parent: Vz235 - Aluminium Version
 has_toc: false
 nav_order: 8
 has_children: false

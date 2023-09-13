@@ -2,7 +2,7 @@
 layout: default
 title: 3.1 Lower rod & leadscrew bracket
 parent: 3. Z - Assembly & Bed
-grand_parent: VzBoT330 - Mellow Kit
+grand_parent: Vz330 - Mellow Kit
 has_toc: false
 nav_order: 1
 has_children: false

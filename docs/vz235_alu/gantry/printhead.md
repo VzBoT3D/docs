@@ -2,7 +2,7 @@
 layout: default
 title: 3.3 Printhead
 parent: 3. Gantry
-grand_parent: VzBoT330 - Mellow Kit
+grand_parent: Vz235 - Aluminium Version
 has_toc: false
 nav_order: 4
 has_children: false

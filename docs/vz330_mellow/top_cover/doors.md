@@ -2,7 +2,7 @@
 layout: default
 title: 9.2 Front doors hinges & doors
 parent: 9. Top cover and doors panels
-grand_parent: VzBoT330 - Mellow Kit
+grand_parent: Vz330 - Mellow Kit
 has_toc: false
 nav_order: 2
 has_children: false

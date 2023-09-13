@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2. Z - Assembly & Bed
-parent: VzBoT235 - Aluminium Version
+parent: Vz235 - Aluminium Version
 has_toc: false
 nav_order: 2
 has_children: true
