@@ -50,11 +50,7 @@ Put the serial here:
 
 Next up we're gonna check if the motors move and if they move to the correct side.
 
-<<<<<<< Updated upstream
-We're gonna do this with the Stepper_buzz command `STEPPER_BUZZ stepper=stepper_`
-=======
-We're gonna do this with the Stepper_buzz command ```STEPPER_BUZZ stepper=stepper_```
->>>>>>> Stashed changes
+We're gonna do this with the Stepper_buzz command `STEPPER_BUZZ stepper=stepper_<your stepper motor>`
 
 ![Stepper_Buzz](../../assets/images/manual/vz235_printed/electronics/Printer_config/Stepper_Buzz.PNG)
 

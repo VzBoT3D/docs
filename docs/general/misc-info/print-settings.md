@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Print Settings
+title: Print settings
 parent: Miscellaneous info
 ---
 
