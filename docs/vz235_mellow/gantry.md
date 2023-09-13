@@ -6,6 +6,8 @@ has_toc: false
 nav_order: 3
 has_children: true
 permalink: /vz235_mellow/gantry
+redirect_from:
+  - /vz235_alu/gantry
 ---
 
 # 3. Gantry

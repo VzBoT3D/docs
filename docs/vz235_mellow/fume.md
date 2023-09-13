@@ -6,6 +6,8 @@ has_toc: false
 nav_order: 5
 has_children: false
 permalink: /vz235_mellow/fume_extractor
+redirect_from:
+  - /vz235_alu/fume_extractor
 ---
 
 # 5. Fume extractor

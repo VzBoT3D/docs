@@ -6,6 +6,8 @@ has_toc: false
 nav_order: 4
 has_children: false
 permalink: /vz235_mellow/panels_part1
+redirect_from:
+  - /vz235_alu/panels_part1
 ---
 
 # 4. Bottom and rear panels

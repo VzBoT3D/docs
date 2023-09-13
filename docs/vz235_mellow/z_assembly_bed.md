@@ -6,6 +6,8 @@ has_toc: false
 nav_order: 2
 has_children: true
 permalink: /vz235_mellow/z_assembly
+redirect_from:
+  - /vz235_alu/z_assembly
 ---
 
 # 2. Z - Assembly & Bed
