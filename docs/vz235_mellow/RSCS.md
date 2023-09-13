@@ -6,6 +6,8 @@ has_toc: false
 nav_order: 7
 has_children: false
 permalink: /vz235_mellow/rscs
+redirect_from:
+  - /vz235_alu/rscs
 ---
 
 # 7. Side panels + RSCS

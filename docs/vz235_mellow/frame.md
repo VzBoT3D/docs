@@ -6,6 +6,8 @@ has_toc: false
 nav_order: 1
 has_children: false
 permalink: /vz235_mellow/frame
+redirect_from:
+  - /vz235_alu/frame
 ---
 
 # 1. Frame
