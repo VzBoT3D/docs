@@ -13,6 +13,14 @@ permalink: /vz235_mellow/electronics/Firmware
 
 Time to start flashing our Pi and Motherboard.
 
+{: .note-title }
+> DSI touch screen issues
+>
+> There is a known issue with the Vz235 Mellow kit touch screen.
+> More info and fixes: [Touch not working - KlipperScreen][] 
+
+[Touch not working - KlipperScreen]: https://klipperscreen.readthedocs.io/en/latest/Troubleshooting/Touch_issues/
+
 ## Flashing the Pi
 
 Take your Pi's SDCard and put it in your PC/laptop. Now we're gonna use the program called Raspberry Pi Imager to flash the firmware for it onto our SDCard. You can get it here [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
@@ -221,3 +229,5 @@ If klippy.log reports a "Permission denied" error when attempting to connect to 
 ```bash
 sudo usermod -a -G tty pi
 ```
+
+[Touch not working - KlipperScreen]: https://klipperscreen.readthedocs.io/en/latest/Troubleshooting/Touch_issues/
