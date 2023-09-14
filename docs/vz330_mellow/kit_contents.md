@@ -249,12 +249,12 @@ The following parts are included in the kit:
 * Exhaust filtration / HEPA filter ([Amazon 1](https://amzn.to/3lISPxr) / [AliExpress 1](https://s.click.aliexpress.com/e/_ABbR3U))
 * 2x Front led bars ([AliExpress 1](https://s.click.aliexpress.com/e/_DcRL3RT))
 * Raspberry Pi 3/4/Zero ([Official distributors](https://www.raspberrypi.com/resellers/))
+* Thermal fuse 125°C ([AliExpress](https://s.click.aliexpress.com/e/_AtAOQN))
 
-## Mellow defects
+## Missing parts
 
 These parts are currently still missing from Mellow's Kit BOM, but should eventually become part of it.
 
-* 1x Thermal fuse 125°C ([AliExpress](https://s.click.aliexpress.com/e/_AtAOQN))
 * ?x M3 heat set inserts - short 3x5x4mm ([AliExpress](https://www.aliexpress.com/item/1005004375436005.html))
 * 6-9x Wago 221-415 wire connectors or equivalent UK 2.5 terminals ([Wago official distributeor](https://www.wago.com/us/wire-splicing-connectors/compact-splicing-connector/p/221-415))
 
