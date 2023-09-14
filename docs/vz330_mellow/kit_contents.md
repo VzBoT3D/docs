@@ -249,7 +249,6 @@ The following parts are included in the kit:
 * Exhaust filtration / HEPA filter ([Amazon 1](https://amzn.to/3lISPxr) / [AliExpress 1](https://s.click.aliexpress.com/e/_ABbR3U))
 * 2x Front led bars ([AliExpress 1](https://s.click.aliexpress.com/e/_DcRL3RT))
 * Raspberry Pi 3/4/Zero ([Official distributors](https://www.raspberrypi.com/resellers/))
-* Thermal fuse 125°C ([AliExpress](https://s.click.aliexpress.com/e/_AtAOQN))
 
 ## Missing parts
 
