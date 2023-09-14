@@ -24,7 +24,7 @@ permalink: /vz330_mellow/kit_contents
 * Electric drill (or manual, if you're so inclined)
 * 3mm metal drill bit
 * M4x1 metric thread tap
-* M3 heat set insert soldering tip
+* Insertion tool for M3 heat set inserts ([Example](https://cnckitchen.store/products/einschmelzhilfen-soldering-tips-m2-m2-5-m3-m4-m5-m6-1-4-m8-100-lead-and-cadmium-free))
 * 99% isopropyl alcohol
 * Haribo candies (🍻Josef)
 
@@ -253,7 +253,7 @@ The following parts are included in the kit:
 
 ## Missing parts
 
-These parts are currently still missing from Mellow's Kit BOM, but should eventually become part of it.
+The Vz330 Mellow Kit may have some missing parts or items. They are however part of the Mellow Kit BOM, and should eventually come with the kit as expected.
 
 * ?x M3 heat set inserts - short 3x5x4mm ([AliExpress](https://www.aliexpress.com/item/1005004375436005.html))
 * 6-9x Wago 221-415 wire connectors or equivalent UK 2.5 terminals ([Wago official distributeor](https://www.wago.com/us/wire-splicing-connectors/compact-splicing-connector/p/221-415))
