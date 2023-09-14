@@ -255,10 +255,13 @@ The following parts are included in the kit:
 
 The Vz330 Mellow Kit may have some missing parts or items. They are however part of the Mellow Kit BOM, and should eventually come with the kit as expected.
 
-* ?x M3 heat set inserts - short 3x5x4mm ([AliExpress](https://www.aliexpress.com/item/1005004375436005.html))
+* ?x M3 heat set inserts **5mm OD 4mm length** ([AliExpress][AliExpress_threaded-inserts])
 * 6-9x Wago 221-415 wire connectors or equivalent UK 2.5 terminals ([Wago official distributeor](https://www.wago.com/us/wire-splicing-connectors/compact-splicing-connector/p/221-415))
 
 Source: [VzBoT-330 BOM](https://github.com/VzBoT3D/VzBoT-Vz330/tree/master/BOM)
+
+<!-- The extra attributes in this URL pre-select the right item -->
+[AliExpress_threaded-inserts]: https://www.aliexpress.com/item/1005004535859664.html?objectId=1005004535859664&skuAttr=5%3A200173187%23M3%20(OD%205mm)50pcs%3B14%3A366%23Length%204mm&skuId=12000029512459874
 
 ## STLs
 
