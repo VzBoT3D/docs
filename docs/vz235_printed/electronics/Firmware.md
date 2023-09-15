@@ -13,6 +13,14 @@ permalink: /vz235_printed/electronics/Firmware
 
 Time to start flashing our Pi and Motherboard.
 
+{: .note-title }
+> DSI touch screen issues
+>
+> There is a known issue with touch screens like those used in the Vz235 Mellow kit.
+> More info and fixes: [Touch not working - KlipperScreen][]
+
+[Touch not working - KlipperScreen]: https://klipperscreen.readthedocs.io/en/latest/Troubleshooting/Touch_issues/
+
 ## Flashing the Pi
 
 Take your Pi's SDCard and put it in your PC/laptop. Now we're gonna use the program called Raspberry Pi Imager to flash the firmware for it onto our SDCard. You can get it here [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
