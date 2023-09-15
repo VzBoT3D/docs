@@ -16,7 +16,7 @@ Time to start flashing our Pi and Motherboard.
 {: .note-title }
 > DSI touch screen issues
 >
-> There is a known issue with the Vz235 Mellow kit touch screen.
+> There is a known issue with the Vz330 Mellow kit touch screen.
 > More info and fixes: [Touch not working - KlipperScreen][]
 
 [Touch not working - KlipperScreen]: https://klipperscreen.readthedocs.io/en/latest/Troubleshooting/Touch_issues/
