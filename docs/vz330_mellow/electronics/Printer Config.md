@@ -14,7 +14,7 @@ permalink: /vz330_mellow/electronics/Printer_Config
 Now comes the fun part of the setup. Configuring your printer.cfg.
 
 We're gonna start with this basic start config file for you guys to use:
-[Printer.cfg](../../assets/images/manual/vz330_mellow/electronics/Printer_config/printer.cfg)
+[Printer.cfg](../../assets/images/manual/vz330_mellow/electronics/Printer_config/330AWD-printer.cfg)
 
 In order to use the Exlcude object command in your Mainsail or Fluid we're also gonna need this file: [Exclude_Object.cfg](../../assets/images/manual/vz235_printed/electronics/Printer_config/Exclude_Object.cfg)
 
