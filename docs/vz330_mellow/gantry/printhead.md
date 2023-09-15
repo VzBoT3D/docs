@@ -24,21 +24,23 @@ In this section we'll assemble the Toolhead for the VzBot.
 | Part                       | Location                                | Info |
 | :------------------------- | :-------------------------------------- | :--- |
 | M3 x 6mm <br/> Quantity: 4 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |      |
-| TODO                       |                                         |
+| TODO                       |                                         |      |
 
 ## STLs
 
-| File name                                                                                                                                                                                   | Amount to print | Note                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------------------------ |
-| <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/X-endstop-mount.stl" target="_blank">X end stop switch mount</a>                                                        | 1               | -                                    |
-| <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/cable_holder.stl" target="_blank">Cable Holder</a>                                                                      | 1               | -                                    |
-| <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/fan%20duct%20lower%20Goliath%20long.stl" target="_blank">Fan duct Goliath</a>                                           | 1               | Pick this if no beacon is used       |
-| <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/fan%20duct%20lower%20Goliath%20short%20with%20Beacon.stl" target="_blank">Fan duct Goliath ( beacon )</a>               | 1               | Use this duct for Goliath and beacon |
-| <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/fan%20duct%20lower%20Goliath%20spacers.stl" target="_blank">Fan duct Goliath spacers</a>                                | 1               | -                                    |
-| <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/upper%20duct.stl" target="_blank">Fan duct upper</a>                               | 1               | -                                    |
-| <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/upper%20duct%20mount.stl" target="_blank">Upper duct mount</a>                     | 1               | -                                    |
-| <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/c-clamp.stl" target="_blank">Upper duct CPAP c-clamp</a>                           | 1               | -                                    |
-| <a href="https://github.com/VzBoT3D/Goliath/blob/main/STL/Air%20Cool%20Fan%20duct/Fan%20duct%202510-With%20flange%20for%20Vz-Printhead%20CNC.stl" target="_blank">Goliath 2510 fan duct</a> | 1               | -                                    |
+| File name                     | Amount to print | Note                                 |
+|-------------------------------|-----------------|--------------------------------------|
+| [X end stop switch mount][]   | 1               | -                                    |
+| [Cable Holder][]              | 1               | -                                    |
+| [Fan duct Goliath][]          | 1               | Pick this if no beacon is used       |
+| [Fan duct Goliath (beacon)][] | 1               | Use this duct for Goliath and beacon |
+| [Fan duct Goliath spacers][]  | 1               | -                                    |
+| [Fan duct upper][]            | 1               | -                                    |
+| [Upper duct mount][]          | 1               | -                                    |
+| [Upper duct CPAP c-clamp][]   | 1               | -                                    |
+| [Goliath 2510 fan duct][]     | 1               | -                                    |
+
+
 
 ## Step 1
 
@@ -228,3 +230,13 @@ Also make sure that all screws are tightn and that the heatbreak is tight agains
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/printhead/step8_part2.png) | &#8226; Slide on the printed fanholder to the goliath hotend <br/> &#8226; Insert the 22mm pfte tube into the goliath on top <br/> &#8226; Screw on the goliath to the printhead with the M3 x 6mm |
 {: .instructiontable}
+
+[Cable Holder]: https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/cable_holder.stl
+[Fan duct Goliath]: https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/fan%20duct%20lower%20Goliath%20long.stl
+[Fan duct Goliath (beacon)]: https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/fan%20duct%20lower%20Goliath%20short%20with%20Beacon.stl
+[Fan duct Goliath spacers]: https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/fan%20duct%20lower%20Goliath%20spacers.stl
+[Fan duct upper]: https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/upper%20duct.stl
+[Goliath 2510 fan duct]: https://github.com/VzBoT3D/Goliath/blob/main/STL/Air%20Cool%20Fan%20duct/Fan%20duct%202510-With%20flange%20for%20Vz-Printhead%20CNC.stl
+[Upper duct CPAP c-clamp]: https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/c-clamp.stl
+[Upper duct mount]: https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/upper%20duct%20mount.stl
+[X end stop switch mount]: https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/X-endstop-mount.stl
