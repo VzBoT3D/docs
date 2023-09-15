@@ -40,8 +40,6 @@ In this section we'll assemble the Toolhead for the VzBot.
 | [Upper duct CPAP c-clamp][]   | 1               | -                                    |
 | [Goliath 2510 fan duct][]     | 1               | -                                    |
 
-
-
 ## Step 1
 
 {: .highlight }
