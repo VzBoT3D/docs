@@ -13,7 +13,7 @@ The Goliath is a high-flow hot-end designed for high-speed printing.
 
 The mounting pattern for the Goliath matches that of a Dragon hot end, and as such should be compatible with most printers compatible with the Dragon hot end.
 
-[**Goliath** \| VzBoT3D/Goliath]
+[**Goliath** \| VzBoT3D/Goliath][]
 
 ## Assembly
 
