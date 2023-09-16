@@ -1,7 +1,7 @@
 title: VzBoT Documentation
 tagline: Documentation for VzBoT 3D-printers
 description: VzBoT Official Documentation
-logo: "/assets/images/logo.png"
+logo: "/assets/images/logo.svg"
 
 baseurl: ""
 url: "https://docs.vzbot.org"
@@ -20,7 +20,6 @@ plugins:
   - jekyll-spaceship
   - jekyll-remote-theme
   - jekyll-toc
-  - jekyll_bootstrap5_tabs
   - jekyll-redirect-from
   - jekyll-include-cache
 

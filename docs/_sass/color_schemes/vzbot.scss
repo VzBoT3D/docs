@@ -1,4 +1,5 @@
-@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css");
+@import "./color_schemes/dark";
 
 $dark-grey-color: #1c1c1c;
 $light-grey-color: #303134;
@@ -24,20 +25,22 @@ $table-background-color: $light-grey-color;
 $feedback-color: darken($sidebar-color, 3%);
 
 .site-footer {
-    visibility: hidden;
+  visibility: hidden;
 }
 
-td { 
+td {
   img {
     width: auto;
     height: auto;
     object-fit: scale-down;
   }
+
   br {
     display: block;
     margin: 10px 0;
     content: " ";
   }
+
   width: auto;
   height: auto;
 }
@@ -47,29 +50,32 @@ thead th {
 }
 
 body {
-	font-family: Helvetica;
-	font-size: 13px;
+  font-family: Helvetica;
+  font-size: 13px;
 }
 
 .smallpictures {
   img {
-   width: 65%;
- }
+    width: 65%;
+  }
 }
 
 .instructiontable {
   table {
     border: none;
   }
+
   td {
     width: 70%;
   }
 }
+
 .commandtable {
   table {
     border: none;
   }
-  td { 
+
+  td {
     background-color: #3d4345;
   }
 }
@@ -84,3 +90,28 @@ body {
   appearance: none;
 }
 
+.btn-fs-6 {
+  font-size: 24px !important;
+  line-height: 1.25;
+}
+
+.btn.doc-link {
+  font-size: 24px !important;
+  line-height: 1.25;
+  margin: inherit 0.3em;
+  padding: 0.5em 1.2em;
+}
+
+.btn.doc-link::after {
+  content: "\F231 "; //Arrow icon
+  font-family: "bootstrap-icons";
+  line-height: 1;
+  vertical-align: text-bottom;
+}
+
+.btn.download::before {
+  content: "\F294 "; //Download icon
+  font-family: "bootstrap-icons";
+  line-height: 1;
+  vertical-align: text-bottom;
+}
