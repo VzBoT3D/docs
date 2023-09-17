@@ -20,6 +20,7 @@ plugins:
   - jekyll-spaceship
   - jekyll-remote-theme
   - jekyll-toc
+  - jekyll_bootstrap5_tabs
   - jekyll-redirect-from
   - jekyll-include-cache
 
