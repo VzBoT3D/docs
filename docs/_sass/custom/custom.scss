@@ -59,3 +59,26 @@
     vertical-align: text-bottom;
   }
   /***** END Custom button styling *****/
+
+  /***** Homepage styling *****/
+  /* Clear float settings after the cols */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  /* Two cols next to each other */
+  .col-6 {
+    float: left;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  /* Stack the columns only on mobile, make them smaller on desktop. */
+  @media screen and (min-width: 800px) {
+    .col-6 {
+      width: 50%;
+    }
+  }
+  /***** END Homepage styling*****/
