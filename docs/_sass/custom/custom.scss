@@ -1,25 +1,84 @@
-.btn-fs-6{
-    font-size: 24px !important;
-    line-height: 1.25;
+
+
+
+/***** Change the size of the SVG logo top-left *****/ 
+// Since this is an override, it goes in custom.scss
+// Changes the size of the logo to be a little smaller, as agreed upon with the team.
+
+// Baseline, i.e. on mobile. Gets reset to initial values on desktop (below)
+.site-title{
+    padding-top: 1rem;
+    padding-bottom: 1rem;    
 }
 
-.btn.doc-link{
+// On desktop
+@media (min-width: 50rem){
+    .site-title{
+        padding-left: 3rem;
+        padding-right: 3rem;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+      }
+}
+/***** END Change the size of the SVG logo top-left *****/
+
+/***** Custom button styling *****/
+.btn-reset {
+    background: none;
+    border: none;
+    margin: 0;
+    text-align: inherit;
+    font: inherit;
+    border-radius: 0;
+    appearance: none;
+  }
+  
+  .btn-fs-6 {
+    font-size: 24px !important;
+    line-height: 1.25;
+  }
+  
+  .btn.doc-link {
     font-size: 24px !important;
     line-height: 1.25;
     margin: inherit 0.3em;
     padding: 0.5em 1.2em;
-}
-
-.btn.doc-link::after{
+  }
+  
+  .btn.doc-link::after {
     content: "\F231 "; //Arrow icon
     font-family: "bootstrap-icons";
     line-height: 1;
     vertical-align: text-bottom;
-}
-
-.btn.download::before{
+  }
+  
+  .btn.download::before {
     content: "\F294 "; //Download icon
     font-family: "bootstrap-icons";
     line-height: 1;
     vertical-align: text-bottom;
-}
+  }
+  /***** END Custom button styling *****/
+
+  /***** Homepage styling *****/
+  /* Clear float settings after the cols */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  /* Two cols next to each other */
+  .col-6 {
+    float: left;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  /* Stack the columns only on mobile, make them smaller on desktop. */
+  @media screen and (min-width: 800px) {
+    .col-6 {
+      width: 50%;
+    }
+  }
+  /***** END Homepage styling*****/

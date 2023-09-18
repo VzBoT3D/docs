@@ -1,15 +1,16 @@
-@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css");
+@import "./color_schemes/dark";
 
-$dark-grey-color: #1c1c1c;
-$light-grey-color: #303134;
-$white-color: #f9f9f9;
+$dark-grey-color: #1d1d1d;
+$light-grey-color: #2c2c2e;
+$white-color: #f1f1f1;
 $vzbot-red-color: #fe3d3d;
 
-$body-background-color: $dark-grey-color;
-$sidebar-color: $light-grey-color;
+$body-background-color: $light-grey-color;
+$sidebar-color: $dark-grey-color;
 $border-color: #3c4043;
 
-$body-text-color: #bdc1c6;
+$body-text-color: #e6e1e8;
 $body-heading-color: $vzbot-red-color;
 $nav-child-link-color: $grey-dk-000;
 $search-result-preview-color: $body-text-color;
@@ -24,20 +25,22 @@ $table-background-color: $light-grey-color;
 $feedback-color: darken($sidebar-color, 3%);
 
 .site-footer {
-    visibility: hidden;
+  visibility: hidden;
 }
 
-td { 
+td {
   img {
     width: auto;
     height: auto;
     object-fit: scale-down;
   }
+
   br {
     display: block;
     margin: 10px 0;
     content: " ";
   }
+
   width: auto;
   height: auto;
 }
@@ -47,40 +50,55 @@ thead th {
 }
 
 body {
-	font-family: Helvetica;
-	font-size: 13px;
+  font-family: Helvetica;
+  font-size: 13px;
 }
 
-.smallpictures {
-  img {
-   width: 65%;
- }
+img {
+  .small {
+    width: 65%;
+  }
 }
 
 .instructiontable {
   table {
     border: none;
   }
+
   td {
     width: 70%;
   }
 }
+
 .commandtable {
   table {
     border: none;
   }
-  td { 
+
+  td {
     background-color: #3d4345;
   }
 }
 
-.btn-reset {
-  background: none;
-  border: none;
-  margin: 0;
-  text-align: inherit;
-  font: inherit;
-  border-radius: 0;
-  appearance: none;
+.text-center {
+  text-align: center;
 }
 
+table {
+
+  .hidden,
+  table,
+  th,
+  td {
+    border-collapse: collapse;
+    border: none;
+    background: none;
+    box-shadow: none;
+  }
+}
+
+#home{
+  h1, h2, h3, h4{
+    color: white;
+  }
+}
