@@ -24,6 +24,7 @@ permalink: /vz330_mellow/kit_contents
 * Electric drill (or manual, if you're so inclined)
 * 3mm metal drill bit
 * M4x1 metric thread tap
+* Insertion tool for M3 heat set inserts ([Example](https://cnckitchen.store/products/einschmelzhilfen-soldering-tips-m2-m2-5-m3-m4-m5-m6-1-4-m8-100-lead-and-cadmium-free))
 * 99% isopropyl alcohol
 * Haribo candies (🍻Josef)
 
@@ -248,9 +249,18 @@ The following parts are included in the kit:
 * Exhaust filtration / HEPA filter ([Amazon 1](https://amzn.to/3lISPxr) / [AliExpress 1](https://s.click.aliexpress.com/e/_ABbR3U))
 * 2x Front led bars ([AliExpress 1](https://s.click.aliexpress.com/e/_DcRL3RT))
 * Raspberry Pi 3/4/Zero ([Official distributors](https://www.raspberrypi.com/resellers/))
-* Thermal fuse 125°C ([AliExpress](https://s.click.aliexpress.com/e/_AtAOQN))
+
+## Missing parts
+
+The Vz330 Mellow Kit may have some missing parts or items. They are however part of the Mellow Kit BOM, and should eventually come with the kit as expected.
+
+* ?x M3 heat set inserts **5mm OD 4mm length** ([AliExpress][AliExpress_threaded-inserts])
+* 6-9x Wago 221-415 wire connectors or equivalent UK 2.5 terminals ([Wago official distributeor](https://www.wago.com/us/wire-splicing-connectors/compact-splicing-connector/p/221-415))
 
 Source: [VzBoT-330 BOM](https://github.com/VzBoT3D/VzBoT-Vz330/tree/master/BOM)
+
+<!-- The extra attributes in this URL pre-select the right item -->
+[AliExpress_threaded-inserts]: https://www.aliexpress.com/item/1005004535859664.html?objectId=1005004535859664&skuAttr=5%3A200173187%23M3%20(OD%205mm)50pcs%3B14%3A366%23Length%204mm&skuId=12000029512459874
 
 ## STLs
 
