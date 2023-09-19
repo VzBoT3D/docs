@@ -1,7 +1,7 @@
 title: VzBoT Documentation
 tagline: Documentation for VzBoT 3D-printers
 description: VzBoT Official Documentation
-logo: "/assets/images/logo.png"
+logo: "/assets/images/logo.svg"
 
 baseurl: ""
 url: "https://docs.vzbot.org"
