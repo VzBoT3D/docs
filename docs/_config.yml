@@ -40,11 +40,11 @@ exclude:
    - CODE_OF_CONDUCT.md
 
 aux_links:
-  "GitHub":
+  "<i class=\"bi bi-github\"></i> GitHub":
     - "https://github.com/VzBoT3D"
-  "Ko-Fi":
+  "<i class=\"bi bi-coin\"></i> Ko-Fi":
     - https://ko-fi.com/vez3d
-  "Discord":
+  "<i class=\"bi bi-discord\"></i> Discord":
     - https://discord.gg/vzbot
 
 # Makes Aux links open in a new tab. Default is false
