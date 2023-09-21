@@ -6,23 +6,25 @@ $light-grey-color: #2c2c2e;
 $white-color: #f1f1f1;
 $vzbot-red-color: #fe3d3d;
 
-$body-background-color: $light-grey-color;
-$sidebar-color: $dark-grey-color;
-$border-color: #3c4043;
-
-$body-text-color: #e6e1e8;
-$body-heading-color: $vzbot-red-color;
-$nav-child-link-color: $grey-dk-000;
-$search-result-preview-color: $body-text-color;
-
-$link-color: $vzbot-red-color;
 $btn-primary-color: $blue-200;
 $base-button-color: $light-grey-color;
 
+$sidebar-color: $dark-grey-color;
+$nav-child-link-color: $grey-dk-000;
 $code-background-color: $light-grey-color;
+$table-background-color: $dark-grey-color;
+
+$search-result-preview-color: $body-text-color;
 $search-background-color: $light-grey-color;
-$table-background-color: $light-grey-color;
+
+$border-color: #3c4043;
+$link-color: $vzbot-red-color;
 $feedback-color: darken($sidebar-color, 3%);
+
+$body-text-color: #e6e1e8;
+$body-heading-color: $vzbot-red-color;
+$body-background-color: $light-grey-color;
+
 
 .site-footer {
   visibility: hidden;
@@ -45,16 +47,11 @@ td {
   height: auto;
 }
 
-thead th {
-  background: #575555;
-}
-
-body {
-  font-family: Helvetica;
-  font-size: 13px;
-}
-
 img {
+  max-width: 100%;
+  border-radius: 0.15rem;
+  box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.3);
+
   .small {
     width: 65%;
   }
@@ -85,11 +82,8 @@ img {
 }
 
 table {
-
-  .hidden,
-  table,
-  th,
-  td {
+  .hidden td, .hidden th, .hidden table
+  {
     border-collapse: collapse;
     border: none;
     background: none;

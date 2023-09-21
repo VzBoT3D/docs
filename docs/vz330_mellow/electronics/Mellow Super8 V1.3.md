@@ -157,17 +157,17 @@ Next up is our 48V lines.
 
 If using Wago's you run a +V line to the top Wago and a -V to the Bottom Wago. From there we can start distributing it to our 5160's.
 
-![48V setup](../../assets/images/manual/vz235_printed/electronics/48V_Setup.jpeg)
+![48V setup](../../assets/images/manual/vz235_printed/electronics/48V_Setup.jpg)
 
 Plug in a Wire to the +V side of the wago and run it to your 5160. Put it in the Bottom slot like shown in the picture below.
 
 Plug in a wire to the -V side of the Wago and run it to your 5160. Put it in the second slot of the 5160 like shown below.
 
-![5160_48V](../../assets/images/manual/vz235_printed/electronics/5160_48V.jpeg)
+![5160_48V](../../assets/images/manual/vz235_printed/electronics/5160_48V.jpg)
 
 Now do this for all your 5160's like you see down below. That's all the wiring you have to do for 48V.
 
-![5160_48V_complete](../../assets/images/manual/vz235_printed/electronics/5160_48V_Complete.jpeg)
+![5160_48V_complete](../../assets/images/manual/vz235_printed/electronics/5160_48V_Complete.jpg)
 
 One last IMPORTANT step to do is to link your 24V - to your 48V -. Like you see Below i used a piece of wire to connect my 24V Negative Wago to my 48V Negative Wago.
 
