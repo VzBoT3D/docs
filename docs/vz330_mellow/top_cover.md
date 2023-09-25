@@ -9,6 +9,12 @@ permalink: /vz330_mellow/top_cover
 ---
 
 # 9. Top cover and doors panels
+
+## Overview
+A finished top cover ('Top Hat') looks like this.
+|:-|
+| ![Frame](../assets/images/manual/vz330_mellow/top_cover/top/TopHat_Overview.png) |
+
 ## Parts
 
 | Part | Location | Info |
@@ -19,11 +25,11 @@ permalink: /vz330_mellow/top_cover
 | 2020 extrusion (100mm) <br/> Quantity: 4 | **Layer**: 2 | ![2020 100mm](../assets/images/manual/vz330_mellow/frame/parts/2020_extrusion_100mm.png) |
 
 | M5 x 25mm <br/> Quantity: 4 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |  |
-| M4 t-nut <br/> Quantity: 12 |
-| M4 x 10mm <br/> Quantity: 8 |
-| M3 t-nut <br/> Quantity: 36 (NOTE: Use roll-in type if available) |
-| M3 x 10mm <br/> Quantity: 36 |
-| 4mm x 50mm pin <br/> Quantity: 2 |
+| M4 t-nut <br/> Quantity: 12 |||
+| M4 x 10mm <br/> Quantity: 8 |||
+| M3 t-nut <br/> Quantity: 36 (NOTE: Use roll-in type if available) |||
+| M3 x 10mm <br/> Quantity: 36 |||
+| 4mm x 50mm pin <br/> Quantity: 2 |||
 
 ## STLs
 
