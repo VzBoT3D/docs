@@ -43,3 +43,10 @@ A finished top cover ('Top Hat') looks like this.
 * (Top Hinges) Left middle.stl
 * (Top Hinges) Right middle.stl
 * (Frame) handle x4.stl (x2 are used here)
+
+## Step 1
+
+
+|:-|:-|
+| ![Mount](../assets/images/manual/vz330_mellow/top_cover/top/TopHat_Step1.png) | &#8226; Fasten the top frame extrusions with 4x M5 x 25mm bolts |
+{: .instructiontable}
