@@ -12,7 +12,9 @@ permalink: /vz330_mellow/top_cover
 
 ## Overview
 
-A finished top cover ('Top Hat') looks like this.
+A finished top cover ('Top Hat') looks like this.  
+The green circle marks a cutout in one of the acrylic panels meant for passing the umbilical cord from the hot end to the electronics bay. This will be located at the back of the printer and/or top-hat
+
 ![Frame](../assets/images/manual/vz330_mellow/top_cover/top/TopHat_Overview.png)
 
 ## Parts
