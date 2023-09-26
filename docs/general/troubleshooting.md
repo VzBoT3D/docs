@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Maintenance
-parent: misc-info # temporarily here to clean up the sidebar links
+parent: General info # temporarily here to clean up the sidebar links
 ---
 
 # Troubleshooting
@@ -10,15 +10,12 @@ Troubleshoot common problems with your printer
 
 ## Printer homes in the wrong corner
 
-<<<<<<< HEAD
 Ensure your stepper motors are set up to rotate in the correct direction.  
 [\[Stepper\] - Configuration reference](https://www.klipper3d.org/Config_Reference.html#stepper) (Klipper docs)
 
 Ensure the endstop positions for all axes are set correctly.  
 See `position_endstop:` under your `[stepper]` configuration section.
 
-=======
->>>>>>> b9a94e9f1a7ddb0830a97d54fbee0f9745e9c60e
 ## Prints are mirrored
 
 You most likely have your motors set up wrong or mirrored. Make sure the physical motors match their counterpart configuration in your `printer.cfg` configuration file.
