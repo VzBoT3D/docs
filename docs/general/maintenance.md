@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Maintenance
-parent: misc-info # temporarily here to clean up the sidebar links
+parent: General info # temporarily here to clean up the sidebar links
 ---
 
 # Printer maintenance
