@@ -15,3 +15,9 @@ Also see: [Goliath hot end](/vz-other/goliath)
 
 ![VzBoT Update : New Vz-PrintHead and more...](https://youtu.be/aR2yANswpl0)
 <sup>19 December 2021</sup>
+
+## Installing belts
+
+Installing belts on the new Vz-Printhead is different from installing belts on the previous EVA-based printhead. Vez3D has an explanatory video.
+
+![VzBoT - Belts installation](https://youtu.be/Ibi27Toh-pg)
