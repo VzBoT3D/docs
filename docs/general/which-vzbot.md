@@ -1,7 +1,7 @@
 ---
 title: Which VzBot do I want?
 description: A guided choice on which VzBot printer is best for you
-parent: misc-info # temporarily here to clean up the sidebar links
+parent: General info # temporarily here to clean up the sidebar links
 ---
 
 
