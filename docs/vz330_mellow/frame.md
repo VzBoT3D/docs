@@ -41,9 +41,20 @@ permalink: /vz330_mellow/frame
   </map>
 </div>
 
-## Tips and Tricks
+## Video tutorial
 
 ![Building Your Frame Square and True - Setup for sucess!](https://www.youtube.com/embed/GSg7RDLgYV0)
+
+Vz235 Build Part 1: The Frame  
+![Vz235 Build Part 1: The Frame](https://www.youtube.com/watch?v=d9kQt_cF3Xo)
+
+[0:45](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=45s) Cutting the frame to size  
+[1:17](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=77s) The frame  
+[1:24](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=84s) Parts  
+[4:44](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=284s) Water cooling kit  
+[6:04](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=364s) Acrylic panels  
+[6:49](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=409s) Aluminium parts  
+[19:00](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=1140s) Bottom plate
 
 ## Step 1
 

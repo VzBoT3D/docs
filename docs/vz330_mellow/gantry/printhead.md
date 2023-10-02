@@ -148,6 +148,8 @@ In this section we'll assemble the Toolhead for the VzBot.
 | [![belt](../../assets/images/manual/vz330_mellow/gantry/printhead/step5.png)](https://www.youtube.com/embed/Ibi27Toh-pg "Apply belt") | &#8226; Make sure the motor's in the back are in the loosest position possible, moved to the front of the motor mount. |
 {: .instructiontable}
 
+![VzBoT - Belts installation](https://youtu.be/Ibi27Toh-pg)
+
 ## Step 6
 
 {: .highlight }

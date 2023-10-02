@@ -18,6 +18,20 @@ The frame is assembled through a combination of blind joints, corner brackets an
 
 For detailed informations on how to assemble blind joints visit [this page](/general/misc-info/blind-joints)
 
+## Video tutorial
+
+Vz235 Build Part 1: The Frame  
+![Vz235 Build Part 1: The Frame](https://www.youtube.com/watch?v=d9kQt_cF3Xo)
+
+[0:45](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=45s) Cutting the frame to size  
+[1:17](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=77s) The frame  
+[1:24](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=84s) Parts  
+[4:44](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=284s) Water cooling kit  
+[6:04](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=364s) Acrylic panels  
+[6:49](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=409s) Aluminium parts  
+[19:00](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=1140s) Bottom plate
+
+
 ## BOM
 
 | Material        | Quantity          | Notes |

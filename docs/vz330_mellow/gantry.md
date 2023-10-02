@@ -20,4 +20,21 @@ All LDO rails are from factory, and should also be cleaned and lubricated. It is
 |:-|
 | ![Overview](../../assets/images/manual/vz330_mellow/gantry/overview.png) |
 
+## Video tutorial
+
+The video tutorial below depicts the Vz235 (smaller printer) AWD configuration, but may still be useful to those building a 2WD kit. Many of the Vz235 aspects are scaled down things from the Vz330.
+
+![Vz235 Build Part 3: The Gantry](https://www.youtube.com/embed/lP59PClF_PU)
+
+[00:00](https://www.youtube.com/watch?v=lP59PClF_PU&t=0s) Intro
+[06:30](https://www.youtube.com/watch?v=lP59PClF_PU&t=390s) Y Rail installation  
+[08:40](https://www.youtube.com/watch?v=lP59PClF_PU&t=520s) Front motor mounts  
+[27:00](https://www.youtube.com/watch?v=lP59PClF_PU&t=1620s) Rear motor mounts  
+[47:15](https://www.youtube.com/watch?v=lP59PClF_PU&t=2835s) Y gantry (or called XY joiner)  
+[50:00](https://www.youtube.com/watch?v=lP59PClF_PU&t=3000s) X axis  
+[52:15](https://www.youtube.com/watch?v=lP59PClF_PU&t=3135s) Vz-Printhead mounting  
+[55:34](https://www.youtube.com/watch?v=lP59PClF_PU&t=3334s) Belts installation  
+[01:13:00](https://www.youtube.com/watch?v=lP59PClF_PU&t=4380s) Belt tensioning  
+[01:15:50](https://www.youtube.com/watch?v=lP59PClF_PU&t=4550s) Back plate installation
+
 [MGN12 alignment tool]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignment%20Tools/MGN12-alignment%20tool.stl
