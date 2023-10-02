@@ -1,0 +1,42 @@
+{
+    "files.eol": "\n", //LF as EOL character
+    "markdownlint.config": {
+        "default": true,
+        "single-h1": {
+            "front_matter_title": ""
+        },
+        "no-hard-tabs": false,
+        "no-inline-html": {
+            "allowed_elements": [
+                "sub",
+                "sup",
+            ]
+        },
+        "code-block-style": {
+            "style": "fenced"
+        },
+        "code-fence-style": {
+            "style": "backtick"
+        },
+        "emphasis-style": {
+            "style": "asterisk"
+        },
+        "strong-style": {
+            "style": "asterisk"
+        },
+        "heading-start-left": true,
+        "hr-style": {
+            "style": "---"
+        },
+        // May be useful for the manuals docs in the future; see https://github.com/DavidAnson/markdownlint/blob/v0.31.1/doc/md043.md
+        //"required-headings": {
+        //    "headings": [
+        //        "# Head",
+        //        "## Item",
+        //        "*",
+        //        "## Foot",
+        //        "*"
+        //    ]
+        //}
+    },
+}
