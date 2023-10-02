@@ -7,7 +7,7 @@ has_children: true
 permalink: /vz235_printed
 ---
 
-# VzBoT235 - Printed Version Version
+# VzBoT235 - Printed Version
 
 ![Overview](../assets/images/manual/vz235_printed/printed_preview.png)
 
@@ -21,7 +21,7 @@ On how to print the files for this printer please refer to [print settings](../g
 We advice to build the printer in the following order:
 
 1. [Frame](./vz235_printed/frame)
-2. [Z - Assembly & Bed](./vz235_printed/z_assembly)
+2. [Z-assembly & Bed](./vz235_printed/z_assembly)
 3. [Gantry](./vz235_printed/gantry)
 4. [Bottom and rear panel](./vz235_printed/bottom_panels)
 5. [Fume extractor](./vz235_printed/fume_extractor)
@@ -31,4 +31,4 @@ We advice to build the printer in the following order:
 
 ## Video tutorial
 
-[**Vz235 AWD** by Vez3D](/video-tutorials/vz235-awd/){: .btn .doc-link } 
+[**Vz235 AWD** by Vez3D](/video-tutorials/vz235-awd/){: .btn .doc-link }

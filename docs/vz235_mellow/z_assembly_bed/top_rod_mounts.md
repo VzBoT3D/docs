@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2.3 Top rod mounts
-parent: 2. Z - Assembly & Bed
+parent: 2. Z-assembly & Bed
 grand_parent: Vz235 - Mellow Kit
 has_toc: false
 nav_order: 3

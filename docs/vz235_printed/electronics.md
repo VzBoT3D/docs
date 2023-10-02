@@ -14,32 +14,34 @@ permalink: /vz235_printed/electronics
 
 ![Overview](../../assets/images/manual/vz235_printed/electronics/overview.png)
 
-This is a general overview of the parts recommended for a VzBoT build. Everyone is free to use their own choice of parts. STL-files for other screens etc are not natively provided and may be found in the community mod section on GitHub and Discord.
+This is a general overview of the parts recommended for a VzBot build. Everyone is free to use their own choice of parts. STL-files for other screens etc are not natively provided and may be found in the community mod section on GitHub and Discord.
+
 We trust everyone to use their own best judgement when wiring their printer, we do not recommend to do this without professional help if you are inexperienced in electronics.
 
 ## BOM
 
 | Material         | Quantity | Notes |
-|:-----------------|:---------|:------|
-| LED strip 310mm  | 3        | -     |
-| Mainboard        | 1        | -     |
-| BTT Pi TFT50     | 1        | -     |
-| PSU 24V          | 1        | -     |
-| PSU 48V          | 1        | -     |
-| Wires            | -        | -     |
-| C14 power switch | 1        | -     |
-| Power chord      | 1        | -     |
+| :--------------- | :------- | :---- |
+| LED strip 310mm  | 3        |       |
+| Mainboard        | 1        |       |
+| BTT Pi TFT50     | 1        |       |
+| PSU 24V          | 1        |       |
+| PSU 48V          | 1        |       |
+| Wires            | -        |       |
+| C14 power switch | 1        |       |
+| Power cord       | 1        |       |
 
 ## STL's
 
-| File name                                                                                                                                                            | Amount to print |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">LED strip bracket [print in vase mode]</a> | 3               |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Power switch bracket</a>                   | 1               |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Front screen cover</a>                     | 1               |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Rear screen cover</a>                      | 1               |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Screen mount</a>                           | 1               |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Door stopper</a>                           | 1               |
+| File name                | Amount to print | Notes              |
+| ------------------------ | --------------- | ------------------ |
+| [LED strip bracket][]    | 3               | print in vase mode |
+| [Power switch bracket][] | 1               |                    |
+| [Front screen cover][]   | 1               |                    |
+| [Rear screen cover][]    | 1               |                    |
+| [Screen mount][]         | 1               |                    |
+| [Door stopper][]         | 1               |                    |
+
 ## Video tutorial
 
 Vz235 Build Part 4: The electronics  
@@ -95,3 +97,10 @@ Vz235 Build Part 4: The electronics
 [01:22:13](https://www.youtube.com/watch?v=bEGVnYrXJG4&t=4933s) Firmware? dreams  
 [01:22:37](https://www.youtube.com/watch?v=bEGVnYrXJG4&t=4957s) Vez happy man :) 🍻  
 [01:23:00](https://www.youtube.com/watch?v=bEGVnYrXJG4&t=4980s) Closing remarks  
+
+[Door stopper]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
+[Front screen cover]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
+[LED strip bracket]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
+[Power switch bracket]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
+[Rear screen cover]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
+[Screen mount]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
