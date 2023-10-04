@@ -14,11 +14,7 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 |:-|
 | ![Overview](../../assets/images/manual/vz330_mellow/z_assembly/bed_additions/overview.png) |
 
-<<<<<<< Updated upstream
-## Part's
-=======
 ## Parts
->>>>>>> Stashed changes
 
 | Part | Location | Info |
 |:-------------|:------------------|
@@ -35,11 +31,8 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 
 ## Step 1
 
-<<<<<<< Updated upstream
 ### Notes
 
-=======
->>>>>>> Stashed changes
 {: .highlight }
 > Required
 >
@@ -49,17 +42,10 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 |:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_additions/step1.png) |
 
-<<<<<<< Updated upstream
-| Part                              | Location                                                                            |
-|:----------------------------------|:------------------------------------------------------------------------------------|
-| M3 x 10mm <br/> Quantity: 1       | **Layer**: 3 <br/> **Box**: VZ330 Box 6 <br/> **Bag**: M3 <br/> **Bagnumber**: 4/16 |
-| Endstop holder <br/> Quantitiy: 1 | **Layer**: 2 <br/> **Box**: VZ330 Box 2                                             |
-=======
 | Part | Location |
 |:-|:-|
 | M3 x 10mm <br/> Quantity: 1 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 <br/> **Bag**: M3 <br/> **Bagnumber**: 4/16 |
 | Endstop holder <br/> Quantitiy: 1 | **Layer**: 2 <br/> **Box**: VZ330 Box 2 |
->>>>>>> Stashed changes
 
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_additions/step1_part1.png) | &#8226; Screw in the endstop holder with the M3 x 10mm screw to the top front z rod holder. |
@@ -76,19 +62,11 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 |:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_additions/step2.png) |
 
-<<<<<<< Updated upstream
-| Part                              | Location                                |
-|:----------------------------------|:----------------------------------------|
-| M2 x 10mm <br/> Quantity: 2       | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
-| Endstop holder <br/> Quantitiy: 1 | [From step 1](#step-1)                  |
-| Microswitch <br/> Quantity: 1     | **Box**: VZ330 Box 2                    |
-=======
 | Part | Location |
 |:-|:-|
 | M2 x 10mm <br/> Quantity: 2 | **Layer**: 3 <br/> **Box**: VZ330 Box 6  |
 | Endstop holder <br/> Quantitiy: 1 | [From step 1](#step-1) |
 | Microswitch <br/> Quantity: 1 | **Box**: VZ330 Box 2 |
->>>>>>> Stashed changes
 
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_additions/step2_part1.png) | &#8226; The pin from the microswitch needs to point to the outerside of the frame <br/> &#8226; Mount the microswitch to the endstop with the two M2 x 10mm screws. |
@@ -108,11 +86,7 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 | Part                        | Location                                |
 |:----------------------------|:----------------------------------------|
 | M3 x 45mm <br/> Quantity: 1 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
-<<<<<<< Updated upstream
-| M3 nut <br/> Quantitiy: 1   | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
-=======
 | M3 nut <br/> Quantitiy: 1 | **Layer**: 3 <br/> **Box**: VZ330 Box 6 |
->>>>>>> Stashed changes
 
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/z_assembly/bed_additions/step3_part1.png) | &#8226; Screw on the m3 nut to the M3 x 45mm screw <br/> &#8226; Screw in the nut screw combination to the front right of the bed support piece in the corresponding hole <br/> &#8226; The actual position of the screw will be aligned later in the build |

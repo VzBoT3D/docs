@@ -52,7 +52,7 @@ Optionally, add the corner braces on the bottom of each frame.
 
 Check the two halves by lying them on top of each other with all corners exactly in the same spot. Ensure both frames match and are not bowed, twisted or otherwise deformed. Parallelity of both frames' vertical extrusions is crucial to the proper functioning of the printer.
 
-For more detail on blind joints, please see the [Blind joints](/general/misc-info/blind-joints.md) documentation. 
+For more detail on blind joints, please see the [Blind joints](https://docs.vzbot.org/general/misc-info/blind-joints) documentation. 
 
 ![Front and rear frame](./images/vz330_frame-assembly_front-rear.png)
 

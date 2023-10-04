@@ -8,7 +8,7 @@ parent: Vz330 - Printed Version
 
 # VzBoT-330 Printed parts
 
-Printed parts parameters such as weight and volume are based on printing settings used for the [EzVz programme](/EzVz/).
+Printed parts parameters such as weight and volume are based on printing settings used for the [EzVz programme](https://docs.vzbot.org/ezvz/).
 
 ## Printing settings
 
@@ -74,6 +74,7 @@ For more detailed print settings & printing information, please see [General - P
 
 | Name | Quantity | Weight |
 | ---- | -------- | ------ |
+| todo | ....     | ....   |
 
 <!-- Motor mounts -->
 
@@ -133,6 +134,7 @@ For more detailed print settings & printing information, please see [General - P
 
 | Name | Quantity | Weight |
 | ---- | -------- | ------ |
+| todo | ....     | ....   |
 
 <!-- Printhead -->
 
@@ -140,6 +142,7 @@ For more detailed print settings & printing information, please see [General - P
 
 | Name | Quantity | Weight |
 | ---- | -------- | ------ |
+| todo | ....     | ....   |
 
 <!-- Electronics -->
 
@@ -147,6 +150,7 @@ For more detailed print settings & printing information, please see [General - P
 
 | Name | Quantity | Weight |
 | ---- | -------- | ------ |
+| todo | ....     | ....   |
 
 <!-- Front screen -->
 
@@ -154,6 +158,7 @@ For more detailed print settings & printing information, please see [General - P
 
 | Name | Quantity | Weight |
 | ---- | -------- | ------ |
+| todo | ....     | ....   |
 
 <!-- Front doors -->
 
@@ -161,6 +166,7 @@ For more detailed print settings & printing information, please see [General - P
 
 | Name | Quantity | Weight |
 | ---- | -------- | ------ |
+| todo | ....     | ....   |
 
 <!-- Trim pieces -->
 

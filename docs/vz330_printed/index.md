@@ -46,7 +46,7 @@ We recommend following this order of building the printer if building from scrat
 ### TronXY X5S(A) conversion
 
 We recommend following this order of building the printer if upgrading from a TronXY X5S(A).  
-These differ only slightly from the [From scratch instructions](#from-scratch)
+<!-- These differ only slightly from the [From scratch instructions](#from-scratch) -->
 
 1. [X/Y Gantry & Print head]
 2. [Bottom and rear panels]
