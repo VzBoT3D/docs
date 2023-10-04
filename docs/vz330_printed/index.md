@@ -13,7 +13,7 @@ permalink: /vz330_printed
 
 The VzBoT 330 is the larger brother of the [VzBot 235 - Printed Version](/vz235_printed) / [VzBot 235 - Mellow Kit](/vz235_mellow) 3D-printer.
 
-The original VzBoT 330 was based on the frame of a TronXY X5S(A) printer and has since evolved to be much more than that. While it can still be built as an upgrade of the original Tronxy X5S(A), it is no longer recommended due to the large amount of leftover parts this results in. Kits such as the [VzBoT 330 - Mellow Kit](/vz330_mellow/) have made this process much easier by providing all the staritng materials you will need without any leftovers.
+The original VzBoT 330 was based on the frame of a TronXY X5S(A) printer and has since evolved to be much more than that. While it can still be built as an upgrade of the original Tronxy X5S(A), it is no longer recommended due to the large amount of leftover parts this results in. Kits such as the [VzBoT 330 - Mellow Kit](/vz330_mellow) have made this process much easier by providing all the staritng materials you will need without any leftovers.
 
 ## Printed parts
 
