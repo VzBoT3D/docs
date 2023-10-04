@@ -3,7 +3,13 @@ layout: default
 title: Provider guide
 parent: How it works
 grand_parent: EzVz
-permalink: /EzVz/how-it-works/providers
+slug: providers
+# permalink: /ezvz/how-it-works/providers
+redirect_from:
+# - /ezvz/how-it-works/providers # current permalink
+  - /EzVz/how-it-works/providers # old permalink
+  - /ezvz/how_to_providers
+  - /EzVz/how_to_providers # original old permalink
 ---
 
 # Step by Step Tutorial - Providers
