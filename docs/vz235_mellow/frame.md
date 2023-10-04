@@ -49,13 +49,13 @@ Vz235 Build Part 1: The Frame
 
 ## STL's
 
-| File name            | Amount to print |
-| -------------------- | --------------- |
-| [Brace][]            | 2               |
-| [Handle][]           | 2               |
-| [Y Alignment Tool][] | 2               |
-| [Nut inserts][]      | 2               |
-| [Door latch][]       | 4               |
+| File name          | Amount to print |
+| ------------------ | --------------- |
+| [Brace]            | 2               |
+| [Handle]           | 2               |
+| [Y Alignment Tool] | 2               |
+| [Nut inserts]      | 2               |
+| [Door latch]       | 4               |
 
 {: .highlight }
 > To see the recommended print settings please refere [here](../general/misc-info/print-settings).

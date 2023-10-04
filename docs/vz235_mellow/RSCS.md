@@ -38,9 +38,9 @@ The RSCS is mounted to the acrylic panels and this version fits in very tight to
 
 | File name              | Amount to print |
 | ---------------------- | --------------- |
-| [RSCS top piece][]     | 2               |
-| [RSCS middle piece][]  | 2               |
-| [RSCS bottom piece][]  | 2               |
+| [RSCS top piece]     | 2               |
+| [RSCS middle piece]  | 2               |
+| [RSCS bottom piece]  | 2               |
 
 ### Step 1
 

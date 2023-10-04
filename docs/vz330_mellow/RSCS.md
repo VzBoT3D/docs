@@ -30,15 +30,15 @@ RSCS short for remote static cooling is an optional extra pair of cooling fans w
 
 ## STL's
 
-| File name               | Amount to print |
-|-------------------------|-----------------|
-| [Top duct][]            | 2               |
-| [Middle lower part][]   | 2               |
-| [Middle upper part][]   | 2               |
-| [Bottom piece][]        | 2               |
-| [Trim - side corner][]  | 8               |
-| [Trim - side center][]  | 8               |
-| [Magnetic door latch][] | 4               |
+| File name             | Amount to print |
+|-----------------------|-----------------|
+| [Top duct]            | 2               |
+| [Middle lower part]   | 2               |
+| [Middle upper part]   | 2               |
+| [Bottom piece]        | 2               |
+| [Trim - side corner]  | 8               |
+| [Trim - side center]  | 8               |
+| [Magnetic door latch] | 4               |
 
 ## Step 1
 

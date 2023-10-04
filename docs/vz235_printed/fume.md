@@ -32,14 +32,14 @@ The fume extractor is an optional piece of hardware but highly recommended! This
 
 ![Details](../assets/images/manual/vz235_printed/fume/details.png)
 
-| File name               | Amount to print | Notes                          |
-| :---------------------- | :-------------- | :----------------------------- |
-| [Fan guard][]           | 1               |                                |
-| [Fan guard insert][]    | 1               |                                |
-| [Exhaust fan housing][] | 1               |                                |
-| [HEPA holder][]         | 1               |                                |
-| [Exhaust cover][]       | 1               |                                |
-| [TPU grommet][]         | 1               | Optional, for protecting wires |
+| File name             | Amount to print | Notes                          |
+| :-------------------- | :-------------- | :----------------------------- |
+| [Fan guard]           | 1               |                                |
+| [Fan guard insert]    | 1               |                                |
+| [Exhaust fan housing] | 1               |                                |
+| [HEPA holder],        | 1               |                                |
+| [Exhaust cover]       | 1               |                                |
+| [TPU grommet]         | 1               | Optional, for protecting wires |
 
 ### Step 1
 

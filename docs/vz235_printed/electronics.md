@@ -33,14 +33,14 @@ We trust everyone to use their own best judgement when wiring their printer, we 
 
 ## STL's
 
-| File name                        | Amount to print | Notes                          |
-| -------------------------------- | --------------- | ------------------------------ |
-| [LED strip bracket][]            | 3               | Print in vase mode             |
-| [Optional front LEDs][]          | *1*             | Optional, for front LED's      |
-| [Electronics bay trim (left)][]  | 1               |                                |
-| [Electronics bay trim (right)][] | 1               | Houses the power switch/socket |
-| [Screen mount][]                 | 1               | One of each applicable         |
-| [Door stopper][]                 | 1               |                                |
+| File name                      | Amount to print | Notes                          |
+| ------------------------------ | --------------- | ------------------------------ |
+| [LED strip bracket]            | 3               | Print in vase mode             |
+| [Optional front LEDs]          | *1*             | Optional, for front LED's      |
+| [Electronics bay trim (left)]  | 1               |                                |
+| [Electronics bay trim (right)] | 1               | Houses the power switch/socket |
+| [Screen mount]                 | 1               | One of each applicable         |
+| [Door stopper]                 | 1               |                                |
 
 ## Video tutorial
 

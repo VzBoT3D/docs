@@ -17,19 +17,19 @@ permalink: /vz235_printed/gantry/y_gantry
 
 ![Y gantry detail](../../assets/images/manual/vz235_printed/gantry/y_gantry_details.png)
 
-| Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
-| M3 8mm | 20 | (or more depending on how much you use to secure the MGN12 & MGN9) |
-| M3 10mm | 8 | - |
-| M3 30mm | 4 | - |
-| M3 t-nut | 12 | - |
-| M3 nut | 12 | - |
-| M5 30mm (titanium) | 4 | - |
-| M5 nut (self-locking) | 4 | - |
-| GT2 smooth idler | 2 | - |
-| CF square tube / aluminium tube | 1 | - |
-| MGN9H 300mm | 1 | - |
-| MGN12H 300m | 2 | - |
+| Material                        | Quantity | Notes                                                              |
+| :------------------------------ | :------- | :----------------------------------------------------------------- |
+| M3 8mm                          | 20       | (or more depending on how much you use to secure the MGN12 & MGN9) |
+| M3 10mm                         | 8        | -                                                                  |
+| M3 30mm                         | 4        | -                                                                  |
+| M3 t-nut                        | 12       | -                                                                  |
+| M3 nut                          | 12       | -                                                                  |
+| M5 30mm (titanium)              | 4        | -                                                                  |
+| M5 nut (self-locking)           | 4        | -                                                                  |
+| GT2 smooth idler                | 2        | -                                                                  |
+| CF square tube / aluminium tube | 1        | -                                                                  |
+| MGN9H 300mm                     | 1        | -                                                                  |
+| MGN12H 300m                     | 2        | -                                                                  |
 
 ## STL's
 

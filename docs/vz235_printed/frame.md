@@ -33,27 +33,27 @@ Vz235 Build Part 1: The Frame
 
 ## BOM
 
-| Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
-| M5/M6 10mm buttonhead           | 20 | Depending on the type of 2020 you use, you need M5 or M6 screws  |
-| 385mm 2020 extrusion | 4   | Yellow  |
-| 375mm 2020 extrusion           | 6      | Red   |
-| 470mm 2020 extrusion           | 4 | Blue  |
-| 385mm 2020 extrusion           | 1 | Only for 2WD, mount the same as Y gantry extrusions  |
-| 2020 corner joints           | 18 | -  |
-| 2020 blind corner joints           | 4 | -  |
+| Material                 | Quantity | Notes                                                           |
+| :----------------------- | :------- | :-------------------------------------------------------------- |
+| M5/M6 10mm buttonhead    | 20       | Depending on the type of 2020 you use, you need M5 or M6 screws |
+| 385mm 2020 extrusion     | 4        | Yellow                                                          |
+| 375mm 2020 extrusion     | 6        | Red                                                             |
+| 470mm 2020 extrusion     | 4        | Blue                                                            |
+| 385mm 2020 extrusion     | 1        | Only for 2WD, mount the same as Y gantry extrusions             |
+| 2020 corner joints       | 18       | -                                                               |
+| 2020 blind corner joints | 4        | -                                                               |
 
 ![Frame colored](../assets/images/manual/vz235_printed/frame/frame_colored.png)
 
 ## STL's
 
-| File name            | Amount to print |
-| -------------------- | --------------- |
-| [Brace][]            | 2               |
-| [Handle][]           | 2               |
-| [Y Alignment Tool][] | 2               |
-| [Nut inserts][]      | 2               |
-| [Door latch][]       | 4               |
+| File name          | Amount to print |
+| ------------------ | --------------- |
+| [Brace]            | 2               |
+| [Handle]           | 2               |
+| [Y Alignment Tool] | 2               |
+| [Nut inserts]      | 2               |
+| [Door latch]       | 4               |
 
 > {: .highlight }
 >

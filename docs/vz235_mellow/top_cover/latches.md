@@ -30,11 +30,11 @@ permalink: /vz235_mellow/top_cover/latches
 
 ![Detail](../../assets/images/manual/vz235_printed/top_cover/top_cover_detail.png)
 
-| File name                        | Amount to print |
-| -------------------------------- | --------------- |
-| [Top cover holder top part][]    | 4               |
-| [Top cover holder middle part][] | 4               |
-| [Top cover holder bottom part][] | 4               |
+| File name                      | Amount to print |
+| ------------------------------ | --------------- |
+| [Top cover holder top part]    | 4               |
+| [Top cover holder middle part] | 4               |
+| [Top cover holder bottom part] | 4               |
 
 ### Step 1
 
