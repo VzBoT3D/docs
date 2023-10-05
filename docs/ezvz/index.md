@@ -11,7 +11,7 @@ permalink: /EzVz/
 
 ## Tutorials
 
-[How it works](/EzVz/how-it-works/)
+[How it works](/EzVz/how-it-works)
 
 [How to use - Customer](/EzVz/how-it-works/customers)
 
@@ -25,7 +25,7 @@ permalink: /EzVz/
 
 [Rating System](/EzVz/providers#rating-system)
 
-[Printing rules](/EzVz/printing_rules)
+[Printing rules](/EzVz/print_rules)
 
 ## General Information
 
