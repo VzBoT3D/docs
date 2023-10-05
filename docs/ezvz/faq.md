@@ -3,6 +3,7 @@ layout: default
 title: FAQ
 parent: EzVz
 nav_order: 0
+permalink: /EzVz/faq
 ---
 
 ## Frequently Asked Questions

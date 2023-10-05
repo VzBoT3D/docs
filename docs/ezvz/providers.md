@@ -2,6 +2,7 @@
 layout: default
 title: Providers
 parent: EzVz
+permalink: /EzVz/providers
 ---
 
 # EzVz Providers

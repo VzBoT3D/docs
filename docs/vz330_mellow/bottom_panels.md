@@ -30,7 +30,7 @@ permalink: /vz330_mellow/panels_part1
 | File name                         | Amount to print |
 |-----------------------------------|-----------------|
 | [VzBoT Foot]                      | 4               |
-| [Foot scalable spacer] (optional) | 4               |
+| [Scalable Spacer] "Optional" | 4               |
 
 ## Step 1
 
@@ -62,5 +62,5 @@ permalink: /vz330_mellow/panels_part1
 |:-|:-|
 | ![Step 3](../assets/images/manual/vz330_mellow/panels_1/step_3.png) | &#8226; Insert all M4 sliding t-nuts in the frame and align them with the holes of the plate <br/> &#8226; Mount plate and feet to the frame.
 
-[Foot scalable spacer]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/Feet/STL/Spacer.stl
+[Scalable Spacer]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/Feet/STL/Spacer.stl
 [VzBoT Foot]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Frame/Feet/STL/foot.stl

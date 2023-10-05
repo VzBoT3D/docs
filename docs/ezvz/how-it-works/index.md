@@ -5,6 +5,7 @@ parent: EzVz
 has_toc: true
 nav_order: 1 # This is the nav_order in the parent navigation
 has_children: true
+permalink: /EzVz/how-it-works
 ---
 
 # How EzVz works

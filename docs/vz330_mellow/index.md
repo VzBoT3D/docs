@@ -24,7 +24,7 @@ We advice to build the printer in the following order:
 2. [Build the frame](/vz330_mellow/frame)
 3. [Z-Assembly & Bed](/vz330_mellow/z_assembly)
 4. [X/Y Gantry](/vz330_mellow/gantry)
-5. [Bottom and rear panels](/vz330_mellow/bottom_panels)
+5. [Bottom and rear panels](/vz330_mellow/panels_part1)
 6. [The electronics](/vz330_mellow/electronics)
 7. [Fume extractor](/vz330_mellow/fume_extractor)
 8. [Side panels & RSCS](/vz330_mellow/rscs)

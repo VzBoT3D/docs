@@ -3,6 +3,7 @@ layout: default
 title: Customer guide
 parent: How it works
 grand_parent: EzVz
+permalink: /EzVz/how-it-works/customers
 ---
 
 # Step by Step Tutorial - Customers

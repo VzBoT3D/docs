@@ -2,6 +2,7 @@
 layout: default
 title: Stored Data
 parent: EzVz
+permalink: /EzVz/stored-data
 ---
 
 # Your personal data

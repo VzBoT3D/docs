@@ -2,6 +2,7 @@
 layout: default
 title: Filament list
 parent: EzVz
+permalink: /EzVz/filaments
 ---
 
 ## Allowed Filament Brands

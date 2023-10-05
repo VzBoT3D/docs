@@ -4,6 +4,7 @@ title: Terms of service
 parent: EzVz
 redirect-from:
   - /EzVz/tos
+permalink: /EzVz/terms-of-service
 ---
 
 # Terms of Service

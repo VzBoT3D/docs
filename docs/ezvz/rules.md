@@ -2,6 +2,7 @@
 layout: default
 title: Rules
 parent: EzVz
+permalink: /EzVz/rules
 ---
 
 # Rules

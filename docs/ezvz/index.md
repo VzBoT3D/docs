@@ -25,7 +25,7 @@ permalink: /EzVz/
 
 [Rating System](/EzVz/providers#rating-system)
 
-[Printing rules](/EzVz/printing_rules.md)
+[Printing rules](/EzVz/printing_rules)
 
 ## General Information
 

@@ -3,6 +3,7 @@ layout: default
 title: Provider guide
 parent: How it works
 grand_parent: EzVz
+permalink: /EzVz/how-it-works/providers
 ---
 
 # Step by Step Tutorial - Providers
