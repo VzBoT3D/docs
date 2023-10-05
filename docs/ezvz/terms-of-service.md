@@ -2,10 +2,10 @@
 layout: default
 title: Terms of service
 parent: EzVz
-redirect-from:
-  - /EzVz/tos
 permalink: /EzVz/tos
 ---
+<!--redirect-from:
+  - /EzVz/tos-->
 
 # Terms of Service
 
