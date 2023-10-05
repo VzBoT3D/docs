@@ -3,7 +3,7 @@ layout: default
 title: Terms of service
 parent: EzVz
 redirect-from:
-  - /ezvz/tos
+  - /EzVz/tos
 ---
 
 # Terms of Service

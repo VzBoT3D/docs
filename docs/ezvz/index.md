@@ -4,31 +4,31 @@ title: EzVz
 has_toc: false
 nav_order: 8 # This is the nav_order in the parent navigation
 has_children: true
-permalink: /ezvz/
+permalink: /EzVz/
 ---
 
 # EzVz Overview
 
 ## Tutorials
 
-[How it works](/ezvz/how-it-works/)
+[How it works](/EzVz/how-it-works/)
 
-[How to use - Customer](/ezvz/how-it-works/customers)
+[How to use - Customer](/EzVz/how-it-works/customers)
 
-[How to use - Provider](/ezvz/how-it-works/providers)
+[How to use - Provider](/EzVz/how-it-works/providers)
 
-[Frequently Asked Questions](/ezvz/faq)
+[Frequently Asked Questions](/EzVz/faq)
 
 ## Provider Information
 
-[Payments](h/ezvz/providers#order-picking)
+[Payments](/EzVz/providers#order-picking)
 
-[Rating System](/ezvz/providers#rating-system)
+[Rating System](/EzVz/providers#rating-system)
 
-[Printing rules](/ezvz/printing_rules.md)
+[Printing rules](/EzVz/printing_rules.md)
 
 ## General Information
 
-[Stored Data](/ezvz/stored-data)
+[Stored Data](/EzVz/stored-data)
 
-[Terms of Service](/ezvz/tos)
+[Terms of Service](/EzVz/tos)
