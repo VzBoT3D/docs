@@ -57,7 +57,7 @@ Now you've done that Press the big button saying Write and it's time to wait a b
 
 ![Specific_OS](../../assets/images/manual/vz235_printed/electronics/Firmware/Writing.PNG)
 
-## Installing Klipper
+## Installing Klipper/firmware
 
 Once you've booted up your Pi find the IP adress of it with your Router. This IP will be user specific so we can't help much there.
 
@@ -71,7 +71,7 @@ Next up you'll be greeted with the Login screen. The username is default: pi and
 
 ![Login](../../assets/images/manual/vz235_printed/electronics/Firmware/login.PNG)
 
-First we're gonna be updating the Pi with some commands. You'll be asked to enter your password sometimes and that's the same as we used to login so: raspberry.  
+First we're gonna be updating the Pi with some commands. You'll be asked to enter your password sometimes and that's the same as we used to login so: raspberry.
 
 Enter these 2 commands in the order shown bellow and wait for everything to finish.
 
@@ -83,7 +83,9 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 
-Now that we have a updated Pi it's time to setup the firmware for our Motherboard.
+### Configure firmware
+
+Now that we have a updated Pi it's time to set up the firmware for our Motherboard.
 
 ```bash
 cd ~/klipper/
@@ -105,6 +107,8 @@ You'll see something like this now.
 
 ![low level](../../assets/images/manual/vz235_printed/electronics/Firmware/extra_low_level.PNG)
 
+### Motherboard model
+
 Go down to Micro-controller Architecture and press the spacebar. you'll see a list of options for selecting the correct architecture. We're gonna be using the STM32. Press space to select it.
 
 ![stm32](../../assets/images/manual/vz235_printed/electronics/Firmware/STM32.PNG)
@@ -124,12 +128,16 @@ Use both with a 128KiB bootloader Offset. And a 25MHz Crystal Like this.
 ![H723](../../assets/images/manual/vz235_printed/electronics/Firmware/H723.PNG)
 ![H743](../../assets/images/manual/vz235_printed/electronics/Firmware/H743.PNG)
 
+### Set pin states
+
 For CPAP we need to change the on/off settings of pin PF8 so we have to put that into the GPIO settings. Press spacebar on GPIO pins and put in !PF8 and press enter.
 
 ![PF8](../../assets/images/manual/vz235_printed/electronics/Firmware/PF8.PNG)
 
-Now you simply Press: Q and hit Y for Yes save configuration.
+### Compiling firmware
 
+**Then, finally:**  
+Simply Press Q, then hit Y (for Yes) to save the configuration.
 ![Save](../../assets/images/manual/vz235_printed/electronics/Firmware/save.PNG)
 
 Once that is done you simply type this command in putty and it will make the firmware file for you.
