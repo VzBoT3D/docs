@@ -41,7 +41,7 @@ permalink: /vz235_mellow/gantry/front_motors
 
 | File name | Amount to print |
 | --------- | --------------- |
-| [TODO][]  | 3               |
+| [TODO]    | 3               |
 
 ### Step 1
 

@@ -27,14 +27,14 @@ permalink: /vz330_mellow/fume_extractor
 
 ## STL's
 
-| File name               | Amount to print | Note                                |
-|-------------------------|-----------------|-------------------------------------|
-| [Fan guard][]           | 1               |                                     |
-| [Fan guard insert][]    | 1               |                                     |
-| [Exhaust fan housing][] | 1               |                                     |
-| [HEPA holder 15mm][]    | 1               | Print if your HEPA is 15mm "strong" |
-| [HEPA holder 10mm][]    | 1               | Print if your HEPA is 10mm "strong" |
-| [Exhaust cover][]       | 1               |                                     |
+| File name             | Amount to print | Note                                |
+|-----------------------|-----------------|-------------------------------------|
+| [Fan guard]           | 1               |                                     |
+| [Fan guard insert]    | 1               |                                     |
+| [Exhaust fan housing] | 1               |                                     |
+| [HEPA holder 15mm]    | 1               | Print if your HEPA is 15mm "strong" |
+| [HEPA holder 10mm]    | 1               | Print if your HEPA is 10mm "strong" |
+| [Exhaust cover]       | 1               |                                     |
 
 ## Step 1
 

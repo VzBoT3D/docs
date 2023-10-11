@@ -28,13 +28,13 @@ permalink: /vz235_mellow/top_cover/front
 
 ![Detail](../../assets/images/manual/vz235_printed/top_cover/latches_detail.png)
 
-| File name                                                              | Amount to print |
-| ---------------------------------------------------------------------- | --------------- |
-| [Latch Top Left][]                                                     | 1               |
-| [Latch Top Right][]                                                    | 1               |
-| [Latch Bottom Left][]                                                  | 1               |
-| [Latch Bottom Right][]                                                 | 1               |
-| [Latch Mount][] (not needed when done while assembling the frame)      | 4               |
+| File name                                                            | Amount to print |
+| -------------------------------------------------------------------- | --------------- |
+| [Latch Top Left]                                                     | 1               |
+| [Latch Top Right]                                                    | 1               |
+| [Latch Bottom Left]                                                  | 1               |
+| [Latch Bottom Right]                                                 | 1               |
+| [Latch Mount] (not needed when done while assembling the frame)      | 4               |
 
 ### Step 1
 

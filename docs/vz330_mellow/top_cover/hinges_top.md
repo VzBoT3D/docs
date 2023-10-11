@@ -28,14 +28,14 @@ permalink: /vz330_mellow/top_cover/top
 
 ![Detail](../../assets/images/manual/vz330_mellow/top_cover/top/details.png)
 
-| File name        | Amount to print |
-|------------------|-----------------|
-| [Left top][]     | 1               |
-| [Left middle][]  | 1               |
-| [Left bottom][]  | 1               |
-| [Right top][]    | 1               |
-| [Right middle][] | 1               |
-| [Right bottom][] | 1               |
+| File name      | Amount to print |
+|----------------|-----------------|
+| [Left top]     | 1               |
+| [Left middle]  | 1               |
+| [Left bottom]  | 1               |
+| [Right top]    | 1               |
+| [Right middle] | 1               |
+| [Right bottom] | 1               |
 
 ### Step 1
 

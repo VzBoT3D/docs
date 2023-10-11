@@ -9,5 +9,5 @@ tags:
   - printer
   - setup
 has_children: true
-nav_order: 
+slug: general
 ---

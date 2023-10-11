@@ -33,14 +33,14 @@ We trust everyone to use their own best judgement when wiring their printer, we 
 
 ## STL's
 
-| File name                | Amount to print | Notes              |
-| ------------------------ | --------------- | ------------------ |
-| [LED strip bracket][]    | 3               | print in vase mode |
-| [Power switch bracket][] | 1               |                    |
-| [Front screen cover][]   | 1               |                    |
-| [Rear screen cover][]    | 1               |                    |
-| [Screen mount][]         | 1               |                    |
-| [Door stopper][]         | 1               |                    |
+| File name                      | Amount to print | Notes                          |
+| ------------------------------ | --------------- | ------------------------------ |
+| [LED strip bracket]            | 3               | Print in vase mode             |
+| [Optional front LEDs]          | *1*             | Optional, for front LED's      |
+| [Electronics bay trim (left)]  | 1               |                                |
+| [Electronics bay trim (right)] | 1               | Houses the power switch/socket |
+| [Screen mount]                 | 1               | One of each applicable         |
+| [Door stopper]                 | 1               |                                |
 
 ## Video tutorial
 
@@ -98,9 +98,9 @@ Vz235 Build Part 4: The electronics
 [01:22:37](https://www.youtube.com/watch?v=bEGVnYrXJG4&t=4957s) Vez happy man :) 🍻  
 [01:23:00](https://www.youtube.com/watch?v=bEGVnYrXJG4&t=4980s) Closing remarks  
 
-[Door stopper]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Front screen cover]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[LED strip bracket]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Power switch bracket]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Rear screen cover]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Screen mount]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
+[Door stopper]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Misc/Door%20stopper.stl
+[LED strip bracket]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Misc/misc/Led%20strip%20holder%20%5Bprint%20in%20vase%20mode%5D.stl
+[Optional front LEDs]: https://github.com/VzBoT3D/VzBoT-Vz235/tree/main/Assemblies%20%26%20STL/Electronics/Optional%20Front%20LED
+[Electronics bay trim (right)]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/electronic%20back%20pack/powerswitch%20bracket%20(1).stl
+[Electronics bay trim (left)]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/electronic%20back%20pack/powerswitch%20bracket(Mirror).stl
+[Screen mount]: https://github.com/VzBoT3D/VzBoT-Vz235/tree/main/Assemblies%20%26%20STL/Electronics/Screen%20Mount
