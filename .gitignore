@@ -2,16 +2,21 @@
 CNAME
 
 # Bundler / Ruby / Jekyll
+Gemfile.lock
 .bundle/config
 vendor/bundle/
 
 # Jekyll build output
 _site/
 .sass-cache
+docs/.jekyll-cache
 docs/.jekyll-metadata
 
 # VSCode user-specific files
 .vscode/settings.json
+
+# Vim <3
+*.swp
 
 # MacOS metadata file
 **/.DS_Store 
