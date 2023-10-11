@@ -33,7 +33,35 @@ This bug may cause the following **issues**:
 
 ## Am I affected?
 
-You can check whether you are affected by this bug by checking the version of the installed udev package by running `apt show udev` in the terminal.
+Before asserting whether you are affected by this bug, assess whether your motherboard is being recognized and shows up as a device.
+
+1. Connect your motherboard to the Pi using a suitable USB cable.
+2. Run `lsusb` and observe the output for any devices containing "OpenMoko, Inc."
+
+    ```bash
+    $ lsusb
+    Bus 001 Device 001 1234:ABCD OpenMoko, Inc.
+    ```
+
+❎ If your motherboard **does not** show up as such, it may be the case that:
+{: .text-red-200}
+
+- Your motherboard isn't connected to the Pi  
+    *Have you tried plugging it in?*
+- The Klipper firmware on your motherboard was flashed improperly  
+    *Follow the correct instructions for flashing your board with firmware.*
+- The Klipper firmware on your motherboard failed to flash  
+    *Check the SD-card for evidence of the flashing process succeeding.*
+- The Klipper firmware on your motherboard was not built for the right device  
+    *Make sure you have selected the right options for your motherboard under `make menuconfig`*
+- The USB cable connecting your motherboard to the Pi is defective  
+    *Try a different USB cable.*
+- Your motherboard is having other issues
+
+✅ If your motherboard **does** show up as such, then proceed as follows:
+{: .text-green-000}
+
+Check whether you are affected by this bug by checking the version of the installed udev package by running `apt show udev` in the terminal.
 
 The following versions are known to be affected:
 
@@ -46,11 +74,11 @@ Please note the last section of the version string, including **u2**.
 
 Replacing the corrupted file from the `udev` package with that from a version that is not affected.
 
-1. Back up the existing file (in case you need it)
+1. Back up the existing file (in case you need it)  
     `sudo cp /usr/lib/udev/rules.d/60-serial.rules /usr/lib/udev/rules.d/60-serial.old`
-2. Download the patched file from the systemd repository
+2. Download the patched file from the systemd repository  
     `sudo wget -O /usr/lib/udev/rules.d/60-serial.rules https://raw.githubusercontent.com/systemd/systemd/main/rules.d/60-serial.rules`
-3. Reboot the machine/Pi
+3. Reboot the machine/Pi  
     `sudo reboot`
 
 ## Solution B
@@ -77,7 +105,7 @@ To install the patched version of the systemd package (version 252.5-2~bpo11+1):
     {: .danger}
     > If the command tries to install other packages or behaves unexpectedly (in particular, wanting to remove a large quantity of installed packages), stop the command using `CTRL`+`C` and *reassess the situation*.
 
-2. Reboot
+2. Reboot  
     `sudo reboot`
 
 You should now be able to see your device in `/dev/serial/by-id` and/or connect to your device in Klipper once again.
