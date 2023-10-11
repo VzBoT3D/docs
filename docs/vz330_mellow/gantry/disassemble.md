@@ -9,7 +9,13 @@ has_children: false
 permalink: /vz330_mellow/gantry/change_parts
 ---
 
-# STLs
+# Disassemble the PLA gantry parts
+
+The Mellow VzBoT kit comes with the gantry pre-assembled containing printed parts made out of PLA 
+plastic. While the PLA plastic parts are a good starting point and provide you with a clear
+reference as to how the gantry is assembled, it is highly recommended to replace the supplied PLA
+parts with a different material that can withstand higher temperatures. Te PLA parts may warp 
+or melt completely when used in an enclosed printer for prolonged periods of time. 
 
 {: .highlight }
 > Do this for both back motor mounts
