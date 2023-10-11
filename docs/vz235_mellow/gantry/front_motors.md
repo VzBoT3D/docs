@@ -11,6 +11,9 @@ permalink: /vz235_mellow/gantry/front_motors
 
 # 3.1 Motor mounts + integrated hinges
 
+{: .highlight }
+> The Mellow VzBoT kit comes with the gantry pre-assembled containing printed parts made out of PLA plastic. While the PLA plastic parts are a good starting point and provide you with a clear reference as to how the gantry is assembled, it is highly recommended to replace the supplied PLA parts with a different material that can withstand higher temperatures. The PLA parts may warp or melt completely when used in an enclosed printer for prolonged periods of time. 
+
 ## Overview
 
 ![Overview](../../assets/images/manual/vz235_mellow/gantry/front_motors/overview.png)
