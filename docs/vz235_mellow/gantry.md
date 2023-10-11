@@ -14,7 +14,7 @@ redirect_from:
 
 ## Overview
 
-The Gantry is configurable for an AWD version and a 2WD version. The only difference between the two configurations is the rear idler mounts. On AWD they have an additional Nema 17 integrated in the design.
+The gantry is configurable for an AWD version and a 2WD version. The only difference between the two configurations is the rear idler mounts. On AWD they have an additional Nema 17 integrated in the design.
 
 ![Overview](../../../assets/images/manual/vz235_mellow/gantry/overview.png)
 

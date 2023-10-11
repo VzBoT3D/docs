@@ -56,7 +56,7 @@ If you are from China / Asia, we understand that buying and shipping a printhead
 
 You are free to design and produce your own iteration of the VzBoT aluminum parts. Please note that commercial redistribution and production will violate the CC BY-NC 4.0 license of the project!
 
-![](./assets/images/faq/vzprinthead.jpg)
+![Vz-Printhead showcase](./assets/images/faq/vzprinthead.jpg)
 
 ## What is AWD (All wheel drive)?
 

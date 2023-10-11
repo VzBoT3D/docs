@@ -5,7 +5,7 @@ parent: Vz235 - Mellow Kit
 has_toc: false
 nav_order: 4
 has_children: false
-permalink: /vz235_mellow/panels_part1
+permalink: /vz235_mellow/bottom_panels
 redirect_from:
   - /vz235_alu/panels_part1
 ---

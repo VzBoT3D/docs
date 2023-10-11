@@ -5,7 +5,7 @@ parent: Vz235 - Printed Version
 has_toc: false
 nav_order: 4
 has_children: false
-permalink: /vz235_printed/panels_part1
+permalink: /vz235_printed/bottom_panels
 ---
 
 # 4. Bottom and rear panels

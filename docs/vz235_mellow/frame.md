@@ -16,7 +16,7 @@ redirect_from:
 
 ![Frame](../assets/images/manual/vz235_printed/frame/overview.png)
 
-The frame is assembled through a combination of blind joints, corner brackets and blind corner brackets. The corner brackets are to help stiffen up the frame and are optional, though we highly recommend using them on every possible corner for best results.
+The frame is assembled through a combination of blind joints, reinforcing corner brackets and blind corner brackets. The reinforcing corner brackets are to help stiffen up the frame and are optional, though we highly recommend using them on every possible corner for best results.
 
 For detailed informations on how to assemble blind joints visit this [page](../general/misc-info/blind-joints)
 

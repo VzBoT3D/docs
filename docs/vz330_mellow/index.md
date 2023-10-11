@@ -19,8 +19,7 @@ For guidance on printing the printed parts for this printer, please refer to the
 
 We advice to build the printer in the following order:
 
-0. [Inspect kit contents](/vz330_mellow/kit_contents)
-1. <small>W.I.P.</small>
+1. [Inspect kit contents](/vz330_mellow/kit_contents)
 2. [Build the frame](/vz330_mellow/frame)
 3. [Z-Assembly & Bed](/vz330_mellow/z_assembly)
 4. [X/Y Gantry](/vz330_mellow/gantry)

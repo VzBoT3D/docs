@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Kit contents
+title: 6.1 Kit contents
 parent: Vz330 - Mellow Kit
 has_toc: false
-nav_order: 0
+nav_order: 1
 has_children: false
 permalink: /vz330_mellow/kit_contents
 ---

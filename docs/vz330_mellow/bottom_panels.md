@@ -5,7 +5,7 @@ parent: Vz330 - Mellow Kit
 has_toc: false
 nav_order: 5
 has_children: false
-permalink: /vz330_mellow/panels_part1
+permalink: /vz330_mellow/bottom_panels
 ---
 
 # 5. Bottom and rear panels
