@@ -1,5 +1,9 @@
 # Explicitly declare text files you want to always be normalized and converted
 # to native line endings on checkout.
+### If this causes issues with rebasing, remove the line below, 
+### mark it as unchanged git update-index --assume-unchanged .gitattributes
+### and then reset with --hard, followed by rebase.
+### Afterwards, update-index with --no-assume-unchanged
 *.md text eol=lf
 *.mdx text eol=lf
 *.html text eol=lf
