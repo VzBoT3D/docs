@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Maintenance
+title: Troubleshooting
 parent: General info # temporarily here to clean up the sidebar links
 ---
 
