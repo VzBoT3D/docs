@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2. Z - Assembly & Bed
+title: 2. Z-assembly & Bed
 parent: Vz235 - Printed Version
 has_toc: false
 nav_order: 2

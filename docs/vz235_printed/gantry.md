@@ -12,7 +12,7 @@ permalink: /vz235_printed/gantry
 
 ## Overview
 
-The Gantry is configurable for an AWD version and a 2WD version. The major differences between the two configurations are the rear idler mounts. On AWD configurations, they have additional NEMA17 stepper motors integrated in the design, replacing the idler bearings.
+The gantry is configurable for an AWD version and a 2WD version. The major differences between the two configurations are the rear idler mounts. On AWD configurations, they have additional NEMA17 stepper motors integrated in the design, replacing the idler bearings.
 
 ![Gantry](../../assets/images/manual/vz235_printed/printed_preview_md.png)
 

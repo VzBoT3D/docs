@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2. Z - Assembly & Bed
+title: 2. Z-assembly & Bed
 parent: Vz235 - Mellow Kit
 has_toc: false
 nav_order: 2
@@ -10,7 +10,7 @@ redirect_from:
   - /vz235_alu/z_assembly
 ---
 
-# 2. Z - Assembly & Bed
+# 2. Z-assembly & Bed
 
 ## Overview
 

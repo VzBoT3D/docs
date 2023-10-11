@@ -1,15 +1,15 @@
 ---
 layout: default
-title: 6.3 Firmware Setup
+title: 6.4 Firmware Setup
 parent: 6. Electronics
 grand_parent: Vz330 - Mellow Kit
 has_toc: false
-nav_order: 3
+nav_order: 4
 has_children: false
 permalink: /vz330_mellow/electronics/Firmware
 ---
 
-# 6.3 Firmware Setup
+# 6.4 Firmware Setup
 
 Time to start flashing our Pi and Motherboard.
 
