@@ -31,30 +31,29 @@ Vz235 Build Part 1: The Frame
 [6:49](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=409s) Aluminium parts  
 [19:00](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=1140s) Bottom plate
 
-
 ## BOM
 
-| Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
-| M5/M6 10mm buttonhead           | 20 | Depending on the type of 2020 you use, you need M5 or M6 screws  |
-| 385mm 2020 extrusion | 4   | Yellow  |
-| 375mm 2020 extrusion           | 6      | Red   |
-| 470mm 2020 extrusion           | 4 | Blue  |
-| 385mm 2020 extrusion           | 1 | Only for 2WD, mount the same as Y gantry extrusions  |
-| 2020 corner joints           | 18 | -  |
-| 2020 blind corner joints           | 4 | -  |
+| Material                 | Quantity | Notes                                                           |
+| :----------------------- | :------- | :-------------------------------------------------------------- |
+| M5/M6 10mm buttonhead    | 20       | Depending on the type of 2020 you use, you need M5 or M6 screws |
+| 385mm 2020 extrusion     | 4        | Yellow                                                          |
+| 375mm 2020 extrusion     | 6        | Red                                                             |
+| 470mm 2020 extrusion     | 4        | Blue                                                            |
+| 385mm 2020 extrusion     | 1        | Only for 2WD, mount the same as Y gantry extrusions             |
+| 2020 corner joints       | 18       | -                                                               |
+| 2020 blind corner joints | 4        | -                                                               |
 
 ![Frame colored](../assets/images/manual/vz235_printed/frame/frame_colored.png)
 
 ## STL's
 
-| File name | Amount to print |
-|-----------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Bracer</a> | 2 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/handle.stl" target="_blank">Handle</a> | 2 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Tools/vzbot%20y%20gantry%202020%20allignment%20tool%20v1.stl" target="_blank">Y Alignment Tool</a> | 2 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Gantry/Motormounts/left%20motormounts/nut%20insert%20for%20motormount.stl" target="_blank">Nut insers</a> | 2 |
-| [Door latch]() | 4 |
+| File name          | Amount to print |
+| ------------------ | --------------- |
+| [Brace]            | 2               |
+| [Handle]           | 2               |
+| [Y Alignment Tool] | 2               |
+| [Nut inserts]      | 2               |
+| [Door latch]       | 4               |
 
 > {: .highlight }
 >
@@ -91,3 +90,9 @@ Attach the extrusions to connect the two halves of the frame. Make sure to put t
 ### Step 4
 
 Attach all corner joints and check if your frame is square and strong. After this checks out attach the handles and the frame is built.
+
+[Brace]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
+[Door latch]: https://github.com/VzBoT3D/VzBoT-Vz235/tree/main/Assemblies%20%26%20STL/Enclosure/Front%20door%20latches
+[Handle]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/handle.stl
+[Nut inserts]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Gantry/Motormounts/left%20motormounts/nut%20insert%20for%20motormount.stl
+[Y Alignment Tool]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Tools/vzbot%20y%20gantry%202020%20allignment%20tool%20v1.stl

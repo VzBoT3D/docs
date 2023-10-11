@@ -33,10 +33,10 @@ A full panel kit is available at F3D-racing’s shop. We recommend getting that 
 
 ## STL's
 
-| File name                           | Amount to print |
-| ----------------------------------- | --------------- |
-| [VzBoT Foot][]                      | 4               |
-| [Foot scalable spacer][] (optional) | 4               |
+| File name                         | Amount to print |
+| --------------------------------- | --------------- |
+| [VzBoT Foot]                      | 4               |
+| [Foot scalable spacer] (optional) | 4               |
 
 ### Step 1
 

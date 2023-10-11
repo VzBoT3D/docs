@@ -26,11 +26,11 @@ permalink: /vz330_mellow/top_cover/front
 
 ## STL's
 
-| File name        | Amount to print |
-|------------------|-----------------|
-| [Hinge part 1][] | 4               |
-| [Hinge part 2][] | 4               |
-| [Logo insert][]  | 2               |
+| File name      | Amount to print |
+|----------------|-----------------|
+| [Hinge part 1] | 4               |
+| [Hinge part 2] | 4               |
+| [Logo insert]  | 2               |
 
 ### Step 1
 

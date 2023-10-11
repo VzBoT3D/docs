@@ -28,17 +28,17 @@ In this section we'll assemble the Toolhead for the VzBot.
 
 ## STLs
 
-| File name                     | Amount to print | Note                                 |
-|-------------------------------|-----------------|--------------------------------------|
-| [X end stop switch mount][]   | 1               | -                                    |
-| [Cable Holder][]              | 1               | -                                    |
-| [Fan duct Goliath][]          | 1               | Pick this if no beacon is used       |
-| [Fan duct Goliath (beacon)][] | 1               | Use this duct for Goliath and beacon |
-| [Fan duct Goliath spacers][]  | 1               | -                                    |
-| [Fan duct upper][]            | 1               | -                                    |
-| [Upper duct mount][]          | 1               | -                                    |
-| [Upper duct CPAP c-clamp][]   | 1               | -                                    |
-| [Goliath 2510 fan duct][]     | 1               | -                                    |
+| File name                   | Amount to print | Note                                 |
+|-----------------------------|-----------------|--------------------------------------|
+| [X end stop switch mount]   | 1               | -                                    |
+| [Cable Holder]              | 1               | -                                    |
+| [Fan duct Goliath]          | 1               | Pick this if no beacon is used       |
+| [Fan duct Goliath (beacon)] | 1               | Use this duct for Goliath and beacon |
+| [Fan duct Goliath spacers]  | 1               | -                                    |
+| [Fan duct upper]            | 1               | -                                    |
+| [Upper duct mount]          | 1               | -                                    |
+| [Upper duct CPAP c-clamp]   | 1               | -                                    |
+| [Goliath 2510 fan duct]     | 1               | -                                    |
 
 ## Step 1
 

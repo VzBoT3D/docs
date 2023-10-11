@@ -39,12 +39,12 @@ permalink: /vz235_mellow/gantry/rear_motors
 
 ## STL's
 
-| File name               | Amount to print |
-| ----------------------- | --------------- |
-| [Spacer long][]         | 4               |
-| [Spacer short bottom][] | 2               |
-| [Spacer short top][]    | 2               |
-| [Spacer M3 corner][]    | 2               |
+| File name             | Amount to print |
+| --------------------- | --------------- |
+| [Spacer long]         | 4               |
+| [Spacer short bottom] | 2               |
+| [Spacer short top]    | 2               |
+| [Spacer M3 corner]    | 2               |
 
 ### Step 1
 

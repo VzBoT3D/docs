@@ -49,21 +49,13 @@ Vz235 Build Part 1: The Frame
 
 ## STL's
 
-| File name            | Amount to print |
-| -------------------- | --------------- |
-| [Brace][]            | 2               |
-| [Handle][]           | 2               |
-| [Y Alignment Tool][] | 2               |
-| [Nut inserts][]      | 2               |
-| [Door latch][]       | 4               |
-=======
-| File name | Amount to print |
-|-----------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Bracer</a> | 2 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/handle.stl" target="_blank">Handle</a> | 2 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Tools/vzbot%20y%20gantry%202020%20allignment%20tool%20v1.stl" target="_blank">Y Alignment Tool</a> | 2 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Gantry/Motormounts/left%20motormounts/nut%20insert%20for%20motormount.stl" target="_blank">Nut inserts</a> | 2 |
-| [Door latch]() | 4 |
+| File name          | Amount to print |
+| ------------------ | --------------- |
+| [Brace]            | 2               |
+| [Handle]           | 2               |
+| [Y Alignment Tool] | 2               |
+| [Nut inserts]      | 2               |
+| [Door latch]       | 4               |
 
 {: .highlight }
 > To see the recommended print settings please refere [here](../general/misc-info/print-settings).
@@ -89,7 +81,7 @@ The bottom, top and upright extrusions in the front of the frame all have printe
 
 ![Frame inserts](../assets/images/manual/vz235_printed/frame/frame_inserts.png)
 
-Front Door latch magnetic inserts. (Please skip this step if you prefer to use the locking latches found [here](https://github.com/VzBoT3D/VzBoT-Vz235/tree/main/Assemblies%20&%20STL/Enclosure/Front%20door%20latches/Locking%20latch)
+Front Door latch magnetic inserts: Skip if using mechanical latches found [here](https://github.com/VzBoT3D/VzBoT-Vz235/tree/main/Assemblies%20&%20STL/Enclosure/Front%20door%20latches/Locking%20latch)  
 The bottom, top and upright extrusions in the front of the frame all have printed nut inserts inserted. 2 in the top for the door latches, 2 in the bottom for the lower latches  Next insert the 2x5mm magnets and the m3 nut into the frame part of the magnetic door latches and put 2 in the front lower and 2 in the front upper extrusion as shown in the picture before assembling the final part of the frame.
 
 ### Step 3
@@ -103,7 +95,7 @@ Attach the extrusions to connect the two halves of the frame. Make sure to put t
 Attach all corner joints and check if your frame is square and strong. After this checks out attach the handles and the frame is built.
 
 [Brace]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Door latch]: https://
+[Door latch]: https://github.com/VzBoT3D/VzBoT-Vz235/tree/main/Assemblies%20%26%20STL/Enclosure/Front%20door%20latches
 [Handle]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/handle.stl
 [Nut inserts]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Gantry/Motormounts/left%20motormounts/nut%20insert%20for%20motormount.stl
 [Y Alignment Tool]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Tools/vzbot%20y%20gantry%202020%20allignment%20tool%20v1.stl
