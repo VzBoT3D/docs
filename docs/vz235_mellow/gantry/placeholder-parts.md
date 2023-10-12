@@ -1,8 +1,9 @@
 ---
 layout: default
-title: 3.x Placeholder parts
+title: 3.0 Placeholder parts
 parent: 3. Gantry
 grand_parent: Vz235 - Mellow Kit
+nav_order: 0
 slug: placeholder-parts
 # permalink: /vz235_mellow/gantry/placeholder-parts # defined by slug
 ---
