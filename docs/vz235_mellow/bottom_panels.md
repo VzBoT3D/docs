@@ -5,7 +5,7 @@ parent: Vz235 - Mellow Kit
 has_toc: false
 nav_order: 4
 has_children: false
-permalink: /vz235_mellow/panels_part1
+permalink: /vz235_mellow/bottom_panels
 redirect_from:
   - /vz235_alu/panels_part1
 ---
@@ -33,10 +33,10 @@ A full panel kit is available at F3D-racing’s shop. We recommend getting that 
 
 ## STL's
 
-| File name                           | Amount to print |
-| ----------------------------------- | --------------- |
-| [VzBoT Foot][]                      | 4               |
-| [Foot scalable spacer][] (optional) | 4               |
+| File name                         | Amount to print |
+| --------------------------------- | --------------- |
+| [VzBoT Foot]                      | 4               |
+| [Foot scalable spacer] (optional) | 4               |
 
 ### Step 1
 

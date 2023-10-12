@@ -1,15 +1,15 @@
 ---
 layout: default
-title: 6.2 Mellow Super8 v1.3
+title: 6.3 Mellow Super8 v1.3
 parent: 6. Electronics
 grand_parent: Vz330 - Mellow Kit
 has_toc: false
-nav_order: 2
+nav_order: 3
 has_children: false
 permalink: /vz330_mellow/electronics/super_mellow
 ---
 
-# 6.2 Mellow Super8 V1.3
+# 6.3 Mellow Super8 V1.3
 
 ## Setup guide
 

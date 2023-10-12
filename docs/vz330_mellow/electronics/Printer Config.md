@@ -1,15 +1,15 @@
 ---
 layout: default
-title: 6.4 Printer Config
+title: 6.5 Printer Config
 parent: 6. Electronics
 grand_parent: Vz330 - Mellow Kit
 has_toc: false
-nav_order: 4
+nav_order: 5
 has_children: false
 permalink: /vz330_mellow/electronics/Printer_Config
 ---
 
-# 6.4 Setting up the Printer.cfg
+# 6.5 Setting up the Printer.cfg
 
 Now comes the fun part of the setup. Configuring your printer.cfg.
 

@@ -16,31 +16,31 @@ redirect_from:
 
 ![Overview](../assets/images/manual/vz235_printed/rscs/overview.png)
 
-RSCS short for remote static cooling is an optional extra pair of cooling fans which help cool the entire print when doing unicorn speeds! RSCS is mounted to the acrylic panels and this version fits in very tight to the Z-assembly. To ensure its proper fitment it is recommended to check the CAD for accurate measurements on the hole positions. Panels with pre made holes again available at F3D-racing.
+The RSCS (short for Remote Static Cooling System) is an optional extra pair of cooling fans which help cool the entire print when doing unicorn speeds.
+
+The RSCS is mounted to the acrylic panels and this version fits in very tight to the Z-assembly. To ensure its proper fitment it is recommended to check the CAD for accurate measurements on the hole positions. Panels with pre-made holes again available at F3D-racing.
 
 ## BOM
 
-| Material                | Quantity | Notes   |
-| :---------------------- | :------- | :------ |
-| M3 8mm                  | 8        | -       |
-| M3 10mm                 | 22       | -       |
-| M3 35mm                 | 4        | -       |
-| M3 nut                  | 12       | -       |
-| M3 t-nut                | 22       | -       |
-| M4 8mm                  | 2        | -       |
-| M4 nut                  | 2        | -       |
-| 7530 radial fan         | 2        | Gdstime |
-| 470x415mm acrylic panel | 2        | -       |
+| Material                | Quantity | Notes         |
+| :---------------------- | :------- | :------------ |
+| M3 x 8mm screw          | 8        |               |
+| M3 x 10mm screw         | 22       |               |
+| M3 x 35mm screw         | 4        |               |
+| M3 hex nut              | 12       |               |
+| M3 t-nut                | 22       |               |
+| M4 x 8mm screw          | 2        |               |
+| M4 hex nut              | 2        |               |
+| 7530 radial fan         | 2        | GDSTime brand |
+| 470x415mm acrylic panel | 2        |               |
 
 ## STL's
 
-| File name          | Amount to print |
-| ------------------ | --------------- |
-| [Cover corner piece][] | 8               |
-| [Cover middle piece][] | 8               |
-| [RSCS top piece][]     | 2               |
-| [RSCS middle piece][]  | 2               |
-| [RSCS bottom piece][]  | 2               |
+| File name              | Amount to print |
+| ---------------------- | --------------- |
+| [RSCS top piece]     | 2               |
+| [RSCS middle piece]  | 2               |
+| [RSCS bottom piece]  | 2               |
 
 ### Step 1
 
@@ -60,8 +60,6 @@ Insert the M3 hardware in the side and front (narrow) panel using the available 
 
 ![Step 3](../assets/images/manual/vz235_printed/rscs/step_3.png)
 
-[Cover corner piece]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Cover middle piece]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[RSCS top piece]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[RSCS middle piece]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[RSCS bottom piece]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
+[RSCS top piece]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/RSCS%20V2/Top%20part%20V2.stl
+[RSCS middle piece]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/RSCS%20V2/Mid%20part%20V2.stl
+[RSCS bottom piece]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/RSCS%20V2/Bottom%20part%20V2.stl

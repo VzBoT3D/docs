@@ -17,14 +17,14 @@ permalink: /vz235_printed/top_cover/latches
 
 ## BOM
 
-| Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
-| M3 8mm           | 8 | - |
-| M3 nut | 8 | - |
-| M4 10mm | 8 | - |
-| M4 t-nut | 8 | - |
-| 2x8mm Magnet | 8 | - |
-| 395X405X3 mm acrylic panel | 1 | Refer to the .step file for placement of the cutouts |
+| Material                   | Quantity | Notes                                                |
+| :------------------------- | :------- | :--------------------------------------------------- |
+| M3 8mm                     | 8        | -                                                    |
+| M3 nut                     | 8        | -                                                    |
+| M4 10mm                    | 8        | -                                                    |
+| M4 t-nut                   | 8        | -                                                    |
+| 2x8mm Magnet               | 8        | -                                                    |
+| 395X405X3 mm acrylic panel | 1        | Refer to the .step file for placement of the cutouts |
 
 ## STL's
 

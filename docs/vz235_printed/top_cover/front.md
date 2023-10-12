@@ -17,12 +17,12 @@ permalink: /vz235_printed/top_cover/front
 
 ## BOM
 
-| Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
-| M3 6mm           | 4 | - |
-| M3 10mm | 4 | - |
-| M3 nut | 8 | - |
-| 2x5mm magnet | - |
+| Material     | Quantity | Notes |
+| :----------- | :------- | :---- |
+| M3 6mm       | 4        |       |
+| M3 10mm      | 4        |       |
+| M3 nut       | 8        |       |
+| 2x5mm magnet | -        |       |
 
 ## STL's
 

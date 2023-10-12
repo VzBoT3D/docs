@@ -26,10 +26,10 @@ permalink: /vz235_mellow/top_cover/hinges
 
 ## STL's
 
-| File name            | Amount to print |
-| -------------------- | --------------- |
-| [Hinge door side][]  | 4               |
-| [Hinge frame side][] | 2               |
+| File name          | Amount to print |
+| ------------------ | --------------- |
+| [Hinge door side]  | 4               |
+| [Hinge frame side] | 2               |
 
 ### Step 1
 

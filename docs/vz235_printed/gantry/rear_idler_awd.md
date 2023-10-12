@@ -15,21 +15,21 @@ permalink: /vz235_printed/gantry/rear_idler_awd
 
 ![Rear mount detail](../../assets/images/manual/vz235_printed/gantry/rear_mount_detail_2.png)
 
-| Material        | Quantity          | Notes |
-|:-------------|:------------------|:------|
-| M3 6mm/8mm | 6 | Depending on your motor you’ll need a 6mm or 8mm bolt |
-| M3 25mm | 2 | - |
-| M3 nut | 2 | +4 when using M3 Shoulder bolts |
-| M4 10mm | 14 | - |
-| M4 T-nut | 14 | - |
-| M4 nut | 4 | - |
-| M5/M6 20mm | 2 | - |
-| Shoulder bolt 5mmx20mm | 4 | Choose M4 or M3 Misumi version (available at F3D & Mellow) |
-| NEMA 17 | 2 | - |
-| GT2 toothed idler | 2 | Low profile required, as available at Mellow & F3D |
-| GT2 smooth idler | 2 | You’ll need the mellow version idler, the 18mm OD version won’t fit |
-| GT2 20T Pulley | 2 | - |
-| 260mm 2020 extrusion | 1 | AWD only |
+| Material               | Quantity | Notes                                                               |
+| :--------------------- | :------- | :------------------------------------------------------------------ |
+| M3 6mm/8mm             | 6        | Depending on your motor you’ll need a 6mm or 8mm bolt               |
+| M3 25mm                | 2        | -                                                                   |
+| M3 nut                 | 2        | +4 when using M3 Shoulder bolts                                     |
+| M4 10mm                | 14       | -                                                                   |
+| M4 T-nut               | 14       | -                                                                   |
+| M4 nut                 | 4        | -                                                                   |
+| M5/M6 20mm             | 2        | -                                                                   |
+| Shoulder bolt 5mmx20mm | 4        | Choose M4 or M3 Misumi version (available at F3D & Mellow)          |
+| NEMA 17                | 2        | -                                                                   |
+| GT2 toothed idler      | 2        | Low profile required, as available at Mellow & F3D                  |
+| GT2 smooth idler       | 2        | You’ll need the mellow version idler, the 18mm OD version won’t fit |
+| GT2 20T Pulley         | 2        | -                                                                   |
+| 260mm 2020 extrusion   | 1        | AWD only                                                            |
 
 ## STL's
 
