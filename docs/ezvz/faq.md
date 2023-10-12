@@ -16,7 +16,7 @@ redirect_from:
 
 ### Where do I create an order?
 
-Orders are handled through an automated system hosted on the VzBoT Community Discord server. Please join the [VzBoT Discord server](https://discord.gg/vzbot) and see the [Customer guide](/EzVz/how-it-works/customers) for steps on creating an order.
+Orders are handled through an automated system hosted on the VzBoT Community Discord server. Please join the [VzBoT Discord server](https://discord.gg/vzbot) and see the [Customer guide](/ezvz/how-it-works/customers) for steps on creating an order.
 
 ### How does payment work?
 

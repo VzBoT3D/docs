@@ -15,24 +15,24 @@ redirect_from:
 
 ## Tutorials
 
-[How it works](/EzVz/how-it-works)
+[How it works](/ezvz/how-it-works)
 
-[How to use - Customer](/EzVz/how-it-works/customers)
+[How to use - Customer](/ezvz/how-it-works/customers)
 
-[How to use - Provider](/EzVz/how-it-works/providers)
+[How to use - Provider](/ezvz/how-it-works/providers)
 
-[Frequently Asked Questions](/EzVz/faq)
+[Frequently Asked Questions](/ezvz/faq)
 
 ## Provider Information
 
-[Payments](/EzVz/providers#order-picking)
+[Payments](/ezvz/providers#order-picking)
 
-[Rating System](/EzVz/providers#rating-system)
+[Rating System](/ezvz/providers#rating-system)
 
-[Printing rules](/EzVz/print_rules)
+[Printing rules](/ezvz/print_rules)
 
 ## General Information
 
-[Stored Data](/EzVz/stored-data)
+[Stored Data](/ezvz/stored-data)
 
-[Terms of Service](/EzVz/tos)
+[Terms of Service](/ezvz/tos)
