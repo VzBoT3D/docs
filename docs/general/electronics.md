@@ -19,7 +19,7 @@ By far the most daunting part of the printer build for many is wiring up the ele
 
 Working with electrical wiring and electronics can be confusing due to the plethora of acronyms and shorthands used. Here, we go over the most commonly used acronyms and shorthands within the 3D-printing community.
 
-### Wiring glossary
+### Connections / pads glossary
 
 | Term | Description       | Category     | Note                               |
 | ---- | ----------------- | ------------ | ---------------------------------- |
@@ -87,7 +87,7 @@ There is no general standard for what colours are used for what voltage node, bu
 | 24V       | `24V`, `VCC`, `VMOT`, etc. | ![yellow wire]                |                                    |
 | 48V       | `48V`, `HT`, `VMOT`, etc.  | ![purple wire] ![orange wire] | Use a color different from 5V/24V  |
 
-## Wiring
+## Chosing the correct wire type
 
 {: .danger }
 > Using smaller wires than recommended for their rated current may result in cables melting or catching fire. Always use a wire gauge that at least matches the current load!
