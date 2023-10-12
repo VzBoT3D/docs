@@ -15,7 +15,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 
 {: .highlight }
 
-> &#8226; Use Loctite Purple 222/221 for the bolts in the toolhead.
+> Use Loctite Purple 222/221 for the bolts in the toolhead.
 
 ![Overview](../../assets/images/manual/vz330_mellow/gantry/printhead/overview.png)
 

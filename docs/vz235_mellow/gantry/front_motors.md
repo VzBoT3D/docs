@@ -11,6 +11,9 @@ permalink: /vz235_mellow/gantry/front_motors
 
 # 3.1 Motor mounts + integrated hinges
 
+{: .highlight }
+> The Mellow VzBoT kit gantry comes with PLA parts pre-installed. Please make sure you've replaced these with your own parts; this process is detailed on the [placeholder parts](./placeholder-parts/) page.
+
 ## Overview
 
 ![Overview](../../assets/images/manual/vz235_mellow/gantry/front_motors/overview.png)
