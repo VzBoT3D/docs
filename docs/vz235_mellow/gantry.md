@@ -18,6 +18,10 @@ The gantry is configurable for an AWD version and a 2WD version. The only differ
 
 ![Overview](../../../assets/images/manual/vz235_mellow/gantry/overview.png)
 
+## Placeholder parts
+
+The Mellow VzBot kits come with placeholder printed parts on the gantry which allow the gantry to be shipped as a complete assembly. These parts need replacing with your own printed parts. Further instructions can be found on the [placeholder parts](./gantry/placeholder-parts) page.
+
 ## Video tutorial
 
 The video tutorial below depicts the AWD configuration, but may still be useful to those building a 2WD kit.
