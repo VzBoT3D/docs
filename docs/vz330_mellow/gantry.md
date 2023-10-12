@@ -14,8 +14,12 @@ The gantry comes pre-assembled with printed parts in PLA that are for **transpor
 
 All LDO rails are from factory, and should also be cleaned and lubricated. It is also adviced to verify MGN12 Y rails for proper aligment using the [MGN12 alignment tool][].
 
-1. [Exchange parts](/vz330_mellow/gantry/change_parts)
+1. [Replace the placeholder parts](#placeholder-parts)
 2. [Printhead](/vz330_mellow/gantry/printhead)
+
+## Placeholder parts
+
+The Mellow VzBot kits come with placeholder printed parts on the gantry which allow the gantry to be shipped as a complete assembly. These parts need replacing with your own printed parts. Further instructions can be found on the [placeholder parts](./gantry/placeholder-parts) page.
 
 |:-|
 | ![Overview](../../assets/images/manual/vz330_mellow/gantry/overview.png) |
