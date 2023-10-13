@@ -42,6 +42,7 @@ Working with electrical wiring and electronics can be confusing due to the pleth
 | JST  | Wire terminal            | Terminals   | Japan Solderless Terminal       |
 | CSI  | Camera Serial Interface  | Connections | RPi-exclusive camera connector  |
 | DSI  | Display Serial Interface | Connections | RPi-exclusive display connector |
+| PSU  | Power Supply Unit        | Components  |                                 |
 
 ## Useful tools
 
@@ -67,7 +68,7 @@ To start you off, here are some miscellaneous tips you might need on your journe
 ---
 
 {: .warning }
-> Make sure you've set the input voltage selector switch on your PSU's if applicable!
+> Make sure you've set the input voltage selector switch on your PSUs if applicable!
 >
 >- Selecting 220V in a 110V country will cause your PSU to run under its rated power.
 >- Selecting 110V in a 220V country will cause your PSU to spontaneously have an existential crisis (it breaks).  
