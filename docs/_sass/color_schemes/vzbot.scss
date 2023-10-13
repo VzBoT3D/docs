@@ -89,8 +89,10 @@ table {
     background: none;
     box-shadow: none;
   }
+  img {
+    box-shadow: none;
+  }
 }
-
 #home{
   h1, h2, h3, h4{
     color: white;
