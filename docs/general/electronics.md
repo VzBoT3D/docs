@@ -64,6 +64,15 @@ To start you off, here are some miscellaneous tips you might need on your journe
 - Don't use silicone insulated wire in drag chains  
     The excess friction causes the drag chain to not work properly and wear your wires prematurely.
 
+---
+
+{: .warning }
+> Make sure you've set the input voltage selector switch on your PSU's if applicable!
+>
+>- Selecting 220V in a 110V country will cause your PSU to run under its rated power.
+>- Selecting 110V in a 220V country will cause your PSU to spontaneously have an existential crisis (it breaks).  
+> ![Voltage selector switch](/assets/images/general/electronics/psu-voltage-selector.png)
+
 ### AC wire color conventions
 
 Different countries have different standards for mains wiring and the used colours, but these are the most prevalent ones you may want to know of according to the DIN 40705 and [CEI/IEC 60446] standards:
@@ -87,16 +96,21 @@ There is no general standard for what colours are used for what voltage node, bu
 | 24V       | `24V`, `VCC`, `VMOT`, etc. | ![yellow wire]                |                                    |
 | 48V       | `48V`, `HT`, `VMOT`, etc.  | ![purple wire] ![orange wire] | Use a color different from 5V/24V  |
 
-## Chosing the correct wire type
+## Choosing the correct wire type
 
 {: .danger }
 > Using smaller wires than recommended for their rated current may result in cables melting or catching fire. Always use a wire gauge that at least matches the current load!
 
-Using appropriately sized wires ensures the cables can withstand the current draw on the wire. Using a too small wire gauge will increase the wire resistance and cause the cables to (over) heat. 
+Using appropriately sized wires ensures they can safely handle the current draw of your printer's components. Using undersized wires will increase the wire's electrical losses, which can lead to (over)heating, damage to the wires or your printer, or even other things. Undersized wiring is always an imminent fire hazard for this reason.
 
 ### Recommended wire gauges
 
-This table specifies recommended minimum gauges for nickle-free stranded copper wires; thicker wire can always be used. The rated ampacities are just a rule of thumb. At the rated limits the voltage drop (increases over distance), insulation temperature limit, thickness, thermal conductivity, and air convection and temperature should all be taken into account.
+This table specifies recommended minimum wire size when using nickle-free stranded copper wires; larger wire can always be used (within reasonable limits).
+
+The rated current capacities are a general rule of thumb. Ensure wires are never used beyond their rated specifications! This includes (but is not limited to): current rating, resistance per length, insulation temperature limit, and environmental temperature. The [Standard Wire Gauge] or [American Wire Gauge] engineering tables contain more reference information.
+
+[Standard Wire Gauge]: https://en.wikibooks.org/wiki/Engineering_Tables/Standard_Wire_Gauge
+[American Wire Gauge]: https://en.wikibooks.org/wiki/Engineering_Tables/American_Wire_Gauge
 
 | Application    | AWG     | Metric   | Max current rating |
 | -------------- | ------- | -------- | ------------------ |
