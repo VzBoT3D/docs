@@ -67,10 +67,10 @@ To start you off, here are some miscellaneous tips you might need on your journe
 ---
 
 {: .warning }
-> Make sure you've set the input voltage selector switch on your PSU if applicable!
+> Make sure you've set the input voltage selector switch on your PSU's if applicable!
 >
->- Selecting 220v in a 110v country will cause your PSU to run under its rated power.
->- Selecting 110v in a 220v country will cause your PSU to spontaneously have an existential crisis (it breaks).  
+>- Selecting 220V in a 110V country will cause your PSU to run under its rated power.
+>- Selecting 110V in a 220V country will cause your PSU to spontaneously have an existential crisis (it breaks).  
 > ![Voltage selector switch](/assets/images/general/electronics/psu-voltage-selector.png)
 
 ### AC wire color conventions
