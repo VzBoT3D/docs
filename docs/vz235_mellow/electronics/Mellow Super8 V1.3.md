@@ -145,6 +145,13 @@ The SSR will also get a AC line put in on the other side. like shown Bellow. tha
 
 ## Plugging in the 24V side
 
+{: .warning }
+> Make sure you've set the input voltage selector switch on your PSU's if applicable!
+>
+>- Selecting 220V in a 110V country will cause your PSU to run under its rated power.
+>- Selecting 110V in a 220V country will cause your PSU to break **spectacularly** ⚡.  
+> ![Voltage selector switch](/assets/images/general/electronics/psu-voltage-selector.png)
+
 {: .highlight }
 > &#8226; Your Motherboard only gets 24V this is the beauty of the External 5160's you don't need to run 48V to your motherboard lowering the risk of damaging your motherboard when you have a issue with your 5160's.
 
