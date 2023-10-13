@@ -11,11 +11,11 @@ $base-button-color: $light-grey-color;
 
 $sidebar-color: $dark-grey-color;
 $nav-child-link-color: $grey-dk-000;
-$code-background-color: $light-grey-color;
+$code-background-color: $dark-grey-color;
 $table-background-color: $dark-grey-color;
 
 $search-result-preview-color: $body-text-color;
-$search-background-color: $light-grey-color;
+$search-background-color: $dark-grey-color;
 
 $border-color: #3c4043;
 $link-color: $vzbot-red-color;
@@ -45,6 +45,10 @@ td {
 
   width: auto;
   height: auto;
+}
+
+.table-wrapper {
+  box-shadow: none !important;
 }
 
 img {
@@ -89,6 +93,14 @@ table {
     background: none;
     box-shadow: none;
   }
+  img {
+    box-shadow: none;
+  }
+}
+
+div.highlight{
+  border-radius: 0.15rem;
+  box-shadow: 0 1.5px 3.5px 0 rgba(0, 0, 0, 0.25);
 }
 
 #home{
