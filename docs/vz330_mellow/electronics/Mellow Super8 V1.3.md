@@ -148,7 +148,7 @@ The SSR will also get a AC line put in on the other side. like shown Bellow. tha
 > Make sure you've set the input voltage selector switch on your PSU if applicable!
 >
 >- Selecting 220v in a 110v country will cause your PSU to run under its rated power.
->- Selecting 110v in a 220v country will cause your PSU to spontaneously have an existential crisis (it breaks).  
+>- Selecting 110v in a 220v country will cause your PSU to break **spectacularly** ⚡.  
 > ![Voltage selector switch](/assets/images/general/electronics/psu-voltage-selector.png)
 
 {: .highlight }
