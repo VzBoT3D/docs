@@ -64,6 +64,15 @@ To start you off, here are some miscellaneous tips you might need on your journe
 - Don't use silicone insulated wire in drag chains  
     The excess friction causes the drag chain to not work properly and wear your wires prematurely.
 
+---
+
+{: .warning }
+> Make sure you've set the input voltage selector switch on your PSU if applicable!
+>
+>- Selecting 220v in a 110v country will cause your PSU to run under its rated power.
+>- Selecting 110v in a 220v country will cause your PSU to spontaneously have an existential crisis (it breaks).  
+> ![Voltage selector switch](/assets/images/general/electronics/psu-voltage-selector.png)
+
 ### AC wire color conventions
 
 Different countries have different standards for mains wiring and the used colours, but these are the most prevalent ones you may want to know of according to the DIN 40705 and [CEI/IEC 60446] standards:
