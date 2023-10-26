@@ -13,13 +13,6 @@ permalink: /vz235_mellow/electronics/Firmware
 
 Time to start flashing our Pi and Motherboard.
 
-{: .note-title }
-> DSI touch screen issues
->
-> There is a known issue with the Vz235 Mellow kit touch screen.
-> More info and fixes: [Touch not working - KlipperScreen][] 
-
-[Touch not working - KlipperScreen]: https://klipperscreen.readthedocs.io/en/latest/Troubleshooting/Touch_issues/
 
 ## Flashing the Pi
 
@@ -237,5 +230,52 @@ If klippy.log reports a "Permission denied" error when attempting to connect to 
 ```bash
 sudo usermod -a -G tty pi
 ```
+
+
+## Klipperscreen
+
+Next up we're going to install Klipperscreen so we can use our touchscreen.
+
+First we're going to SSH into the Pi with Putty and we're going to install KIAUH
+
+```bash
+sudo apt-get update && sudo apt-get install git -y
+```
+```bash
+cd ~ && git clone https://github.com/dw-0/kiauh.git
+```
+```bash
+./kiauh/kiauh.sh
+```
+
+Then Press 1 for install and hit enter
+
+![kiauh](../../assets/images/manual/vz235_printed/electronics/Firmware/KIAUH.PNG)
+
+Press 5 for Klipperscreen and hit enter. This might take a while to install.
+
+![klipperscreen](../../assets/images/manual/vz235_printed/electronics/Firmware/klipperscreen.PNG)
+
+If you're touchscreen isn't working SSH into your Pi with Putty and run:
+
+```bash
+sudo nano /boot/config.txt
+```
+![Touchscreen](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen.PNG)
+
+Then scroll down and change the highlited line From: 
+```bash
+dtoverlay=vc4-kms-v3d
+```
+
+To: 
+
+```bash
+dtoverlay=vc4-fkms-v3d
+```
+![Touchscreen](../../assets/images/manual/vz235_printed/electronics/Firmware/TouchscreenEdit.PNG)
+
+You're screen should now be fully working.
+
 
 [Touch not working - KlipperScreen]: https://klipperscreen.readthedocs.io/en/latest/Troubleshooting/Touch_issues/

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 6.6 Wiring Diagram
+title: 6.5 Wiring Diagram
 parent: 6. Electronics
 grand_parent: Vz330 - Mellow Kit
 has_toc: false
-nav_order: 6
+nav_order: 5
 has_children: false
 permalink: /vz330_mellow/electronics/diagram
 ---
