@@ -97,7 +97,7 @@ Then Press 1 for install and hit enter
 
 Press 5 for Klipperscreen and hit enter. This might take a while to install.
 
-![klipperscreen](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/klipperscreen.PNG)
+![klipperscreen](https://github.com/VzBoT3D/docs/blob/gh-pages/docs/assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Klipperscreen.PNG)
 
 ### Touchscreen issue's
 
