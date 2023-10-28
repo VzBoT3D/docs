@@ -286,4 +286,4 @@ To also be able to connect the Pi to the motherboard for Data we plugin a USB to
 
 Once everything is hooked up it might look something like this:
 
-![end result](../../assets/images/manual/vz235_printed/electronics/Vz235_Overview)
+![end result](../../assets/images/manual/vz235_printed/electronics/Vz235_Overview.png)
