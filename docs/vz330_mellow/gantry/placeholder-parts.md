@@ -29,10 +29,15 @@ The PLA parts may warp or melt completely when used in the (enclosed) printer fo
 |:-|
 | ![Step 1](../../assets/images/manual/vz330_mellow/gantry/disassemble/step1.png) |
 
-| Part                     | Location |
+| Left Motor Mount                    | Location |
 | :----------------------- | :------- |
-| Part 1 <br/> Quantity: 1 | STL      |
-| Part 2 <br/> Quantity: 1 | STL      |
+| Part 1 <br/> Quantity: 1 | [STL](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Motor%20Mounts/Aluminum/Left%20Motor%20Mount/STLs/Spacer%20frame%20side.stl)     |
+| Part 2 <br/> Quantity: 1 | [STL](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Motor%20Mounts/Aluminum/Left%20Motor%20Mount/STLs/Spacer%20inner%20side.stl)      |
+
+| Right Motor Mount                    | Location |
+| :----------------------- | :------- |
+| Part 1 <br/> Quantity: 1 | [STL](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Motor%20Mounts/Aluminum/Right%20Motor%20Mount/STLs/Spacer%20frame%20side.stl)     |
+| Part 2 <br/> Quantity: 1 | [STL](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Motor%20Mounts/Aluminum/Right%20Motor%20Mount/STLs/Spacer%20inner%20side.stl)      |
 
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/disassemble/step1_part1.png) | &#8226; Remove the two M3 x 35mm screws from the motor mount. |
@@ -52,7 +57,7 @@ The PLA parts may warp or melt completely when used in the (enclosed) printer fo
 
 | Part                     | Location |
 | :----------------------- | :------- |
-| Part 1 <br/> Quantity: 1 | STL      |
+| Part 1 <br/> Quantity: 2 | [STL](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Front%20Idler-motor%20mounts%20AWD/Alu%20version/20mmSpacer.stl)      |
 
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/disassemble/step2_part1.png) | &#8226; Remove the two M3 x 30mm screws from the motor mount. |
@@ -73,7 +78,7 @@ The PLA parts may warp or melt completely when used in the (enclosed) printer fo
 
 | Part                     | Location |
 | :----------------------- | :------- |
-| Spacer <br/> Quantity: 1 | STL      |
+| Spacer <br/> Quantity: 4 | [STL](https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Gantry/Y%20gantry/Aluminum%20Y%20Gantry/STLs/spacer_alu_Y_gantry_0.5mm.stl)      |
 
 |:-|:-|
 | ![Part 1](../../assets/images/manual/vz330_mellow/gantry/disassemble/step3_part1.png) | &#8226; Remove the two M3 screws on each side from the gantry part <br/> &#8226; Slide the cf tube out of the gantry by tilting it. |
