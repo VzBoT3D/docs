@@ -57,11 +57,11 @@ Here's a view of the board with all the plugs still not filled. It's important t
 
 For SPI you need to put bridges on the front 2 rows of pins. These are used for the 5160's
 
-![SPI](../../assets/images/manual/vz235_printed/electronics/SPI.PNG)
+![SPI](../../assets/images/manual/vz235_printed/electronics/SPI.PNG) ![SPI pins diagram](../../assets/images/manual/vz235_printed/electronics/3x3pins_SPI.png)
 
 For UART you need to put the bridge on the second pin from the left and then bridge the front and middle row. These are for the 2209's.
 
-![UART](../../assets/images/manual/vz235_printed/electronics/UART.PNG)
+![UART](../../assets/images/manual/vz235_printed/electronics/UART.PNG) ![SPI diagram](../../assets/images/manual/vz235_printed/electronics/3x3pins_UART.png)
 
 Next step is to populate all the driver slots that you're gonna use. Here's a example for a AWD setup on 5160's and Z and E on 2209's.
 
