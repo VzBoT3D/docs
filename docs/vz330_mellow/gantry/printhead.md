@@ -34,7 +34,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 | [Cable Holder]              | 1               | -                                    |
 | [Fan duct Goliath]          | 1               | Pick this if no beacon is used       |
 | [Fan duct Goliath (beacon)] | 1               | Use this duct for Goliath and beacon |
-| [Fan duct Goliath spacers]  | 1               | -                                    |
+| [Fan duct Goliath spacers]  | 2               | -                                    |
 | [Fan duct upper]            | 1               | -                                    |
 | [Upper duct mount]          | 1               | -                                    |
 | [Upper duct CPAP c-clamp]   | 1               | -                                    |

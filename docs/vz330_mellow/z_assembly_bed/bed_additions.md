@@ -117,3 +117,6 @@ permalink: /vz330_mellow/z_assembly/bed_additions
 ## Step 5
 
 Install chain \[...\]
+
+
+The bottom section gets attached with a bolt + T-nut on the bottom of the 2040 in the back.
