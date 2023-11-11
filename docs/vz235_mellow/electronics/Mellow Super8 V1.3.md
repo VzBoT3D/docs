@@ -213,7 +213,7 @@ Your Exhaust Fan get's attached to FAN4 wich is 2 plugs up from Fan0. The Exhaus
 
 Your Chamber Fan get's attached to FAN9 wich is the top right one. The chamber fan will circulate the air in your chamber to get a even temperature in it.
 
-Your RSCS get's connected to fan port FAN1 wich is next to FAN0
+Your RSCS get's connected to fan port FAN1 wich is next to FAN0 and the ones included in the kit are 24V.
 
 Make sure you set it to the correct voltage of your fans with the jumpers under it check a bit up in this guide how to setup the jumpers for the correct voltage.
 
