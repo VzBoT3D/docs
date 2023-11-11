@@ -3,10 +3,9 @@ layout: default
 title: 6.6 Touchscreen
 parent: 6. Electronics
 grand_parent: Vz330 - Mellow Kit
-has_toc: false
 nav_order: 6
-has_children: false
-permalink: /vz330_mellow/electronics/Touschreen
+slug: touchscreen
+redirect_from: Touchscreen
 ---
 
 # Touchscreen Assembly and Installation.

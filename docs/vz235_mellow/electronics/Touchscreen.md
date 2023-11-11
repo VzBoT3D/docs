@@ -3,10 +3,9 @@ layout: default
 title: 6.5 Touchscreen
 parent: 6. Electronics
 grand_parent: Vz235 - Mellow Kit
-has_toc: false
 nav_order: 5
-has_children: false
-permalink: /vz235_mellow/electronics/Touchscreen
+slug: touchscreen
+redirect_from: Touchscreen
 ---
 # Touchscreen Assembly and Installation.
 

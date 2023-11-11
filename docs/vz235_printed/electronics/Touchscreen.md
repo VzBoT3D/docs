@@ -3,10 +3,9 @@ layout: default
 title: 6.5 Touchscreen
 parent: 6. Electronics
 grand_parent: Vz235 - Printed Version
-has_toc: false
 nav_order: 5
-has_children: false
-permalink: /vz235_printed/electronics/Touchscreen
+slug: touchscreen
+redirect_from: Touchscreen
 ---
 # Touchscreen Assembly and Installation.
 
