@@ -5,6 +5,7 @@ parent: 6. Electronics
 grand_parent: Vz235 - Printed Version
 nav_order: 5
 slug: touchscreen
+redirect_from: Touchscreen
 ---
 # Touchscreen Assembly and Installation.
 

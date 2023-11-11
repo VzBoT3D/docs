@@ -5,6 +5,7 @@ parent: 6. Electronics
 grand_parent: Vz330 - Mellow Kit
 nav_order: 6
 slug: touchscreen
+redirect_from: Touchscreen
 ---
 
 # Touchscreen Assembly and Installation.
