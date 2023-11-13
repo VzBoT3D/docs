@@ -1,3 +1,4 @@
 <p class="text-small text-grey-dk-000 mb-0">
-    Copyright (c) {{ site.time | date: '%Y' }}, VzBot. All rights reserved.
+    Copyright (c) {{ site.time | date: '%Y' }}, VzBot. All rights reserved. <br />
+    {% if page.last_updated %}<span>Page last updated:</span> {{page.last_updated}}<br/>{% endif %} Site last generated: {{ site.time | date: "%d/%m/%Y"  }} <br />
 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">VzBot</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/VzBoT3D" property="cc:attributionName" rel="cc:attributionURL">https://github.com/VzBoT3D</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>.</p>
