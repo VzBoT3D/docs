@@ -8,6 +8,7 @@ has_toc: false
 nav_order: 1
 has_children: false
 permalink: /vz235_mellow/top_cover/top_cover
+last_updated: 13/11/2023
 ---
 
 # 8.1 Top Cover Assembly
