@@ -2,6 +2,7 @@
 layout: default
 title: 8.1 Top cover
 parent: 8. Top cover and doors panels
+description: Assembly instructions for installing the top cover
 grand_parent: Vz235 - Mellow Kit
 has_toc: false
 nav_order: 1
