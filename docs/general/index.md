@@ -9,5 +9,12 @@ tags:
   - printer
   - setup
 has_children: true
+has_toc: true
 slug: general
 ---
+
+## Setting up your printer
+
+- [Tensioning your belts](/general/belt-tensioning)
+- [Tuning your printer](/general/tuning)
+
