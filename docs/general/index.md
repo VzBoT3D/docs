@@ -10,6 +10,7 @@ tags:
   - setup
 has_children: true
 has_toc: true
+nav_order: 0.9 # before Misc info
 slug: general
 ---
 
@@ -17,4 +18,3 @@ slug: general
 
 - [Tensioning your belts](/general/belt-tensioning)
 - [Tuning your printer](/general/tuning)
-
