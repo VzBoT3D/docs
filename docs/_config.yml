@@ -1,6 +1,6 @@
 title: VzBoT Documentation
 tagline: Documentation for VzBoT 3D-printers
-description: VzBoT Official Documentation
+description: Official documentation and manuals for VzBoT printers
 logo: "/assets/images/logo.svg"
 
 baseurl: ""
@@ -8,13 +8,11 @@ url: "https://docs.vzbot.org"
 repository: vzbot3d/docs
 permalink: pretty
 
-
 color_scheme: "vzbot"
 markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
 
 search_enabled: true
-
 
 plugins:
   - jekyll-spaceship
@@ -65,7 +63,7 @@ gh_edit_link: true                                      # show or hide edit this
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/vzbot3d/docs"   # the github URL for your repo
 gh_edit_branch: "gh-pages"                              # the branch that your docs is served from
-# gh_edit_source: docs                                  # the source that your files originate from
+gh_edit_source: docs                                    # the source that your files originate from
 gh_edit_view_mode: "edit"                               # "tree" or "edit" if you want the user to jump into the editor immediately
 
 callouts_level: quiet # or loud
