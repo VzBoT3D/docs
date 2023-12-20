@@ -79,3 +79,15 @@ Tip: Wear protective gloves to avoid burning yourself.
 | Air cooled | Water cooled |
 |------------|--------------|
 |![Air cooled exploded assembly](https://github.com/VzBoT3D/Goliath/assets/16231288/d6e76627-d873-4850-878c-7ccd2e43ecf9)|![Water cooled exploded assembly](https://github.com/VzBoT3D/Goliath/assets/16231288/aad45350-c637-47a9-b347-ff488c033233)|
+
+### Fan duct for Air Goliath.
+
+For the Air cooled Goliath we need a Fan duct and a 2510 fan. 
+
+We recommend the Delta 2510 Fans But Sunon or Gdstime can also be used. 
+
+We recommend you to use the flange version of the ducts for extra stability. As you can see below this version also bolts to the Printhead so is less likely to come loose.
+
+All the needed files can be found [here](https://github.com/VzBoT3D/Goliath/tree/main/STL/Air%20Cool%20Fan%20duct)
+
+![Image](https://user-images.githubusercontent.com/37383368/214459927-0d2008d0-af72-4001-946b-39ee3dba4d14.png)
