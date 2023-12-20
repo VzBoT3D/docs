@@ -16,6 +16,7 @@ All LDO rails are from factory, and should also be cleaned and lubricated. It is
 
 1. [Replace the placeholder parts](#placeholder-parts)
 2. [Printhead](/vz330_mellow/gantry/printhead)
+3. [Belt tensioning](/general/belt-tensioning)
 
 ## Placeholder parts
 

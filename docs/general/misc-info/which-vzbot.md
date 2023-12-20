@@ -1,13 +1,14 @@
 ---
-title: Which VzBot do I want?
-description: A guided choice on which VzBot printer is best for you
-parent: General info # temporarily here to clean up the sidebar links
+title: Which VzBoT do I want?
+description: A guided choice on which VzBoT printer is best for you
+parent: Miscellaneous info # temporarily here to clean up the sidebar links
+slug: choosing-a-printer
 ---
 
 
-# Which VzBot do I want?
+# Which VzBoT do I want?
 
-There are some subtle differences between the two main printers under the VzBot umbrella. The Vz235 and Vz330 are both very capable printers.
+There are some subtle differences between the two main printers under the VzBoT umbrella. The Vz235 and Vz330 are both very capable printers.
 
 **Vz330:**  
 [Vz330 - CNC Aluminium Mellow kit][Vz330]
