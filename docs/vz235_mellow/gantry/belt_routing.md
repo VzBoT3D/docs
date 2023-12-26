@@ -30,4 +30,5 @@ In the sample pinter.cfg file there is a macro included that enables all XY moto
 ## Vz-Printhead
 
 ![VzBoT - Belts installation](https://youtu.be/Ibi27Toh-pg)
-![VzBoT belt tensioning](https://www.youtube.com/watch?v=qNMXW6MUV5E&t=390s)
+
+[Belt tensioning](/general/belt-tensioning)

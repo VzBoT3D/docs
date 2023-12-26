@@ -28,7 +28,9 @@ Recommended target acoustic frequency:
 - Printed version: 110Hz
 - CNC / Mellow kit: 130Hz
 
-![Vz330 belt tensioning](https://www.youtube.com/watch?v=qNMXW6MUV5E)
+Put the gantry in the center or roughly 150mm's from the front and use the 2 short belts on the Front Left and Right side from Idler/motor to X gantry Pulley. Use the green sections to measure the Freq.
+
+![Belt_Tenstion](../assets/images/general/electronics/Belt_Tension330.png)
 
 ### VzBoT-235
 
@@ -39,4 +41,6 @@ Recommended target acoustic frequency:
 - Printed version: 110Hz
 - CNC / Mellow kit: 130Hz
 
-![Vz235 belt tensioning](https://www.youtube.com/watch?v=lP59PClF_PU&start=4380&end=4550)
+Put  at roughly 150mm's from the front and use the 2 short belts on the front Left and Right side from idler/motor to X gantry pulley. Use the green sections to measure the Freq.
+
+![Belt_Tenstion](../assets/images/general/electronics/Belt_Tension235.png)

@@ -16,6 +16,8 @@ The gantry is configurable for an AWD version and a 2WD version. The major diffe
 
 ![Gantry](../../assets/images/manual/vz235_printed/printed_preview_md.png)
 
+[Belt tensioning](/general/belt-tensioning)
+
 ## Video tutorial
 
 The video tutorial below depicts the AWD configuration, but may still be useful to those building a 2WD kit.
@@ -29,6 +31,5 @@ The video tutorial below depicts the AWD configuration, but may still be useful 
 [47:15](https://www.youtube.com/watch?v=lP59PClF_PU&t=2835s) Y gantry (or called XY joiner)  
 [50:00](https://www.youtube.com/watch?v=lP59PClF_PU&t=3000s) X axis  
 [52:15](https://www.youtube.com/watch?v=lP59PClF_PU&t=3135s) Vz-Printhead mounting  
-[55:34](https://www.youtube.com/watch?v=lP59PClF_PU&t=3334s) Belts installation  
-[01:13:00](https://www.youtube.com/watch?v=lP59PClF_PU&t=4380s) Belt tensioning  
+[55:34](https://www.youtube.com/watch?v=lP59PClF_PU&t=3334s) Belts installation   
 [01:15:50](https://www.youtube.com/watch?v=lP59PClF_PU&t=4550s) Back plate installation  

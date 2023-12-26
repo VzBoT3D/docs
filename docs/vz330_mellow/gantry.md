@@ -39,7 +39,6 @@ The video tutorial below depicts the Vz235 (smaller printer) AWD configuration, 
 [50:00](https://www.youtube.com/watch?v=lP59PClF_PU&t=3000s) X axis  
 [52:15](https://www.youtube.com/watch?v=lP59PClF_PU&t=3135s) Vz-Printhead mounting  
 [55:34](https://www.youtube.com/watch?v=lP59PClF_PU&t=3334s) Belts installation  
-[01:13:00](https://www.youtube.com/watch?v=lP59PClF_PU&t=4380s) Belt tensioning  
 [01:15:50](https://www.youtube.com/watch?v=lP59PClF_PU&t=4550s) Back plate installation
 
 [MGN12 alignment tool]: https://github.com/VzBoT3D/VzBoT-Vz330/blob/master/Assemblies%20BOM%20and%20STL/Alignment%20Tools/MGN12-alignment%20tool.stl

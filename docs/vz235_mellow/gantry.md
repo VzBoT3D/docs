@@ -18,6 +18,8 @@ The gantry is configurable for an AWD version and a 2WD version. The only differ
 
 ![Overview](../../../assets/images/manual/vz235_mellow/gantry/overview.png)
 
+[Belt tensioning](/general/belt-tensioning)
+
 ## Placeholder parts
 
 The Mellow VzBot kits come with placeholder printed parts on the gantry which allow the gantry to be shipped as a complete assembly. These parts need replacing with your own printed parts. Further instructions can be found on the [placeholder parts](./gantry/placeholder-parts) page.
@@ -36,5 +38,4 @@ The video tutorial below depicts the AWD configuration, but may still be useful 
 [50:00](https://www.youtube.com/watch?v=lP59PClF_PU&t=3000s) X axis  
 [52:15](https://www.youtube.com/watch?v=lP59PClF_PU&t=3135s) Vz-Printhead mounting  
 [55:34](https://www.youtube.com/watch?v=lP59PClF_PU&t=3334s) Belts installation  
-[01:13:00](https://www.youtube.com/watch?v=lP59PClF_PU&t=4380s) Belt tensioning  
 [01:15:50](https://www.youtube.com/watch?v=lP59PClF_PU&t=4550s) Back plate installation
