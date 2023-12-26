@@ -21,7 +21,7 @@ Belt tensioning is an important part of achieving good performance on your VzBoT
 
 ### VzBoT-330
 
-The Vz330 belt tensioners are located at the back of the printer. Loosen the fixing screw on the rear motor mounts that go through the topplate and the spacer into the motors before turning the tensioning screw. Tighten the fixing screw back up when you're done adjusting belt tension.
+The Vz330 belt tensioners are located at the back of the printer. Loosen the fixing screw on the rear motor mounts that go through the topplate and the spacer into the motors before turning the tensioning screw. Also loosen the M4x12 bolt with washer holding the motor plate at the back 2020. Tighten the fixing screw and M4x12 from motor plate back up when you're done adjusting belt tension.
 
 Recommended target acoustic frequency:
 
@@ -34,7 +34,7 @@ Put the gantry in the center or roughly 150mm's from the front and use the 2 sho
 
 ### VzBoT-235
 
-The Vz235 belt tensioners are located at the front of the printer, either side of the front doors. Loosen the fixing screw on the Front motor mounts that go through the topplate and the spacer into the motors before turning the tensioning screw. Tighten the fixing screw back up when you're done adjusting belt tension.
+The Vz235 belt tensioners are located at the front of the printer, either side of the front doors. Loosen the fixing screw on the Front motor mounts that go through the topplate and the spacer into the motors before turning the tensioning screw .Also loosen the M4x12 bolt with washer holding the motor plate at the Left and right 2020. Tighten the fixing screw and M4x12 from motor plate back up when you're done adjusting belt tension.
 
 Recommended target acoustic frequency:
 
