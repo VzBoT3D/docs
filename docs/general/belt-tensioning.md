@@ -30,7 +30,7 @@ Recommended target acoustic frequency:
 
 Put the gantry in the center or roughly 150mm's from the front and use the 2 short belts on the Front Left and Right side from Idler/motor to X gantry Pulley. Use the green sections to measure the Freq.
 
-![Belt_Tenstion](../assets/images/general/electronics/belt_tension330.png)
+![Belt_Tenstion](../assets/images/general/electronics/Belt_Tension330.png)
 
 ### VzBoT-235
 
@@ -43,4 +43,4 @@ Recommended target acoustic frequency:
 
 Put  at roughly 150mm's from the front and use the 2 short belts on the front Left and Right side from idler/motor to X gantry pulley. Use the green sections to measure the Freq.
 
-![Belt_Tenstion2](../assets/images/general/electronics/belt_tension235.png)
+![Belt_Tenstion2](../assets/images/general/electronics/Belt_Tension235.png)
