@@ -8,7 +8,8 @@ has_toc: false
 nav_order: 1
 has_children: false
 permalink: /vz235_mellow/top_cover/top_cover
-last_updated: 13/11/2023
+last_updated: 09/01/2024
+author: jay_s_uk
 ---
 
 # 8.1 Top Cover Assembly
@@ -22,7 +23,7 @@ last_updated: 13/11/2023
 | M4 x 10 SHCS                | 8        |                                                      |
 | M4 hammer t-nut             | 8        |                                                      |
 | 2 x 8mm Magnet              | 8        |                                                      |
-| 395\*405\*3mm acrylic panel | 1        |                                                      |
+| 395x405x3mm acrylic panel   | 1        |                                                      |
 
 ## STL's
 

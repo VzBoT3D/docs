@@ -7,6 +7,8 @@ has_toc: false
 nav_order: 2
 has_children: false
 permalink: /vz235_mellow/top_cover/hinges
+last_updated: 09/01/2023
+author: jay_s_uk
 ---
 
 # 8.2 Front doors hinges & doors
@@ -19,10 +21,10 @@ permalink: /vz235_mellow/top_cover/hinges
 
 | Material                   | Quantity | Notes                                                |
 | -------------------------- | -------- | ---------------------------------------------------- |
-| M4 10mm                    | 8        | -                                                    |
-| M4 40mm / 4x40mm shaft     | 2        | -                                                    |
-| M4 nut                     | 8        | -                                                    |
-| 443X160X3 mm acrylic panel | 2        | Refer to the .step file for placement of the cutouts |
+| M4 x 10mm BHCS             | 12       | -                                                    |
+| M4 x 40mm / 4 x 40mm shaft | 4        | -                                                    |
+| M4 nut                     | 12       | -                                                    |
+| 443x160x3 mm acrylic panel | 2        | Refer to the .step file for placement of the cutouts |
 
 ## STL's
 

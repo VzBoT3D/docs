@@ -7,6 +7,8 @@ has_toc: false
 nav_order: 3
 has_children: false
 permalink: /vz235_mellow/top_cover/front
+author: jay_s_uk
+last_updated: 09/01/2024
 ---
 
 # 8.3 Front door latches
@@ -17,12 +19,12 @@ permalink: /vz235_mellow/top_cover/front
 
 ## BOM
 
-| Material     | Quantity | Notes |
-| ------------ | -------- | ----- |
-| M3 6mm       | 4        |       |
-| M3 10mm      | 4        |       |
-| M3 nut       | 8        |       |
-| 2x5mm magnet | ?        |       |
+| Material              | Quantity | Notes |
+| ------------          | -------- | ----- |
+| M3 x 6mm BHCS         | 4        |       |
+| M3 x 10mm BHCS        | 4        |       |
+| M3 nut                | 8        |       |
+| 2x5mm magnet          | 4        |       |
 
 ## STL's
 
@@ -38,7 +40,7 @@ permalink: /vz235_mellow/top_cover/front
 
 ### Step 1
 
-Insert the 2x5mm magnet in the latches, they are press fit. If not tight use super glue to hold them in.
+Insert the 2x5mm magnet in the latches, they are press fit. Ensure the magnets are installed with the correct polarity facing the latch mount installed to the frame, so the latches are attracted to them. If the magnets are not a tight to the latch use super glue to hold them in.
 
 ### Step 2
 
@@ -46,7 +48,7 @@ Insert the M3 nuts in the latches
 
 ### Step 3
 
-Screw the latches to the door panels using the M3 buttonheads
+Screw the latches to the door panels using the M3 x 10 BHCS
 
 ![Mounted](../../assets/images/manual/vz235_printed/top_cover/latches_mounted.png)
 
