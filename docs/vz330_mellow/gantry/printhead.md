@@ -112,7 +112,7 @@ In this section we'll assemble the Toolhead for the VzBot.
 > Required
 >
 > &#8226; Box 6 - M3 x 6mm  
-> &#8226; Box 6 - M3 t-nut
+> &#8226; Box 6 - M3 nut
 
 | Part                       | Location                                |
 | :------------------------- | :-------------------------------------- |
