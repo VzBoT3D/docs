@@ -13,7 +13,7 @@ by: Vez3D
 
 These videos are not meant as replacements for our written guides. Please see our written build guides:
 
-[Vz235 Mellow kit](/vz235_mellow/){: .btn .doc-link } [Vz235 Printed version](/vz235_printed/){: .btn .doc-link }
+[Vz235 Mellow kit](/vz235_mellow){: .btn .doc-link } [Vz235 Printed version](/vz235_printed){: .btn .doc-link }
 
 ### Part 1: The Frame
 

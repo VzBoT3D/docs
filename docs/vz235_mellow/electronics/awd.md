@@ -15,4 +15,6 @@ To take best advantage of having 4 motors on X and Y, it is advised to run each 
 
 For Klipper it is recommended to use the provided .cfg file as base or inspiration to make a configuration to suit your own build. It is recommended to copy & paste the given TMC settings as much as possible for the best results both in terms of speed and quality. Although feel free to experiment, because after all that is what VzBoT is all about!
 
-Credits for the Klipper adaptation to suit 4 motor CoreXY or QuadXY go to TypQxQ on Github: [https://github.com/TypQxQ/klipper/tree/Multiple_Steppers_on_CoreXY](https://github.com/TypQxQ/klipper/tree/Multiple_Steppers_on_CoreXY)
+[Credits for the Klipper adaptation to suit 4 motor CoreXY or QuadXY go to TypQxQ on Github]
+
+[https://github.com/TypQxQ](https://github.com/TypQxQ)

@@ -17,6 +17,9 @@ At the current point the following brands for the given filament type are allowe
 | PC CF    | Prusament, 3DXtech                                                                     | 295°C           |
 | PPS CF   | Luvocom, Essentium                                                                     | 350°C           |
 
+{: .highlight }
+> &#8226; PPS Needs to be annealed in order to be allowed to be shipped and ability to do so will be checked. Parts will start warping/creeping otherwise.
+
 ## Banned brands/Fillament
 
 | Fillament | Brand |

@@ -17,4 +17,4 @@ For Klipper it is recommended to use the provided .cfg file as base or inspirati
 
 [Credits for the Klipper adaptation to suit 4 motor CoreXY or QuadXY go to TypQxQ on Github]
 
-[https://github.com/TypQxQ/klipper/tree/Multiple_Steppers_on_CoreXY](https://github.com/TypQxQ/klipper/tree/Multiple_Steppers_on_CoreXY)
+[https://github.com/TypQxQ](https://github.com/TypQxQ)
