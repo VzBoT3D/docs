@@ -28,7 +28,7 @@ Recommended target acoustic frequency:
 - Printed version: Min 135Hz - Max 180Hz
 - CNC / Mellow kit: Min 150Hz - Max 189Hz
 
-Put the gantry in the center or roughly 150mm's from the front and use the 2 short belts on the Front Left and Right side from Idler/motor to X gantry Pulley. Use the green sections to measure the Freq.
+Put the gantry at 150mm's from the front and use the 2 short belts on the Front Left and Right side from Idler/motor to X gantry Pulley. Use the green sections to measure the Freq.
 
 ![Belt_Tenstion](../assets/images/general/electronics/Belt_Tension330.png)
 
