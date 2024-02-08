@@ -25,10 +25,10 @@ The Vz330 belt tensioners are located at the back of the printer. Loosen the fix
 
 Recommended target acoustic frequency:
 
-- Printed version: 110Hz
-- CNC / Mellow kit: 130Hz
+- Printed version: Min 135Hz - Max 180Hz
+- CNC / Mellow kit: Min 150Hz - Max 189Hz
 
-Put the gantry in the center or roughly 150mm's from the front and use the 2 short belts on the Front Left and Right side from Idler/motor to X gantry Pulley. Use the green sections to measure the Freq.
+Put the gantry at 150mm's from the front and use the 2 short belts on the Front Left and Right side from Idler/motor to X gantry Pulley. Use the green sections to measure the Freq.
 
 ![Belt_Tenstion](../assets/images/general/electronics/Belt_Tension330.png)
 
@@ -38,8 +38,8 @@ The Vz235 belt tensioners are located at the front of the printer, either side o
 
 Recommended target acoustic frequency:
 
-- Printed version: 110Hz
-- CNC / Mellow kit: 130Hz
+- Printed version: Min 135Hz - Max 180Hz
+- CNC / Mellow kit: Min 150Hz - Max 189Hz
 
 Put  at roughly 150mm's from the front and use the 2 short belts on the front Left and Right side from idler/motor to X gantry pulley. Use the green sections to measure the Freq.
 
