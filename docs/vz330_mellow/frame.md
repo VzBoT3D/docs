@@ -57,6 +57,8 @@ Vz235 Build Part 1: The Frame
 [19:00](https://www.youtube.com/watch?v=d9kQt_cF3Xo&t=1140s) Bottom plate
 
 ## Step 1
+{: .highlight }
+> Make sure to use Loctite Blue on the bolts holding together the frame.
 
 |:-|
 | ![Step 1](../assets/images/manual/vz330_mellow/frame/step1.png) |

@@ -63,6 +63,8 @@ Vz235 Build Part 1: The Frame
 ### Step 1
 
 To start you are going to build the 2 sides of your frame. Make sure you do your building on a nice flat surface. You will lay your frame half down with the included printed alignment tools for the y gantry extrusions and hand tighten all blind joints.
+{: .highlight }
+> Make sure to use Loctite Blue on the bolts holding together the frame.
 
 ![Frame side](../assets/images/manual/vz235_printed/frame/frame_side.png)
 
