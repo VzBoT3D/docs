@@ -39,4 +39,4 @@ Ensure your printer is not set up to use StealthChop. SpreadCycle is preferred, 
 * [Tuning motor current - TMC drivers](https://www.klipper3d.org/TMC_Drivers.html?h=sensorless#tuning-motor-current) (Klipper docs)
 * [Setting "spreadCycle" vs "stealthChop" Mode - TMC drivers](https://www.klipper3d.org/TMC_Drivers.html?h=sensorless#setting-spreadcycle-vs-stealthchop-mode) (Klipper docs)
 
-[**Next:** Maintenance &rarr;](./maintenance){: .btn .btn-doc}
+[**Next:** Maintenance &rarr;](../maintenance){: .btn .btn-doc}
