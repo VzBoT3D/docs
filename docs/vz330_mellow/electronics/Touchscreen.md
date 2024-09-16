@@ -3,129 +3,144 @@ layout: default
 title: 6.6 Touchscreen
 parent: 6. Electronics
 grand_parent: Vz330 - Mellow Kit
-has_toc: false
 nav_order: 6
-has_children: false
-permalink: /vz330_mellow/electronics/Touschreen
+slug: touchscreen
+redirect_from: Touchscreen
 ---
 
-# Touchscreen Assembly and Installation.
+# Touchscreen installation
 
-## Assembly
+This step of the manual goes over the assembly of the touchscreen module, and its configuration for use with Klipper.
 
-In you're kit you'll find your screen the Core board and the DSI cable.
+![Assembled touchscreen](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/assembled-touchscreen_render.png)
 
-![Core](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Core.jpg)
-![Overview](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Overview.jpg)
+## Core board
 
-We're gonna start with attaching the Core board to the Screen like shown here:
+The core board handles the signals to and from the motherboard, and interfaces with the LCD display. It is the smaller of two boards included.
 
-{: .highlight }
-> &#8226;Line up the 2 rows on the bottom side of the Core board to the slots in the Screen and press it down.
+The core board is installed on to the back side of the LCD display.
 
-![Core_Attach](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Core_Attach.jpg)
+![Core](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Core-board.jpg)
 
+1. Place the Core board on to the designated area on the LCD display.
 
+    The 2 connectors on the back of the LCD should correspond with the 2 connectors on the back of the Core board.  
+    The Core board should be oriented with the white ribbon connector facing outwards, towards the edge of the LCD display.
 
-Next up We're attaching the DSI cable to the Core board like shown here: 
+    ![Overview](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/core-board-location.jpg)
 
-{: .highlight }
-> &#8226;When inserting the DSI cable make sure the exposed traces are facing upwards and the black lip of the connector is flipped up.
-Close the connector when the cable is inserted.
+2. Ensure the mounting holes in the corners of the Core board line up with the posts underneath it
 
-![Core_DSI](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Core_DSI.jpg)
+    If these don't line up, your Core board is not aligned with the connectors on the LCD display.
 
-Next we need to grab our Printed parts and Hardware for assembling the screen.
+3. Press down firmly and evenly until a firm click is felt
 
-![Printed_Parts](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Printed_Parts.jpg)
-![Hardware](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Hardware.jpg)
+    The Core board should sit flush with the posts on the LCD display.
 
-- 4 x 6mm M3 bolts
-- 1 x 25mm M4 bolts (for the hinge)
-- 1 x M4 nut
-- 2 x M4 8mm bolt (to bolt to frame)
-- 2 M4 T-nuts
+    ![Core board attached and flush with posts](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Core_Attach.jpg)
 
+## Enclosure
 
-Insert the screen into the printed part as shown. Make sure the DSI cable exits from the side with the Slot for it.
+The LCD display enclosure is a printed item consisting of multiple components.
 
-![Assembly1](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Assembly1.jpg)
+You will need the following parts:
 
-Remove the plastic protective layer from the Standoffs like shown here:
+| Part            | Quantity | Comments                 |
+| --------------- | -------- | ------------------------ |
+| Front cover     | 1        | Printed part             |
+| Back cover      | 1        | Printed part             |
+| Mounting hinge  | 1        | Printed part             |
+| M3 x 6mm screw  | 4        |                          |
+| M4 x 25mm screw | 1        |                          |
+| M4 x 8mm screw  | 2        |                          |
+| M4 hex nut      | 1        |                          |
+| M4 T-nut        | 2        | Optionally spring loaded |
 
-![Assembly2](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Assembly2.jpg)
+![Printed_Parts](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Printed_Parts.jpg)![Hardware](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Hardware.jpg)
 
-Next put on the backside with the 4 M3x6mm bolts.
+1. Remove the polyimide stickers from the posts on the back of the LCD display
 
-![Assembly3](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Assembly3.jpg)
+    These can be discarded
 
-Next attach the Frame mount piece to the backside with the M4x25mm and Nut. You can also already put in the M4x8's and T-Nuts for mounting it to the frame:
+    ![Assembly2](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/protective-stickers-display.jpg)
 
-![Assembly4](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Assembly4.jpg)
+2. Place the assembled LCD display in to the front cover
 
-Time to mount it to the Machine:
+    Take care to align the top row of buttons with the provisioned openings in the top of the front cover
 
-![Assembly5](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Assembly5.jpg)
+    ![Assembly1](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Assembly1.jpg)
 
-Installing the DSI cable to the Pi.
+3. Mount the back cover using 4 M3 x 6mm screws
 
-{: .highlight }
-> &#8226;Open the black clip and insert the DSI cable with the exposed contacts to the white part of the connector and close the black clip.
+    Take care to respect the orientation of the back cover. The notches in the back cover should align with the posts on the front cover.  
+    The notched opening in the back cover should be over the ribbon connector of the Core board.
 
-![PI_DSI](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Pi_DSI.jpg)
+    ![Assembly3](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Assembly3.jpg)
 
+4. Insert the 2 M4 x 8mm screws into the mounting hinge, and loosely apply 2 M4 T-nuts to these screws  
 
-## Klipperscreen
+    ![Assembly4](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Assembly4.jpg)
 
-We're going to install Klipperscreen so we can use our touchscreen.
+5. Fasten the mounting hinge to the printer frame using the 2 M4 screws and corresponding T-nuts previously inserted.
 
-First we're going to SSH into the Pi with Putty and we're going to install KIAUH
+    These screws don't need to be overly tight, as you may need to adjust the display to ensure smooth cooperation with the enclosure panels.
 
-```bash
-sudo apt-get update && sudo apt-get install git -y
-```
-```bash
-cd ~ && git clone https://github.com/dw-0/kiauh.git
-```
-```bash
-./kiauh/kiauh.sh
-```
+6. Loosely attach the display assembly to the mounting hinge using 1 M4 x 25mm screw and one M4 hex nut
 
-Then Press 1 for install and hit enter
+    Don't overtighten these screws. The screw acts as a hinge and needs room to move ever so slightly.
 
-![kiauh](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/KIAUH.PNG)
+    If you have not wired up the DSI cable yet, then dismount the display from the mounting hinge again after confirming the hinge works correctly.
 
-Press 5 for Klipperscreen and hit enter. This might take a while to install.
+    ![Assembly5](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Assembly5.jpg)
 
-![klipperscreen](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Option5.PNG)
+## Wiring
 
-### Touchscreen issue's
+Wiring up the display requires careful **attention to detail**, as the direction of the flat-flex cable is of utmost importance.
 
-If you're touchscreen isn't working SSH into your Pi with Putty and run:
+The DSI cable runs between the LCD display Core board and the DSI connector on the Raspberry Pi. The USB-C port on the LCD display PCB does not need connecting up when using the DSI cable.
 
-```bash
-sudo nano /boot/config.txt
-```
-![Touchscreen](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Touchscreen.PNG)
+DSI cable highlighted in red:
 
-Then scroll down and change the highlited line From: 
-```bash
-dtoverlay=vc4-kms-v3d
-```
+![DSI cable from kit, highlighted in red](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/dsi-cable-highlighted.jpg)
 
-To: 
+### Display
 
-```bash
-dtoverlay=vc4-fkms-v3d
-```
-![TouchscreenEdit](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/TouchscreenEdit.PNG)
+1. Lie the display assembly down on a flat surface, back side up.
 
+    ![Display assembly, face down]()
 
-Press CTRL+X and then Y to save and exit. Now reboot your Pi and You're screen should be fully working.
+2. Locate the locking tab on the DSI connector, and gently lift it up from underneath
 
+    The locking tab is at a 90° angle to the connector when fully unlocked.  
+    ![Locking tab close-up]()
 
-## End result
+3. Gently insert the DSI cable into the connector through the slotted opening in the side of the enclosure
 
-Now that you're all done it should look something like this :
+    {: .danger }
+    > Pay attention to the orientation of this cable! The pins should be facing up, away from the PCB.
 
-![Install](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Install.jpg)
+    ![DSI cable in the connector, pins up](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Core_DSI.jpg)
+
+4. Close the locking tab on the DSI connector
+
+### Raspberry Pi
+
+1. Locate the DSI connector on the Raspberry Pi board
+
+    ![Pi DSI connector](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Pi_DSI.jpg)
+
+2. Lift the locking black locking tab by both edges until it is loose
+
+    {: .warning }
+    >The black locking tab should not come out. Be careful with the locking tab; it's very fragile and breaks easily!
+
+    ![Lock tabs on Pi DSI connector](../../assets/images/manual/vz235_printed/electronics/Firmware/Touchscreen/Pi_DSI_lift-tabs.jpg)
+
+3. Insert the other end of the DSI cable in to the DSI connector of the Raspberry Pi board
+
+   - The black plastic tab points towards the center of the Raspberry Pi board.
+   - The side with the exposed shiny contacts points towards the edge of the Raspberry Pi board
+
+## Finishing up
+
+After running the DSI cable, the touchscreen assembly may be reinstalled onto the hinge previously installed to the frame. Instructions for this are outlined in **step 6** of the [enclosure assembly](#enclosure)
