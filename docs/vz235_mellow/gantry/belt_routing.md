@@ -19,6 +19,8 @@ permalink: /vz235_mellow/gantry/belt_routing
 
 Because of shortening and lengthening of the belt and the fact that there are 2 driven pulleys for AWD, it is needed to synchronize the motors after each time the belts are tensioned.
 
+![Sync AWD motors](https://www.youtube.com/watch?v=so9oqJyirKY)
+
 To sync the belts properly it is important that the rear motor pulleys are **not** tightening the grub screws on to the flat part of the shaft. One can also use a motor with a round shaft instead of a D shaped shaft.
 
 Before tightening one needs to loosen the set screws on both of the rear motor pulleys to get a proper reading of the tension. After tensioning you will need to power on the motors so they are engaged thus on a step position. You can now retighten the grubscrews again making sure the screws are not at the flat side of the shaft, turn the motor shaft if needed.
@@ -27,8 +29,4 @@ In the sample pinter.cfg file there is a macro included that enables all XY moto
 
 ![Belt routing AWD](../../assets/images/manual/vz235_printed/gantry/belt_awd.png)
 
-## Vz-Printhead
-
-![VzBoT - Belts installation](https://youtu.be/Ibi27Toh-pg)
-
-[Belt tensioning](/general/belt-tensioning)
+Here is a video on how to adjust the belt tension: [Belt tensioning](/general/belt-tensioning)
