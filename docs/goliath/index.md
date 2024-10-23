@@ -28,7 +28,7 @@ List of resellers (this will be updated as the Goliath becomes available). Liste
 - **Canada:**
   - [Northprint3d.ca](https://northprint3d.ca/product/vzbot-mellow-goliath-lsd-hotend/)
 - **Denmark:**
-  - [3DO.eu](https://3do.eu/)
+  - [3DO.dk](https://3do.dk/)
 - **Germany:**
   - [CR-3D.de](https://www.cr3d.de/)
   - [F3D Racing](https://f3d-racing-fdm.myshopify.com/)
