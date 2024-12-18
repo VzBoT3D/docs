@@ -84,6 +84,9 @@ Different countries have different standards for mains wiring and the used colou
 | Neutral        | ![white wire] ![grey wire]  | ![blue wire]  | ![black wire]  | ![black wire] | ![white wire] | ![black wire] |
 | Ground / Earth | ![green wire] ![earth wire] | ![earth wire] | ![earth wire]  | ![green wire] | ![green wire] | ![earth wire] |
 
+#### AC Inlet Europe & UK 220V
+[AC Inlet](/assets/images/general/electronics/AC-Inlet-EU-220V.jpeg)
+
 ### DC wire color conventions
 
 There is no general standard for what colours are used for what voltage node, but there are some key standard colours we like to abide by in the 3D-printing community (derived from the ATX colour coding standard).
