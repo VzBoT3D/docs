@@ -84,8 +84,11 @@ Different countries have different standards for mains wiring and the used colou
 | Neutral        | ![white wire] ![grey wire]  | ![blue wire]  | ![black wire]  | ![black wire] | ![white wire] | ![black wire] |
 | Ground / Earth | ![green wire] ![earth wire] | ![earth wire] | ![earth wire]  | ![green wire] | ![green wire] | ![earth wire] |
 
-#### AC Inlet Europe & UK 220V
-[AC Inlet](/assets/images/general/electronics/AC-Inlet-EU-220V.jpeg)
+#### AC Power Inlet Europe & UK 220V
+This is how to wire the power inlet for 220V. The optional wire is solely for lighting up the LED in the switch.
+![ac power inlet eu]
+
+[ac power inlet eu]: /assets/images/general/electronics/AC-Inlet-EU-220V.jpeg
 
 ### DC wire color conventions
 
