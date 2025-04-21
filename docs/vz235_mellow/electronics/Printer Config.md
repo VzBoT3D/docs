@@ -44,6 +44,9 @@ Put the serial here:
 
 ![Serial](../../assets/images/manual/vz235_printed/electronics/Printer_config/Serial.PNG)
 
+## Probes
+Now setup the Probe that you'll be running according to their documentation. If you're not running a probe continue to the next step.
+
 ## Motor Movements
 
 Next up we're gonna check if the motors move and if they move to the correct side.  

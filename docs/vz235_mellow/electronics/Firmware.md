@@ -199,6 +199,8 @@ cd ~/klipper/
 ```bash
 make menuconfig
 ```
+{: .highlight }
+> &#8226;Remove the GPIO !PF8 section if still present from the MB setup.
 
 In the menu, set "Microcontroller Architecture" to "Linux process," then save and exit.
 

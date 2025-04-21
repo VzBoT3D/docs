@@ -192,6 +192,8 @@ This will give you the serial you need to put in your Printer.cfg to make sure t
 
 ## Pi as secondary MCU
 
+{: .highlight }
+> &#8226;Remove the GPIO !PF8 section if still present from the MB setup.
 Next up we're gonna run a few small commands through Putty so we can use the Pi as a secondary MCU to control CPAP.
 
 ```bash
