@@ -33,11 +33,11 @@ In this section we'll assemble the Toolhead for the VzBot.
 | <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/cable_holder.stl" target="_blank">Cable Holder</a> | 1 | - |
 | <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/fan%20duct%20lower%20Goliath%20long.stl" target="_blank">Fan duct Goliath</a> | 1 | Pick this if no beacon is used |
 | <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/fan%20duct%20lower%20Goliath%20short%20with%20Beacon.stl" target="_blank">Fan duct Goliath ( beacon )</a> | 1 | Use this duct for Goliath and beacon |
-| <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/fan%20duct%20lower%20Goliath%20spacers.stl" target="_blank">Fan duct Goliath spacers</a> | 1 | - |
+| <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/fan%20duct%20lower%20Goliath%20spacers.stl" target="_blank">Fan duct Goliath spacers</a> | 2 | - |
 | <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/upper%20duct.stl" target="_blank">Fan duct upper</a> | 1 | - |
 | <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/upper%20duct%20mount.stl" target="_blank">Upper duct mount</a> | 1 | - |
-| <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/c-clamp.stl" target="_blank">Upper duct cpcp c clamp</a> | 1 | - |
-| <a href="https://github.com/VzBoT3D/Goliath/blob/main/STL/Air%20Cool%20Fan%20duct/Fan%20duct%202510-With%20flange%20for%20Vz-Printhead%20CNC.stl" target="_blank">Goliath 2410 fan duct</a> | 1 | - |
+| <a href="https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/main/STLs/CPAP%20turbo%20cooling%20system/STLs/c-clamp.stl" target="_blank">Upper duct cpap c clamp</a> | 1 | - |
+| <a href="https://github.com/VzBoT3D/Goliath/blob/main/STL/Goliath%20fan%20shroud%202510%20for%20CNC%20Vz-Printhead.stl" target="_blank">Goliath 2510 fan shroud</a> | 1 | - |
 
 ## Step 1
 

@@ -32,9 +32,9 @@ permalink: /vz235_printed/top_cover/latches
 
 | File name | Amount to print |
 |-----------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Top cover holder top part</a> | 4 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Top cover holder middle part</a> | 4 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Top cover holder bottom part</a> | 4 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Topcover%20Latches/topcover%20latch/topcover%20holder%20top%20part%202.stl" target="_blank">Top cover holder top part</a> | 4 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Topcover%20Latches/topcover%20latch/topcover%20holder%20top%20part.stl" target="_blank">Top cover holder middle part</a> | 4 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Topcover%20Latches/topcover%20latch/topcover%20holder.stl" target="_blank">Top cover holder bottom part</a> | 4 |
 
 ### Step 1
 

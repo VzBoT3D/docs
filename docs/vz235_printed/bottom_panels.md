@@ -31,10 +31,10 @@ A full panel kit is available at F3D-racing’s shop. We recommend getting that 
 
 ## STL's
 
-| File name                                                                                                                                                     | Amount to print |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">VzBoT Foot</a>                      | 4               |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Foot scalable spacer (optional)</a> | 4               |
+| File name                                                                                                                                                       | Amount to print |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Feet/STL/foot.stl" target="_blank">VzBoT Foot</a>                        | 4               |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Feet/STL/Spacer.stl" target="_blank">Foot scalable spacer (optional)</a> | 4               |
 
 ### Step 1
 

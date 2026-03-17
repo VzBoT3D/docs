@@ -30,8 +30,8 @@ permalink: /vz235_mellow/z_assembly/bed_additions
 
 | File name | Amount to print |
 |-----------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Chain mount</a> | 1 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Endstop mount</a> | 1 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Z-Assembly/parts%20to%20print%20once/chain%20holder.stl" target="_blank">Chain mount</a> | 1 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Z-Assembly/parts%20to%20print%20once/z%20stop%20switch%20mount.stl" target="_blank">Endstop mount</a> | 1 |
 
 ### Step 1
 
