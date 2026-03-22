@@ -33,9 +33,9 @@ permalink: /vz235_mellow/z_assembly/bed_assembly
 
 | File name | Amount to print |
 |-----------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Oldham couplers ( optional )</a> | 2 | - |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">LM10LUU adapter</a> | 4 | Only if you don't use the bought version |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Bed level knobs</a> | 4 | - |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/tree/main/Assemblies%20%26%20STL/Z-Assembly/Oldham%20(printed)" target="_blank">Oldham couplers ( optional )</a> | 2 | - |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Z-Assembly/parts%20to%20print%202%20%26%204%20times/LM10LUU%20to%20LMK10LUU.stl" target="_blank">LM10LUU adapter</a> | 4 | Only if you don't use the bought version |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Z-Assembly/parts%20to%20print%202%20%26%204%20times/bed%20knob.stl" target="_blank">Bed level knobs</a> | 4 | - |
 
 ### Step 1
 

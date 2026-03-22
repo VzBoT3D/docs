@@ -26,10 +26,10 @@ permalink: /vz235_printed/top_cover/hinges
 
 ## STL's
 
-| File name                                                                                                                                      | Amount to print |
-|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Hinge door side</a>  | 2               |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Hinge frame side</a> | 2               |
+| File name                                                                                                                                                                                       | Amount to print |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Hinges%20(lower)/hinges%20%5Blower%5D/door%20side.stl" target="_blank">Hinge door side</a>           | 2               |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Hinges%20(lower)/hinges%20%5Blower%5D/hinge%20frame%20side.stl" target="_blank">Hinge frame side</a> | 2               |
 
 ### Step 1
 

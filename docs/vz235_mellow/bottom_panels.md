@@ -56,5 +56,5 @@ Mount the feet and all hardware to the bottom panel. Next up mount the bottom pa
 
 ![Step 3](../assets/images/manual/vz235_printed/panels_1/step_3.png)
 
-[VzBoT Foot]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Foot scalable spacer]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
+[VzBoT Foot]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Feet/STL/foot.stl
+[Foot scalable spacer]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Feet/STL/Spacer.stl

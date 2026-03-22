@@ -30,7 +30,7 @@ author: jay_s_uk
 
 | File name          | Amount to print |
 | ------------------ | --------------- |
-| [Hinge door side]  | 4               |
+| [Hinge door side]  | 2               |
 | [Hinge frame side] | 2               |
 
 ### Step 1

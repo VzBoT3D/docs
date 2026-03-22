@@ -30,11 +30,11 @@ permalink: /vz235_printed/top_cover/front
 
 | File name | Amount to print |
 |-----------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Latch LD</a> | 1 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Latch RD</a> | 1 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Latch UL</a> | 1 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Latch UR</a> | 1 |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Latch frame side [not needed when done while assembling the frame]</a> | 4 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Front%20door%20latches/Magnetic%20latch/Door%20latch%20bottom%20left.stl" target="_blank">Latch BL</a> | 1 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Front%20door%20latches/Magnetic%20latch/Door%20latch%20top%20right.stl" target="_blank">Latch BR</a> | 1 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Front%20door%20latches/Magnetic%20latch/Door%20latch%20bottom%20left.stl" target="_blank">Latch TL</a> | 1 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Front%20door%20latches/Magnetic%20latch/Door%20latch%20bottom%20right.stl" target="_blank">Latch TR</a> | 1 |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Enclosure/Front%20door%20latches/Magnetic%20latch/Door%20latch%20mount.stl" target="_blank">Latch frame side [not needed when done while assembling the frame]</a> | 4 |
 
 ### Step 1
 
