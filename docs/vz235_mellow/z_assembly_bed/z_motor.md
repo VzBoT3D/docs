@@ -19,10 +19,9 @@ permalink: /vz235_mellow/z_assembly/z_motor
 
 | Material        | Quantity | Notes |
 |:----------------|:---------|:------|
-| M3 10mm         | 6        | -     |
-| M4 10mm         | 2        | -     |
+| M3 10mm         | 4        | -     |
+| M4 10mm         | 4        | -     |
 | M4 t-nut        | 2        | -     |
-| M3 washer       | 2        | -     |
 | GT2 20 teeth    | 1        | -     |
 | NEMA 17 stepper | 1        | -     |
 
