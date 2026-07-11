@@ -73,7 +73,7 @@ Secure the top plate with the M4 screws to the frame.
 
 ![Step 4](../../assets/images/manual/vz235_mellow/gantry/rear_motors/step4.png)
 
-[Spacer long]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Spacer M3 corner]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Spacer short bottom]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
-[Spacer short top]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl
+[Spacer long]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Aluminum%20parts/Rear%20motormounts%20%26%20Idlers%20AWD/STL's/Spacer%20long.stl
+[Spacer M3 corner]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Aluminum%20parts/Rear%20motormounts%20%26%20Idlers%20AWD/STL%27s/spacer%20M3%20corner.stl
+[Spacer short bottom]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Aluminum%20parts/Rear%20motormounts%20%26%20Idlers%20AWD/STL's/spacer%20short%20bottom.stl
+[Spacer short top]: https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Aluminum%20parts/Rear%20motormounts%20%26%20Idlers%20AWD/STL's/spacer%20short%20top.stl
